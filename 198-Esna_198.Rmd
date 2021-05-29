@@ -1,0 +1,51 @@
+## Esna 198 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 1
+- Date: Probably Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=60){target="_blank"}  
+- Bibliography: @sauneron-1, p. 87.
+- Parallels: [Esna 259], 1.
+
+<div class="col2">  
+
+^26^ *ȝbd šmw 3 hrw 20  *  
+*ḥb ṯȝy ʿwn.t  *  
+*nty ḥb qn n ẖnmw  *  
+*ḫr.tw r=f  *  
+   
+*dwȝ n sḫʿ *  
+*ḥqȝ mnỉ.w  *  
+^27^ *ḥȝ.t m ʿḥȝ nfr  *  
+*ỉr m-stỉ nt   *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*ẖnmw-Rʿ nb sḫ.t  *
+
+^26^ III Shomu 20 (= [Epiphi 20](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#epiphi-20))  
+Festival of Taking the Baton,[^fn-198-1]  
+i.e. Victory Festival of Khnum,  
+as it is also called.  
+  
+The morning of the procession  
+of the Ruler of Herdsmen.[^fn-198-2]  
+^27^ Beginning of the good battle  
+performed in the sight of  
+Khnum-Re Lord of Esna,  
+and Khnum-Re Lord of the Field.  
+ 
+</div>
+
+[^fn-198-1]: For this festival and the battle against Khnum's enemies, see @sauneron-5, pp. 355-378.
+[^fn-198-2]: The present text is repeated in [Esna 259], 1, which continues with many more details of this festival.

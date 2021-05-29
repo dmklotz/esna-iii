@@ -1,0 +1,69 @@
+# Column 4 (222-229) {-}
+
+## Esna 222 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 4
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=113){target="_blank"}  
+- Bibliography: None
+
+<div class="col2">  
+
+^A^ *ʿnḫ nṯr  *  
+*sḏfȝ pr.w nṯr.w  *  
+*mḥ ḫȝw.wt n bȝ.w wr.w  *  
+*sḥtp nṯr šps  *  
+*m mr=f  *  
+   
+*nb-tȝ.wy  *  
+*(ȝwtwkrtr gsrs)|  *  
+*mry ẖnmw-Rʿ nb sḫ.t  *  
+  
+Live the god,  
+who provisions the gods' domains,  
+who fills the altars for the great Bas,  
+who appeases the august god  
+with what he desires.  
+  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+beloved of Khnum-Re Lord of the Field.
+
+</div>
+
+<div class="col2">
+
+^B^ *ʿnḫ nṯr  *  
+*sḥtp ỉb n ỉt=f  *  
+*ḥkn kȝ=f  *  
+*n pr ỉm=f  *  
+*hr psḏ.t m ỉȝd.t-nṯr  *  
+    
+*zȝ-rʿ*  
+*(tmdyns ḫwỉ)|  *  
+*mry ẖnmrw-Rʿ nb tȝ-sn.t  *  
+  
+Live the god,  
+who appeases the heart of his father,  
+so that His Ka rejoices  
+because of he who came forth from him;  
+the Ennead delights from the divine scent.  
+  
+Son of Re,  
+(Domitian Augustus)|  
+beloved of Khnum-Re Lord of Esna.
+
+</div>

@@ -1,0 +1,58 @@
+--- 
+title: "The Temple of Esna. An Evolving Translation: Esna III"
+author: "David Klotz"
+date: "`r Sys.Date()` (latest update)"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: chicago
+html_document:
+    number_sections: false
+link-citations: yes
+
+output:
+  bookdown::gitbook:
+    split_bib: no
+
+
+---
+
+# Esna III {-}  
+
+## Introduction {-}
+
+##### *David Klotz* {-}
+  
+This is a continuation of my ongoing quest to translate all the Roman inscriptions from Esna temple. The first volume of inscriptions, *Esna* II (the book *Esna* I was an introductory volume, without hieroglyphic texts), [is now complete](https://bookdown.org/shemanefer/Esna2), although I will continue to make changes and updates. The goal is to make all of this information easily accessible. A blog would be easy to read and update, that is difficult to search and cross reference; a database is clunkier to navigate, particularly for translations of texts.  
+
+### The Present Volume {-}
+
+*Esna* III is devoted to the columns within the pronaos, all covered with extensive columns of hieroglyphic texts. These largely detail the many festivals and rituals performed at Esna and its satellite temples, and associated hymns are recorded *in extenso*. Many of these texts were translated with short commentary by the original editor, Serge Sauneron, in the masterful volume @sauneron-5. 
+
+All the published volumes of Esna temple were recently (2021) released as [open-access PDFs by the IFAO](https://www.ifao.egnet.net/publications/catalogue/Temples-Esna/). Each translation will contain a link to the original hieroglyphic text, and details about secondary literature, drawing heavily from the [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/main) database.
+
+```{r progress, echo=FALSE}
+
+n_total <- length(list.files(pattern = "Esna_"))
+
+```
+*Esna* III is by far the largest and densest volume of the seris, covering scenes #194-398 (not all with inscriptions). So far, **`r n_total`/205 (`r round(100.0*n_total/205.0, 1)`%)** of those scenes are complete and online. As with *Esna* II, I'll probably work first on the shortest inscriptions before moving to the longer hymns and festival descriptions.
+
+## Contribute! {-}
+
+I welcome any feedback for this project, whether regarding the format, corrections, alternative suggestions for translations, or notes to any important references I might have overlooked. Or perhaps you would like to volunteer to translate certain texts!  You may contact me directly at <shemanefer@gmail.com>. I will of course fully acknowledge any suggestions, and add you to the list of contributors.  
+
+I would also appreciate help with relevant bibliography, especially newer monographs. I already have most basic references in digital or paper form, but if you noticing any major ommissions, please let me know. 
+
+## Photographs {-}
+
+So far, I have not included the published line drawings of each scene, since there are direct links to the relevant pages in the IFAO book. Photographs would still be very helpful to show the layout, architectural context, and general condition of each inscription.  
+
+I have already added Wikimedia Commons photographs from the public domain, which are of very excellent quality. Click on the images to see the original high-resolution files, where you can zoom in and see details of individual hieroglyphs. So far, I only have photos of the intercolumnar walls and columns on the outer facade -- apparently the most popular choices for tourist photographs.  
+
+There are also photographs of most scenes from the facade and interior wall, helpfully organized by location and identified with Sauneron's inscription numbers at [Les temples d'Egypte](http://www.temples-egypte.net/sud/esna/esna.html).
+  
+
+## Contributors {-}
+
+Daniel Arpagaus; Maged Mahgoub

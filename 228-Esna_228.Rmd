@@ -1,0 +1,84 @@
+## Esna 228 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 4, lower bandeau
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=128){target="_blank"}  
+- Bibliography: None
+
+#### The King (north) {-}
+
+<div class="col2">  
+
+^A^ *[nsw.t]-bỉty  *  
+*nb-tȝ.wy  *  
+*(ȝwtwkrtwr gysrs)|  *  
+*ʿnḫ.w-ḏt mỉ Rʿ  *  
+  
+The King of [Upper] and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|,  
+living eternally like Re.
+
+</div>
+
+#### Khnum (north) {-}
+
+<div class="col2">  
+
+^B^ *[...]   *  
+*qdỉ nfy nḥp nn  *  
+*m rn=f wr  *  
+*ḫnty Ỉwny.t  *  
+  
+^B^ [...]  
+who built this and modelled that,  
+in his great name  
+within Iunyt.
+
+</div>
+
+#### The King (south) {-}
+
+<div class="col2">  
+
+^C^ *Ḥr [...]  *  
+*(tmdyns ḫwỉ)|  *  
+*ʿnḫ.w ḏ.t mỉ Rʿ  *  
+  
+^C^ Horus [...]  
+(Domitian Augustus)|  
+living eternally like Re.
+
+</div>
+
+#### Neith (south) {-}
+
+<div class="col2"> 
+
+^D^ *N.t wr.t mw.t-nṯr  *  
+*nb.t tȝ-sn.t  *  
+*ỉt mw.t  *  
+*n zȝ.w-n=sn  *  
+*nḏ[.t...]  *  
+   
+Neith the great, Mother of God,  
+Lady of Esna.  
+Father and Mother  
+of the Guardian Deities,  
+protector [...]
+
+
+</div>

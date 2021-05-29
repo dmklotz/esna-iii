@@ -1,0 +1,97 @@
+# Column 5 (230-238) {-}
+
+## Esna 230 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 5
+- Date: Probably Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=131){target="_blank"}  
+- Bibliography:
+
+<div class="col2">  
+
+^A^ *nsw.t-bỉty  *  
+*ḫʿỉ m nḫb  *  
+*m šȝʿ ḫpr  *  
+*qmȝ pȝwty.w   *  
+*m zp tpy  *  
+*wbn m sšn  *  
+*psḏ m nḫb  *  
+    
+*ḫpr=f m Rʿ  *  
+*m qȝy qȝ  *  
+*ḥr wḏ-mdw   *  
+*m tȝ r-ḏr=f  *  
+*ẖnmw-Rʿ nb sḫ.t  *  
+
+^A^ The King of Upper and Lower Egypt,  
+who appeared from the lotus  
+at the beginning of creation;  
+who created the primeval ones  
+in the initial moment;  
+who arose from lotus bud,  
+who shines from the lotus.  
+  
+He came into being as Re,  
+in the High Mound (of Hermopolis),  
+issuing commands  
+to the entire world:  
+Khnum-Re Lord of the Field.  
+
+</div>
+
+<div class="col2">  
+
+^B^ *nsw.t-bỉty  * 
+*tȝ-ṯnn wr  *  
+*ḫpr m ḥȝ.t  *  
+*tmȝ.t wr.t ḥnʿ=f  *  
+*qrḥ.t ʿnḫ.t  *  
+*sḫpr(.t) ḫprw  *  
+    
+*mn=s ḥȝ=f  *  
+*m rn=s n Mnḥy.t  *  
+*Nb.tw kȝ.t(w) r rn=s  *  
+      
+*pr(.t) r-ḥȝ.t  *  
+*nṯr.w ḥr sšm=f  *  
+*m ḥb=f nfr   *  
+*n ḥb-Rnn.t  *  
+*zȝ=f mỉt.t m hrw pn  *  
+      
+*ẖnmw-Rʿ nb tȝ-sn.t  *
+
+^B^ The King of Upper and Lower Egypt,   
+Tatenen the great,  
+who came about in the beginning,  
+while the great Mother was with him,  
+(namely) the living serpent  
+who produced all creation.  
+  
+She remains (*mn*) around (*ḥȝ*) him,  
+in her name of Menhyt (*Mnḥy.t*),  
+also called Nebtu by name.  
+  
+Coming forth to the front,  
+the gods conduct him  
+in his good festival  
+of the Renenutet Festival;  
+his son likewise on this day ( [Pakhons 1](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#pakhons-shomu-i)):[^fn-230-1]  
+Khnum-Re[^fn-230-2] Lord of Esna.  
+ 
+</div>
+
+[^fn-230-1]: That is, the Divine Birth festival performed for Heka on Pakhons 1. According to the festival calendar (*Esna* II, 77), the same day also featured a procession of Khnum and his Ennead, and that seems to be what is described here.
+[^fn-230-2]: ![](./images/230_B1.png){width=8%}![](./images/230_B2.png){width=5%} - *ẖ < š < šms*, *n < nw*, "to see", *m < mʿbȝ*, "30". The final word might allude back to the Renenutet Festival, which properly began on the final day of the month of Renenutet (Pharmouthi ***30***), leading up to the birth of the child god on Pakhons 1.

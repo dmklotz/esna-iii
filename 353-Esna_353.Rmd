@@ -1,0 +1,74 @@
+# Column 15 (353-363) {-}
+
+## Esna 353 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 15
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=351){target="_blank"}  
+- Bibliography: None
+
+<div class="col2">  
+
+^A^ *bȝ n Rʿ  *  
+*ḫpr ẖr-ḥȝ.t  *  
+*ḥngg=f n mȝȝ=f  *  
+*m ẖr.t-hrw  *  
+    
+*ỉr=f n=f ỉmỉ.t-(pr)  *  
+*ḥr rn=f  *  
+*r'-ʿ nḥḥ ḏ.t  *  
+     
+*ẖnmw-Rʿ nb sḫ.t  *  
+  
+^A^ The Ba of Re,  
+who came about in the beginning,  
+he rejoices to see him  
+every day.  
+  
+He makes for him a property deed  
+in his name,  
+its limits are all eternity.  
+  
+Khnum-Re Lord of the Field.  
+
+</div> 
+
+<div class="col2">  
+
+^B^ *Ỉwn wr ḫnty Ỉwny.t  *  
+*ỉt-ỉt.w  *  
+*wtṯ nṯr.w rmṯ   *  
+*ʿw.t nb mỉt.t  *  
+     
+*ḥr=sn ʿn(.w)   *  
+*r bw nty (ỉw=f) ỉm  *  
+*ḥr nḥ.t ʿnḫ=sn m-ʿ=f  *  
+   
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+  
+Great Iun within Iunyt,  
+father of fathers,  
+who begat gods, people,  
+and likewise all animals.  
+  
+Their faces are turned back  
+to the place where (he) is,  
+beseeching their lives from him.[^fn-353-1]  
+  
+Khnum-Re Lord of Esna.
+</div>
+
+[^fn-353-1]: Cf. [Esna 339], 4.

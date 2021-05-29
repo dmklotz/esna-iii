@@ -1,0 +1,23 @@
+## Esna 195 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 1
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=48){target="_blank"}  
+- Bibliography: [194 A](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/907){target="_blank"} 
+
+Heraldic cartouches of Trajan, Neith, Heka, and Khnum. Many unique spellings.
+
+*under construction*

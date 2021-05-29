@@ -1,0 +1,66 @@
+## Esna 237 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 5
+- Date: Probably Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=131){target="_blank"}  
+- Bibliography: See *LGG* references on [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1015){target="_blank"}
+  
+NB: Text 237, B, and the scene above it [Esna 236], discuss incense and other sacred materials coming from Punt. These texts are immediately adjacent to the [Laboratory](https://bookdown.org/shemanefer/Esna2/laboratory-119-125.html#laboratory-119-125){target="_blank"} within the interior wall of the facade, dedicated to these special aromatics: cf. @vadas-2020.
+
+<div class="col2">  
+
+^A^ *nṯr nfr [...]  *  
+*[...].w  *  
+*sṯḥn tȝ.wy ỉry  *  
+*m wnš[nš...]  *  
+  
+^A^ The good god [...]  
+[...]  
+who makes all the lands sparkle  
+in a hur[ry...]  
+</div>
+
+<div class="col2">  
+
+^B^ *nṯr nfr  *  
+*Nbw.t ỉw=s   *  
+*ḥnw.t wr.t   *  
+*ỉw=s m Pwn.t  *  
+   
+*sṯy=s m ʿntyw  *  
+*ḫnm.w=s m tȝ-nṯr  *  
+*wḏ ỉȝd.t=s ḫȝ.w nb  *  
+  
+*pẖr=s ḫȝs.wt  *  
+*šm=s r pr=s [...]  *  
+*[...] nṯr  *  
+*ỉb=f m [...]  *  
+  
+^B^ The good god:  
+The Golden One as she arrives  
+the Great Mistress  
+as she arrives from Punt.  
+  
+Her scent is of myrrh,  
+her aroma is from God's Land,  
+her musk sends out all ingredients.    
+  
+As she went around the foreign lands  
+so she goes to her temple [...]  
+[...] the god,  
+his heart is [...]
+
+</div>

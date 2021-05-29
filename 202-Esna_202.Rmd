@@ -1,0 +1,97 @@
+## Esna 202 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 1
+- Date: Probably Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=68){target="_blank"}  
+- Bibliography: @wild, p. 202, d (202, A).
+
+<div class="col2">  
+
+^A^ *nṯr nfr  *  
+*rwḏ [ʿ].wy   *  
+*ḥr nḥp [w]nn.t  *  
+*[...]  *  
+    
+*[...] n nṯr.w   *  
+*m ỉḫt n ȝḫ.t=f  *  
+*sšm ʿnḫ.w   *  
+*m kȝw n sḫ.t=f  *  
+     
+*fdw kȝ.w dmḏ(.w) m bȝḥ-f  *  
+*dỉ=f ỉm n mw=f  *  
+*nn wȝỉ=sn r=f  *  
+*rʿ-nb  *  
+   
+^A^ The good god,  
+firm of [ar]ms  
+while fashioning what exists  
+[...]  
+  
+[...] for the gods  
+with the produce of his *ȝḫ.t*-field;  
+who guides the living  
+with the food from his field.  
+  
+The four Kas are united before him:[^fn-202-1]  
+he gives them to whomever he likes,  
+they are never distant from him,  
+every day.
+
+</div>
+
+[^fn-202-1]: For the four Kas, a group of four Memphite gods, associated with divine gifts, see @wild, pp. 201-206, n. 43; @sauneron-ka; @meeks-ka.
+
+<div class="col2">
+
+^B^ *nṯr nfr   *  
+*ỉmy-rȝ-ỉḥ.w qn  *  
+*sšm ỉd.wt  *  
+   
+*ʿq ȝḫ-bỉ.t*  
+*m km n ȝ.t  *  
+*ḥb.tw n=f *  
+*m ḫnm.w-nṯr=f  *  
+*mhr n=f mhr.w  *  
+*(ḥr) wdn n=f ḥḏ.w  *  
+   
+*sȝḥ Bȝq.t m zp snw  *  
+*m grḥ wʿ  *  
+*wnn=f ḥr ns.t=f  *  
+*m Pr-nṯr nḏm-ỉb  *  
+*ẖr.t-hrw ỉs  *  
+*nn ȝb rʿ-nb  *  
+  
+^B^ The good god,  
+mighty overseer of cattle,  
+who guides the cows.  
+  
+He who enters Chemmis   
+in the completion of a moment.[^fn-202-2]  
+One celebrates for him (there)  
+with his divine scent:  
+the dairy cows make milk for him,  
+and offer to him their white milk.  
+  
+He who reaches Egypt a second time  
+in a single night,  
+so he is upon his throne  
+in Per-netjer in happiness.  
+This happens daily,  
+without fail, forever.  
+
+</div>
+
+[^fn-202-2]: An allusion to the nightly journey of Khnum Lord of the Field to the Delta (Chemmis, Buto). Cf. @sauneron-1, pp. 71-72; [Esna 194], B.
