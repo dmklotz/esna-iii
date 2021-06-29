@@ -8,20 +8,45 @@
 *ỉrỉ*, "to do; make"
 
 ![](./images/224_1b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis)  
+
+*ỉrṯ.t*, "milk"  
   
-*ỉḫḫ wʿ*, "one evening"
+![](./images/347_25a1.png){width=5%}![](./images/347_25a2.png){width=3.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 347], 24 
+  
+  
+  
+*ỉḫḫ*, "evening; dusk"
   
 ![](./images/194_2.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B
+
+*wr.t*, "the great"  
+  
+![](./images/209_28b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 209], 28 (2)  
+  
   
 *pr*, "temple"  
   
-![](./images/224_1c.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1
+![](./images/224_1c.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
+
+*m*, "in; as; from"  
+  
+![](./images/234_27a.png){width=4.2%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 27  
+  
+![](./images/224_1j.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis)
+  
+*mzỉ*, "to present; offer"
+  
+![](./images/347_25a.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 347], 25 
 
 
 *Ptḥ*, "Ptah"
 
 ![](./images/224_2b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2  
-
+  
+*nb*, "lord"  
+  
+![](./images/328_A1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 328], A  
+  
 *nḥp*, "potter's wheel"  
   
 ![](./images/224_1a.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1
@@ -39,7 +64,10 @@
 *ẖnmw*, "Khnum" (examples from outside the main Khnum litanies)   
 
 ![](./images/224_1d.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
-
+   
+![](./images/364_B.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 364], B  
+   
+   
 ![](./images/230_B1.png){width=8%}![](./images/230_B2.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 230], B
 
   
@@ -47,11 +75,29 @@
   
 ![](./images/353_A.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 353], A  
   
+![](./images/364_A.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 364], A  
+  
 ![](./images/353_B.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 353], B  
+  
+*snw*, "two"  
+  
+![](./images/328_B2.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 328], B; [Esna 346], 25.
+  
+*sḫpr*, "to create"
+  
+![](./images/337_A1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 337], A 
   
 *tȝ-sn.t*, "Esna"  
   
 ![](./images/224_1f.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
+  
+![](./images/234_28a.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 28  
 
   
-![](./images/231_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 231], 3, 10
+![](./images/231_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 231], 3, 10  
+   
+![](./images/285_14a.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 285], 14  
+  
+![](./images/287_17.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 287], 17  
+  
+![](./images/288_18.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 288], 18

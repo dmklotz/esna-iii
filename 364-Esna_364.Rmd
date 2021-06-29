@@ -1,0 +1,67 @@
+# Column 16 (364-374) {-}
+
+## Esna 364 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=371){target="_blank"}  
+- Bibliography: See entries in [Tempeltexete 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1283){target="_blank"}
+
+<div class="col2">  
+
+^A^ *nsw.t-bỉty  *  
+*nṯr šps  *  
+*wr.tw r nṯr.w  *  
+*ḥtp m ḥw.t-ẖnmw  *  
+*ḥr qdỉ ḥr nḥp  *  
+   
+*ỉt zȝ.w-n=sn  *  
+*ỉr nn r-ȝw  *  
+*ẖnmw-Rʿ nb tȝ-sn.t   *  
+
+^A^ The King of Upper and Lower Egypt,  
+the august god,  
+greatest of the gods,  
+who rests within the Temple of Khnum,  
+building upon the potter's wheel.  
+  
+Father of the guardian deities,  
+who made all this in its entirety:  
+Khnum-Re[^fn-364-1] Lord of Esna. 
+
+</div>
+
+[^fn-364-1]: ![](./images/364_A.png){width=20%} - This example suggests the radiant sundisk hieroglyph, which occurs so frequently in Khnum's name, is to be read *ẖ* < *š* < *šww*, "sun" (@sauneron-8, p. 145, Nos. 159-160), rather than *ẖ* < *ḫ* < *ȝḫ*, "bright" (@sauneron-8, p. 160, No. 225). The pair of eyes in this orthography reoccur twice with regular values in the symmetric inscription [Esna 364], B.
+
+<div class="col2">  
+
+^B^ *nsw.t-bỉty  *  
+*ḫʿỉ m sšn   *  
+*sḥḏ ỉr.ty n nṯr.w rmṯ  *  
+*ṯḥn ỉnm=sn  *  
+*snfr ỉb=sn  *  
+*ḥr nb ḥʿʿ.tw r mȝȝ=f  *  
+*ẖnmw-Rʿ nb sḫ.t  *  
+  
+^B^ The King of Upper and Lower Egypt,  
+who arises from the lotus,  
+luminous of eyes for gods and people,  
+who scintillates their skin,  
+and pleases their hearts,  
+so everybody rejoices to see him:  
+Khnum-Re Lord of the Field.  
+
+</div>

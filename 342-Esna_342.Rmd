@@ -1,0 +1,58 @@
+## Esna 342 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 14
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=330){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 37-38.
+
+<div class="col2"> 
+
+^9^ *ȝbd 3 ȝḫ.t sw 23  *  
+*mzỉ ʿȝb.t ʿȝ.t  *  
+*m ỉḫt nb nfr  *  
+*m t ḥnq.t kȝ.w ȝpd.w  *  
+     
+*sḫʿ n Nb.t-ww m tȝ-sn.t  *  
+*r pr-ẖnmw  *  
+^10^ *ẖnmw p(ȝ) nḫy-nfr*  
+*(r)-ḥȝt=s  *  
+      
+*ḥtp m s.t-ʿȝ.t  *  
+*ḫʿỉ r pr-ẖnmw   *  
+*m tr n rwhȝ   *  
+    
+*nt-ʿ ḫʿ=s r pr-ẖnmw  *  
+*m ȝbd 4 ȝḫ.t sw 1  *  
+   
+^9^ III Akhet 23 ( = [Hathor 23](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#hathor-23){target="_blank"}):  
+presenting a great offering,  
+consisting of all good things,   
+of bread, beer, cattle, fowl.  
+  
+Procession of Nebtu from Esna  
+to Per-Khnum,  
+^20^ Khnum the Good Protector   
+being in front of her.  
+  
+Stopping at the Great Place.  
+Procession to Per-Khnum  
+at the time of evening.  
+  
+The ritual of her appearance in Per-Khnum  
+in IV Akhet 1 (= [Khoiak 1](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#khoiak-1){target="_blank"}).  
+
+</div>
