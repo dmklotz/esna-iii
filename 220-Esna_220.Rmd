@@ -1,0 +1,86 @@
+## Esna 220 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 3
+- Date: Probably Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=109){target="_blank"}  
+- Bibliography: None
+
+<div class="col2">  
+
+^A^ *nṯr nfr  *   
+*wr pḥty    *  
+*nsw.t qn  *  
+*nḫỉ Bȝq.t  *  
+*nb-tȝ.wy  *  
+*(ȝwtwk(r)twr gysrs)|  *  
+*ʿnḫ(.w) ḏ.t [...]  *  
+  
+^A^ The good god,  
+great of strength,  
+mighty ruler  
+who protects Egypt.  
+Lord of the Two Lands  
+(Autokrator Caesar)|  
+living eternally [...]  
+ 
+</div>
+
+<div class="col2">  
+
+^B^ *Mnḥy.t wr.t  *  
+*nb.t ḫnt-tȝ  *  
+*mḥn.t ḫpr(.t) m ḥȝ.t  *  
+*mḥn=s ḥr tp  *  
+*n nṯr nb  *  
+*nn nṯr mḥn=f sw  *  
+*ḥr tp=s  *  
+*Rʿy.t sḥḏ(.t) tȝ.wy *  
+*[...]  *  
+  
+^B^ Menhyt the Great,  
+Lady of Khent-ta,  
+uraeus who came about in the beginning,  
+she coils upon the head   
+of every god;  
+there is no god who might coil himself  
+upon *her* head.  
+Female Re who illumines the two lands   
+[...]  
+
+</div>
+
+<div class="col2">  
+
+^C^ *[...]   *  
+*ḥwỉ ḫȝs.wt  *  
+*ṯnỉ sw [...]  *  
+  
+[...]   
+who strikes the foreigners,  
+[...] distinguished him [...]  
+
+</div>
+
+<div class="col2">  
+
+^D^ *[...]   *  
+*mw.t-nṯr n   *  
+*[...]  *  
+
+^D^ [...]    
+divine mother of [...]  
+[...]
+</div>

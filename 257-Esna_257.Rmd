@@ -1,0 +1,99 @@
+# Column 8 (257-269) {-}
+
+## Esna 257 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 8
+- Date: Probably Antoninus Pius 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=195){target="_blank"}  
+- Bibliography: @recklinghausen-2014, p. 140 (257, A): translation and commentary.
+
+<div class="col2">  
+
+^A^ *nsw.t-bỉty  *  
+*khb nḫt  *  
+*pr-ʿ pw  *  
+*prỉ m Ỉs.t  *  
+*zȝ smsw n (wnn-nfr mȝʿ-ḫrw)|  *  
+      
+*ḏrty šps ḥqȝ fk-ḥr.t  *  
+*pr m pr=f   *  
+*m qn nḫt  *  
+*ʿq pr-ẖnmw m nḏm-ỉb  *  
+   
+*šzp.tw=k ẖnmw m ȝw.t-ỉb  *  
+*Mnḥwy ḫnt Ḥw.t-Snfrw  *  
+  
+The King of Upper and Lower Egypt,
+the strong warrior,[^fn-257-0]  
+that is the One forthcoming of arm,  
+who emerged from Isis,[^fn-257-1a]    
+eldest son of (Wennefer justified)|  
+  
+The august falcon, ruler of Fek-heret,  
+who leaves his temple  
+in victory and might,  
+and enters Per-Khnum in happiness.[^fn-257-1]  
+  
+May Khnum receive you in happiness:  
+Menehwy foremost of Hut-Snofru (Asfun). 
+
+</div>
+
+[^fn-257-0]: This is Menehwy, who appears with the same epithets on the same column in [Esna 266], 6; [Esna 268], A; similarly applies to Khnum Lord of the Field in [Esna 265], 27. 
+[^fn-257-1a]: Isis was the chief goddess of Asfun, and appears together with Menehwy on the same column in [Esna 266], 10-11.
+[^fn-257-1]: Most likely a reference to the Khoiak Festival, when nearby gods, including Menehwy of Asfun, visited Per-Khnum of the Field in North Esna: [Khoiak 1-6](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#khoiak-1-6){target="_blank"}; @sauneron-5, pp. 48-57.
+
+<div class="col2">  
+
+^B^ *nsw.t-bỉty  *  
+*wbny dỉ ḥḏḏ.wt  *  
+*ỉty nb nṯr.w rmṯ  *  
+*nfr ỉrw  *  
+*ḥry-š=f  *  
+*p.t tȝ dwȝ.t *   
+*ẖr sḫr.w=f  *  
+
+*mḥ-ỉb n ỉt=f Rʿ  *  
+*hrw dmḏ  *  
+*wḏ=f n=f ỉȝw.t=f  *  
+*ḥr-sȝ kḥkḥ  *  
+*ỉr.n=f ỉmỉ.t-pr   *  
+*ḥr rn-f rʿ-nb  *  
+
+*ẖnmw-Šw zȝ-Rʿ  *  
+*ḫnty Pr-nṯr  *  
+  
+^B^ The King of Upper and Lower Egypt,  
+the rising one (Khnum), who emits light;  
+Sovereign, lord of gods and people,  
+beautiful of visible form,  
+Heryshef.  
+Heaven, earth, and Duat  
+bear his conditions.  
+  
+Trusted companion of his father, Re,  
+on the day of battle.[^fn-257-4]  
+He commends to him his office  
+after growing old;  
+having made a property deed  
+in his name, every day.  
+  
+Khnum-Shu, son of Re,  
+foremost of Per-netjer.  
+
+</div>
+
+[^fn-257-4]: Identical epithets for Menehwy on the same column: [Esna 266], 7.

@@ -1,0 +1,57 @@
+## Esna 285 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=242){target="_blank"}  
+- Bibliography: @sauneron-5, p. 137.
+
+<div class="col2">  
+
+^14^ *ỉʿb rnp.w  *  
+*m ỉḫt nb nḏm-sṯỉ  *  
+*ḏd-mdw  *  
+ 
+*rnp.w nb n kȝ=k  *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+^15^ *ḫʿ.w nb nḏm-sṯỉ  *  
+*m ḥtp wr  *  
+*r fnḏ=k  *  
+*bʿḥ=k ỉm=sn  *  
+    
+*mȝȝ st ḥm=k  *  
+*ḫntš psḏ.t   *  
+*ḥr-sȝ ḥtp kȝ=k  *  
+*m rn=k pf(y)  *  
+*n nb-sḫ.t   *  
+  
+^14^ Assembling fresh plants,  
+of all sweet-smelling types.  
+Words spoken:  
+  
+These plants are for your Ka,  
+Khnum-Re Lord of Esna.  
+^15^ All sweet-smelling ingredients,  
+in very great peace,  
+for your nose,  
+so you are overwhelmed by them.    
+  
+You majesty sees them,  
+and the Ennead rejoices  
+after your Ka is satisfied,  
+in this your name  
+of Lord of the Field.  
+
+</div>

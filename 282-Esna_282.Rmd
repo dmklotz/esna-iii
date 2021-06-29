@@ -1,0 +1,70 @@
+# Column 10 (282-297) {-}
+
+## Esna 282 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=237){target="_blank"}  
+- Bibliography: None
+
+<div class="col2">  
+
+^A^ *ʿnḫ nṯr nfr  *  
+*ḫʿ.tw ḥr ns.t=k  *  
+*mỉ Rʿ sḥḏ tȝ.wy  *  
+*ỉʿḥ pẖr p.ty=fy  *  
+*smn=f nt-ʿ m Ỉwny.t  *  
+  
+*nb ḥb.w  *  
+*(ỉwtgrtr gysrs)|  *  
+*(mry) ẖnmw-Rʿ nb sḫ.t  *  
+  
+^A^ Live the good god:  
+You appear upon your throne,  
+like Re who illumines the two lands,  
+and the moon who encircles the heavens,  
+as he establishes rituals in Iunyt.  
+  
+Lord of festivals  
+(Autokrator Caesar)|  
+(beloved of) Khnum-Re Lord of the Field.  
+
+</div>
+
+<div class="col2">  
+
+^B^ *ʿnḫ nṯr nfr  *  
+*ṯḥn mỉ Ḥr  *  
+*m nswy.t= ʿȝ.t  *  
+*smn(.w) ḥr ns.t n Rʿ  *  
+*ḥqȝ.n=k tȝ.wy  *  
+*m mȝʿ-ḫrw  *  
+      
+*nb-ḫʿ.w  *  
+*(tmdyns nty-ḫwỉ)|  *  
+*(mry) ẖmnw-Rʿ nb tȝ-sn.t  *  
+  
+^B^ Live the good god,  
+excellent like Horus  
+in a long kingship,  
+established upon the throne of Re,  
+you having ruled the two lands  
+in justification.  
+  
+Lord of appearances  
+(Domitian Augustus)|  
+(beloved of) Khnum-Re Lord of Esna.
+</div

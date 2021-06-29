@@ -1,0 +1,67 @@
+# Column 9 (270-281) {-}
+
+## Esna 270 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 5
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=217){target="_blank"}  
+- Bibliography: None
+
+<div class="col2">  
+
+^A^ *ʿnḫ nṯr nfr  *  
+*ỉwʿʿ n tȝ-ṯnn  *  
+*nḥp tȝ.wy  *  
+*rwḏ-ʿ.wy   *  
+*mnḫ kȝ.wt  *  
+*nb nfrw  *  
+*(tmdyns nty-ḫwỉ)|  *  
+*mry ẖnmw-Rʿ nb tȝ-sn.t  *  
+  
+^A^ Live the good god,  
+heir of Tatenen,  
+potter of the two lands,  
+firm of arms,  
+effective of works,  
+Lord of Goodness:  
+(Domitian Augustus)|  
+beloved of Khnum-Re Lord of Esna.  
+
+</div>
+
+<div class="col2">  
+
+^B^ *ʿnḫ nṯr nfr  *  
+*nsw.t šmʿ  *  
+*bỉty mḥw  *  
+*snfr Bȝq.t  *  
+*sȝḫ gs.w-pr.w  *  
+*pḏ.t-9 ẖr ṯb.ty=f  *  
+*nb-tȝ.wy  *  
+*(ỉwtgrtr ksrs)|  *  
+*mry ẖnmw-Rʿ nb sḫ.t  *  
+   
+^B^ Live the good god,  
+King of Upper Egypt,  
+King of Lower Egypt,  
+who improves Egypt,  
+who makes the temples great,  
+the Nine Bows are under his feet,  
+Lord of the Two Lands:  
+(Autokrator Caesar)|  
+beloved of Khnum-Re Lord of the Field.
+
+</div>

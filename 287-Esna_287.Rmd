@@ -1,0 +1,60 @@
+## Esna 287 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=244){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 137-138.
+
+<div class="col2">  
+
+^17^ *mzỉ rnp.w  *  
+*ḏd-mdw  *  
+  
+*dỉ.n zȝ-Rʿ  *  
+*(tmdyns ḫwỉ)|  *  
+*sḫ.t n kȝ=k  *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+    
+*bs=f n=k *   
+*ỉmy.w tȝ pn  *  
+*m ḥr[=k nfr]   *  
+*[...]  *  
+^18^ *ȝḫȝḫ=sn   *  
+*m ḥr=k nfr  *  
+  
+*ỉḫt nb nfr n kȝ=k  *  
+*p(ȝ) nbỉ nṯr.w  *   
+   
+^17^ Offering fresh plants.  
+Words spoken:  
+  
+The son of Re,  
+(Domitian Augustus)| has given  
+the field to your Ka,  
+Khnum-Re Lord of Esna.  
+  
+He introduces for you   
+that which is in this land,  
+in [your beautiful] face  
+[...]  
+^18^ they are brilliant  
+in your beautiful face.  
+  
+All good things for your Ka,  
+o you who fashioned the gods.  
+
+
+</div>

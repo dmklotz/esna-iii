@@ -1,0 +1,81 @@
+# Column 3 (214-221) {-}
+
+## Esna 214 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 3
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=95){target="_blank"}  
+- Bibliography: None
+
+<div class="col2">  
+
+^A^ *ʿnḫ nṯr nfr  *  
+*snn n Rʿ  *  
+*mw nṯry *  
+*prỉ m fnḏ=f  *  
+*zȝ Ỉtm  *  
+*bʿḥ ḥw.t-Mw.t *  
+*m ȝḫ.w  *  
+*snḏ ḥr.w n mȝȝ=f  *  
+    
+*zȝ-Rʿ  *  
+*(tmtyns ḫwỉ)|  *  
+*mry ẖnmw-Rʿ nb tȝ-sn.t  *   
+  
+^A^ Live the good god,  
+likeness of Re,  
+divine seed,  
+who emerged from his nose,  
+son of Atum,  
+who floods the Temple of the Mother  
+with excellent things;  
+people are scared from seeing him.  
+  
+The son of Re  
+(Domitian Augustus)|  
+beloved of Khnum-Re Lord of Esna.
+
+</div>
+
+<div class="col2">  
+
+^B^ *ʿnḫ nṯr nfr  *  
+*ỉȝw.t n nsw.t-bỉty  *  
+*ḥqȝ.n=k tȝ.wy  *  
+*m mȝʿ-ḫrw  *  
+*sḥḏ ḥr=k  *  
+*mȝʿ-ḫrw=k  *  
+*zmȝ.n=k tȝ.wy m ḥtp  *  
+    
+*nsw.t-bỉty  *  
+*(ỉwtkrtr gysrs)|  *  
+*mry ẖnmw-Rʿ nb sḫ.t  *  
+   
+^B^ Live the good god,  
+(you perform?)[^fn-214-1] the office of the King,  
+having ruled the two lands  
+in justification.  
+May your face be bright,  
+may you be justified,  
+having united the two lands in peace.  
+  
+King of Upper and Lower Egypt  
+(Autokrator Caesar)|  
+beloved of Khnum-Re Lord of the Field. 
+
+</div>
+
+[^fn-214-1]: The rest of the text addresses the king in the second person, so apparently some verb is missing here.

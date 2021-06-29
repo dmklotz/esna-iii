@@ -1,0 +1,49 @@
+## Esna 288 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=244){target="_blank"}  
+- Bibliography: @sauneron-5, p. 138.
+
+<div class="col2">  
+
+^18^ *mzỉ dqr.w nt šȝ.w nb.w  *  
+*ḏd-mdw  *  
+   
+*mȝʿ wʿb n kȝ-k  *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*m dqr.w nb bnr   *  
+*[...]  *  
+    
+*[...]* ^19^ *ỉr.n=k  *  
+*m rn=k pfy  *  
+*n ỉr wnn.t  *
+
+^18^ Offering fruits of all plants.  
+Words spoken:  
+   
+A pure offering for your Ka,  
+Khnum-Re Lord of Esna,[^fn-288-1]  
+of all sweet fruits  
+[...]  
+  
+[...] ^19^ which you made,  
+in this your name  
+of He who Made what Exists.  
+
+</div>
+
+[^fn-288-1]: ![](./images/288_18.png){width=17%} - The final *n* is likely derived from *npry*, "grain": @sauneron-8, p. 158. Similar signs dots determine the word *dqr.w*, "fruits" in the present text.
