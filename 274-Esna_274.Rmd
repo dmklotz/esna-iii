@@ -1,0 +1,67 @@
+## Esna 274 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 9
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=222){target="_blank"}- Bibliography: @sauneron-5, p. 146.
+
+<div class="col2">  
+
+^7^ *r' n ḥnk sšn ḥḏ  *  
+*ḏd-mdw  *  
+     
+*ỉnḏ-ḥr=k  *  
+*nḫb šps  *  
+*prỉ m tȝ  *  
+*ỉr ḫprw=f [m] ḥʿw-nṯr  *  
+*fd.t nṯry   *  
+*prỉ m Nwn  *  
+     
+^8^ *ḥnk=f s(w)  *  
+*n ẖnmw-Rʿ nb tȝ-sn.t   *  
+*ḥnʿ psḏ.t=f   *  
+   
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*mn n=k nḫb  *  
+*prỉ m tȝ  *  
+*snsn=k ỉm=f  *  
+*ʿnḫ bȝ=k  *  
+*rnp=k mỉ Rʿ rʿ-nb  *  
+   
+^7^ Formula for offering the white lotus.  
+Words spoken:  
+  
+Greetings,  
+august lotus,  
+who came forth from the earth,  
+who appears [as] a divine body;  
+divine efflux,  
+who came forth from Nun.[^fn-274-0]  
+  
+^8^ He offers it  
+to Khnum-Re Lord of Esna,[^fn-274-1]  
+along with his Ennead.  
+  
+Khnum-Re Lord of Esna:  
+receive this lotus,  
+which came forth from the earth.  
+May you breathe it in,  
+so your Ba lives,  
+and you rejuvenate like Re, daily.  
+  
+</div>
+
+[^fn-274-0]: Similar phrases in [Esna 272], 6.
+[^fn-274-1]: ![](./images/274_8_1.png){width=11%} - The two forms of the lotus write *s(šn)* + *nḫb*. The first, blossoming lotus has this uniliteral value in [Esna 380], 26 (*sḫpr*), 28 (suffix pronoun *=s*).

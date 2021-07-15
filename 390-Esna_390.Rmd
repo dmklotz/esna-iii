@@ -1,0 +1,69 @@
+## Esna 390 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 18
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=417){target="_blank"}
+- Bibliography: @sauneron-5, pp. 200-201; see [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1319){target="_blank"}
+
+NB: This hymn continues from [Esna 303].
+
+<div class="col2">  
+
+^17^ *ḥmww nfr  *  
+*msỉ ʿḫm.w  *  
+*ỉqr ḏbʿ.w  *  
+*qdỉ ḥnmm.t  *  
+*ỉmȝ-ỉb   *  
+*ẖnm ỉḫt nb   *  
+*ḥr nḥp=f  *  
+*ʿȝ sʿšȝ   *  
+*ʿš n=f  *  
+  
+*sḫm ʿnḫ  *  
+*ỉr ỉrw=f r-nḥḥ  *  
+*tm šwỉ tȝ m pr.t=f  *  
+*mn kȝ.t=f mỉ Rʿ   *  
+*m rʿ-nb  *  
+   
+*h(y) n=k  *  
+^18^ *nḥpy rn=k  *  
+*ḥtp-ḥr=k nfr   *  
+*n (pr-ʿȝ ʿnḫ ḏ.t)|  *  
+*sʿšȝ=k ḏȝm.w=f n ḏ.t  *  
+  
+^17^ The good artisan,  
+who fashions the divine images;  
+excellent of figures,  
+who models the sunfolk;  
+pleasant of mind,  
+who unites everything   
+upon his potter's wheel;  
+great one (*ʿȝ*), who magnifies (*sȝ*)   
+whomever calls (*ʿš*) out to him.  
+  
+Living image,  
+who continues his form forever,  
+the land is never devoid of his seed,  
+his work endures like Re  
+daily.  
+  
+Praise unto you,  
+^18^ 'Potter' is your name!  
+May your face be kind  
+to (Pharaoh living eternally)|  
+and magnify his generations forever. 
+
+</div>

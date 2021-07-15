@@ -1,0 +1,99 @@
+## Esna 305 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 11
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=266){target="_blank"}
+- Bibliography: @sauneron-5, pp. 202-203; @sayed-neith, I, p. 640, Doc. 1039. See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1159){target="_blank"}
+
+<div class="col2">  
+
+
+^18^ *ḏd-mdw n N.t   *  
+*nb.t ḥw.t-Mw.t  *  
+    
+*ỉnk N.t mw.t nṯr  *  
+*qmȝ(.t) ḥʿw n Rʿ  *  
+      
+*ỉnk n.t ỉr(.t) nty  *  
+*qmȝ(.t) wnn.t nb  *  
+     
+*ỉnk tmȝ.t wr.t  *  
+*ṯz(.t) pr.t n nṯr.w rmṯ  *  
+      
+*swḏȝ.n(=ỉ) tw m ẖ.t  *  
+*rr.n(=ỉ) tw m pr=k  *  
+*ṯnỉ.n(=ỉ) tw   *  
+^19^ *kȝ=k ḥr nwd.t  *  
+      
+*zȝ=ỉ mry=ỉ  *  
+*(pr-ʿȝ ʿnḫ ḏ.t)|  *  
+      
+*ỉw n=k mnḏ.ty=ỉ  *  
+*ỉmḥ=k ỉm  *  
+*ʿnḫ=k wsr=k   *  
+*m ʿnḫ-wȝs=ỉ  *  
+   
+*sẖrd ḥʿw=k   *  
+*mỉ zȝ=ỉ Rʿ  *  
+*ḫnty=f ỉm=k  *  
+*twt=k r ḥm=f  *  
+*nsw=k tȝ.wy mỉ qd=f  *  
+     
+*ỉnk mw.t=k  *  
+*swr.n=ỉ pḥty=k  *  
+*ỉr.n=ỉ mk.t=k  *  
+*rʿ-nb  *  
+      
+^18^ Words spoken by Neith,[^fn-305-1]  
+Lady of the Temple of the Mother:  
+  
+I am Neith (*N.t*), Mother of God,  
+who created the body of Re.  
+  
+I am the *n.t*-waters, who made what is (*nty*),  
+and created all that exists (*wn****n.t****).  
+  
+I am the great primeval mother,  
+who bound the seed for gods and people.  
+  
+As I kept you healthy in the womb,  
+so I nurtured you when you came forth,  
+and I distinguished you (sic)  
+^19^ your Ka upon the swaddling clothes.  
+  
+My beloved son,  
+(Pharaoh Living eternally)|:  
+  
+My breasts belong to you:  
+suckle from them,  
+live (*ʿnḫ*) and be mighty (*wsr*)  
+through my *ʿnḫ-wȝs*-milk  
+  
+Rejuvenate your body,  
+like my son, Re.  
+You are his likeness,  
+since you resemble his Majesty:  
+may you rule the earth in its entirety.  
+  
+I am your mother:  
+as I have magnified your strength,  
+so have I performed your protection,  
+every day.  
+
+</div>
+
+[^fn-305-1]: ![](./images/305_18.png){width=12%} - Presumably: *n < n.t*, "red crown" + *t < ṯnỉ*, "to distinguish." This spelling does not occur in the cryptographic litany to Neith.
+

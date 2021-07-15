@@ -1,0 +1,50 @@
+## Esna 216 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 3
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=97){target="_blank"}  
+- Bibliography: @sauneron-8, pp. 35-39. See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/940){target="_blank"} 
+
+
+<div class="col2">  
+
+^1^ *ỉr(.t) p(ȝ) wdn n N.t   *  
+*m hrw pn mỉ rʿ-nb  *  
+*ḏd-mdw  *  
+
+^1^ Performing the litany of Neith  
+on this day like every day.  
+Words spoken:  
+
+</div>
+
+<div class="col2">
+
+*wdn n N.t wr.t  *
+*mw.t-nṯr nb(.t) tȝ-sn.t  *    
+*m rn(.w)=s nb(.w)*  
+*ḥr-tp ʿnḫ-wḏȝ-snb  *  
+*n nsw.t-bỉty  *  
+*(pr-ʿȝ <ʿnḫ> ḏ.t)|  *  
+  
+Offering for Neith the great,   
+Mother of God, Lady of Esna,   
+in all her names,  
+in addition to the life, prosperity, health    
+for the King of Upper and Lower Egypt,  
+(Pharaoh <living> forever)|   
+
+</div>

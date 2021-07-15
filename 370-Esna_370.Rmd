@@ -1,0 +1,52 @@
+## Esna 370 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=380){target="_blank"}  
+- Bibliography: None
+- Compare the symmetric inscription [Esna 359]
+
+<div class="col2">
+
+^39^ *ʿnḫ nṯr nfr  *  
+*ỉmy-rȝ ʿ-rsy  *  
+*mỉ nb Qbḥw  *  
+*stỉ tȝ.wy mḏȝy.w*   
+*ẖr ỉḫt=sn  *  
+*nfr.w nw Kns.t  *  
+      
+*mḥ ḥw.t-ẖnmw *  
+*m nfr.w=s  *  
+*n ḫnty-ḥn-nfr  *  
+      
+*(tmdyns nty-ḫwỉ)|  *  
+*mry ẖmnw-Rʿ nb tȝ-sn.t  *  
+  
+^39^ Live the good god,  
+Overseer of the Southern District,  
+like the Lord of the First Cataract  
+who compels the Medjay lands,  
+bearing their products,  
+the good things of Kenset;  
+  
+who fills the Temple of Khnum  
+with its good products  
+from Khent-hen-nefer.  
+  
+(Domitian Augustus)|  
+beloved of Khnum-Re Lord of Esna.  
+
+</div>

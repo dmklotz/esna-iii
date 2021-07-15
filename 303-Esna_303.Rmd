@@ -1,0 +1,44 @@
+## Esna 303 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 11
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=264){target="_blank"}- Bibliography: @sauneron-5, pp. 200; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1157){target="_blank"}
+
+<div class="col2">  
+
+^15^ *ky dwȝ ẖnmw  *  
+*ḏd-mdw  *  
+    
+*ỉȝw n=k pȝ ẖnmw  *  
+*qdỉ nṯry  *  
+*ḫp(r) m pȝwty.w  *  
+      
+*ḥmww nfr  *  
+*mȝȝ r p(ȝ) wḫȝ n rsy-ỉmnty  *  
+  
+^15^ Another hymn of Khnum.  
+Words spoken:  
+  
+Praise unto you, o Khnum,  
+the divine potter,  
+who came about with the Primeval ones.  
+  
+Good craftsman...   
+(look to the column to the south-west).  
+  
+</div>
+  
+This short hymn continues in [Esna 390].

@@ -1,0 +1,97 @@
+## Esna 383 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 17
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=407){target="_blank"}
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1319){target="_blank"}
+
+<div class="col2">  
+
+^A^ *ẖnmw-Rʿ nb tȝ-sn.t  *  
+*nṯr ʿȝ nb sḫ.t  *  
+  
+*mwnf n nṯr.w nṯry.t  *  
+*ʿȝ pḥty  *  
+*gbgb ky.w  *  
+   
+^A^ Khnum-Re Lord of Esna,  
+Great god, Lord of the Field.  
+   
+Protector of gods and goddesses,  
+great of strength,  
+who crushes the rebels.  
+
+</div>
+
+<div class="col2">  
+
+^B^ *nṯr nfr  *  
+*ỉwʿʿ n ẖnmw  *  
+*ʿȝ nḫt  *  
+*ỉr ḫfty n ỉt=f   *  
+*m tm-wn  *  
+*nb wsr  *  
+*(tryns nty-ḫwỉ)|  *  
+*[...]  *   
+  
+^B^ The good god,  
+heir of Khnum,[^fn-383-1]  
+great of strength,  
+who makes the enemy of his father  
+non-existent.  
+Lord of might,  
+(Domitian Augustus)|  
+[...]  
+
+</div>
+
+[^fn-383-1]: ![](./images/383_B.png){width=14%} - @sauneron-5, p. 127, n. g, had originally interpreted this spelling as an alternate name of Khnum, "Népeh" (followed by P*WL*, p. 512). Later, @sauneron-8, pp. 83-84, acknowledged this could be just a variant writing of "Khnum." Given the context in which this occurs, including the present name of Khnum the Good Protector, only the latter option makes sense. Presumably the back part of the lion (Gard. F22) substitutes for the goat skin sign (F26), and the signs are written in reverse. Thus: *ẖn + nb + b < ẖnb < ẖnmw*, "Khnum" (cf. Greek: Khnoubis;
+
+
+<div class="col2">  
+
+^C^ *nṯr nfr  *  
+*wrh n ḥnw.t=f  *  
+*r qȝw n p.t  *  
+*nb-ḫʿ.w  *  
+*(ȝwtw[krtwr])|  *  
+*[...]  *  
+  
+^C^ The good god,  
+who dances for his Mistress  
+to the height of heaven.  
+Lord of Appearances,  
+(Auto[krator])|  
+[...]  
+
+</div>
+
+<div class="col2">  
+
+^D^ *Nb.t-ww nb(.t) tȝ-sn.t  *  
+*Mnḥy.t wr.t nb(.t) ḫnt-tȝ  *  
+*nb(.t) ỉhȝy  *  
+*ʿšȝ ḥb.w  *  
+*šȝʿ.tw wrh n ḥm=s  *  
+  
+^D^ Nebtu Lady of Esna,  
+Menhyt the great, Lady of Khent-ta,  
+Lady of rejoicing,  
+numerous of festivals,  
+for whose Majesty dancing was invented.  
+
+</div>
+

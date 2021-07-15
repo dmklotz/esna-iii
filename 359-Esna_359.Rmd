@@ -1,0 +1,61 @@
+## Esna 359 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 15
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=360){target="_blank"}  
+- Bibliography: None
+- Compare the symmetric inscription [Esna 370]
+
+<div class="col2">
+
+^40^ *ʿnḫ nṯr nfr  *  
+*ỉmy-rȝ mḥty  *  
+*mỉ nb tm.t  *  
+     
+*sḫm (m) sṯty.w  *  
+*ỉṯ fȝỉ=sn gȝ.wt  *  
+*nw ḥḏ nbw  *  
+*ỉn.w nb.w n tȝ-bnr  *  
+      
+*r bʿḥ ḥw.t-N.t  *  
+*m ȝḫ.w=s  *  
+*n ḫnty-š  *  
+  
+*(tmdyns ḫwỉ)|  *  
+*mry N.t wr.t   *  
+*mw.t-nṯr  *  
+*nb.t tȝ-sn.t  *  
+   
+^40^ Live the good god,  
+Overseer of the Northern District,  
+like the Lord of Baltim.[^fn-359-1]  
+  
+He who takes control of the Asiatics,  
+who seizes, so they bring vessels  
+of silver, gold,  
+all good things of foreign lands,  
+   
+to inundate the Temple of Neith  
+with her excellent products,  
+from Khent-she.  
+  
+(Domitian Augustus)|  
+beloved of Neith the Great,  
+Mother of God, Lady of Esna.  
+
+</div>
+
+[^fn-359-1]: This rare toponym (*Tm.t*) contrasts with the First Cataract region (*Qbḥw*) in [Esna 370], 39. It appears to be Baltim, a city at the far northern extremity of the Delta, from which Ahmed bey Kamal discovered an inscribed portal with this same toponym: G*DG* I, p. 117; @kamal; @daressy-baltim.

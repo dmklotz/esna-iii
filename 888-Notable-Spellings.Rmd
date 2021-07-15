@@ -1,6 +1,5 @@
 # Notable Spellings {-}  
-
-
+  
 *ȝw.t-ỉb*, "happiness"  
   
 ![](./images/194_3.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B
@@ -19,6 +18,10 @@
   
 ![](./images/194_2.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B
 
+*ỉqr*, "excellent"  
+  
+![](./images/390_17_2.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 390], 17 
+
 *wr.t*, "the great"  
   
 ![](./images/209_28b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 209], 28 (2)  
@@ -33,7 +36,19 @@
 ![](./images/234_27a.png){width=4.2%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 27  
   
 ![](./images/224_1j.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis)
+*mn*, "to remain; stay"  
   
+![](./images/335_B_2.png){width=1.8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 335], B  
+  
+*Mnḥy.t*, "Menhyt"  
+  
+![](./images/304_17_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 304], 17
+![](./images/335_B_3.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 335], B   
+  
+*msỉ*, "to birth; create; fashion"  
+   
+![](./images/390_17_1.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 390], 17  
+   
 *mzỉ*, "to present; offer"
   
 ![](./images/347_25a.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 347], 25 
@@ -43,13 +58,36 @@
 
 ![](./images/224_2b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2  
   
+*N.t*, "Neith"  
+  
+![](./images/305_18.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 305], 18  
+  
 *nb*, "lord"  
   
 ![](./images/328_A1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 328], A  
+   
+![](./images/273_6_1.png){width=4.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 273], 6  
+
+*Nb.t-ww*, "Nebtu"  
   
+![](./images/306_20_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 30
+
+
+   
 *nḥp*, "potter's wheel"  
   
-![](./images/224_1a.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1
+![](./images/390_17_3.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 390], 17
+
+  
+![](./images/224_1a.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
+  
+![](./images/277_20_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 277], 20; [Esna 304], 16 
+  
+![](./images/310_28_b.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28 
+
+*r*, "to; towards; at; until"  
+  
+![](./images/304_17_3b.png){width=10%}  
 
 *Rʿ*, "Re"  
   
@@ -63,9 +101,18 @@
   
 *ẖnmw*, "Khnum" (examples from outside the main Khnum litanies)   
 
+
+![](./images/310_28.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28  
+  
+![](./images/341_9.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 341], 9; [Esna 371], 1   
+  
+![](./images/383_B.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 4, §3  
+   
+![](./images/383_B.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 277], 22, §6; [Esna 383], B  
+  
 ![](./images/224_1d.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
    
-![](./images/364_B.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 364], B  
+![](./images/364_B.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 364], B   
    
    
 ![](./images/230_B1.png){width=8%}![](./images/230_B2.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 230], B
@@ -87,17 +134,29 @@
   
 ![](./images/337_A1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 337], A 
   
+*sḫ.t*, "field"  
+  
+![](./images/306_20_2.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 20   
+  
 *tȝ-sn.t*, "Esna"  
   
 ![](./images/224_1f.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
   
 ![](./images/234_28a.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 28  
 
-  
-![](./images/231_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 231], 3, 10  
-   
-![](./images/285_14a.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 285], 14  
-  
+![](./images/274_8_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 231], 3, 10; [Esna 274], 8; [Esna 285], 14; [Esna 383], A (flowers vary slightly)
+
+
 ![](./images/287_17.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 287], 17  
   
-![](./images/288_18.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 288], 18
+![](./images/288_18.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 288], 18  
+  
+![](./images/216_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 216], 1; [Esna 309], 26
+  
+![](./images/273_6_2.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 273], 6
+
+### Phrases {-}
+  
+*r km ḏ.t*, "until the completion of eternity" (?)  
+  
+![](./images/304_17_3.png){width=22%} 

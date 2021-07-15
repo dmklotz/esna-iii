@@ -1,0 +1,45 @@
+## Esna 357 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 15
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=357){target="_blank"}  
+- Bibliography: @quack-monumental, p. 114.
+
+<div class="col2">
+
+^29^ *ỉȝw zp-snw  *  
+*nṯr pn šps  *  
+*ỉw=f pw m ḥtp zp-snw  *  
+   
+*swr=f šfy.t   *  
+*n zȝ=f mry(=f)  *  
+*nsw.t-bỉty  *  
+*(ỉwtgrtr kysrs)|  *  
+*zȝ-Rʿ  *  
+*(tmdyns nty-ḫwỉ)|  *  
+  
+^29^ Praise, praise!  
+This august god,  
+he has come in peace!  
+  
+May he magnify the respect  
+for his beloved son,  
+King of Upper and Lower Egypt  
+(Autokrator Caesar)|  
+Son of Re  
+(Domitian Augustus)|!  
+
+</div>

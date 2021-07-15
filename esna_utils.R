@@ -19,6 +19,7 @@ library(translit)
 # }
 
 ##  remaining files:
+list.files(pattern = "Esna_") %>% substr(1,3) %>% as.integer() %>% setdiff(194:398, .) %>% length
 list.files(pattern = "Esna_") %>% substr(1,3) %>% as.integer() %>% setdiff(194:398, .) %>% paste0(collapse = "; ")
 
 bookdown::render_book(input = ".")

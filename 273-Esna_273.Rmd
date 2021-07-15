@@ -1,0 +1,61 @@
+## Esna 273 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 9
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=221){target="_blank"}- Bibliography: @sauneron-5, p. 146.
+
+<div class="col2">  
+
+^6^ *r' n ḥnk sšn nḥm(.t)  *  
+**ḏd-mdw  **  
+   
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+^7^ *mn n=k sḫ.t  *  
+*ỉr.tw n=k sḫ.t  *  
+*ḫsbḏ n mȝʿ.t  *  
+*ḥrr(.t) nb twt(.w)   *  
+*n ḥr=k  *  
+*mȝȝ=k ḥr.w ḫʿỉ=k  *  
+*m wỉȝ n ḥḥ(.w)  *  
+    
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*mn n=k ỉr.t-Ḥr  *  
+*ḫnmw nty Nfr-tm  *  
+*r fnḏ=k  *  
+  
+^6^ Formula for offering two lotuses.  
+Words spoken:   
+  
+Khnum-Re Lord of Esna:  
+^7^ receive the field,[^fn-273-1]  
+one makes the field for you  
+(appear as) true lapis-lazuli;[^fn-273-2]  
+all flowers are assembled  
+for your face.  
+You see (every)body when you appear  
+in the Bark of Millions.[^fn-273-3]  
+  
+Khnum-Re Lord of Esna:  
+receive the Eye of Horus,  
+the scent of Nefertem[^fn-273-4]   
+is at your nose.
+    
+</div>
+
+[^fn-273-1]: @sauneron-5, p. 146, with n. 1, interpreted the field hieroglyph in this text more literally as "la touffe marécaguese."
+[^fn-273-2]: In the preceding text, [Esna 272], the primeval lotus has leaves made "of true lapis-lazuli" (1), and the newborn sun has hair of the same color (4). .
+[^fn-273-3]: The preceding text praises the newborn Khnum-Re as he shines in the Bark of Millions: [Esna 272], 4.
+[^fn-273-4]: Similar allusions to the Eye of Horus (perfume of the lotus) as the scent of Nefertem in [Esna 272], 2, 4.
