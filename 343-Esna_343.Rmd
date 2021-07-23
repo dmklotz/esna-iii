@@ -1,0 +1,110 @@
+## Esna 342 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 14
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=331){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 39-40 (partial translation).
+
+<div class="col2"> 
+
+^10^ *ȝbd 3 ȝḫ.t sw 25  *  
+*ḥb Šw zȝ-Rʿ   *  
+*zȝỉ ỉʿỉ m hrw pn  *  
+      
+*ʿq r sḥ ỉmn   *  
+*nty ỉw rn=f r ʿḥ  *  
+*šzp sỉȝ.t wrḥ  *  
+*ỉr(.t) m kȝr šps n ẖnmw  *  
+*m s.t wr.t  *  
+      
+*ḥr-sȝ ḥn.t rwhȝ  *  
+*ỉr(.t) ỉrw n sḫʿ nṯr pn  *  
+*spr r ḏȝ(ḏȝ.t)  *  
+*p(ȝ) ẖry-ḥb ḥry-tp  *  
+*(ḥr) nỉs dwȝ.w (r)-ḥȝ.t=f  *  
+      
+*sṯȝ r-ẖnw   *  
+*ḥtp ḥr s.t=f wr.t  *  
+   
+^10^ III Akhet day 25 ([Hathor 25](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#hathor-25) ):  
+Festival of Shu, Son of Re.  
+After-dinner (ritual)[^fn-343-1] on this day.  
+  
+Enter the remote chapel,  
+the name of which is 'The Palace.'[^fn-343-0]  
+Receive fringed-cloth, anointing,  
+performed in the august shrine of Khnum  
+on the Great Throne.  
+  
+After the evening service,  
+perform the rite of processing this god,  
+arrive at the tribune;  
+the Chief Lector Priest[^fn-343-2]  
+recites hymns before him.  
+  
+Return back inside,  
+rest upon the Great Throne.  
+
+</div>
+
+[^fn-343-0]: ![](./images/343_10.png){width=4%} - For this abbreviated spelling of *ʿḥ*, "palace", see @sauneron-61, p. 231.
+[^fn-343-1]: For this term, see primarily @sauneron-mdaik, p. 276, n. (e). 
+[^fn-343-2]: ![](./images/343_10_a.png){width=14%} - Note the spelling with *ỉb* instead of *tp*, which also occurs in [Esna 346], 21. Compare a non-etymological spelling in a Demotic hymn: @hoffmann-wien, p. 220. Similar alternation between *ḥr.t-tp* and *ḥr.t-ỉb*, "uraeus", most likely for phonetic reasons, occurs more frequently at Esna and elsewhere: @goyon-notes, pp. 50-53.
+
+<div class="col2">
+
+*Ḥr ỉỉ(.w) r nỉw.t=f  *  
+*ḏ(d)=f n Ḏḥwty  *  
+*sw 25 pn pr=f m 3-nw ȝḫ.t  *  
+*ỉnr ḥr wnm [ỉt]-bd.t  *  
+    
+*ỉr* ^11^ *n=k ỉs  *  
+*ḫȝʿ.tw t  *  
+*r ḥts m rqḥ wr  *  
+*ḥsb n=k ḫpr ỉm=f  *  
+*r rdỉ(.t) ḥtp.w-nṯr n nṯr.w  *  
+*ʿnḫ n pʿ.t rḫy.t  *  
+      
+*ỉr ỉỉ=sn  *  
+*ḥʿpỉ r ỉwḥ ȝḫ.t  *  
+*m-ḫt=f  *  
+     
+*wn.ỉn Ḏḥwty ḥr ỉr(.t) mỉt.t  *  
+  
+Horus comes to his city,  
+saying to Thoth:  
+'This Day 25 has come forth in III Akhet:  
+the worm is eating the grain.  
+  
+'May you ^11^ act, moreover,  
+so one leaves aside bread,  
+to be mummified for Rekeh-Wer;  
+then, monitor what comes forth from it  
+in order to give offerings to the gods,[^fn-343-5]  
+and life to nobles and commoners.[^fn-343-6]  
+  
+'Now when they arrive,  
+the Inundation will flood the field  
+after him.'  
+  
+Then Thoth acted accordingly.  
+
+</div>
+
+[^fn-343-5]: As noted by @sauneron-5, p. 40, n. 3, this ritual act resembles the more famous practice of making grain Osirises during the subsequent month of Khoiak, even if the dates are different here.
+[^fn-343-6]: ![](./images/343_11.png){width=16%} - Presumably the final man is a determinative to *rḫy.t*, "commoners", but it might conceivably be an ideogram for *ḥnmm.t*, "sunfolk", since other texts at Esna refer to all three classes of humanity. The star sign before the *rḫy.t*-bird is a fossil from ubiquitous group writings of *dwȝ-rḫy.t*, similar to the "signes parasites" collected by @sauneron-8, pp. 89-90.
+

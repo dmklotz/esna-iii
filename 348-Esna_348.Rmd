@@ -1,0 +1,144 @@
+## Esna 348 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 14
+- Date: Hadrian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=341){target="_blank"}  
+- Bibliography: @sauneron-5, p. 66; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1256){target="_blank"} 
+
+<div class="col2">  
+
+^26^ *sḫʿ n nṯr pn šps  *  
+*m ȝbd 4 hrw 2 ȝḫ.t  *  
+*m tr n mšrw  *  
+    
+*Šw pw zȝ-Rʿ  *  
+*ẖnm=f ḥnʿ ỉt=f Rʿ  *  
+*ỉw ỉmnty m* ^27^ *rn n ỉȝ.t-nṯry  *  
+*nty ḥr mḥy.t n pr pn  *  
+    
+*mȝȝ s(w) ỉt=f Rʿ  *  
+*ḥnʿ psḏ.t  *  
+  
+*m-ḏr ẖnm ỉb n Rʿ ḥnʿ=f  *  
+*nfr ỉb n nṯr pn ḥr=s  *  
+*ḏr mȝȝ=f zȝ=f Šw  *
+    
+*ḏ(d).ỉn Rʿ  *  
+*nfr.wy ỉb=ỉ ỉqr zp-snw  *  
+*ḏr mȝȝ=ỉ zȝ=ỉ Šw  *  
+*ẖnm ỉb=ỉ ḥnʿ=f  *  
+*m sḫ.t tn  *  
+   
+^26^ Procession of this august god,  
+on 4 Akhet 2 ( [Khoiak 2](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#khoiak-2) ),  
+at the time of evening.  
+   
+It is Shu, the son of Re,  
+he unites with his father Re.  
+'The West'[^fn-348-0] is the name of the divine mound  
+which is north of this temple.  
+   
+His father Re sees him,  
+along with the Ennead.    
+  
+When[^fn-348-1] the heart of Re joins with him,  
+this god's heart is very glad about it,  
+since he saw his son, Shu.  
+  
+Then Re said:  
+'How good is my heart, very nice![^fn-348-2]  
+since I saw my son, Shu,  
+and my heart united (*ẖnm*) with him  
+in this field (*sḫ.t*).'  
+
+
+</div>
+[^fn-348-0]: The same toponym is linked with the union of Re and Shu north of Esna on Khoiak 1 in [Esna 347], 26.
+[^fn-348-1]: *nty* < *n-ḏr* < *m-ḏr*, "when; since", as in the Temporal *n-ḏr sḏm=f* form: @johnson-dvs, pp. 147-149. @kurth-2, p. 701, only lists examples spelled *m-tw*, but see also [Esna 321], 25 (*n-ḏr psš=s ḥr-tp ḏb.t*, "when she has straddled upon a brick").
+[^fn-348-2]: Similar speech of Re in [Esna 347], 26. 
+
+<div class="col2">
+
+*ḏ(d).tw ẖnmw  *  
+*ḏ(d).ỉn Rʿ  *   
+*rdỉ.n=f zȝ m nb n sḫ.t  *  
+*ḏ(d).tw ẖnmw nb sḫ.t  *  
+   
+*ẖnm(.t) ḥnʿ ȝḫ.t   *  
+*m-ẖnw spȝ.t tn  *  
+*ḏ(d).tw pr-ẖnmw-sḫ.t  *  
+^28^ *n ỉȝ.t=tn  *  
+     
+*mȝȝ s(w) ỉt=f Rʿ  *  
+*ỉw=f m ỉk m ỉȝ.t tn  *  
+*nỉs.n=f n mw.t=f N.t  *  
+      
+*nt(t) tmȝ.t wr(.t)  *  
+*wbn(.t) m Nwn  *  
+*štȝ.t ʿȝ.t  *  
+*šȝʿ.t ḫpr m ḥȝ.t  *  
+*ỉt-ỉt.w mw.t-mw.wt  *  
+*ḫpr(.t) nỉ ḫpr ḫprw  *  
+*ỉr(.t) nty qmȝ(.t) wnn.t  *  
+*mw.t ntr.w  *  
+    
+*nb.t ʿnḫ-wȝs  *  
+*šd(.t) mr=s*   
+*m qn nḫ.t  *  
+*ḥnw.t ʿnḫ  *  
+*snb r-ḫt=s  *  
+*ṯz(.t) pr.t n nṯr-rmṯ  *  
+*m-ʿ swḥ(.t)  *   
+    
+*mȝȝ r pȝ wḫȝ m-zȝ=f n ỉȝbty  *
+
+Thus one says 'Khnum (*ẖnmw*)'.  
+Then Re said,  
+as he made his son the Lord of the Field.  
+Thus he his called 'Khnum Lord of the Field.'  
+  
+The basin together with the field  
+within this district,  
+thus one says 'Temple of Khnum of the Field'  
+^28^ for this mound.[^fn-348-4]     
+  
+His father Re says him,  
+while he is an old man in this mound,  
+and he called to his mother Neith:  
+  
+'You are the great mother,  
+who arose from Nun.  
+The great mysterious one,  
+who began creation in the beginning.  
+Father of fathers, mother of mothers,  
+who came about before existence came about,  
+who made what is, and created what exists,  
+mother of the gods.  
+  
+'Lady of life and dominion,  
+who nurtures the one she loves  
+with victory and might.  
+Mistress of life,  
+health follows her,  
+she who binds the seed of gods and people
+as well as the egg(?) ...
+  
+(Look at the column after this to the east).[^fn-348-5]
+
+</div>
+
+[^fn-348-4]: Almost verbatim record of this event occurs in *Esna* II, 127, 4.
+[^fn-348-5]: Despite this note, there does not appear to be a continuation of this text elsewhere at Esna. As noted by @sauneron-1, pp. 130-131, the column to the east is Column 8, which begins an account of the festival for Khnum on Epiphi 20; cf. [Esna 259].

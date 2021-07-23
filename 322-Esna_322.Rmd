@@ -1,0 +1,71 @@
+## Esna 322 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 12
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=294){target="_blank"}  
+- Bibliography: @sauneron-1, pp. 122-123; @sauneron-5, p. 238. See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1209){target="_blank"}
+
+<div class="col2"> 
+
+^26^ *snsn šd*   
+*ỉn ẖry-ḥb ḥry-tp  *  
+*ḥr ḏsr nb   *  
+*m pr nb *  
+*ḥr nḥp=f  *  
+  
+*dgȝ ʿnḫ.w nb  *  
+*ȝḫ.w ỉr.n kȝ  *  
+*m-ʿb nfr.w ỉr.n=f n=sn  *  
+*n-mrw.t ḏd rn=f   *  
+*ḥr-tp tȝ n kȝ=f  *  
+*ỉr qd r ḥn.ty  *  
+    
+*sḥtp ẖnmw p(ȝ) nḫy nfr  *  
+*m tp-rȝ.w=f  *  
+*ḏd-mdw *   
+
+*ỉnḏ-ḥr=k   *  
+*Sbk pr m ỉtm *   
+*ẖnmw   *  
+   
+^26^ The praises recited   
+by the Chief Lector Priest  
+while sanctifying the Lord  
+with all that come forth   
+on his Potter's Wheel.  
+   
+All mortals shall see  
+the excellent things done by the Ka,[^fn-322-1]  
+and the good things he made for them,  
+from the desire that his name endure  
+upon earth for his Ka:  
+he who acts as potter for eternity.  
+   
+Pacifying Khnum the Good Protector  
+with his utterances.  
+Words spoken:  
+   
+Greeting to you,  
+Sobek[^fn-322-2] who came forth from Atum,  
+Khnum [^fn-322-3]    
+
+</div>
+
+
+[^fn-322-1]: ![](./images/322_26_1.png){width=9%} - @sauneron-1, p. 123, and @sauneron-5, p. 238, translated this term as "le dieu", without further comment.
+[^fn-322-2]: This brief passage would seem to support the suggestion that Khnum of North Esna was worshipped in crocodile form.
+[^fn-322-3]: The hymn ends abruptly, with no indication of whether it continues elsewhere at Esna.

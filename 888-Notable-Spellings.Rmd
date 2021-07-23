@@ -2,7 +2,7 @@
   
 *ȝw.t-ỉb*, "happiness"  
   
-![](./images/194_3.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B
+![](./images/194_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B
 
 *ỉrỉ*, "to do; make"
 
@@ -33,16 +33,22 @@
 
 *m*, "in; as; from"  
   
-![](./images/234_27a.png){width=4.2%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 27  
+![](./images/234_27a.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 27  
   
-![](./images/224_1j.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis)
+![](./images/224_1j.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis)  
+  
 *mn*, "to remain; stay"  
   
 ![](./images/335_B_2.png){width=1.8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 335], B  
   
 *Mnḥy.t*, "Menhyt"  
   
-![](./images/304_17_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 304], 17
+![](./images/304_17_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 304], 17  
+  
+![](./images/298_B_2.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 298], B
+  
+![](./images/301_10_1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 10
+  
 ![](./images/335_B_3.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 335], B   
   
 *msỉ*, "to birth; create; fashion"  
@@ -53,11 +59,10 @@
   
 ![](./images/347_25a.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 347], 25 
 
-
 *Ptḥ*, "Ptah"
 
 ![](./images/224_2b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2  
-  
+
 *N.t*, "Neith"  
   
 ![](./images/305_18.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 305], 18  
@@ -72,14 +77,14 @@
   
 ![](./images/306_20_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 30
 
-
-   
 *nḥp*, "potter's wheel"  
   
 ![](./images/390_17_3.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 390], 17
 
   
 ![](./images/224_1a.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
+  
+![](./images/301_11_1.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 11
   
 ![](./images/277_20_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 277], 20; [Esna 304], 16 
   
@@ -128,7 +133,7 @@
   
 *snw*, "two"  
   
-![](./images/328_B2.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 328], B; [Esna 346], 25.
+![](./images/328_B2.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 27; [Esna 328], B; [Esna 346], 25.
   
 *sḫpr*, "to create"
   
@@ -137,12 +142,20 @@
 *sḫ.t*, "field"  
   
 ![](./images/306_20_2.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 20   
+
+*zẖȝw*, "scribe"
+
+![](./images/309_26_1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 26
+  
   
 *tȝ-sn.t*, "Esna"  
   
-![](./images/224_1f.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
+![](./images/224_1f.png){width=21%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
   
 ![](./images/234_28a.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 28  
+  
+![](./images/301_10_2.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 10 (the damaged sign was a child)  
+  
 
 ![](./images/274_8_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 231], 3, 10; [Esna 274], 8; [Esna 285], 14; [Esna 383], A (flowers vary slightly)
 
@@ -154,6 +167,16 @@
 ![](./images/216_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 216], 1; [Esna 309], 26
   
 ![](./images/273_6_2.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 273], 6
+  
+*tp*, "head"  
+  
+![](./images/226_11.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 226], 11
+
+
+*Ḏḥwty*, "Thoth"  
+  
+![](./images/309_26_2.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 26  
+
 
 ### Phrases {-}
   

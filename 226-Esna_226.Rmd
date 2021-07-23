@@ -1,0 +1,172 @@
+## Esna 226 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 4
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=123){target="_blank"}  
+- Bibliography: @sauneron-5, p. 81 (partial); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/962){target="_blank"}
+
+
+#### Title {-}
+
+<div class="col2">   
+
+^1^ *smȝʿ ʿȝb.t  *  
+*ỉr(.t) wdn n ỉt=f  *  
+   
+^1^ Presenting the large offering,  
+performing the litany for his father.  
+
+</div>
+
+#### The King {-}
+
+<div class="col2"> 
+
+^2^ *nsw.t-bỉty   *  
+*nb-tȝ.wy  *  
+*(ȝwtwkrtwr kysrs)|  *  
+^3^ *zȝ-Rʿ nb ḫʿ.w  *  
+*(twmṯyns nty-ḫwỉ)|  *  
+^4^ *[...]  *  
+   
+^5^ *[nṯr nfr]  *  
+*wtṯ n ẖnmw  *  
+*nbỉ m ʿ.wy=fy  *  
+*smȝʿ ʿȝb.t ʿȝ.t  *  
+*ỉr wdn n ỉt=f  *  
+*kȝp pr=f m sṯy  *  
+*m ḥb=f nfr n [...]  *  
+*[...]=k nn ȝb  *  
+
+*nb wnḏ.w   *  
+*(tmdyns nty-ḫwỉ)|  *  
+    
+^2^ King of Upper and Lower Egypt,  
+Lord of the Two Lands  
+(Autokrator Caesar)|   
+^3^ Son of Re, Lord of Appearances  
+(Domitian Augustus)|  
+^4^ [...]    
+  
+^5^ [The good god],  
+begotten of Khnum,  
+fashioned with his hands:[^fn-226-0]  
+he who presents a large offering,  
+who performs the litany for his father,  
+who censes his temple with scent,  
+during his good festival of [...][^fn-226-1]  
+[...] your [...] without fail.  
+  
+The Lord of offerings,  
+(Domitian Augustus)|
+
+</div>
+
+[^fn-226-0]: Same epithets for the King in *Esna* IV, 440, 1.
+[^fn-226-1]: Based on the context of Column 4, this probably refers to the festival of Phamenoth 1, but similar offerings of course happened throughout the year. Cf. @sauneron-5, pp. 81-82
+
+#### Khnum-Re Lord of [Esna] {-}
+
+<div class="col2"> 
+
+^6^ *ḏd-mdw n ẖnmw-Rʿ nb [tȝ-sn.]t  *  
+*Ṯnn ḫnty ʿ-rsy  *  
+^7^ *ỉt m šȝʿ  *  
+*qdỉ rmṯ.w ỉr nṯr.w  *  
+*ẖnm ḥr.w-nb.w   *  
+*ḥr* ^8^ *nḥp=f  *  
+*pẖr swḥ.t m swḥ  *  
+*swḏȝ qmȝ.n=f  *  
+*m ẖ.wt nb.w  *  
+    
+^9^ *dỉ=ỉ n=k bw nb [...]  * 
+
+^6^ Words spoken by Khnum-Re Lord of [Esna]  
+Tatenen, foremost of the Southern District.  
+^7^ Father in the beginning,  
+who built people, and made the gods,  
+who modelled everybody   
+upon his potter's wheel.  
+He who surrounds the egg (*swḥ.t*) with air (*swḥ*),  
+and keeps healthy those he created  
+in every womb.[^fn-226-2]  
+  
+^9^ I give to you all places [...]
+
+</div>
+
+[^fn-226-2]: For the theme of Khnum providing air within the womb, cf. @leitz-loeffler, pp. 17-18, §21 (to which this example should be added). The closest parallel to here, in which Khnum claims to "surround" (*pẖr*) the embryo with air,can be found in [Esna 300], 2.
+
+#### Menhyt {-}
+
+<div class="col2"> 
+
+^10^ *[ḏd-mdw n] Mnḥy.t wr.t  *  
+*nb(.t) ḫnt-tȝ   *  
+*[...]* ^11^ *[...]  *  
+*mḥn.t ḥr tp n nṯr nb.w  *  
+*nn nṯr mḥn=f [s]w ḥr [t]p=s  *  
+   
+^12^ *dỉ=ỉ n=k Pwn.t   *  
+*ẖr ỉmy=f  *  
+*tȝ.wy ḫȝs.wt   *  
+*ḥr fȝỉ n=k ỉḫt=sn  *  
+   
+^10^ [Words spoken by] Menhyt the Great,  
+Lady of Khent-ta  
+[...] ^11^ [..]   
+who coils atop the head of all gods,  
+no god would coil upon her [he]ad.  
+  
+^12^ I give to you Punt  
+bearing what is in it;  
+the two lands and foreign countries   
+carrying their products to you.   
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2"> 
+
+^13^ *[qdỉ rmṯ.w]  *  
+*ỉr nṯr.w  *  
+*sḥḏ tȝ wn(.w) m snk.t  *  
+*nhp ḥr.w-nb.w  *  
+*r sfsf ȝw   *  
+    
+*[ṯȝw n (?)] ʿnḫ  *  
+*ẖnm ỉd.wt  *  
+*grg tȝ m ỉr.n=f nb  *  
+*ʿnḫ=sn n pr ỉm=f  *
+*ẖnmw ỉt m šȝʿ  *  
+    
+^13^ [He who built humans],  
+and made the gods[^fn-226-3],  
+who illumines the land that was in darkness.  
+Every body wakes up early  
+to present offerings [...]  
+  
+[Breath of (?)] life  
+who unites with wombs,  
+who settles the earth with all he made,  
+they live from what comes forth from him:  
+Khnum, the Father in the Beginning.  
+
+</div>
+
+[^fn-226-3]: Restored from the similar sequence in [Esna 226], 7.

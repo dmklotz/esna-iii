@@ -1,0 +1,105 @@
+## Esna 301 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 11
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=262){target="_blank"}
+- Bibliography: @sauneron-5, pp. 198-199; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1155){target="_blank"}
+
+
+<div class="col2">  
+
+^10^ *dwȝ ẖnmw Mnḥy.t  *  
+*ḏd-mdw  *  
+  
+*nfr.wy ḥr=k  *  
+*ẖnmw-Rʿ nb tȝ-[s]n.t  *  
+*ỉnḏ-ḥr=k ỉn zȝ=k mr=k  *  
+^11^ *(pr-ʿȝ ʿnḫ ḏ.t)|  *  
+    
+*dwȝ=ỉ kȝ=k  *  
+*m pr=ỉ ḥr nḥp=k  *  
+*sqȝ[=ỉ] bȝw=k  *  
+*m-m nṯr.w  *  
+*swr=ỉ fȝw=k  *  
+*ỉmỉ.tw psḏ.t  *  
+*sḫpr=ỉ n=k ḥknw  *  
+*m-ḥȝ.t ỉry  *  
+  
+^10^ Praising Khnum and Menhyt.  
+Words spoken:  
+  
+How good is your face!  
+Khnum-Re Lord of [Es]na.  
+Greetings from your beloved son,  
+^11^ (Pharaoh living eternally)|:  
+  
+'I worship your Ka,  
+as I come forth upon your potter's wheel.  
+As [I] magnify your prestige  
+among the gods,  
+so I make great respect of you  
+within the Ennead:  
+thus do I create praise for you  
+before all of them.
+
+</div>
+
+<div class="col2">
+
+*m.k twt nṯr qmȝ wỉ  *  
+*qd=k tw(=ỉ) m nw mr=k  *  
+*sʿnḫ=k ḥʿw=ỉ  *  
+*m* ^12^ *rn=k n Ptḥ-Šw  *  
+    
+*ỉn(?) sḫm.t-tfn.t   *  
+*nty ḥnʿ=k  *  
+*mḥn=s m ḥȝ.t=k  *  
+*m rn=s n Mnḥy.t  *  
+     
+*ỉh n=k  *  
+*hȝy n ḥnw.t=k  *  
+*nty r-gs=k  *  
+  
+*ḥtp ḥr=ṯn  *  
+*n nsw.t-bỉty  *  
+*nb-tȝ.wy  *  
+*(pr-ʿȝ ʿnḫ ḏ.t)|  *  
+*zȝ-Rʿ nb-ḫʿ.w  *  
+*(pr-ʿȝ ʿnḫ ḏ.t)|  *  
+  
+'Behold! You are the god who created me:    
+you built me at the moment you desired,  
+and you enlived my body,    
+in ^12^ your name of Ptah-Shu.  
+  
+'It is Sakhmet-Tefnut  
+who is with you.  
+She encircles upon your brow  
+in her name of Menhyt.  
+  
+'Praise to you,  
+and jubilation to your mistress  
+who is beside you!  
+  
+May your faces be kind  
+to the King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Pharaoh living eternally)|  
+Son of Re, Lord of Appearances,  
+(Pharaoh living eternally)|'
+
+</div>
+
