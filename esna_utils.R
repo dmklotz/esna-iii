@@ -56,7 +56,12 @@ fix_translit <- function(x) {
       stringi::stri_replace_all_fixed("*  ", "  *") %>% 
       stringi::stri_replace_all_fixed("*  ", "  *") %>% 
       stringi::stri_replace_all_fixed("*  ", "  *") %>% 
-      paste(collapse = "  \n") 
+      str_remove_all("  ") %>% 
+      paste(collapse = "  \n") %>% 
+      stringi::stri_replace_all_fixed("**", " ") %>% 
+      stringi::stri_replace_all_fixed("*^", "^") %>% 
+      stringi::stri_replace_all_fixed("^ ", "^ *") %>% 
+      stringi::stri_replace_all_fixed(" ^", "* ^")
     
     
   }

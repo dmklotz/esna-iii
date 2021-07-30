@@ -33,7 +33,7 @@ Words spoken:
 
 <div class="col2">
 
-*wdn n N.t wr.t  *
+*wdn n N.t wr.t  *  
 *mw.t-nṯr nb(.t) tȝ-sn.t  *    
 *m rn(.w)=s nb(.w)*  
 *ḥr-tp ʿnḫ-wḏȝ-snb  *  
@@ -48,3 +48,5 @@ for the King of Upper and Lower Egypt,
 (Pharaoh <living> forever)|   
 
 </div>
+
+*In progress...*

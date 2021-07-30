@@ -1,0 +1,55 @@
+## Esna 289 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=245){target="_blank"}  
+- Bibliography: @sauneron-5, p. 139.
+
+<div class="col2">  
+
+^19^ *mzỉ mz.w*  
+*ḏd-mdw  *  
+   
+*ỉỉ.n zȝ-Rʿ  *  
+*(tmdyns ḫwỉ)|  *  
+*ḫr=k   *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+    
+*dỉ=f n=k sḫ.t ḥtp.t  *  
+*dỉ=f n=k sḫ.t wȝḏ.t  *  
+*ḥtp=k ỉm  *  
+*swȝš=k ỉm  *  
+*wȝḏ=k ỉm  *  
+*n ḏ.t-ḏ.t   *  
+*ỉw=w wʿb.w zp-snw  *  
+
+^19^ Presenting bouquets.  
+Words spoken:  
+  
+The son of Re,  
+(Domitian Augustus)|  
+has come before you,  
+Khnum-Re Lord of Esna,  
+  
+So he might give you a pleasant (*ḥtp.t*) field,  
+and give you a green (*wȝḏ.t*) field.  
+May you be pleased (*ḥtp*) therein,  
+be powerful therein,  
+and thrive (*wȝḏ*) therein,  
+for all eternity,  
+these (offerings) being pure!  
+
+</div>

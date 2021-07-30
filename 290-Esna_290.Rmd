@@ -1,0 +1,57 @@
+## Esna 290 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=246){target="_blank"}  
+- Bibliography: @sauneron-5, p. 139.
+
+<div class="col2">  
+
+^19^ *ḥnk mz.w   *  
+*n ḥrr.wt nb.w* ^20^ *bnr(.w)  *  
+*ḏd-mdw  *  
+   
+*mz.w (r)-ḥȝ.t nṯr pn  *  
+*m šȝ.w nb bnr  *  
+*rwḏ.n ḥʿpỉ n kȝ=k  *  
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+    
+*mn n=k mz n ḥrr.t nb bnr  *  
+*ỉw=sn ḫr=k   *  
+*šzp n=k st  *  
+*ȝḫḫ=sn m ḥr=k nfr  *  
+*ḫnm st nb-sḫ.t  *  
+*ḥr ʿ.wy (tmtyns)|  *  
+*ỉw=w wʿb(.w)  *  
+  
+^19^ Offering bouquets  
+of all sweet ^20^ flowers.  
+Words spoken:  
+  
+Bouquets are before this god,  
+of all sweet plants,  
+which Hapi made grow for your Ka,  
+Khnum-Re Lord of Esna.  
+  
+Take this bouquet of all sweet flowers,  
+they come before you!  
+Receive them,  
+they blossom in your beautiful face!  
+Breathe them, o Lord of the Field,  
+upon the arms of (Domitian)|  
+they are pure!  
+  
+</div>

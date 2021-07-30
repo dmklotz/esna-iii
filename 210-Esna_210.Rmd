@@ -1,0 +1,190 @@
+## Esna 210 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 2
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=86){target="_blank"}  
+- Bibliography: @sayed-neith, II, pp. 621-622, Doc. 1003; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/928)
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *[...] ỉm=t*  
+*ḫntš ỉb=t n ptr=s*  
+   
+*wr.t m Nḫn*  
+*tp.t m P*  
+*ḥnw.t m ỉtr.ty šmʿ-mḥw*  
+^2^ *[...]*  
+   
+*[...] n Mnḥy.t*  
+*sṯnỉ.tw ḥnʿ zȝ=s Rʿ*  
+*m nsw.t*  
+*ỉr.n=f wr.w ỉm=s r nṯr.w*  
+   
+*nbw.t n nṯr.w *  
+^3^ *[...]*  
+*[...] wbn ỉm=s*  
+*ẖnm=s ʿnḫ ḫr=t*  
+*ḫw=s ḥʿw=ṯ r ḏw nb*  
+  
+^1^ [...] from you,  
+your hear rejoices from seeing it.  
+  
+Great one in Nekhen,  
+First one in Pe,  
+Mistress in the chapels of Egypt  
+^2^ [...]  
+  
+[...] for Menhyt,  
+distinguished with her son, Re,  
+as the king,  
+and he became created than the gods from it.  
+    
+Golden one of the gods,  
+^3^ [...]  
+[...] shines within it,  
+it provides you with life,  
+and it protects your body from all evil.  
+
+</div>
+
+
+#### The King {-}
+
+<div class="col2">  
+
+^4^ [...] *nrw*  
+[...] *wȝḏ.ty*  
+   
+^5^ *nṯr nfr*  
+*[...] m Nḫn*  
+*ms m Wȝḏ *  
+*[...]*  
+*[...] n nsw m šmʿ*  
+*bỉty m mḥw*  
+*ỉty nb ẖkr.w*  
+*Ḫr ḥwnw ḫnt mw.t=f*  
+*ȝṯt ḥr [...]*  
+*bỉk ḥry srḫ*  
+*nb ḫʿ(.w)*  
+*([twmt]ns nty-[ḫwỉ])| *  
+  
+^4^ [...] fear,  
+[...] the two uraei.  
+   
+^5^ The good god,  
+[who was ...] in Nekhen,  
+and born in Buto,  
+[...]  
+[...] of the King of Upper Egypt,  
+King of Lower Egypt,  
+Sovereign, lord of regalia,  
+Horus as a youth before his mother,  
+nursed upon [...]  
+falcon atop the *serekh*,  
+Lord of appearance[s]  
+([Domit]ian Augu[stus])|
+   
+</div>
+
+#### Neith {-} 
+
+<div class="col2">  
+
+^6^ *[...] ʿḥ*  
+*wr.t ḫʿỉ nb *  
+*ẖr s.t-ḥr=s*  
+*nb(.t) nḥḥ ḥqȝ(.t) ḏ.t*  
+*ỉr(.t) p.t tȝ dwȝ.t*  
+   
+^7^ *dỉ=ỉ wḏ[=f mdw]*  
+*r tȝ.wy=k*  
+*šfy.t=k r-ʿ stw.t ỉtn*  
+  
+^6^ [...] of the palace,  
+The Great one, the Lord appears in glory   
+under her authority,  
+Lady of eternity, Ruler of eternity,  
+who made heaven, earth, and the netherworld.  
+  
+^7^ I allow [you] to issue [commands]    
+over your lands,  
+your prestige is as far as the rays of the sun.  
+
+</div>
+
+#### Sobek {-}
+
+<div class="col2"> 
+
+^8^ *ḏd-mdw n Sbk *  
+*[...]*  
+*[...]* ^9^ *ḫḫ n N.t*  
+*[...]*  
+^10^ *ḥnʿ mw.t=f*  
+*r ḥw.t-ỉt*  
+*nḏm s.t=f m ỉȝ.t-ṯȝ.wy*  
+   
+^11^ *dỉ=ỉ n=k rsy.t m ỉȝw*  
+*mḥy.t m ks*  
+*ỉmnty.t ỉȝbty.t m wȝḥ-tp*  
+*ỉṯ=k wrr.t ḫnt ʿnḫ.w*  
+  
+^8^ Words spoken by Sobek[^fn-210-1]   
+[...]  
+[...] ^9^ the throat of Neith,  
+[...]  
+^10^ with his mother   
+to the Temple of the Father,  
+his throne is pleasant within Mound of the Chicks.  
+  
+^11^ I give you the south in praise,  
+the north in prostration,  
+the west and east bowing heads;  
+you seize the double crown, foremost of the living.  
+
+</div>
+
+[^fn-210-1]: @sauneron-3, p. 43, labelled this god as Shemanefer, but the text labels him as Sobek, the other crocodile child of Neith. As @gamelin-2019, p. 25, n. 1, noted, this god does not wear the usual crown of Shemanefer, nor are his epithets similar to Shemanefer's.
+
+#### Behind the divinities {-} 
+
+<div class="col2"> 
+
+^12^ *nsw.t-bỉty*  
+*nb(.t) zȝw*  
+*ḏsr s.t m Ỉwny.t*  
+*šȝʿ(.t) ḫpr *  
+*ḫnt ḥw.t-ỉt*  
+*ḫp(r.t) m ḥȝ.t *  
+*[...]*  
+*[b]s(.t) ḥqȝ nb r ʿrry.t=s*  
+*nỉ hb ʿḥ m ḫm=s*  
+*N.t wr.t [...]*
+  
+^12^ The King of Upper and Lower Egypt,  
+Lady of Sais,  
+sacred of place in Iunyt,  
+she who began existince   
+within the Temple of the Father,  
+who came about in the beginning,  
+[...]  
+[who in]troduces every ruler to her portal,  
+nobody enters the palace without her knowing:  
+Neith the great [...]  
+
+</div>

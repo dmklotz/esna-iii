@@ -1,0 +1,89 @@
+## Esna 296 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=254){target="_blank"}
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1118){target="_blank"}
+
+
+<div class="col2">
+
+^A^ *[...] rr.n Nb.t-ww  *  
+*nsw.t-bỉty   *  
+*(ȝwtwkrtr ksrs)|  *  
+*ʿnḫ.w ḏ.t mỉ-Rʿ  *  
+  
+^A^ [...] nursed by Nebtu,  
+King of Upper and Lower Egypt  
+(Autokrator Caesar)|  
+living eternally, like Re.  
+
+</div>
+<div class="col2">
+
+^B^ *[...] qn nḫt  *  
+*ḥr-ỉb Ỉwny.t  *  
+*nḏ n ỉt=f  *  
+*mḥ-ỉb n ỉr s(w)  *  
+*ỉr ʿḏ.t m ḫfty=f  *  
+  
+^B^ [...] victory and strength  
+within Iunyt,  
+protector of his father,  
+confidant of his maker,  
+who makes a massacre of his enemy.
+
+</div>
+
+<div class="col2">
+
+^C^ *nṯr nfr  *  
+*zȝ Wsỉr  *  
+*šzp-ʿnḫ n nḏ-ỉt=f  *  
+*zȝ-Rʿ  *  
+*(tmdyns ḫwỉ)|  *  
+*ʿnḫ.w ḏ.t mỉ-Rʿ  *  
+  
+^C^ The good god,
+son of Osiris,
+living image of Protector of his Father,  
+son of Re,  
+(Domitian Augustus)|  
+living eternally, like Re.
+
+</div>
+
+<div class="col2">
+
+^D^ *[...] (wn-nfr mȝʿ-ḫrw)|  *  
+*nsw.t-nṯr.w  *  
+*ḫy m Wȝs.t  *  
+*sr m Ỉwnw  *  
+*ỉty m Ỉnb-ḥḏ  *  
+*ỉwn m Ỉwny.t  *  
+*nṯr-nỉwty m spȝ.t nb  *  
+  
+^D^ [...] (Wennefer justified)|  
+King of the Gods,  
+child in Thebes,  
+prince in Heliopolis,  
+sovereign in Memphis,  
+Iun in Iunyt,  
+City god in every district.[^fn-296-1]  
+
+</div>
+
+[^fn-296-1]: Similar sequence of epithets for Osiris in *Esna* IV, 454, 3.

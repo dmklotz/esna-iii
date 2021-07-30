@@ -1,0 +1,84 @@
+## Esna 308 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 11
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=269){target="_blank"}
+- Bibliography: @sauneron-5, pp. 211-212; @meeks-delta, p. 271; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1167){target="_blank"}
+
+<div class="col2">  
+
+^25^ *ḏd-mdw n Ḥkȝ*
+*nb pr-Rʿ ḫnty pr-Gbb  *  
+    
+*ỉnk (ỉw)ʿʿ  *  
+*pẖr-ns.t n Ptḥ-Šw  *  
+    
+*ỉnk zȝ wr tpy n ẖnmw  *  
+*ỉnk Ḥkȝ pr ḥr nḥp=f  *  
+*rdỉ=f n=ỉ (ỉw)ʿʿ=f  *  
+*m hrw msw.t(=i)  *  
+    
+*ḫʿỉ=ỉ m ḥqȝ ḥr ns.t=f  *  
+*m rn=ỉ pfy n ḥkȝ  *  
+   
+*ỉṯ.n=ỉ tȝ  *  
+*ỉr(=ỉ) nb n ns.t rʿ-nb  *  
+*m rn(=ỉ) pfy* ^26^ *n Rʿ  *  
+*Gbb pw  *  
+    
+*ntk mnw nfr   *  
+*ḫnty tpy.w-tȝ  *  
+*zȝ=ỉ mry=ỉ  *  
+*(pr-ʿȝ ʿnḫ ḏ.t)|  *  
+  
+*ỉw n=k ṯnṯȝ.t m nb  *  
+*ns.t=ỉ n=k m ȝw(.t)-ỉb  *  
+*wn=k m nb n tȝ  *  
+*r-ḥn.ty  *  
+  
+^25^ Words spoken by Heka,[^fn-308-1]  
+Lord of the Domain of Re,  
+foremost of the Domain of Geb.  
+  
+I am the heir,  
+the successor of Ptah-Shu.  
+  
+I am the first-born, eldest son of Khnum,  
+I am Heka, who emerged upon his wheel;  
+he gave to me his inheritance  
+on the day I was born.    
+  
+I appear as ruler (*ḥqȝ*) upon his throne  
+in this my name of Heka (*Ḥkȝ*).    
+  
+That I seized the land,  
+was so I might be lord of the throne, daily,  
+in this (my) name ^26^ of Re.  
+That means: Geb.  
+  
+You are a good monument,  
+foremost of the living,  
+my beloved son,  
+(Pharaoh living eternally)|  
+  
+Yours is the baldachin as the Lord,  
+my throne belongs to you in happiness.  
+You shall be lord of the earth  
+for the limits of the future.
+
+</div>  
+
+[^fn-308-1]: ![](./images/308_25.png){width=10%} - Note Heka's name is spelled twice in this section as if it meant: "beginning of the work." 

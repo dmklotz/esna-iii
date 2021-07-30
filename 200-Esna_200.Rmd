@@ -1,0 +1,179 @@
+## Esna 200 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 1
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=63){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/914)
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *ḫfʿ=ỉ ḥḏ*  
+*ȝm=ỉ [ʿbȝ]*  
+^2^ *ḫrp=ỉ n=k ʿȝb.t [...]*  
+^3^ *[...]*  
+*ḏbʿ.w ḫȝ.w šn.w mḏ.w *  
+   
+^1^ As I grasp the mace,  
+so do I pick up the [scepter],  
+^2^ I consecrate the great offering for you  
+^3^ [... consisting of ]  
+ten thousands, thousands, hundred, and tens.  
+
+</div>
+
+#### The King {-}
+
+<div class="col2">  
+
+^4^ *nsw.t-bỉty*  
+*nb-tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^5^ *zȝ-Rʿ nb-ḫʿ.w*  
+*(twmṯyns ḫwỉ)|*  
+   
+^6^ *wȝḏḏ nfr *  
+*swȝḏ wḏḥw n nb=f*  
+*m ỉḫt nb nfr*  
+^7^ *nṯr nfr *  
+*[...]*  
+   
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re, Lord of Appearances,  
+(Domitian Augustus)|  
+  
+^6^ Good *wȝḏḏ*-serpent,[^fn-200-1]  
+who bedecks the altar of his lord,  
+with all good things.  
+^7^ The good god   
+[...]  
+
+</div>
+
+[^fn-200-1]: The reading of this ideogram is confirmed by the alliteration in this epithet, and the same term to describe Khnum in the same scene: [Esna 200], 11.
+
+#### Khnum-Re Lord of Esna {-}
+
+<div class="col2">
+
+^8^ *ḏd-mdw n ẖnmw-Rʿ nb tȝ-sn.t*  
+*nṯr wʿ nn ḥr-ḫw=f*  
+*qmȝ* ^9^ *nn ȝy qmȝ.n=f*  
+*ʿȝ ʿȝ.w*  
+*sʿšȝ ʿš n=f*  
+   
+*nṯr wr ḫnty psḏ.t*  
+^10^ *ẖnm ḥr.w-nb.w ḥr nḥp=f*  
+*bȝ sṯỉ*  
+*ỉr mw m qs.w*  
+*ṯz pr.t n nṯr.w rmṯ.w*  
+   
+^11^ *ỉwn wr*  
+*wp p.t r tȝ*  
+*ʿnḫ nty nb ỉm=f*  
+*wȝḏḏ nfr*  
+*wḏ mdw n* ^12^ *tpy.w-tȝ*  
+*ỉr ʿnḫ n ḥry.w ẖry.w*  
+   
+^13^ *dỉ=ỉ [...]*   
+  
+^8^ Words spoken by Khnum-Re Lord of Esna,  
+sole god, all by himself,  
+who created, ^9^ lo, with nobody to create him,  
+greatest (*ʿȝ*) of the great (*ʿȝ.w*),  
+who magnifies (*sʿšȝ*) whomever calls (*ʿš*) to him.    
+  
+Great god, foremost of the Ennead,  
+^10^ who assembled every body on his potter's wheel.  
+Procreating ram,  
+who makes semen in bones,[^fn-200-2]  
+and bound the seed of gods and people.  
+  
+^11^ Great Iun,  
+who separates heaven from earth,  
+all that is lives from him.  
+Good *wȝḏḏ*-serpent,  
+who issues comments ^12^ to those on earth,  
+who creates life for those above and below.  
+  
+^13^ I give [...]  
+
+</div>
+
+[^fn-200-2]: For the various interpretations of this epithet, see recently @leitz-loeffler, pp. 8-13 (translating this example on p. 11).
+
+#### Menhyt {-}
+
+<div class="col2">
+
+^14^ *ḏd-mdw n Mnḥy.t wr.t*  
+*nb.t ḫnt-tȝ*  
+*wʿ.t nn snw=s*  
+^15^ *wsr.t m p.t*  
+*ʿnḫ(.t) m tȝ*  
+*nb(.t) nrw m stp-zȝ*  
+   
+*mḥn.t ḥr tp n* ^16^ *nṯr nb *  
+*nn nṯr*  
+*mḥn=f sw ḥr tp=s*  
+   
+*Rnn.t* ^17^ *sḫpr(.t) ỉḫt nb*  
+*rr(.t) npry n ḥr.w nb.w*  
+   
+^14^ Words spoken by Menhyt the great,  
+Lady of Khent-ta,  
+Sole one, without her double,  
+^15^ Mighty in heaven,  
+living flame on earth,  
+Lady of fear in the palace.  
+
+She who coils on the head of ^16^ every god,  
+without any god   
+who could coil upon her head.  
+  
+Renenutet ^17^ who creates all things,  
+who nurtures grain (Nepri) for every body.  
+ 
+</div>
+
+#### Behind the divinities {-}
+
+<div class="col2">
+
+^18^ *nsw.t-bỉty*  
+*wr ỉḫt ʿšȝ ḥnk(.w*  
+*sšm kȝ.w n nṯr.w nṯry.t*  
+*drp [...] nb *  
+*m zp.w nw ṯ.t=f*  
+   
+*dỉ ẖr.wt n mr=f*  
+*ḏfȝw n šm-ḥr-mw=f*  
+*ʿȝ sḫr.w [...]*  
+   
+^18^ The King of Upper and Lower Egypt,  
+great of food, numerous of offerings,  
+who guides sustenance to gods and goddesses,  
+who provisions every [altar]  
+with leftovers from his table.  
+  
+He who gives food to whomever he likes,  
+and provisions to those loyal to him.  
+Great of plans [...]  
+
+</div>

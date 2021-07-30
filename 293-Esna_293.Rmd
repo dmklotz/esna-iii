@@ -1,0 +1,73 @@
+## Esna 293 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=248){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 140-141.
+
+<div class="col2">  
+
+^26^ *rȝ n ḥnk rrm.w  *  
+*ḏd-mdw  *  
+    
+*ỉnḏ-ḥr=k  *  
+*bnn šps pr m ḥʿw-nṯr  *  
+*fd.t-nṯr pr m Ptḥ  *  
+*ỉn.n Ḏḥwty m ʿ.wy=f  *  
+*ḥnk=f sw *  
+*n ẖnmw-Rʿ nb tȝ-sn.t  *  
+     
+^27^ *hȝ ẖnmw-Rʿ nb tȝ-sn.t  *  
+*mn n=k fd.t-nṯr  *  
+*pr m Ḏḥwty  *  
+*snsn=k ỉm=s  *  
+*ȝb=s ỉḥ.t=k  *  
+*swsḫ šnb.t=k ẖr=s  *  
+     
+*ỉn=s n=k zȝ-Rʿ  *  
+*(tmdyns)|  *  
+*ḫnm fnḏ=k ỉm=f rʿ-nb  *  
+   
+*mȝȝ m-sȝ=f r *  
+*p(ȝ) wḫȝ n mḥty *  
+*nty wbȝ  *  
+   
+^ Recitation for offering vessels.  
+Words spoken:  
+  
+Greetings to you,  
+august seed that emerged from god's body,  
+divine sweat that emerged from Ptah,  
+which Thoth brought with his hands,  
+so he might offer it   
+to Khnum-Re Lord of Esna.  
+  
+^27^ O Khnum-Re, Lord of Esna,  
+take the divine sweat  
+which emerged from Thoth;  
+may you breathe it,  
+your throat desires it:  
+fill your lungs with it.  
+  
+The Son of Re brings it to you,  
+(namely) (Domitian)|,  
+so your nose might breathe it daily.  
+  
+(After this, look to   
+the column to the north,  
+which is opposite this;  cf. [Esna 272] ).
+
+</div>

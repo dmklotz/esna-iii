@@ -1,0 +1,79 @@
+## Esna 291 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=246){target="_blank"}  
+- Bibliography: @sauneron-5, p. 139.
+
+<div class="col2">  
+
+^21^ *mzỉ mz.w nw wȝḏ.w   *  
+*ḥrr.t nb   *  
+*ḫ.t nb nḏm-sṯỉ  *
+*ḏd-mdw  * 
+
+*hy ẖnmw-Rʿ nb tȝ-sn.t  *  
+*ṯḥn ḥr=k*   
+*m wȝḏ.w n ʿnḫ  *  
+    
+*dỉ(=ỉ) n=k ỉȝḫ.w  *  
+*pr(.w) m qȝy.t  *  
+*rwḏ nb m nfrw=k  *  
+*qȝʿ tȝ  *  
+*rnp Nwn  *  
+*wnwn*^22^*=sn m wbn=k  *  
+     
+*šw.t ṯȝw  *  
+*ỉr wȝḏ.w n sḫm.t  *  
+*msḫn.t m ȝḫ-bỉ.t  *  
+*ỉr=sn zȝ=k   *  
+*wḥm=sn mk=k  *  
+*r ḫw(.t) nṯr ỉm=sn  *  
+     
+*ẖnmw-Rʿ nb tȝ-sn.t  *  
+*mzỉ.tw n=k ẖȝ.w nb  *  
+*m ḥr=k nfr  *
+   
+^21^ Presenting bouquets of papyrus,  
+all flowers,  
+and all sweet-scented wood.  
+Words spoken:  
+  
+Hail, Khnum-Re Lord of Esna,[^fn-291-1]  
+may your face sparkle  
+from the papyrus stalks of life.  
+  
+I give to you marsh-reeds  
+which came forth from the mound,  
+all that grows through your goodness;  
+that which the earth spits out,  
+which Nun rejuvenates:   
+they ^22^ all move when you shine.  
+  
+Protective shade for a chick,  
+the papyrus of Sakhmet serves  
+as a birth-place in Chemmis:  
+they perform your protection,  
+they repeat your guard,  
+to shield the god within them.   
+  
+Khnum-Re Lord of Esna:  
+one brings all plants to your  
+in your beautiful face.  
+
+</div>
+
+[^fn-291-1]: ![](./images/291_21_1.png){width=30%} - Khnum and Esna are aptly written with a variety of plants.

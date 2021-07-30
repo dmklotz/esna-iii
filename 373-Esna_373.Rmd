@@ -1,0 +1,89 @@
+## Esna 373 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=386){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1300){target="_blank"}  
+
+<div class="col2">
+
+^A^ *[nṯr nfr ...]  *  
+*ỉr ȝḫ.w*   
+*n qmȝ wnn.t  *  
+*sḥtp nb nḥp   *  
+*m nfrw=f  *  
+*nb ḥknw  *  
+*(twmtyns nty-ḫwỉ)|  *  
+*ʿnḫ(.w) ḏ.t mỉ-Rʿ  *  
+  
+^A^ [The good god...]  
+who performs benefactions  
+for he who created what exists;  
+who pacifies the Lord of the Potter's Wheel  
+with his perfection;  
+Lord of praise,  
+(Domitian Augustus)|  
+living eternally like Re.
+
+</div>
+
+<div class="col2">
+
+^B^ *mry [...]  *  
+*nn nṯr snỉ sw r ḥm=f  *  
+*nỉw.wt spȝ.wt grg(.w)  *  
+*n rn=f  *  
+    
+^B^ Beloved of [...]  
+without a god resembling His Majesty,  
+cities and nomes are founded  
+in his name.  
+
+</div>
+
+<div class="col2">
+
+^C^ *nṯr nfr  *  
+*snw n Šw  *  
+*ḫmt.nw ỉm=f n twȝ Nw.t  *  
+*nb qn  *  
+*(ȝwtwgrtwr ksrs)|   *  
+*ʿnḫ(.w) ḏ.t mỉ-Rʿ  *   
+  
+^C^ The good god,  
+second of Shu,  
+he is the third of He who Lifts up Nut,  
+Lord of might,  
+(Autokrator Caesar)|  
+living eternally like Re.  
+
+</div>
+
+<div class="col2">
+
+^D^ *mry ẖnmw-Rʿ  *  
+*ḥry s.t=f wr.t ḥr-ỉb Ỉwny.t  *  
+*Ḥḥ twȝ Nw.t  *  
+*m qmȝ.n ỉb=f  *  
+*Ỉwn sʿnḫ qmȝ.n=f  *  
+      
+^D^ Beloved of Khnum-Re  
+upon his Great Throne within Iunyt.  
+Heh, who lifts up Nut  
+through what his mind created.  
+Iun, who enlivens what he created.  
+
+</div>

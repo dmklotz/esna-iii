@@ -1,0 +1,72 @@
+## Esna 369 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=379){target="_blank"}  
+- Bibliography: @sauneron-5, p. 186; @leitz-loeffler, p. 15, §15f; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1295){target="_blank"}  
+
+<div class="col2">
+
+^36^ *pȝ ỉrw n ẖnmw  *  
+*ḥnʿ psḏ.t=f   *  
+*ỉr(.w) r ḏsr nb  *  
+*m-m pr.w nb.w ḥr nḥp=f  *  
+^37^ *ḥr sỉȝ ỉr.n=f  *  
+     
+*nb.w tȝ-sn.t m qỉ=sn  *  
+*r rdỉ(.t) ỉr=f bw nfr  *  
+*ḫr ḥm=sn  *  
+     
+*ỉr=tw nsw.t   *  
+*m ẖrd ḥr nḥp=f  *  
+*ḥr nty Ḥr pw  *  
+^38^ *ḥr nty Ḥr pw  *  
+   
+*ỉr nḫn nb  *  
+*zȝ Ỉs.t pw  *  
+*ỉn kȝ.w   *  
+*ḏd.ḫr=sn ỉrw=sn nb nfr  *  
+*m ḏsr ḥm=f  *  
+    
+*mȝȝ r ḏd ỉn   *  
+*ẖnmw nb tȝ-sn.t  *  
+  
+^36^ The ritual of Khnum  
+together with his Ennead,  
+performed to sanctify the Lord  
+among all who came forth upon his wheel,  
+^37^ perceiving what he did.    
+  
+The Lords of Esna are assembled,   
+to let him (Khnum) perform a good deed  
+before their Majesties.  
+  
+The king is made  
+as a child upon the Potter's Wheel,  
+because he is Horus  
+^38^ (because he is Horus).  
+  
+'As for any (royal) child  
+he is the Son of Isis!'  
+so say the Kas.  
+Then they will recite all their good speeches[^fn-369-1]  
+while sanctifying His Majesty.   
+  
+(Look to what is spoken by  
+Khnum Lord of Esna) (cf. [Esna 300] ). 
+</div>
+
+[^fn-369-1]: Literally: "rites (*ỉrw*)", this term here refers to the ritual speeches delivered by the various divinities of Esna during the divine birth festival. Cf. @sauneron-5, p. 188.

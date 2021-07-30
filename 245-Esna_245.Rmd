@@ -1,0 +1,77 @@
+## Esna 245 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style> 
+
+- Location: Column 6
+- Date: Probably Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=168){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1031){target="_blank"}  
+
+<div class="col2">
+
+^A^ *nṯr nfr*  
+*nb sḫ.t wȝḏ.t*  
+*ḥqȝ ḥn.t*  
+*ỉty ʿȝ [ḫnt] rȝ-[ḥȝ.wt]*  
+   
+*nsw.t nsty.w*  
+*bỉty wȝḏ.w*  
+*nb nfr n ỉz.ty*  
+*nb wȝḏ-wr*  
+*nṯr m n[...]*  
+  
+^A^ The good god,  
+Lord of the Green Field,[^fn-245-0]  
+Ruler of the Lake,  
+great sovereign [within] the [river] mouths.  
+  
+*nsw*-King of the *nsty*-plants,[^fn-245-1]  
+*bỉty*-King of the papyrus plants,  
+good Lord of the two lands.  
+  
+Lord of the Great Green  
+god in [...]   
+
+</div>
+
+[^fn-245-0]: Mentioned in the connected scene [Esna 243], 2.
+[^fn-245-1]: For this designation of Upper Egyptian plants, see @recklinghausen-nsty, noting this example on p. 122.
+
+<div class="col2">
+
+^B^ *nṯr nfr*  
+*sḫ.t wr.t mr.t ẖnmw*  
+*nb(.t) ḫnt-tȝ*  
+*ḥnw.t Pr-nṯr*  
+  
+*nb(.t) swnw*  
+*ḥnw.t ḥḤm*  
+*ḥqȝ(.t) ḥw.t-ỉḥw*  
+*ỉr.tw n=s dsds *  
+*m [...]*  
+  
+^B^ The good god,  
+the Great Field, beloved of Khnum,  
+Lady of Khent-ta,  
+Mistress of Per-netjer.  
+  
+Lady of Pelusium,[^fn-245-2]  
+Mistress of *Ḥȝm*,  
+Ruler of *ḥw.t-ỉḥw*,  
+for whom Bahariya was made  
+as [...]  
+
+</div> 
+
+[^fn-245-2]: The following toponyms are all wine-producing regions, since the corresponding offering scene involves wine for Nebtu: [Esna 244].

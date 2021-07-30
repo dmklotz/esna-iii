@@ -1,0 +1,139 @@
+## Esna 380 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 17
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=400){target="_blank"}  
+- Bibliography: @sauneron-5, p. 61; @goyon-thn, p. 95; @nebtu-dance, pp. 151-153; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1314){target="_blank"}.
+- Parallels: *Esna* VI, 520. See the synoptic edition: [The Dance for Menhyt-Nebtu] 
+
+<div class="col2">
+
+^25^ *wrh n Mnḥy.t-Nb.t-ww  *  
+*ỉn zȝ-Rʿ  *  
+*(pr-ʿȝ ʿnḫ ḏ.t)|  *  
+*r'.w n sḥtp ḥm=s  *  
+*ḏd-mdw  *  
+  
+^25^ Dancing for Menhyt-Nebtu  
+by the Son of Re,  
+(Pharaoh living eternally)|  
+Recitation for pacifying her majesty.  
+Words spoken:  
+ 
+</div>
+
+<div class="col2">
+
+*hrw nfr  *  
+*nṯr.w m ḥb  *  
+*rmṯ.w m ršw  *  
+*ḥr.w-nb.w m hy hnw  *  
+  
+*mw mȝwy=f* ^26^ *(r)-tr=f  *  
+*qȝy.w m qȝb mḥn  *  
+*wbs ww.w m wȝḏwȝḏ  *  
+    
+*nb.t sḫ.t  *  
+*sḫpr(.t) ỉḫt nb.w  *  
+*rr.n=s pr.w nb.w ỉm=s  *  
+    
+*bw nb (ḥr) šms-ỉb   *  
+*nt nb.t ȝḫ.t  *  
+*ỉdb.w-Ḥr tḫ.tw  *  
+*m ḥb=s  *  
+    
+*ỉȝḫ.w nb* ^27^ *ȝḫȝḫ.w  *  
+*m wbȝ=s  *  
+*grg.w ẖ(r) s.t-ḥr=s  *
+  
+A great day!  
+Gods are in festival,  
+people rejoice,  
+everybody makes *hy* and *hnw*.  
+  
+The water renews itself ^26^ (at) its time,  
+the high lands are in the coils of Mehen,  
+the fields blossom with verdure.  
+  
+The Lady of the Field,  
+who creates all things,  
+she nurtured all plants that emerged from her.  
+  
+All follow their desires,  
+of the Lady of the Field;  
+the Banks of Horus are inebriated  
+in her festival.    
+  
+All plants ^27^ are flourishing  
+in her forecourt,  
+planted under her supervision. 
+
+</div>
+
+<div class="col2">
+
+*nfr.wy wrh n kȝ=s  *  
+*ẖ.t nb.w ʿpr(.w) m nfrw=s  *  
+    
+*ṯȝy=n n=s mȝḥ n ḥrr.t  *  
+*pr=n n=s m wpy  *  
+*ȝb=n n ḥm=s  *  
+*ỉw=n gȝw=n n=s  *  
+  
+^28^ *ḫw=s tw r ḫt nb ḏw  *  
+*n tr.wy  *  
+  
+*dwȝ s(y) m-m nṯr.yt  *  
+*ỉr.t-Rʿ pw  *  
+*wbg.n=s tȝ.wy m ḥr=s  *  
+  
+*fqȝ=s zȝ-Rʿ   *  
+*(pr-ʿȝ ʿnḫ ḏ.t)|  *  
+*mr=s   *  
+*m ȝḫ.w=s  *  
+   
+*ḏd.n=s ỉry ỉry  *  
+*m nḥ.t=f s(y) (r) ȝm=s  *  
+*qȝ=s ỉmỉ.tw wp.t=f rȝ-nb  *  
+  
+How good it is to dance for her Ka!  
+Every body is equipped with her goodness.  
+  
+Let us wear crowns of flowers for her;  
+let us go out in festival for her;  
+let us dance for her Majesty,  
+let us cry and sing for her!  
+  
+^28^ May she protect you from all evil things  
+at the two cycles.[^fn-380-1]  
+  
+Worship her among goddesses!  
+She is the Eye of Re,  
+she brightened the two lands with her face.  
+  
+May she reward the son of Re,  
+(Pharaoh living eternally)|,  
+whom she loves,  
+with her benefactions.  
+  
+May she say to him 'Yes! Yes!'[^fn-380-2]  
+when he asks her consent to grab her,  
+so she is high upon his forehead, every day.
+
+</div>
+
+[^fn-380-1]: Following the interpretation of @goyon-thn, pp. 95-96, who recognized an allusion here to the two aspects of the goddess: raging (Menhyt) and pacified (Nebtu).
+[^fn-380-2]: Literally: "Will do, will do!" For this expression, see @sauneron-bifao62, pp. 21-22 (discussing this example).
