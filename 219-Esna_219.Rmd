@@ -1,0 +1,127 @@
+## Esna 219 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 3
+- Date: Probably Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=107){target="_blank"}  
+- Bibliography: @sayed-neith, II, pp. 631-632, Doc. 1002; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/951)
+
+#### Title {-}
+
+<div class="col2">  
+
+^1^ *ỉr(.t) wdn n mw.t=f*  
+*sḥb pr=s*  
+*m ḫnmw nḏm*  
+  
+^1^ Performing the litany for his mother,  
+making her temple festive  
+with sweet-smelling scent.
+
+</div>  
+
+#### The King {-}
+
+<div class="col2"> 
+
+^2^ *nṯr nfr  *   
+*snn n Rʿ*  
+*šzp-ʿnḫ n zȝ N.t*  
+*rwḏ ʿ.wy*  
+*ẖr [...]*  
+*[kȝ]p ḫm nṯr.w*  
+*m ẖms šmʿ*  
+*pr m [...]*  
+*sḥb ỉwnn*  
+  
+^2^ The good god,  
+likeness of Re,  
+living image of the Son of Neith,  
+firm of hands  
+bearing [...]  
+who [cen]ses the shrine of the gods  
+with Upper Egyptian aromatics,  
+which comes from  [...]  
+(to) make the dwelling festive.  
+  
+</div>
+
+#### Neith {-}
+
+<div class="col2"> 
+
+^3^ *smȝ=ỉ sbỉ.w=k m ȝpd.w*  
+*ỉwty [...]*  
+  
+^3^ I slaughter your rebels as birds,  
+without [...]  
+
+</div>
+
+#### Re-Harakhty {-}
+
+<div class="col2"> 
+
+^4^ *ḏd-mdw n Rʿ-Ḥr-ȝḫty*  
+*ḥry nṯr.w*  
+*nṯr-ʿȝ ḥr-ỉb tȝ-sn.t*  
+*zȝ N.t*  
+*ms.n* ^5^ *Mḥ.t-wr.t*  
+*ḫprỉ m ḏ.t=f*  
+*ỉtm m ẖ.t=f*  
+^6^ *sḥḏ wr*  
+*sḥḏ tȝ.wy m [...]*  
+   
+^7^ *dỉ=ỉ ʿšȝ ḏȝm.w[=k...]*  
+  
+^4^ Words spoken by Re-Harakhty,  
+chief of the gods,  
+great god within Esna;  
+son of Neith,  
+born of ^5^ Mehet-weret;  
+Khepri in the morning,  
+Atum in the evening;   
+^6^ the Great Light,  
+who illumines the two lands with [...]  
+  
+^7^ I let [your] generations be numerous [...]
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2"> 
+
+^8^ *nsw.t-bỉty*  
+*ḫp(r.t) m ḥȝ.t*  
+*ṯnỉ sw*  
+*r nṯr.w nṯry.t*  
+*m nty [...]r*   
+*ḫpr(.t) m Nwn*   
+*Mḥ.t-wr.t [...]*  
+*[nḥ]m zȝ=s m-ʿ ky.w=f*  
+*N.t [...] zȝ.w-[n=sn]*  
+  
+^8^ King of Upper and Lower Egypt,  
+who came about in the beginning,  
+who distinguished herself   
+above gods and goddesses,  
+as that which [...]  
+and came about from Nun;  
+Mehet-weret [...]  
+[who res]cues her son from his enemies:  
+Neith [...] of the guardian deities.  
+
+</div>

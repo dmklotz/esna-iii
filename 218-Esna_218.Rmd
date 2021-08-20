@@ -1,0 +1,128 @@
+## Esna 218 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 3
+- Date: Probably Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=105){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/942)
+- Parallels: Multiple phrases from this offering scene, including the rare spelling of 'Atum', occur in the Hapi procession from the facade of the pronaos: *Esna* II, 54.
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *[...] sḫ.t m ḥr=t*  
+*ỉḫt=s r ḫft-ḥr=t*  
+*(?) nty [...]*  
+  
+^1^ [...] the field before you,  
+its products in front of you  
+(?) which [...]  
+
+</div>  
+
+#### The King {-}
+
+<div class="col2"> 
+
+^2^ *[nṯr nfr]  * 
+*[...] n ḫnty-wȝr=f*  
+*mzỉ rwḏ m sḫ.t *   
+*ȝpd.w [...]*  
+
+^2^ [The good god]
+[...replica] of Khenty-waref,
+who brings what grows in the field,
+birds [...]
+
+</div>  
+
+#### Menhyt {-}
+
+<div class="col2"> 
+
+^3^ *ḏd-mdw n Mnḥyt-Nb.t-ww *  
+*[...]*  
+*[...]* ^4^ *sḫ.t*  
+*sḫp(r.t) ỉḫt nb.w *  
+*m kȝ.w [...]*  
+*[npry]* ^5^ *n tpy.w-tȝ*  
+*nb(.t) šȝ[.w...]*  
+^6^ *nb(.t) rȝ.w ʿšȝ ḥb.w*  
+   
+^7^ *dỉ=ỉ n=k sḫ.t [...]*  
+*ỉmy.w[=s] nb.w*  
+  
+^3^ Words spoken by Menhyt-Nebtu  
+[...]  
+^4^ [...] the field,  
+who creates all things,  
+consisting of food [...]  
+[grain] ^5^ for those upon earth;  
+Lady of the marshes [...]  
+^6^ Lady of geese, numerous of fowl.  
+ 
+</div>  
+
+#### Heka {-}
+
+<div class="col2"> 
+
+^8^ **ḏd-mdw n Ḥkȝ *  
+*wr-ḥkȝw zȝ Sḫm.t*  
+*ḫy* ^9^ *[...]*  
+*[...] Ỉtm m ḥwnw rnp *  
+^10^ *[...] rʿ-nb*  
+   
+^11^ *dỉ=ỉ thm=k rȝ.w nb m Qbḥw*  
+  
+^8^ Words spoken by Heka,  
+greatest of magic, son of Sakhmet,  
+child ^9^ [...]  
+[...] Atum[^fn-218-9] as a rejuvenated youth,  
+^10^ [...] daily.  
+  
+^11^ I compel all geese from Qebehu to you.[^fn-218-10]  
+
+</div>
+
+[^fn-218-9]: ![](./images/218_9_1.png){width=10%} - For this spelling of Atum, see also *Esna* II, 54, 12; 67, 12; 163, 13.
+[^fn-218-10]: Compare especially *Esna* II, 54, 4.
+
+#### Behind the Divinities {-}
+
+<div class="col2"> 
+
+^12^ *nsw.t-bỉty*  
+*sḫ.t nb sḫ.t*  
+*ȝḫ.t nb ȝḫ.t*  
+*Rnn.t nfr.t *  
+*[nb.t] nfrw*  
+*šms(.t) ỉb=s m ww*  
+*zb(.t)-sš m [...]*  
+*[...] sḫ.t nfr.t*  
+*Mnḥy.t-Nb.t-ww nb sḫ.t*
+  
+^12^ King of Upper and Lower Egypt,  
+Sekhet, lord of the *sḫ.t*-field,  
+Akhet, lord of the *ȝḫ.t*-field,  
+Good Renenutet,  
+[Lady] of goodness;  
+she who folows her heart in the prairie,  
+who 'roams the marshes' in [...]  
+[...] the good field:  
+Menhyt-Nebtu, Lady of the Field.
+
+</div>
