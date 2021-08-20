@@ -1,0 +1,203 @@
+## Esna 227 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 4
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=125){target="_blank"}  
+- Bibliography: @sayed-neith, II, p. 619, Doc. 1000; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/963){target="_blank"}
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *fȝỉ-ỉḫt*  
+*ḏd-mdw*  
+   
+*mn n=ṯ ỉḫt nb nfr*  
+*fȝỉ=ỉ tw=w n kȝ=ṯ*  
+^2^ *ỉw=w wʿb(.w)*  
+*ḥtp.w ḏfȝ.w nn ỉḏr=sn*  
+*ʿnḫ nṯr.w rmṯ.w m zp=sn*  
+   
+^1^ Lifting up offerings.  
+Words spoken:  
+  
+Receive all good things,  
+I lift them up to your Ka,  
+^2^ they being pure.  
+Offerings and provisions without limit, 
+gods and people live from their leftovers.
+
+</div>
+
+#### The King {-}
+
+<div class="col2">  
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^4^ *zȝ-Rʿ nb-ḫʿ.w*  
+*(twmṯyns nty-ḫwỉ)|*  
+^5^ *zȝ N.t*  
+*ḥry-ns.t n [...]*  
+    
+^6^ *[...]*  
+*ḥr s.t-Ḥr*   
+*ḫnty ʿnḫ.w*  
+*ʿn-ḥr ẖr ḏfȝ.w*  
+*dwn ʿ.wy=fy ẖr šb.w*  
+*n mw.t nṯr.w*  
+*[ḥfn.w ḥḥ.w] ḏbʿ.w*  
+*ḫȝ.w mḏ.w*  
+*nb ḏfȝ.w(?)*  
+*(tmdyns nty-ḫwỉ)|*  
+  
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^4^ Son of Re, Lord of Appearances,  
+(Domitian Augustus)|  
+^5^ Son of Neith,  
+successor of [...]  
+  
+^6^ [...]  
+upon the throne of Horus,  
+foremost of the living;  
+graceful of face bearing provisions,  
+who extends his arms bearing offerings  
+for the Mother of the Gods  
+[Myriads, millions], tens of thousands,  
+thousands, hundreds, and tens.  
+Lord of provisions(?)  
+(Domitian Augustus)|
+
+</div>
+
+#### Neith {-}
+
+<div class="col2">  
+
+^7^ *ḏd-mdw n N.t wr.t*  
+*mw.t-nṯr nb(.t) tȝ-sn.t*  
+*štȝ.t* ^8^ *ʿȝ.t*  
+*šȝʿ(.t) ḫp(r) m ḥȝ.t *  
+*wbn(.t) [m Nwn] *  
+*ỉw tȝ* ^9^ *m zmȝwy*  
+*wpš(.t) tȝ.wy*  
+*m mȝwy* ^10^ *n ỉr.t=s*  
+*ỉr(.t) ẖr.wt n ḥr.w nb.w*  
+   
+^11^ *dỉ=ỉ n=k ḥtp[.w]*  
+*nỉ rḫ ṯnw=sn*  
+  
+^7^ Words spoken by Neith the great,  
+Mother of God, Lady of Esna,  
+the great ^8^ Mysterious one,  
+who began existence in the beginning;  
+she who are [from Nun]  
+while the earth ^9^ was in darkness,  
+and illumined the two lands,  
+with the rays ^10^ of her eye.  
+She who makes food for everybody.  
+  
+^11^ I give to you offering[s],  
+whose count is innumerable.
+
+</div>
+
+#### Heka {-}
+
+<div class="col2">  
+
+^12^ *ḏd-mdw n [ḥkȝ pȝ] ẖrd*  
+*ʿȝ wr tpy n ẖnmw*  
+*ḥwnw* ^13^ *nfr*  
+*bnr mrw.t*  
+*nb wʿ *  
+*nn mỉt.t=f*  
+*štȝ ḫprw*  
+*wḥm msḫʿ.w*  
+^14^ *rnp.tw rʿ-nb*  
+*ḥʿʿ.tw n mȝȝ=f*  
+*bʿḥ tȝ.wy m nfrw=f*  
+^15^ *nb ʿnḫ*  
+*dỉ n mr=f*  
+*nṯr ʿȝ ḥr-ỉb tȝ-sn.t*  
+   
+^16^ *dỉ=ỉ n=k Km.t bw-gm*  
+*ẖr ỉḫt=sn*  
+*pḏ.t 9.t dmḏ(.w) *  
+*ẖr ṯb.ty=k*  
+  
+^12^ Words spoken by [Heka the] child,  
+the very great, first-born of Khnum,  
+the good ^13^ youth,  
+sweet of love;  
+the sole lord,  
+without his equal;  
+mysterious of forms,  
+who repeats births,  
+^14^ rejuvenating daily;  
+one rejoices to see him,  
+he who floods the lands with his goodness;  
+^15^ lord of life,  
+who give to whomever he likes:  
+great god within Esna.  
+    
+^16^ I give you Egypt and Bugem (Nubia),  
+bearing their goods;  
+the Nine Bows are joined together  
+beneath your sandals.  
+  
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">  
+
+^17^ *[...] pȝwt(.t)*  
+*nn wn ḥr-ḫw=s*  
+*wbn(.t) m Nwn*  
+*ỉw tȝ m zmȝwy*  
+*mḥ(.t) p.t tȝ *  
+*m nfrw=s*  
+  
+*grg(.t) ḥw.wt-nṯr.w*  
+*ẖr ʿḫm.w=sn*  
+*wn(.t) pr=s*  
+*r rdỉ(.t) ḥtp.w-nṯr.w*  
+*sḥb r-pr.w *  
+*m ỉḫt=s*  
+*N.t štȝ.t ʿȝ.t*  
+  
+^17^ [...] primeval,  
+there was nobody but her;  
+she who arose from Nun,  
+while the earth was in darkess,  
+and filled heaven and earth  
+with her beauty.  
+  
+She who populated the temples  
+with their divine effigies,  
+who opened her domain  
+to give divine offerings  
+and to make temples festive  
+with her products:[^fn-227-1]  
+Neith, the great Mysterious one.
+
+</div> 
+
+[^fn-227-1]: For Neith "opening" her temples to give offerings to other divinities, see especially *Esna* II, 163, 21-22; *Esna* VII, 598.

@@ -14,8 +14,8 @@
 </style>  
 
 - Location: Column 18
-- Date: Domitian 
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=386){target="_blank"}  
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=418){target="_blank"}  
 - Bibliography: @sauneron-5, pp. 201-202; @leitz-loeffler, p. 4, §1f; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1417){target="_blank"}  
 
 <div class="col2">
@@ -61,7 +61,7 @@ Hail to you!
 May your good face be kind to the Son of Re,  
 (Pharaoh living eternally)|  
 whom you love.  
-May cause his children to be great  
+May you cause his children to be great  
 in your presence, daily.
 
 </div>

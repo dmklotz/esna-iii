@@ -1,0 +1,212 @@
+## Esna 323 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 12
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=294){target="_blank"}  
+- Bibliography: @sauneron-8, pp. 35, 72-73. See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/12011){target="_blank"}
+
+This is a continuation of the Heka Litany, [Esna 242]
+
+**(110)** ![](./images/323_110.png){width=8%}
+<div class="col2"> 
+
+^27^ *n Ḥkȝ*  
+*Ḥr ṯmȝ-ʿ *  
+  
+^27^ For Heka,  
+Horus, Valiant of Arm.  
+
+</div>
+
+**(111)** ![](./images/323_111.png){width=17%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*   
+*ʿn-ḫʿ.w*   
+  
+For Heka,  
+Pleasant of appearances.
+
+</div>
+
+**(112)** ![](./images/323_112.png){width=10%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*   
+*Nfr-ḥtp*  
+  
+For Heka,  
+Neferhotep.  
+
+</div>
+
+**(113)** ![](./images/323_113.png){width=7%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*   
+*Ḫnsw pȝ ẖrd*    
+  
+For Heka,  
+Chonsu the Child.
+
+</div>
+
+**(114)** ![](./images/323_114.png){width=12%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*   
+*Ḫr-zmȝ-tȝ.wy*
+   
+For Heka,  
+Harsomtus.
+
+</div>
+
+**(115)**  ![](./images/323_115.png){width=13%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*   
+*p(ȝ)-nb-tȝ.wy*   
+  
+For Heka,  
+Panebtawy.[^fn-323-115]
+
+</div>
+
+[^fn-323-115]: This is the primary child deity from Kom Ombo.
+
+**(116)** ![](./images/323_116.png){width=12%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*      
+*nb sȝr.t*   
+  
+For Heka,  
+Lord of the *sȝr.t*-plant.[^fn-323-116]
+
+</div>
+
+[^fn-323-116]: A unique epithet. *LGG* III, 737b, translated this as *nb srd*, "Der Herr des (Pflanzen)Wachstums", which makes sense. @sauneron-8, p. 35, and @koemoth-sar, pp. 150-151, classified this as an example of the term *sȝr(.t)* (*Wb* III, 422, 5).
+
+**(117)** ![](./images/323_117a.png){width=3.5%}![](./images/323_117b.png){width=5%}
+<div class="col2"> 
+
+*n Ḥkȝ*      
+*nb wȝḏwȝḏ*   
+  
+For Heka,  
+Lord of verdure.
+
+</div>
+
+**(118)** ![](./images/323_118.png){width=13%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*   
+*wr bȝw*     
+  
+For Heka,  
+great of power. 
+
+</div>
+
+**(119)** ![](./images/323_119.png){width=11%} 
+
+<div class="col2"> 
+
+*n Ḥkȝ*     
+*ḫpr ẖr ḥȝ.t*    
+  
+For Heka,  
+who came about in the beginning.
+
+</div>
+
+**(120)** ![](./images/323_120.png){width=10%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*      
+*m rn=f nb*     
+  
+For Heka,  
+in all his names.  
+
+</div>
+
+**(121)** ![](./images/323_121.png){width=10%} 
+
+<div class="col2"> 
+
+*n Ḥkȝ*         
+*m ḫprw=f nb*   
+  
+For Heka,  
+in all his manifestations.  
+
+</div>
+
+**(122)** ![](./images/323_122.png){width=10%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*     
+*m sštȝ=f nb*      
+  
+For Heka,  
+in all his secret forms.
+
+</div>
+
+**(123)** ![](./images/323_123.png){width=8.5%}
+
+<div class="col2"> 
+
+*n Ḥkȝ*      
+*m s.t=f nb mr kȝ=f ỉm*  
+   
+*dỉ=sn ʿnḫ-ḏd-wȝs nb.w*  
+*snb nb*  
+*n zȝ-Rʿ (pr-ʿȝ)|*  
+*mỉ Rʿ ḏ.t*  
+   
+*mȝȝ r pȝ wḫȝ *  
+*nty wbȝ=f n mḥty*  
+*n ḫft-hr*  
+   
+For Heka,  
+in all places his Ka desires.  
+  
+May they give all *ʿnḫ-ḏd-wȝs*,  
+all health,   
+to the Son of Re (Pharaoh)|  
+(living) like Re, eternally!   
+  
+(Look to the column  
+which is across it to the north side  
+of the processional path)[^fn-323-123]  
+
+</div>
+
+[^fn-323-123]: According to @sauneron-oube, p. 21, this refers to column 11. Presumably, the following text would be the speech of Heka during the divine birth ritual: [Esna 308].

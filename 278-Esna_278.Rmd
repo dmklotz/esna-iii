@@ -1,0 +1,156 @@
+## Esna 278 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 9
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=228){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1091){target="_blank"}  
+
+#### Formula {-}
+
+<div class="col2">
+
+^1^ *ỉr(.t) qbḥw *   
+*r sqbb ỉb=k*  
+*snṯr r snṯr ḥʿw=k*  
+*ḏd-mdw*  
+   
+*mn n=k mw wr.w pr.w [m ...]*  
+*[...ʿn]ḫ=k*  
+^2^ *ḫp.w tp ʿ.wy=k*  
+*snṯr.tw kȝ=k*  
+*m sṯỉ nṯr*  
+*ỉỉ ḫnmw=f r fnḏ[=k...]*  
+*[...] ỉm=f*  
+  
+^1^ Offering cool water  
+to cool your heart;  
+incense to make your body divine.  
+Words spoken:  
+    
+Take these waters which emerged [from ...]  
+[...] you [li]ve,  
+^2^ which flow over your hands.  
+One offers incense to your Ka,  
+consisting of the divine scent,  
+its aroma comes to [your] nose [...]  
+[...] from it.
+
+</div>
+
+#### The King {-}
+
+<div class="col2">
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy *  
+*[...]*  
+^4^ *zȝ-Rʿ nb ḫʿ.w*  
+*(twmdy[ns ḫwỉ])|*  
+^5^ *snn n zȝ Wsỉr*  
+*ỉdn* ^6^ *s.t=f tp tȝ*  
+  
+^7^ *[nṯr nfr]*  
+*wʿb ʿ.wy*  
+*ḥr ỉr(.t) snṯr n ỉt=f*  
+*kȝp pr=f *   
+*m ẖms.w šmʿ*  
+*[...]*  
+*[nn ỉḫt] nb ḏw*  
+*ʿnḫ nṯr.w ỉm=s*  
+*mw nṯry [...]*  
+*([....] ḫwỉ)|*
+   
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands   
+[...]  
+^4^ Son of Re, Lord of Appearances,  
+(Domiti[an Augustus])|  
+^5^ Image of the Son of Osiris,  
+who takes over ^6^ his throne on earth.  
+   
+^6^ [The good god]  
+pure of hands  
+while performing incense for his father,  
+who fumigates his temple   
+with (the scent) of Upper Egyptian herbs   
+[...]  
+[without] any evil [thing],  
+from which the gods live;  
+divine water [...]  
+([....] Augustus)|  
+
+</div>
+
+#### Isis {-}
+
+<div class="col2">
+
+^8^ *ʿ.wy=ỉ ḥȝ=k*  
+*ḫwỉ=ỉ ḥʿw=k*  
+*ỉr=ỉ zȝ=k *  
+*m ww n ʿnḫ*  
+*wḏ=ỉ ḥkȝw [r] ḫfty.w=k*  
+    
+^8^ My arms are around you,  
+I protect your body,  
+and I perform your guard  
+in the Field of Life,  
+I send out magic [against] your enemies.  
+
+</div> 
+
+#### Nephthys {-}
+
+<div class="col2">
+
+^9^ *[...] nb.t Pr-nṯr*  
+*sn.t n sn=s*  
+*tm(.t) ḥr r sn=s*  
+*m-ḫnt ʿbȝ.t*  
+  
+^9^ [...] Lady of Per-netjer,  
+Sister of her brother,  
+who never leaves her brother  
+within Aba.
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^10^ *nsw.t-bỉty*  
+*ṯz tw m ršw*  
+*ʿnḫ.tw zp-snw*  
+*r-ʿ nḥḥ*  
+*nsw.t nṯr.w*  
+*ḥqȝ [rmṯ].w*  
+*wḥm-ʿnḫ ỉw r nw=f*  
+*grg(.w) spȝ.t nb n rn=f*  
+*ỉmḥ.t ḏsr.tw ẖr sštȝ=f*  
+*[nṯr?] ʿnḫ ḫnt Nb-ʿnḫ*  
+    
+^10^ The King of Upper and Lower Egypt:  
+Raise yourself in joy,  
+and live  
+unto the limits of eternity!  
+O King of the gods,  
+ruler of [peopl]e,  
+*wḥm-ʿnḫ*-flood who comes at his season,  
+the cavern is sacred bearing his image,  
+Living [god?] foremost of Neb-ankh.
+ 
+ </div>

@@ -1,0 +1,178 @@
+## Esna 372 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=384){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1299){target="_blank"}  
+
+#### Formula {-}
+
+<div class="col2">
+
+^1^ *mn n=k Ḥḥ*  
+*ty.t n ḏ.t=k*  
+*ẖnm.tw ḥnʿ [...]*  
+*[...]*  
+^2^ *ʿȝ bȝw=k*  
+*ḥr rmn zȝ.t=k*  
+*bs=k štȝ ḥr [...]*  
+*[...Nw].t*  
+   
+^1^ Take to yourself Heh,  
+the image of your body,  
+united with [...]  
+[...]  
+^2^ Your power is great  
+while supporting your daughter,  
+you mysterious image is [...]  
+[...Nu]t.
+
+</div>
+
+#### The King {-}
+
+<div class="col2">
+
+^3^ *[nsw.t-bỉty]*  
+*[nb tȝ.wy]*  
+*(ȝwtwgrtr k[y]s[rs])|*  
+^4^ *zȝ-Rʿ nb-ḫʿ.w*  
+*(twmtyns [ḫwỉ])|*  
+^5^ *ỉwʿʿ n Šw*  
+*rmn Ḥḥ [n] nb=f*   
+     
+^6^ *nṯr nfr*  
+*ỉỉ m ʿbw*  
+*ʿ.wy=f ẖr Ḥḥ*  
+*ḥfn.w ẖnm[.w...]*  
+*[...] ẖnm [...] šps*  
+*m ỉrw=f*  
+*rnp.wt=f mỉ zȝ-Ỉs.t*  
+*(twmtyns nty-ḫwỉ)|*  
+   
+^3^ [The King of Upper and Lower Egypt,]  
+[Lord of the Two Lands]  
+(Autokrator C[ae]s[ar])|  
+^4^ Son of Re, Lord of Appearances  
+(Domitian [Augustus])|  
+^5^ Heir of Shu,  
+who supports Heh [for] his lord.  
+  
+^6^ The good god,  
+who comes in purity,  
+his arms bearing Heh,  
+frogs united with [...][^fn-372-1]     
+[...] united [...] august  
+in his form.  
+His years are like the Son of Isis  
+(Domitian Augustus)|  
+
+</div>
+
+[^fn-372-1]: The following text refers to the actual Heh object the king offers: the god holds year signs in both hands, with frogs at the bottom of each.
+
+#### Khnum Upon his Great Throne {-}
+
+<div class="col2">
+
+^7^ *[ḏd-mdw n] ẖnmw-Rʿ *  
+*ḥry-s.t=f wr.t*  
+*ḥr-ỉb Ỉwny.t*  
+*[...]* ^8^ *[...]*  
+*[...Nw].t*  
+*wṯz p.t *  
+*m nfw n* ^9^ *[...]*  
+*[...] tȝ m rȝ-ʿ.wy=f*  
+*ḥry wḏb *  
+*[...]* ^10^ *[...] mỉt.t=f*  
+  
+^7^ [Words spoken by] Khnum-Re 
+who is upon his great throne  
+within Iunyt.  
+[...] ^8^ [...]  
+[...Nu]t,  
+who lifts up the sky  
+with the breath of ^9^ [...]  
+[...] the earth through his handiwork;  
+Chief of the land  
+[...] ^10^ [...] his equal.
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2">
+   
+^11^ *ḏd-mdw n Nb.t-ww*  
+*ỉr.t-Rʿ ḥr(.t) s.t[=s wr.t]*  
+*[...]*  
+*[...]* ^12^ *ỉqr(.t)*  
+*mnḫ sḫr.w*  
+*mḥy.t nfr.t*  
+*ẖnm(.t) sn=s*  
+^13^ *nṯr.t ḫw(.t) zȝ=s mr=s*  
+*ṯnỉ(.t) [sw?] r nṯr.w*  
+   
+^14^ *dỉ=ỉ n=k [...]*  
+*m mȝʿ-ḫrw*  
+  
+^11^ Words spoken by Nebtu  
+Eye of Re, upon [her great] throne  
+[...]  
+[...] ^12^ excellent,  
+effective of plans;  
+the Good North-wind  
+who unites with her brother;  
+^13^ the goddess who protects her beloved son,  
+and distinguishes [him?] above the gods.  
+  
+^14^ I give you [...]
+in justification.
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^15^ *nsw.t-bỉty*  
+*Ḥḥ wṯz Nw.t*  
+*smn štȝ.t*  
+*m rȝ-ʿ.wy=f*  
+*wr ḥz.wt m-m nṯr.w*  
+*ʿȝ ỉrw ḫnt psḏ.t*  
+*p.t ḥr tp=f*  
+*tȝ ẖr rd.wy=f*  
+*(ḥr) swḏȝ ỉmy.w dwȝ.t*  
+*m nfw=f*  
+*ẖnmw ỉr p.t ḥnʿ ỉmỉ=s*  
+  
+^15^ The King of Upper and Lower Egypt,  
+Heh who lifts up Nut,  
+who makes firm the firmament  
+with his actions.  
+Great of praise among gods,  
+great of form[^fn-372-2] within the Ennead.  
+The sky is on his head,  
+the earth beneath his feet,  
+reviving those within the Duat  
+by means of his breath:  
+Khnum who made the sky   
+and those within it.  
+
+</div>
+
+[^fn-372-2]: ![](./images/372_15.png){width=12%} - Based on parallelism with the other epithet, the first sign appears to write *ʿȝ*. Compare a similar spelling in [Esna 392], 20.

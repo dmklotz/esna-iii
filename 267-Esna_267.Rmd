@@ -1,0 +1,144 @@
+## Esna 267 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 8
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=211){target="_blank"}  
+- Bibliography: Cf. entries in [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1071){target="_blank"}
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *mn n=k ʿȝb.t*  
+*m ỉḫt nb.w nfr*  
+*wḏ.n=ỉ n kȝ=k*  
+*m wsḫ(.t) nb nfr*  
+  
+^1^ Receive the great offering  
+of all good things,  
+which I granted to your Ka  
+in all good courtyards.  
+
+</div>
+
+#### The King {-}
+
+<div class="col2">  
+
+^2^ ^3^ ^4^ *[...] n ḥry-nṯr.w *   
+  
+^5^ *nṯr nfr*  
+*Ḥʿpỉ n Km.t*  
+*wḏ nfr.w n ỉdb.w-Ḥr*  
+*[...]*  
+*ḥḥ n kȝ.w*  
+*bʿḥ [...]*  
+*[...] m ȝḫ.w=f*  
+*nb ḏfȝ.w*  
+*(ỉtryns [nty] ḫwỉ)| *  
+  
+^2^ ^3^ ^4^ [...] of Chief of the Gods.  
+  
+^5^ The good god,  
+Hapi of Egypt,  
+who grants good things from the Banks of Horus  
+[...]  
+millions of foods,  
+who floods  [...]  
+[...] with his excellent things:  
+Lord of Provisions,  
+(Hadrian Augustus)|
+
+</div>
+
+#### Khnum-Shu(?)[^fn-267-1] {-}
+
+<div class="col2">  
+
+^6^ *[...] *  
+*[...]* ^7^ *ḏsr *  
+*nṯr nṯry *  
+*[...]* ^8^ *wr *  
+*nn rḫ.tw=f*  
+*pr m ỉgb *  
+*[...]*  
+^9^ *rwḏ ỉb=f r sʿnḫ *  
+   
+*Rʿ pw ḥry nṯr.w*  
+*ssȝỉ [...]*  
+*[... nn]* ^10^ *qn rnp.t*  
+*nḫy nfr n mḥ-ỉb r=f*  
+*nn(?) rnp.wt*  
+*n* ^11^ *ỉsfty.w*  
+   
+^12^ *dỉ=ỉ n=k pr ỉm=ỉ*  
+*rwḏ ḥr-sȝ=ỉ *  
+*psḏ [...]*  
+  
+^6^ [...]  
+[...] ^7^ sacred,  
+the divine god  
+[...] ^8^ great,  
+without his being known,  
+who comes forth as the wind [...]  
+^9^ whose mind is set to keep people alive.  
+  
+He is Re, Chief of the Gods,  
+who satiates [...]  
+[...without] ^10^ a year of famine,  
+good protector   
+of whomever trusts in him;  
+there are no(?) years   
+for the evil-doers.  
+  
+^12^ I give you that which came forth from me,  
+which grows from my back,  
+which shines [...].
+ 
+</div>
+
+[^fn-267-1]: As @sauneron-3, p. 166, n. a, suggested, the god in the upper and lower bandeaus from this column is Khnum-Shu: [Esna 257], B and [Esna 268], B.
+
+#### Unknown Goddess {-}
+
+<div class="col2">  
+
+^13^ *[...]*  
+*m ḥtp.w ḏfȝ.w*  
+*bw-wr mỉ ʿšȝ=sn*  
+*nn qn rnp.t m hȝw=k*  
+   
+^13^ [...]   
+consisting of offerings and food,  
+great things as they are numerous,  
+so there is no year of famine in your era.
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">  
+
+^14^ *nsw.-t-bỉty *  
+*bȝ [...]*  
+*ʿȝ ʿȝ.w *  
+*nb Ỉwny.t*  
+  
+^14^ King of Upper and Lower Egypt,  
+Ba [...]  
+greatest of the great,  
+Lord of Iunyt.
+</div>

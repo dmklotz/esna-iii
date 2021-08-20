@@ -1,0 +1,86 @@
+## Esna 393 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 18
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=420){target="_blank"}  
+- Bibliography: @sauneron-1, p. 48; @sauneron-5, pp. 204; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1420=){target="_blank"}  
+
+<div class="col2">
+
+^21^ *ky dwȝ ẖnmw  *  
+*ḏd-mdw  *  
+    
+*ỉnḏ-ḥr=k ẖnmw-Rʿ nb tȝ-sn.t*  
+*ṯnỉ.n=f sw r nṯr.w*  
+^22^ *ẖnmw tȝ-ṯnn*  
+*ḫnty ḥmw.w*  
+*ỉt-ỉt.w*  
+*ʿpr zȝṯ m zȝ.ty=fy*  
+*Šȝỉ rnn.t*  
+   
+*nb kȝ.w*  
+*ʿḫỉ p.t m ʿ.wy=f*  
+*sḫm ḏsr *  
+*ḥr-ỉb ṯpḥ.t-ḏȝ.t*  
+^23^ *qȝ šw.ty*  
+*spd ḥn.ty *  
+*Ỉmn wr ḫpr ḥȝ.t*  
+*qmȝ p.t tȝ dwȝ.t*  
+   
+*hy n=k *  
+*ỉr wnn.t rn=k*  
+*ḥtp ḥr=k nfr*  
+*n (pr-ʿȝ ʿnḫ ḏ.t)|*  
+   
+*dỉ=k wn=f ḫʿỉ.tw *   
+*ḥr s.t-Ḥr *  
+*ḫnty kȝ.w ʿnḫ.w nb.w*  
+*mỉ Rʿ ḏ.t*  
+
+^21^ Another hymn of Khnum.    
+Words spoken:    
+    
+Greeting to you, Khnum-Re Lord of Esna!  
+He distinguished himself over the gods.   
+^22^ Khnum-Tatenen,  
+foremost of craftsmen,  
+father of fathers,  
+who equipped the earth with his two children:  
+Shai and Renenet.    
+  
+Lord of Kas,  
+who lifts up heaven with his arms.  
+Sacred image[^fn-393-1]   
+within the Blocked Cavern;[^fn-393-2]   
+^23^ tall of double plumes,  
+sharp of horns,  
+Amun the great, who came about before,  
+who created heaven, earth, and the Duat.  
+  
+Praise unto you,  
+'He who made what exists' is your name.  
+May your good face be kind   
+to (Pharaoh living eternally)|  
+  
+May you cause him to appear in glory  
+upon the throne of Horus,  
+foremost of all the living Kas,  
+like Re, eternally.
+
+</div>
+
+[^fn-393-1]: ![](./images/393_22_1.png){width=15%}![](./images/393_22_2.png){width=14%} - As @sauneron-1, p. 48 already noted, multiple words in this hymn are spelled first acrophonically, and then again in standard Ptolemaic orthographies. Here *sḫm* is derived *s < sỉȝ*, *ḫ < ḫpš*, and *m < mnš*, "cartouche"; *ḏsr* comes from *ḏ < d < dḫn*, "obelisk", *s* < Sobek, *r < rḫy.t*.
+[^fn-393-2]: ![](./images/393_22_3a.png){width=8.5%}![](./images/393_22_3b.png){width=28%} - @sauneron-1, p. 48, did not explain this spelling, but several of the phonetic values are tabulated without citations in @sauneron-8, pp. 192-194. The signs appear to be derived as follows: *ṯpḥ(.t)* = *ṯ < dwȝ.t, p < p.t*, *ḥ < ḥfȝ* or *ḥrr.t*, "snake"; *ḏȝ.t < ḏʿ.t*(see the 'Klartext' spelling here) = *ḏ < tȝ*, *ʿ < ʿ.wy < wp* (two arms < two horns).

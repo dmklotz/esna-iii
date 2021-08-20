@@ -1,0 +1,87 @@
+## Esna 280 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 9
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=233){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1096){target="_blank"}  
+
+<div class="col2">
+
+^A1^ *Wsỉr nb ʿbȝ.t*  
+*nṯr ʿȝ ḫnty Pr-nṯr*  
+*nṯr šps ḫnty spȝ.wt nỉw.wt*  
+*ỉty ʿȝ m ḥw.t-ỉt*  
+*ḥw.t-bȝw nṯr.tw *  
+*ẖr sštȝ=f*  
+*wʿb.tw mn.tw ḏ.t*  
+  
+^A1^ Osiris Lord of Aba,  
+great god, foremost of Per-netjer,  
+august god, foremost of nomes and cities,  
+great sovereign in the Temple of the Father,  
+Temple of the Bas is sacred  
+bearing his mysterious image,  
+pure and enduring forever.  
+
+</div>
+
+<div class="col2">
+
+^A2^ *nṯr nfr*  
+*ḏsr pr n ỉt=f*  
+*mn.tw ẖr sštȝ=f*  
+*nty rn=f r Pr-nṯr *   
+  
+*nb ʿbw*  
+*(t[mtyns ḫwỉ])|*  
+    
+^A2^ The good god,  
+who sanctifies the temple for his father,  
+enduring bearing his sacred image,  
+the name of which is Per-netjer.  
+   
+The lord of purification,  
+(Do[mitian Augustus])|  
+
+</div>
+
+<div class="col2">
+
+^B1^ *nṯr [nfr...]*  
+  
+^B1^ The [good] god [...]
+
+</div>
+
+<div class="col2">
+
+^B2^ *ẖnmw-Rʿ nb sḫ.t*  
+*bȝ tkk dr ḫrwy.w=f*  
+*[...]*  
+*[...] ḫfty.w=f*  
+*ẖr ẖkrw=f n ʿḥȝ*  
+*m 2/3 n 3-nw n šmw*  
+  
+^B2^ Khnum-Re Lord of the Field,  
+Raging Ba, who repels his rebels  
+[...]  
+[...] his enemies,  
+wearing his battle armor[^fn-280-1] 
+on III Shomu 20 (cf. [Epiphi 20](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#epiphi-20){target="_blank"} )  
+
+</div>
+
+[^fn-280-1]: Cf. *Esna* II, 127, 1; [Esna 261], 17, §9.

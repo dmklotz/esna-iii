@@ -1,0 +1,302 @@
+## Esna 261 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 8
+- Date: Antoninus Pius 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=202){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 364-366; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1056){target="_blank"}
+
+<div class="col2">  
+
+^15^ *rs.w nw ẖnmw *  
+*ḏd-mdw*  
+  
+^15^ The awakenings of Khnum.  
+Words spoken:  
+
+</div>
+
+#### §1 {-}
+
+<div class="col2"> 
+
+*rs=k nfr m ḥtp *  
+   
+*rs ẖnmw Ỉmn wr*  
+*pr m Nwn*  
+*m ḥtp*  
+*rs=k ḥtp.tw*  
+  
+Awake beautifully in peace!  
+  
+Awake,[^fn-261-1] Khnum Amun the great,  
+who came forth from Nun,  
+in peace!  
+May you awake, having rested!  
+
+</div>
+
+[^fn-261-1]: The *zp-snw* indicates the initial *rs* hieroglyph is to be read  a second time here.
+
+#### §2 {-} 
+
+<div class="col2">
+
+*rs nb sḫ.t*  
+*ẖnmw wr*  
+*rdỉ tȝš=f m ww*  
+^16^ *m ḥtp*  
+*rs=k ḥtp.tw*  
+  
+Awake, Lord of the Field,[^fn-261-1b]  
+Great Khnum,  
+who places his boundary in the field,  
+^16^ in peace!  
+May you awake, having rested!
+
+</div>
+
+[^fn-261-1b]: Note that several of the epithets from §§2-4 occur together in [Esna 225], 4, §3.
+
+#### §3 {-}
+
+<div class="col2"> 
+
+*rs nb nṯrw rmṯ.w*  
+*nʿš dnỉw.t*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, Lord of gods and people,  
+fierce of shouts,  
+in peace!  
+May you awake, having rested! 
+  
+</div>
+
+#### §4 {-}
+
+<div class="col2"> 
+
+*rs ʿȝ sḫr.w *  
+*wr bȝw n šmʿ-mḥw*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, Great of Plans,  
+Large of power in Upper and Lower Egypt  
+in peace!  
+May you awake, having rested! 
+
+</div>
+
+#### §5 {-}
+
+<div class="col2"> 
+
+*rs nb ʿnḫ*  
+*ẖnm ỉd.wt*  
+*bs n=f nṯr.w rmṯ.w*  
+*ḥr ỉr(.t) wḏ.t=f*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, Lord of Life,  
+who unites with females,  
+for whom gods and people come forth  
+doing whatever he commands,  
+in peace!  
+May you awake, having rested! 
+</div>
+
+#### §6 {-}
+
+<div class="col2"> 
+
+*rs bȝ wr-šfy.t*  
+*qȝ-šw.ty spd-ḥn.ty*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, Ba great of prestige,  
+tall of plumes, sharp of horns  
+in peace!    
+May you awake, having rested! 
+
+</div>
+
+#### §7 {-}
+
+<div class="col2"> 
+
+*rs rw ʿȝ*  
+*shd rqy.w*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+   
+Awake, great lion,  
+who punishes the rebels[^fn-261-2]  
+in peace!  
+May you awake, having rested!  
+
+</div>
+
+[^fn-261-2]: ![](./images/261_16_7.png){width=35%} - @sauneron-5, p. 365 translated "grand lion qui triomphe des rebelles"; *LGG* IV, 651a and 815b-c, registered the two epithets as: *rw ʿȝ* and *hd rqy.w*. Neither appear to have explained the presence of the crocodile. The simplest explanation is to understand it as representing the uniliteral *s*, thus writing the similar epithet shd rqy.w (*LGG* VI, 446b-c).
+
+#### §8 {-}
+
+<div class="col2"> 
+
+*rs ỉty qn nḫt*  
+^17^ *ỉṯ r-ḏr ḥr=f*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, mighty and victorious sovereign (*ỉty*),
+^17^ who seizes (*ỉṯ*) whatever is before him[^fn-261-3]  
+in peace!  
+May you awake, having rested! 
+
+</div>
+
+[^fn-261-3]: The same set of epithets, also employing multiple crocodiles, occurs in *Esna* VII, 619, 46.
+
+#### §9 {-}
+
+<div class="col2"> 
+
+*rs ḥbs ḥr=f*  
+*'ḫn.n=f ỉr.ty=f*  
+*r ḫfty.w=f*  
+*ẖr ẖkr.w nw ʿḥȝ*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, he who covered his face,  
+and shut his eyes  
+against his enemies,  
+bearing battle armor,[^fn-261-4]  
+in peace!    
+May you awake, having rested! 
+
+</div>
+
+[^fn-261-4]: Similar set of epithets for Khnum, during the battle of 20 Epiphi, in *Esna* II, 127, 1; [Esna 225], 28, §88; [Esna 280], B2. 
+
+#### §10 {-}
+
+<div class="col2"> 
+
+*rs ḥqȝ mnỉ.w*  
+*ṯȝy ʿwn *  
+*n dm thỉ sw*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, chief of the herdsmen,  
+who seizes the baton  
+for striking whomever attacks him,  
+in peace!    
+May you awake, having rested! 
+
+</div> 
+
+#### §11 {-}
+
+<div class="col2"> 
+
+*rs ḫnt ʿȝ*  
+*ḥr ḏd*  
+*smȝ wʿ snw=f ỉm=tn*  
+*m ḥtp *  
+*rs=k ḥtp.tw*
+
+Awake, great crocodile,  
+saying:  
+'May one kill his second among you!'[^fn-261-5]  
+in peace!    
+May you awake, having rested! 
+
+</div>
+
+[^fn-261-5]: This is a direct quotation from the mythological treatise related to Payni 9, when Khnum-Shu massacres the rebels for his father: [Esna 196], 24.
+
+#### §12 {-}
+
+<div class="col2">
+
+*rs Šw ṯmȝ-ʿ*  
+*nḏty n ỉt=f*  
+*ḥwỉ ẖȝk.w-ỉb.w*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, Shu, valiant of arm,  
+protector of his father,  
+who strikes the disaffected ones,  
+in peace!     
+May you awake, having rested!   
+
+</div>
+
+#### §13 {-} 
+
+<div class="col2"> 
+
+^18^ *rs bȝ tkk*  
+*dr ḫrwy.f*  
+*mnỉw n ỉmy.w-ḫ.t=f*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+^18^ Awake, Raging Ba,  
+who drives away his rebels,  
+shepherd of his followers,  
+in peace!     
+May you awake, having rested! 
+
+</div>
+
+#### §14 {-}
+
+<div class="col2"> 
+
+*rs ʿšȝ ỉrw*  
+*šd ḫprw*  
+*r-ḏr ỉb=f*  
+*m ḥtp *  
+*rs=k ḥtp.tw*  
+  
+Awake, numerous of forms,  
+who assumes new manifestations  
+whenever he pleases,  
+in peace!     
+May you awake, having rested! 
+
+</div>
+
+#### §15 {-}
+
+<div class="col2"> 
+
+*rs ẖnmw *  
+*qdỉ r mr=f*  
+*dỉ z nb.w r ʿ=f*  
+    
+Awake, Khnum,  
+who builds as he desires,  
+and puts all people in their place.
+
+</div>

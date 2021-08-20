@@ -1,4 +1,10 @@
-tmp_theme:
+bookdown::bs4_book:
+  theme:
+    primary: "#9B110E"
+    font_scale: .5
+  includes:
+    in_header: [ga_script.html]
+  css: style.css
 
 bookdown::pdf_book:
   includes:

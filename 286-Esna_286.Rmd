@@ -1,0 +1,87 @@
+## Esna 286 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=243){target="_blank"}
+- Bibliography: @sauneron-5, p. 137.
+
+<div class="col2">  
+
+^15^ *ḥnk rnp.w*  
+*ḏd-mdw*  
+   
+*pr(=ỉ) r šȝ.t*  
+*zbỉ=ỉ sš m sḫ.t*  
+*ʿq=ỉ r s.t=k tp dwȝw*  
+  
+*ww=k wpš(.w) m mfk*  
+^16^ *sṯỉ(.w) m ṯḥn*  
+   
+*wr sm.w*  
+*ʿšȝ n=s rnp.w*  
+*sw nn rḫ ṯn=sn*  
+*ḥtp.w=s mỉ ȝḫ.t *  
+*hrw wȝḏ*  
+*šmȝ.w=s nb ḥr wp šn=sn*  
+*ȝḫḫ=sn m wbȝ=k rʿ-nb*  
+  
+*m.k*  
+*twt ḥr-tp ȝḫ.t*  
+*ỉr ȝḫ.w*  
+   
+*ḥtp ḥr=k nfr *  
+*n ḫnty-š mr=k*  
+*(tmdyns ḫwỉ)|*  
+   
+^17^ *wȝḏ=k n=f šn.w-tȝ nb*  
+*ḥr-sȝ tȝ*  
+*sṯḥn=f ṯḥn.ty=f*  
+*m rnp.w r ḥn.ty*  
+  
+^15^ Offering fresh plants.  
+Words spoken:  
+  
+As I go out to the fen,  
+so do I 'roam the marshes' in the field:  
+thus do I enter your place early morning.  
+    
+Your field is bright with turquoise,  
+^16^ as it is strewn with faience.[^fn-286-0]   
+  
+Great of vegetation,  
+its fresh plants are numerous,  
+their number cannot be known;  
+its plant-offerings are like the field  
+on a green day;  
+all its flowers are opening their blossoms,  
+they flourish in your forecourt, daily.[^fn-286-1]  
+  
+Behold, your are chief of the field (*ȝḫ.t*),  
+who performs benefactions (*ȝḫ.w*).  
+  
+May your face be kind   
+to the chief of agriculture, whom you love,  
+(Domitian Augustus)|  
+  
+^17^ May you make prosper for him all plants  
+upon the earth,  
+and he will make your eyes (*ṯḥn.ty*) sparkle (*sṯḥn*)  
+with fresh plants, forever.
+
+</div>
+
+[^fn-286-0]: For the field brightened and strewn with "faience", linked to the return of Nebtu in the Spring, see [Esna 236], and @goyon-thn.
+[^fn-286-1]: This entire passage has a parallel in *Esna* II, 169, 8-9.

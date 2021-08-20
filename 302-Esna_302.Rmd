@@ -1,0 +1,120 @@
+## Esna 302 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 11
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=263){target="_blank"}
+- Bibliography: @sauneron-5, pp. 199-200; @leitz-loeffler, pp. 55-56; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1156){target="_blank"}
+
+
+<div class="col2">  
+
+^12^ *ky dwȝ ẖnmw*  
+*ḏd-mdw*  
+   
+*ỉnḏ-ḥr=k*  
+*nṯr šps qmȝ ỉrw* ^13^ *rʿ-nb*  
+*ỉb=f mnḫ rwḏ ʿ.wy=f*  
+*mr.n=f grg*  
+*nb nḥp*  
+*qd rmṯ.w*  
+*ỉr nṯr.w ʿ.wt mnmn.t*  
+*pȝy.w ḫnn.w ḥrr.w nb*  
+   
+*ỉwn wr *  
+*ʿq(?) m ḥʿw štȝ.t*  
+*sšp ʿ.t ỉmn m mȝwy=f*  
+*pẖr swḥ(.t) m swḥ*  
+*swḏȝ qmȝ.n=f*  
+*m ẖ.t nb *  
+  
+^12^ Another hymn of Khnum.  
+Words spoken:  
+  
+Greetings to you,  
+august god who creates forms ^13^ daily,  
+whose heart is excellent, and hands firm,  
+since he loved to populate.  
+Lord of the potter's wheel,  
+who built people,  
+and made gods, small livestock, cattle,  
+birds, fish, and all snakes.  
+  
+Great pillar of air,  
+who enters(?)[^fn-302-1] the flesh of the womb,  
+who illumines the hidden region with his rays,  
+who surrounds the egg (*swḥ.t*) with air (*swḥ*),  
+who protects what he created   
+in every belly.
+   
+</div>
+
+[^fn-302-1]: The verb is written as *pr*, "to come forth", but that makes little sense in context. Rather, the snake was probably meant to face inwards, thus writing *ʿq*, "to enter."
+
+<div class="col2">
+
+^14^ *ỉr ẖr.wt n ṯȝw*  
+*m ȝbd 10*  
+*wbȝ qrḥ.t*  
+*sd s(y) r ssw=s*  
+   
+*rdỉ wȝ.t n gȝw ỉḥ.ty*  
+*n nw=s*  
+*grg tȝ m ḥmww=f*  
+*r ḥn.ty*  
+   
+*nsw.t-bỉty*  
+*ẖnmw-Rʿ nb tȝ-sn.t*  
+*ḥry nḥp*  
+*nb psḏ.t*  
+*qdỉ-qdỉ.w*  
+*rrỉ-rr.w*  
+^15^ *ẖnmw-Rʿ ỉr ẖnm.w*  
+   
+*ḥtp ḥr=k nfr*  
+*n zȝ=k mr=k*  
+*(pr-ʿȝ ʿnḫ ḏ.t)|*  
+*grg=k n=f bw nb.w*  
+*m mnw.w=k ḏ.t*  
+  
+^14^ He who makes food for the fetus  
+for 10 months,  
+who opens the amniotic sac,  
+and breaks it open at its day.  
+  
+Who makes a path for the not-yet-breathing[^fn-302-2]  
+at its moment,  
+and populates the earth through his handicraft,  
+for all eternity.  
+     
+The King of Upper and Lower Egypt,  
+Khnum-Re Lord of Esna,[^fn-302-2b]  
+Chief of the potter's wheel,  
+Lord of the Ennead,  
+Builder of Builders,  
+Nurse of Nurses,  
+^15^ Khnum-Re who made the 7 Khnums.[^fn-302-3]  
+  
+May your good face be kind  
+to your son whom you love,  
+(Pharaoh living eternally)|  
+May you settle all places for him  
+with your 'monuments', eternally.  
+
+</div>
+
+[^fn-302-2]: Literally: "tight of throat", @leitz-loeffler, pp. 22, n. 91, 48; 101-102, n. t,  recognized this is a frequent designation of the fetus, since it does not yet breathe through the throat. This epithet thus refers to Khnum guiding the newborn through the birth canal. Compare the parallel in [Esna 320], 22.
+[^fn-302-2b]: ![](./images/302_14_1.png){width=20%} - Note the spelling of Esna, which evokes themes of procreation, newborns, and the potter's wheel; cf. also [Esna 369], 38, and @leitz-loeffler, p. 93, n. l.
+[^fn-302-3]: ![](./images/302_14_2.png){width=13%} - @leitz-loeffler, p. 55, recently transcribed the first epithet as *nḥp-nḥp.w*, "der die Töpfer töpfert". Yet an earlier example of this sequence clearly writes *qdỉ-qdỉ.w*, "builder of builders" (*Hibis* III, Pl. 32, 6-7). In *Esna* II, 183, 5, the same group occurs in an alliterative stanza featuring *q* (*sqȝ.n=f qȝy n qdỉ-qdỉ.w*), which further supports the present reading.
