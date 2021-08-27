@@ -20,7 +20,8 @@
 
 <div class="col2">  
 
-^21^ *ḏd-mdw n nsw.t-bỉty*  
+^21^ *ḏd-mdw *  
+*n nsw.t-bỉty*  
 *Wsỉr*  
 *nb tȝ.wy *  
 ^22^ *(Wn-nfr mȝʿ-ḫrw)|*  
@@ -35,7 +36,8 @@
 *wsr.tw m tȝ.wy ḫȝs.wt*  
 *ḥqȝ m qn nḫt*   
    
-^21^ Words spoken by the King of Upper and Lower Egypt,  
+^21^ Words spoken   
+by the King of Upper and Lower Egypt,  
 Osiris,[^fn-307-1]  
 Lord of the Two Lands,  
 ^22^ (Wennefer justified)|  
@@ -98,7 +100,7 @@ my son, Horus,
 *ẖr ṯb.ty=k*  
 *ḫfty.w=k ḫr(.w)*  
 *ẖr=k*  
-*Km.t ḥtp(.w) ḥr mȝ=k*  
+*Km.t ḥtp(.tw) ḥr mw=k*  
 *ḥqȝ n nḥḥ*  
 *nn wḥm.ty=fy*  
     

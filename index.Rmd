@@ -36,7 +36,7 @@ All the published volumes of Esna temple were recently (2021) released as [open-
 n_total <- length(list.files(pattern = "Esna_"))
 
 ```
-*Esna* III is by far the largest and densest volume of the series, covering scenes #194-398 (not all with inscriptions). So far, **`r n_total`/205 (`r round(100.0*n_total/205.0, 1)`%)** of those scenes are complete and online. As with *Esna* II, I'll probably work first on the shortest inscriptions before moving to the longer hymns and festival descriptions.
+*Esna* III is by far the largest and densest volume of the series, covering scenes #194-398 (not all with inscriptions). So far, **`r n_total`/207 (`r round(100.0*n_total/207.0, 1)`%)** of those scenes are complete and online. As with *Esna* II, I'll probably work first on the shortest inscriptions before moving to the longer hymns and festival descriptions.
 
 ## Contribute! {-}
 
