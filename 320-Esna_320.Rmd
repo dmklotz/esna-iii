@@ -80,8 +80,7 @@ for the 'not-yet-breathing' at its time.[^fn-320-4]
 
 </div>
 
-[^fn-320-1]: ![](./images/320_22_1.png){width=18%} - As @leitz-loeffler, p. >>, suggested, this serpent (which elsewhere writes "Shai"), could here write Swi, "lack", creating alliteration with "Shu."  
-
+[^fn-320-1]: ![](./images/320_22_1.png){width=18%} - As @leitz-loeffler, p. 134, n. h, suggested, this serpent (which elsewhere writes "Shai"), could here write *šwỉ*, "lack", creating alliteration with "Shu."  
 [^fn-320-2]: ![](./images/320_22_2.png){width=15%} - Reading uncertain. @sauneron-5, p. 235, n. 5 (followed by most translators), split up the text differently, and suggested *nn ḥr ỉb*, "sans que le coeur s'éloigne (de?)", understanding *ḥr* < *ḥrr.t*, "flower." For a medical interpretation of that reading, see @leitz-loeffler, p. 56, n. 195. Instead, the rosette can also write *wbȝ < wȝb/wnb*, "blossom", and thus we have a standard epithet denoting intelligence and attentiveness (*Wb* I, 290, 21). 
 [^fn-320-4]: As in other texts at Esna, the 'not-yet-breathing' (lit. tight-throated one) is a euphemism for the fetus: cf.  @leitz-loeffler, pp. 22, n. 91, 48; 101-102, n. t.
 
@@ -128,4 +127,4 @@ beloved of Khnum.
 </div>
 
 [^fn-320-6]: ![](./images/320_23_1.png){width=33%} - In both phrases, the demonstrative pronoun *tn* is written with the city sign (*n < nỉw.t*). Nonetheless, it is unclear how the stick sign functions in the phrase *nỉw.t tn*, "this city."
-[^fn-320-7]: For the verb xtb, "to found or populate (a region)", see the referneces in @klotz-caesar, p. 59, n. 99.
+[^fn-320-7]: For the verb *ḫtb*, "to found or populate (a region)", see the referneces in @klotz-caesar, p. 59, n. 99.

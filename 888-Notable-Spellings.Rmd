@@ -1,20 +1,25 @@
 # Notable Spellings {-}  
   
-*ȝw.t-ỉb*, "happiness"  
+*ȝw.t-ỉb*, "happiness"; *ȝw-ỉb*, "to be happy"  
   
-![](./images/194_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B
+![](./images/194_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B; [Esna 341], 8  
 
 *ȝḫ.t*, "the Akhet"  
   
 
-![](./images/379_24_11a.png){width=6.5%}![](./images/379_24_11b.png){width=2.2%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24; [Esna 395], 16
-Iwny.t, "Iunyt (Esna)  
+![](./images/379_24_11a.png){width=6.5%}![](./images/379_24_11b.png){width=2.2%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24; [Esna 395], 16  
+  
+*Ỉwny.t*, "Iunyt (Esna)"  
   
 ![](./images/259_3_5.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 259], 3, §5; 
 
-*ỉrỉ*, "to do; make"
+*ỉmỉ.t-pr*, "inheritance document"  
+  
+![](./images/332_bis_28_2.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 332^bis^], 28 
+  
+*ỉrỉ*, "to do; make"  
 
-![](./images/224_1b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis)  
+![](./images/224_1b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis); [Esna 332^bis^], 28  
 
 *ỉrṯ.t*, "milk"  
   
@@ -31,11 +36,13 @@ Iwny.t, "Iunyt (Esna)
   
 *Ỉs.t*, "Isis"   
 
-![](./images/369_38_1.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 369], 38
+![](./images/369_38_1.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 369], 38  
+  
+![](./images/307bis_23_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 307^bis^], 23  
   
 *Ỉtm*, "Atum"  
   
-![](./images/218_9_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 218], 9
+![](./images/218_9_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 218], 9  
 
 *ỉtn*, "solar disk"  
   
@@ -60,6 +67,10 @@ Iwny.t, "Iunyt (Esna)
   
 ![](./images/379_23_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 23 
   
+*Wsỉr*, "Osiris"  
+  
+![](./images/307_21.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 307], 21    
+ 
 *bȝw*, "power"  
   
 ![](./images/392_20_5.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 20   
@@ -71,6 +82,10 @@ Iwny.t, "Iunyt (Esna)
 *pḥ*, "to reach; attack"  
   
 ![](./images/392_20_3.png){width=8.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 20
+  
+*fd.t*, "four (feminine)"  
+  
+![](./images/313_A_3a.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 313], A  
 
 *m*, "in; as; from"  
   
@@ -110,7 +125,11 @@ Iwny.t, "Iunyt (Esna)
 *mzỉ*, "to present; offer"
   
 ![](./images/347_25a.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 347], 25 
-
+  
+*msḫn.t*, "birth brick"  
+  
+![](./images/313_A_8.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 313], A  
+  
 *Ptḥ*, "Ptah"
 
 ![](./images/224_2b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2  
@@ -122,14 +141,18 @@ Iwny.t, "Iunyt (Esna)
 *nb*, "lord" and *nb*, "all" 
   
 ![](./images/328_A1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 328], A; [Esna 393], 23   
-   
+  
+![](./images/362_D_0.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 362], D  
+    
 ![](./images/273_6_1.png){width=4.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 273], 6  
   
 ![](./images/379_24_4.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24   
 
 *Nb.t-ww*, "Nebtu"  
   
-![](./images/306_20_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 30
+![](./images/306_20_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 30   
+  
+![](./images/240_5.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 240], 5
 
 *nn*, negation  
   
@@ -150,7 +173,9 @@ Iwny.t, "Iunyt (Esna)
   
 ![](./images/302_13.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 302], 13 
   
-![](./images/310_28_b.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28 
+![](./images/310_28_b.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28 
+   
+![](./images/313_A_9.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 313], A   
 
 *r*, "to; towards; at; until"  
   
@@ -215,15 +240,19 @@ Iwny.t, "Iunyt (Esna)
   
 ![](./images/264_25_2.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 264], 25  
 
-    
-![](./images/393_21_1.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21 
-
-   
+![](./images/393_21_1.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21  
+  
+![](./images/275_9_4.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 275], 9  
+     
+![](./images/195_7a.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 195], 7  
+     
 ![](./images/364_B.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 364], B   
    
    
-![](./images/230_B1.png){width=8%}![](./images/230_B2.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 230], B
+![](./images/230_B1.png){width=8%}![](./images/230_B2.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 230], B  
+  
 ![](./images/291_21_0.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 291], 21  
+  
 ![](./images/379_24_12.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24
   
 ![](./images/224_2a.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2  
@@ -236,7 +265,9 @@ Iwny.t, "Iunyt (Esna)
 
 ![](./images/393_21_2a.png){width=2.9%}![](./images/393_21_2b.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21 
   
-![](./images/379_24_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24 
+![](./images/379_24_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24   
+  
+![](./images/292_25_1.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 292], 25 
   
 ![](./images/353_B.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 353], B  
   
@@ -290,6 +321,8 @@ Iwny.t, "Iunyt (Esna)
   
 ![](./images/234_28a.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 28  
   
+![](./images/195_4.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 195], 4  
+  
 ![](./images/301_10_2.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 10 (the damaged sign was a child)  
   
 
@@ -299,7 +332,9 @@ Iwny.t, "Iunyt (Esna)
 ![](./images/287_17.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 287], 17  
   
 ![](./images/288_18.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 288], 18  
-
+  
+![](./images/195_7.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 195], 7    
+    
 ![](./images/293_26_3a.png){width=10%}![](./images/293_26_3b.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 293], 26  
 
 ![](./images/379_24_5.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24
@@ -313,11 +348,17 @@ Iwny.t, "Iunyt (Esna)
 
 ![](./images/293_27_2.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 293], 27  
   
+![](./images/292_25_2.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 292], 25  
+  
 ![](./images/393_21_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21   
   
+![](./images/362_D_1.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 362], D  
+   
+![](./images/240_10.png){width=6%}&nbsp;&nbsp;[Esna 240], 10![](./images/240_12.png){width=6%}&nbsp;&nbsp;[Esna 240], 12  
+   
 *tp*, "head"  
   
-![](./images/226_11.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 226], 11; [Esna 321], 23
+![](./images/226_11.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 226], 11; [Esna 321], 24
   
 *ṯpḥ.t-ḏȝ.t*, "blocked cavern (in Memphis)"
   
@@ -349,8 +390,13 @@ Iwny.t, "Iunyt (Esna)
 
 Hadrian  
    
-![](./images/251_25_10.png){width=18%}  
+![](./images/251_25_10.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 251], 10  
   
+Trajan  
+
+![](./images/240_1.png){width=6%}&nbsp;&nbsp;[Esna 240], 1&nbsp;&nbsp;![](./images/240_6.png){width=6%}&nbsp;&nbsp;[Esna 240], 6  
+  
+![](./images/195_1.png){width=6%}&nbsp;&nbsp;[Esna 195], 1&nbsp;&nbsp;![](./images/195_12.png){width=6%}&nbsp;&nbsp;[Esna 195], 12 
   
 ### Phrases {-}
   

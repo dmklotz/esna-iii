@@ -1,0 +1,114 @@
+## Esna 321 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 12
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=292){target="_blank"}
+- Bibliography: @sauneron-5, pp. 235, 237-238; @leitz-loeffler, p. 24; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1207){target="_blank"}
+
+<div class="col2">  
+
+^23^ *snỉ-tȝ n ẖnmw*  
+*qdỉ rmṯ.w ỉr nṯr.w*  
+   
+*m-ʿb* ^24^ *Mnḥy.t ntt r-ḥnʿ=f*  
+*m mḥn.t m-ḥȝ.t=f*  
+*m-ỉswy n sṯn nty ḥr tp=f*  
+*r tm rdỉ ḥr ḥm=s r=f*  
+*ḥr-nty Mw.t pw*  
+*pr rmṯ.w ỉm=s*  
+*m ỉrw=s n ỉr.t-Rʿ*  
+*sḫʿ.tw sḫr.w=s ỉsk*  
+*n ỉʿrr.t*  
+*ḥr tp n Nḥp*  
+*r sḫn=f mr=f ỉm=s*  
+*ʿȝ.t sšm(.t) qmȝ.n=f nb*  
+*rʿ-nb*  
+   
+^23^ Kissing the ground for Khnum,  
+he who built people and made the gods;  
+  
+along with ^24^ Menhyt who is with him,  
+as the uraeus coild upon his front,  
+in addition to the white crown on his head,  
+so that her Majesty never leaves him,  
+because she is the Mother,  
+from whom all people came forth,  
+in her visible form of the Eye of Re;  
+one carries her condition, meanwhile,  
+as a uraeus,  
+on the head of the Potter,  
+so he might unite as he likes with her:  
+the great one who guides all he created,  
+daily.
+</div>
+
+<div class="col2"> 
+
+*dwȝ kȝ=sn*  
+*m rȝ n smn-nḥp*  
+*wdn n=sn ỉḫt nf nfr*  
+   
+^25^ *ỉr ṯz mḥ n ỉwr.t*  
+*z.t n pȝ zȝ*  
+*ḏ(d) n=s šzp*  
+*m-ḏr psš=s ḥr-tp n ḏb.t*  
+*sšm r ky(.t) bkȝ(.t) rȝ-pw*  
+  
+*ỉr.n=k ỉwr.t*  
+*wḏȝ pw*  
+*n grg pr=k*  
+*sȝq ẖ.t šwy.t*  
+*m kȝ.t ẖnmw *  
+  
+Worshipping their Kas,  
+with the spell of Establishing the Potter's wheel;  
+offering all good things to them:    
+  
+^25^ Tie a pregnancy headband[^fn-321-1]    
+(on) the woman of the child;  
+say to her 'Receive!'  
+while she straddles [^fn-321-2] atop the (birth)brick;[^fn-321-3]      
+or pass (it) to another pregnant woman.    
+    
+Thus you have made (her) pregnant!  
+How good a method is this,  
+for populating your household:  
+(namely) fixing an empty womb  
+through the work of Khnum.  
+
+</div>
+
+[^fn-321-1]: For this detail, and potential Egyptian evidence for such a practice, see primarily @sauneron-5, pp. 237-238. 
+[^fn-321-2]: @sauneron-5, p. 237, did not translate this entire phrase; @leitz-loeffler, p. 24, proposed: "(wegen des Kindes), das sie empfangen hat. Empfangen dessen, von dem sie sich abtrennt (?)." The difficult detail seems to be the apparent repetition of *šzp*, "receive", with two different spellings. As an alternative, I propose reading the first verb as *ḏ(d)* "to say", and recognizing *nty* as a phonetic spelling of *n-ḏr sḏm=f*, the Temporal *sḏm=f* form: @johnson-dvs, pp. 147-148; @kurth-2, p. 701; see also [Esna 252], 26, §2; [Esna 341], 9; [Esna 348], 27.
+[^fn-321-3]: For *ḏb.t*, "brick" as a synonym for *msḫn.t*, "birth-brick", see [Esna 311], 7.
+
+<div class="col2">
+
+*mn rn n šms nṯr pn *  
+*tp tȝ*  
+*bw (nb) šms kȝ=f*  
+*r nḥḥ*  
+*wn=tn m ḥmw ḥm=f*  
+^26^ *(pr-ʿȝ)| mr=f ḏ.t*  
+  
+The name of whomever serves this god  
+shall remain on earth,  
+and (the name) of all who follow his Ka,  
+for all eternity!  
+You shall be servants of his Majesty,  
+^26^ (Pharaoh)| whom he loves, forever.
+
+</div>

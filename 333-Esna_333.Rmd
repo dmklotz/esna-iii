@@ -1,0 +1,172 @@
+## Esna 333 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 13
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=314){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1231){target="_blank"}
+
+<div class="col2">
+
+#### Formula {-}
+
+^1^ *ḥnk sḫ.t n nb=s *  
+   
+*[...] ḥnb.t=k r ḥp.ty*  
+*pḥ tȝš=k r wbn ỉtn*  
+*rsy.t=k* ^2^ *ỉwn*  
+*mḥy.t=k wȝḏ-wr*  
+*ww ḥr ỉmnt.t=k ȝḫ.t*  
+*ḥr ỉȝbt.t=k qʿy.t*  
+*ʿb.tw r-ḫft-ḥr=k*   
+  
+^1^ Presenting the field to its lord.  
+  
+Your field [extends?] to the outer limits,  
+your territory reaches to the sunrise;  
+your south is ^2^ the pillar of air,  
+your north the Great Green sea;  
+the terrirory on your west is the field,  
+on your east the *qʿy.t*-land,  
+united together in your presence. 
+
+</div>
+
+#### The King {-}
+
+<div class="col2">
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtkrtr k[ysrs])|*  
+^4^ *zȝ-Rʿ nb ḫʿ.w*  
+*(ʿtr[yns ḫwỉ])| *  
+^5^ *snn ʿnḫ n ỉmy-rȝ ȝḥ.t*  
+*ỉp ỉḫt-mn n [ỉt?]=f*  
+  
+^6^ *nṯr nfr*  
+*[...] rȝ-ww*  
+*[...] ḏr [ỉȝ]ḫw*  
+*[...] n ỉt=f *  
+*m s.t-ỉb=f *  
+*bʿḥ pr=f m kȝw nw sḫ.t *  
+*[...] Rʿ*  
+*ḏr hȝw p.t*  
+*nb ḫȝ-n-tȝ*  
+*([ʿt]ryns nty-ḫwỉ)|*  
+    
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator C[aesar])|  
+^4^ Son of Re, Lord of Appearances,  
+(Hadr[ian Augustus])|  
+^5^ Living image of the Chief of the Field,  
+who reckons the inhabited world for his [father?].  
+    
+^6^ The good god,  
+[...] of the agricultural region  
+[...] since [the radi]ance(?)  
+[...] for his father  
+in his favorite place;  
+he who floods his domain  
+with provisions from the field  
+[...] Re,  
+for as long as the sky remains:  
+Lord of the Field,  
+([Had]rian Augustus)|
+
+</div>
+
+#### Khnum-Re Lord of the Field {-}
+
+<div class="col2">
+
+^7^ *ḏd-mdw n ẖnmw-Rʿ nb sḫ.t*  
+*Šw [...]* ^8^ *pr-nṯr*  
+*nḏty n ỉt=f [...]*  
+^9^ *nb nr*  
+*sḫm šfy.t*  
+*wsr pḥty*  
+*ṯȝy nṯr.w*  
+^10^ *ḫbỉ rnp.wt ỉsfty.w*  
+   
+^11^ *dỉ=ỉ n=k ḫntš n tȝ nb*  
+*ṯḥn.tw n ḥr=k*  
+  
+^7^ Words spoken by Khnum-Re Lord of the Field,  
+Shu [...] ^8^ Per-netjer,  
+Protector of his father [...]  
+^9^ Lord of fear,  
+^10^ great of prestige,  
+mighty of strength;  
+most masculine of the gods,  
+^10^ who ends the years of evil-doers.  
+  
+^11^ I give to you the field of every land  
+scintillating before your face.
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2">
+
+^12^ *ḏd-mdw n Nb.t-ww*  
+*nb(.t) sḫ.t ḥnw.t Ỉwny.t*  
+^13^ *šps.t wsr.t ḫnt.t pr-ẖnmw*  
+*Rnn.t-wȝḏ.t* ^14^ *ḥnw.t [...]*  
+*srwḏ(.t) sm.w*  
+   
+^15^ *dỉ=ỉ ỉwr n=k ȝḫ.t *  
+*r dmḏy.t=s*   
+  
+^12^ Words spoken by Nebtu,  
+Lady of the Field, Mistress of Iunyt,  
+^13^ August and mighty within Per-Khnum,  
+Green Renenutet, ^14^ mistress [...]  
+who makes plants grow.  
+  
+^15^ I cause the field to 'give birth' for you  
+at its appointed time.
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^16^ *nsw.t-bỉty*  
+*nb sḫ.t ḥqȝ ww*  
+*ỉwn srwḏ sm.w*  
+*ỉȝḫ ȝḫȝḫ šȝ.w ỉm=f*  
+*nb ʿnḫ sʿnḫ qmȝ.n=f*  
+*ỉỉ r nw=f*  
+*šm r tr=f*  
+*bʿḥ tȝ pn [m ...]=f*  
+*ẖnmw *  
+*ḏsr s.t=f ḫnt sḫ.t*  
+  
+^16^ The King of Upper and Lower Egypt,  
+Lord of the Field, Ruler of the district,  
+Pillar of air who makes plants grow;  
+Luminous one, through whom marshes flourish.  
+Lord of life, who enlivens what he created;  
+who arrives at this time,  
+and goes away at his season,  
+who floods this earth [with] his [...]:  
+Khnum,  
+whose place is sacred within the Field.
+
+</div>

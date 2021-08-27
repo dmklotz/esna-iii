@@ -1,0 +1,137 @@
+## Esna 341 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 14
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=329){target="_blank"}  
+- Bibliography: @sauneron-5, p. 35 (partial); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1247){target="_blank"} 
+
+<div class="col2"> 
+
+^8^ *ky dwȝ (n nṯr) pn*  
+*ḏd-mdw*  
+   
+*ỉỉ.tw zp-snw m ḥtp*  
+*p(ȝ) ẖrd wr-ḥkȝw*  
+*zȝ sḫm.t*  
+*ẖnm=k ỉt=k ẖnmw*  
+*ȝw.t-ỉb=f n dgȝ=k*  
+   
+*nfr.wy ỉỉ=k*  
+*swtwt=k sḫ.t ww*  
+*ḫnt wỉȝ*  
+   
+*twt kȝ wȝḏ *  
+*ȝḫ.t (m) ỉḫt*  
+*ȝḫȝḫ sm.w*  
+*srwḏ(?) ỉt-bd.t*  
+*ḏdȝ ẖms nb*  
+*šȝ nb ỉsw nb*  
+   
+*nmt=k ḫntš*  
+*nn tkn.tw nmt.t=k*  
+*ḥr ʿȝ ḥḏ(.t) *  
+*ḥr* ^9^ *ỉr.n ḥḏḏ.w=k*  
+   
+^8^ Another hymn (of) this (god).  
+Words spoken:  
+  
+Welcome, in peace!  
+Child, greatest of magic,  
+son of Sakhmet,  
+so you might join your father, Khnum;  
+his heart delights from seeing you.  
+  
+How beautiful is your arrival!  
+As you go around the field and district  
+within the processional bark.  
+  
+You are the Ka,[^fn-341-8]  
+who makes the field verdant with offerings,   
+who makes plants flourish,  
+who makes grow(?) wheat and emmer,  
+who fattens all grains,  
+all marsh plants, all reeds.  
+  
+You walk about the territory,  
+nobody can approach your step,  
+because of the great brightness  
+that ^9^ your rays produce!  
+
+</div> 
+
+[^fn-341-8]: He*ka* is here the *Ka*, chief god of the harvest, befitting his role as a child god born at the beginning of the season.
+
+<div class="col2">
+
+*pr ḫry.t=k m-ẖnw ʿḥ*  
+*šzp=k nfr(.w)*  
+*ḫr ẖnmw*  
+*smnḫ ḥb.w=k*  
+*ṯz-(pẖr)*  
+   
+*ỉhȝy*  
+*ỉr=k ḥȝ.t n nṯr.w wpy*  
+*nȝ (n) pr-ẖnmw*  
+*(ḥr) ʿḏʿḏ n mȝȝ=k*  
+*nȝ (n) s.wt-ḏsr.wt*  
+*m ỉȝw ḥʿʿ*  
+*m-ḏr mȝȝ=w ḥr=k nfr*  
+   
+*p(ȝ) nb nṯr.w*  
+*wdn.tw n=k *  
+*m ʿḫ(?) nb*  
+   
+*pr.wy m sḫ.t=k*  
+*swʿb.tw kȝ=k*  
+*kȝ.w m-ḫt=k*  
+   
+*ḥtp-ḥr=k nfr *  
+*n (ʿȝtryns ʿnḫ ḏ.t)|*  
+*ḥtp ḥr s.t=f wr.t*  
+      
+Your royal decree[^fn-341-1b] comes forth from the palace,  
+so you might receive good things  
+from Khnum,[^fn-341-2]  
+making your festivals excellent,  
+and vice-(versa).    
+  
+Hail!  
+The first of the gods makes *wp*-festival for you,  
+those of Per-Khnum  
+rejoice to see you,  
+those of the sacred places  
+are in praise and jubilations,  
+when they see your beautiful face.  
+  
+O lord of the gods,  
+litanies are performed for you  
+on every altar(?).  
+  
+May you come to your field!  
+One purifies your Ka,  
+he in whose following are Kas.[^fn-341-3]
+  
+May your good face be kind  
+to (Hadrian living eternally)|,  
+dwelling upon his great throne. 
+
+
+</div>
+
+[^fn-341-1b]: This seems to be a royal pronouncement declaring the next legitimate king of Egypt. Among other places, this term is used at Karnak when Amun formally accords kingship to Osiris and Harsiese before the other gods. See most recently @fortier-2018, p. 381, n. c. 
+[^fn-341-2]: ![](./images/310_28.png){width=12%} - @sauneron-5, p. 127, n. g, had originally interpreted this spelling as an alternate name of Khnum, "Népeh" (followed by P*WL*, p. 512). Later, @sauneron-8, pp. 83-84, acknowledged this could be just a variant writing of "Khnum." Given the context in which this occurs, including the present name of Khnum the Good Protector, only the latter option makes sense. Presumably the back part of the lion (Gard. F22) substitutes for the goat skin sign (F26), and the signs are written in reverse. Thus: *ẖn + nb < ẖnb < ẖnmw*, "Khnum" (cf. Greek: Khnoubis; @sauneron-8, p. 83).
+[^fn-341-3]: More wordplay between Heka, the "Ka of Re"; Ka, serpentine agathos-daimon who produces food; and *kȝw*, "sustenance."

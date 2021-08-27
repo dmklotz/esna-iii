@@ -1,0 +1,171 @@
+## Esna 295 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=251){target="_blank"}
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1117){target="_blank"}
+
+#### Formula {-}
+
+<div class="col2"> 
+
+^1^ *mn n=k ʿnḫ-ḏd-wȝs*  
+*m ty.t=k ḏsr.t*  
+*Šw ḥr wnmy=f*  
+*tf[n.t] ḥr ỉȝby=f*  
+^2^ *wṯz ḥm=k ỉmỉ.tw=sn*  
+*ʿnḫ=k m p.t*  
+*wȝs=k m tȝ*  
+*ḏd ḥm=k m dwȝ.t *  
+  
+^1^ Take the *ʿnḫ-ḏd-wȝs* symbol,
+in your august image:
+Shu is on its right,
+Tef[nut] on its left,
+^2^ your Majesty stands up between them.[^fn-295-1]
+You live (*ʿnḫ*) in heaven,
+you have dominion (*wȝs*) on earth,
+and your Majesty endures (*ḏd*) in the netherworld.
+
+</div>
+
+[^fn-295-1]: As is common in such offering scenes, Shu and Tefnut are identified with the *ʿnḫ* and *wȝs* symbols respectively, while their grandson Osiris is the *ḏd*-pillar in the middle. See @winter-reliefs, pp. 68ff.
+
+#### The King {-} 
+
+<div class="col2"> 
+
+^3^ *[nsw.t-bỉty]*  
+*nb tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^4^ *[zȝ-Rʿ] nb-ḫʿ.w*  
+*(twmtyns nty-ḫwỉ)|*  
+   
+^5^ *[... r]dỉ ʿnḫ-ḏd-wȝs*  
+*n qmȝ ḏ.t=f*  
+   
+^6^ *[...]*  
+*ḥr sʿḥʿ ḏd*  
+*twȝ wȝs m ʿ.wy=f [...]*  
+*[...].tw nb sḫ[r.w?...]*  
+*(twmtyns nty-ḫwỉ)|*  
+  
+^3^ [The King of Upper and Lower Egypt]  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^4^ [Son of Re], Lord of Appearances,  
+(Domitian Augustus)|  
+  
+^5^ [...who gi]ves *ʿnḫ-ḏd-wȝs*    
+to he who created his body.
+
+</div>
+
+#### Osiris {-} 
+
+<div class="col2"> 
+
+^7^ *ḏd-mdw n Wsỉr *  
+*(Wn-nfr mȝʿ-ḫrw)|*  
+*nsw.t nṯr.w*  
+^8^ *nṯr ʿȝ ḥr-ỉb tȝ-sn.t*  
+*smsw n pȝwty*  
+^9^ *sr n psḏ.t ʿȝ.t*  
+*ḥwnw nsw.t [m?] ḥḏ.t*  
+^10^ *ỉty ḥqȝ wȝḏ.ty*  
+   
+^11^ *dỉ=ỉ n=k rsy.t mḥy.t*  
+*ỉmnt.t ỉȝbt.t*  
+*bw nb wbn Rʿ ḥr=sn*    
+  
+^7^ Words spoken by Osiris  
+(Wennefer justified)|  
+King of the gods,  
+^8^ great god within Esna.  
+Eldest (offspring) of the primeval one,  
+^9^ Prince of the Great Ennead,  
+youth, king [in?] the white crown;  
+^10^ Sovereign, ruler of the two uraei.  
+  
+^11^ I give you the south, north,  
+west, and east:  
+all places over which Re shines.
+
+</div>
+
+#### Harsiese {-}
+
+<div class="col2">
+
+^12^ *ḏd-mdw n Ḥr-zȝ-Ỉs.t*  
+*zȝ Wsỉr*  
+*ỉwʿʿ mnḫ*  
+^13^ *n (wn-nfr mȝʿ-ḫrw)|*   
+*nṯr ʿȝ ḥry-ỉb tȝ-sn.t*  
+*bỉk* ^14^ *nṯry*  
+*ḥqȝ tȝ.wy*  
+*ʿn-wšb n ỉt=f*  
+   
+^15^ *dỉ=ỉ n=k qn r rsy.t*  
+*nḫt r mḥy.t*  
+*ḫȝs.wt nb ḫȝb(.w) n [...]*  
+    
+^12^ Words spoken by Harsiese,  
+son of Osiris,  
+beneficient heir   
+^13^ of (Wennefer justified)|,  
+great god within Esna,  
+divine ^14^ falcon,  
+ruler of the two lands,  
+who responds on behalf of his father.  
+  
+^15^ I give you might over the south,  
+strength over the north,  
+all foreign lands bowed down for [...]
+
+</div>  
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^16^ *nsw.t-bỉty*  
+*tpy n Gbb*  
+*smsw n mw.t=f Nw.t*  
+*ḥwnw šps n Ỉtm*  
+*ỉr.tw n=f nỉw.wt*  
+*grg.tw spȝ.wt n kȝ=f*  
+  
+*hb Rʿ m tȝ*  
+*r mȝȝ=f rʿ-nb*  
+*r snḫn ḥʿw=f*  
+*m stw.t=f*  
+*Wsỉr ḥqȝ ḏ.t*  
+  
+^16^ The King of Upper and Lower Egypt,  
+First born of Geb,  
+Eldest of his mother, Nut,  
+august child of Atum;  
+he for whom cities were made,  
+and for whose Ka districts were founded.  
+  
+Re penetrates into the earth  
+in order to see him, every day,  
+to rejuvenate his body  
+with his rays:  
+Osiris, Ruler of Eternity.
+
+</div>

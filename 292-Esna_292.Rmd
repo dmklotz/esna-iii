@@ -1,0 +1,150 @@
+## Esna 292 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=247){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 139-140; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1112){target="_blank"}
+
+<div class="col2">  
+
+^22^ *ḥnk wȝḏ*  
+*ḏd-mdw*  
+   
+*ẖnmw-Rʿ nb tȝ-snt*  
+^23^ *mn n=k wȝḏ šps*  
+*pr m ḥȝ.t*  
+*smw wr*  
+*swȝḏ tȝ.wy=f*  
+*ʿnḫ-wȝs*  
+*pr m mw.t-nṯr*  
+   
+*ṯḥn ḥr=k*  
+*mk=f ḥʿw=k*  
+*wn=f m zȝ=k rʿ-nb*  
+*nn pw ỉr.n mw.t=f ỉr=f*  
+  
+^22^ Presenting the papyrus stalk.  
+Words spoken:  
+  
+Khnum-Re Lord of Esna,  
+^23^ receive the august papyrus stalk,  
+which emerged in the beginning;  
+the great plant,  
+which makes verdant its two lands;  
+*ʿnḫ-wʿs*-milk   
+which comes forth from the divine mother.   
+  
+May your face scintillate,  
+and may it guard your body,  
+as it is in your protection, every day:  
+this is what your mother accomplished![^fn-292-1]  
+
+</div>
+
+[^fn-292-1]: As @sauneron-5, p. 140, n. 1, this text refers immediately to the papyrus which protects the king, equated figuratively with the papyrus thicket of Khemmis that hid the infant Horus from Seth. Hence the allusions to nursing and the king's divine mother.
+
+<div class="col2">
+
+*wȝḏ=s ỉry m ỉrw=f*  
+*ḫpr rn=f pw n wȝḏ*  
+   
+*mn=f m ww=k*  
+*ḥȝp=f* ^24^ *ḏ.t=k*  
+*m rn=f pfy n mnḥw*  
+   
+*swsḫ(=f) s.t=k*  
+*ṯȝy.n=f tȝ pn*  
+*m rn=f pfy n ṯwf*  
+   
+*ỉtḥ.n=f sw *  
+*m ỉnb ḥȝ=f*  
+*m rn=f pfy n ỉdḥw*  
+   
+*ỉḥy pw*  
+*nty šd bʿḥ=k*  
+*m rn=f pfy [n] ỉ[m]ḥw*  
+  
+She makes it green (*wȝḏ*), meanwhile, in its form:  
+thus its name became 'green papyrus' (*wȝḏ*).[^fn-292-2]    
+  
+It remains (*mn*) in your agricultural district,  
+and it conceals (***ḥ****ȝp*) ^24^ your body  
+in its name of *mnḥw*-papyrus.[^fn-292-3]    
+    
+(It) broadens your territory,  
+having seized (*ṯȝy.n=f*) this land,  
+in this its name of reed (*ṯwf*).  
+   
+It has surrounded (*ỉtḥ*) it (this land)  
+as a protective wall around it,  
+in this its name of delta-plant (*ỉdḥw*).   
+  
+It is the trapping-net (*ỉḥy*)   
+which catches your flood,  
+in this its name of *ỉmḥw*-plant.  
+
+</div>
+
+[^fn-292-2]: The following verses create mythological etymologies for various names of papyrus reeds. Similar terms occur on hymns from the columns of the facade, which poetically describe each column of the pronaos as types of reeds: *Esna* II, 169; 176; 183. As a result, Khnum is not just receiving plants here as Lord of the Field; rather, he is symbolically receiving all the papyriform columns from the forecourt of Esna, appropriate to his own role of Khnum-Shu, supporter of the sky/temple roof.
+[^fn-292-3]: For this rare term for papyrus, see @sauneron-bifao64, pp. 1-2
+
+<div class="col2">
+   
+^25^ *ẖnmw-Rʿ nb tȝ-sn.t*  
+*mn n=k sḫm.w*  
+*pr(.w) m Gbb*  
+*msḫn.t nt Šw Tfn.t*  
+*ỉr nḫy n zȝ Ỉs.t*  
+*wbn=k ỉm=f*  
+*ḏȝỉ=k ḥr.t m mȝʿ*   
+*rʿ-nb*  
+   
+*ḫwỉ tw ḥr.t-tp=k*  
+*wn(.w) m ḫfʿ=f*  
+*ỉr.t-Rʿ m zȝ=f*  
+   
+*ḫwỉ=k zȝ-Rʿ*  
+*(tmdyns ḫwỉ)|*  
+^26^ *dỉ=k n=f tȝ pn*  
+*ẖr ỉmỉ=f*  
+*mȝʿ-ḫrw ẖnmw-Rʿ nb tȝ-sn.t*  
+*r ḫfty.w=f zp 4*  
+  
+^25^ Khnum-Re Lord of Esna,[^fn-292-4]  
+take these divine powers,  
+which came forth from Geb;  
+the birthplace of Shu and Tefnut;  
+that which makes protection for the Son of Isis;  
+may you rise from it,  
+and sail across heaven with a proper wind,  
+daily.[^fn-292-5]      
+  
+May your uraeus guard you,  
+that which is in his (the king's) grasp,  
+the Eye of Re in his protection.  
+  
+May you guard the Son of Re,  
+(Domitian Augustus)|  
+^26^ May you give him this land,  
+bearing that which is in it.  
+Khnum-Re Lord of Esna is justified  
+over his enemies! (to be said 4 times)  
+
+</div>
+
+[^fn-292-4]: ![](./images/292_25_2.png){width=11%} - Elsewhere the phallus writes *tȝ < ṯȝy*, "male", in this topony: e.g. [Esna 302], 14; [Esna 369], 38. If the second phallus writes *s < sṯỉ*, where is the final consonant *n*? Instead, the second penis might just write *sn* < *wsn*, "to beget; ejaculate", a word frequently used to describe Khnum.  
+
+[^fn-292-5]: This passage enumerates multiple, disparate theological meanings of papyrus thickets, and by extension, the papyriform pronaos of Esna.  

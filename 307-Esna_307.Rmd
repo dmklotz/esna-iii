@@ -1,0 +1,123 @@
+## Esna 307 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 11
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=267){target="_blank"}
+- Bibliography: @sauneron-5, p. 205; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1164){target="_blank"}
+
+<div class="col2">  
+
+^21^ *ḏd-mdw n nsw.t-bỉty*  
+*Wsỉr*  
+*nb tȝ.wy *  
+^22^ *(Wn-nfr mȝʿ-ḫrw)|*  
+*ỉty nṯr.w*  
+*ḥqȝ ṯnr*  
+*pr m ẖ.t*  
+*ḫʿ(.w) m ḥḏ.t*  
+*nb wrr.t*  
+*nsw.t nṯr.w*  
+*bỉty rmṯ.w*  
+*ḥqȝ ʿȝ m tȝ-r-ḏr=f*  
+*wsr.tw m tȝ.wy ḫȝs.wt*  
+*ḥqȝ m qn nḫt*   
+   
+^21^ Words spoken by the King of Upper and Lower Egypt,  
+Osiris,[^fn-307-1]  
+Lord of the Two Lands,  
+^22^ (Wennefer justified)|  
+Sovereign of the gods,  
+mighty ruler,  
+who emerged from the womb  
+crowned with the White Crown,  
+Lord of the Double Crown,  
+nsw-king of the gods,  
+bity-king of humans,  
+Great Ruler in the entire earth,  
+Mighty in all lands,  
+Ruler through victory and strength.   
+  
+</div>
+
+[^fn-307-1]: ![](./images/307_21.png){width=20%} - Reading *Wsr*, "Osiris": *w < wȝḏ.ty*, "the two uraei" + *s < sḫm.ty*, "the double, pschent crown" + *r < rḥ.ty*, "the two companions (Isis and Nephthys)." All of these acrophonic values occur in the longer Osiris litany, and each consonant evokes the dual kingship of Upper and Lower Egypt.
+
+<div class="col2">
+
+*ỉw n=ỉ ḥḏ.t n Rʿ*  
+*dšr.t n Ỉtm*  
+*dmḏ=sn n=ỉ Šw*  
+*m sḫm.ty ḥr tp=ỉ*  
+*r ḥqȝ šnw nb n p.t*  
+*ỉw=ỉ m nsw.t-bỉty*  
+*šmʿ-mḥw*  
+   
+*ms.tw=k r nb tȝ.wy*  
+*zȝ=ỉ Ḥr*  
+*(pr-ʿȝ ʿnḫ ḏ.t mry(=ỉ))|*  
+  
+I have the white crown of Re,  
+the red crown of Atum,  
+Shu has united them for me  
+as the double crown upon my head,  
+to rule the entire circuit of heaven,  
+since I am the dual king  
+of Upper and Lower Egypt.  
+  
+You were born to be Lord of the Two Lands,  
+my son, Horus,  
+(Pharaoh living forever, whom (I) love)|  
+  
+</div>
+
+<div class="col2">
+
+^23^ *ỉw n=k ḥḏ.t*  
+*m nsw.t šmʿ*  
+*dšr.t*  
+*m bỉty mḥw*  
+*dmḏ.(w) m sḫm.ty*  
+*ḫʿ=k ỉm=f*  
+*m nsw.t-bỉty*  
+   
+*ḫȝs.wt nb ḫȝb(.w) *  
+*n bȝw=k*  
+*pḏ.t 9.t dmḏ(.w) *  
+*ẖr ṯb.ty=k*  
+*ḫfty.w=k ḫr(.w)*  
+*ẖr=k*  
+*Km.t ḥtp(.w) ḥr mȝ=k*  
+*ḥqȝ n nḥḥ*  
+*nn wḥm.ty=fy*  
+    
+^23^ Unto you is the white crown,  
+as nsw-king of Upper Egypt;  
+and the red crown,  
+as bity-king of Lower Egypt,  
+they are united as the double crown,  
+and you appear as king with it  
+as King of Upper and Lower Egypt.  
+   
+All foreign lands are bent over  
+because of your power;  
+the Nine Bows are united  
+beneath your sandals;  
+your enemies have fallen  
+beneath you;  
+Egypt is pacified and loyal to you:  
+Ruler of eternity,  
+whose (like) shall never be repeated.  
+
+</div>

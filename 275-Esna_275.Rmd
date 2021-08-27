@@ -1,0 +1,136 @@
+## Esna 275 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 9
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=222){target="_blank"}
+- Bibliography: @sauneron-5, pp. 146-148, 150; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1088){target="_blank"}
+
+<div class="col2">  
+
+^8^ *ỉr m-ḫt*  
+*ỉr(.t) pȝ wdn n nṯr pn*  
+*mỉ nty r ḥȝ.t*  
+*ỉr(.t) ḥn.t*  
+*ỉr(.t) ỉḫt-nṯr n nṯr pn*  
+*mỉ rʿ-nb*  
+*ỉn wʿb ʿȝ m hrw-f*  
+*wn-ḥr=f*  
+*swʿb psḏ.t=f*  
+^9^ *mỉ ỉr(.t) m hrw *  
+*1/5 1/10 n ȝbd 1 ȝḫ.t*  
+   
+*ỉr ḥr-sȝ*  
+*nỉs tȝ mḏȝ.t sẖr ʿȝpp*  
+*r mḥ-ỉb n ȝḫty*  
+*ḥnʿ ḥm n nṯr pn*  
+   
+*šd tȝ wp.t-rȝ*  
+*m rn n ẖnmw pn*  
+*mỉtt skr r-nty Ptḥ pw*  
+   
+*smn wbȝ-mḥn.t ḥr ỉȝbt.t ỉmnt.t*  
+*m rw.t-dỉ-mȝʿ.t*  
+*[n] nb nḥp*  
+     
+^8^ Now afterwards,  
+perform the litany for this god,  
+like what was above.  
+Perform the service,  
+perform divine rites for this god,  
+just like every day,  
+by the Great *wʿb*-priest in his day.  
+Revealing his face,  
+purifying his Ennead,  
+^9^ like what is done on the day  
+I Akhet 9 ( [Thoth 9](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#thoth-9){target='_blank'} )[^fn-275-1].  
+  
+Afterwards,  
+reciting the Book of Felling Apophis,[^fn-275-2]  
+to restore the confidence of Akhty,[^fn-275-3]  
+along with the majesty of this god.    
+  
+Recite the (ritual) of the Opening of the Mouth,  
+in the name of this Khnum,  
+similarly Sokar, because he (Khnum) is Ptah.[^fn-275-4]  
+  
+Set up potter's wheels on the east and west  
+before the forecourt   
+[of] the Lord of the Potter's wheel.
+
+</div>
+
+[^fn-275-1]: ![](./images/275_9_1.png){width=13%} - @sauneron-5, pp. 147-148, n. b, discussed this problematic month name at length. As he noted, based on the Esna calendar, this date should seem to coincide with Thoth 9, but the month name is unusual. Sauneron proposed reading the final group as "Re-Harakhty", a variant of the month Mesore. Instead, since most dates typically involve a season and month number, I propose to read the small solar disk following the word *ȝbd* as "1" (@kurth-2, p. 686), and the final sign as "Akhet", a variant of the homophonous season name.
+[^fn-275-2]: For this ritual book, also mentioned in [Esna 199], 28, see recently @thiers-apep, pp. 404-405 (to which this example should be added).
+[^fn-275-3]: ![](./images/275_9_2.png){width=7%} - For this abbreviated spelling of Akhty, correctly read by @sauneron-5, p. 147, see also @klotz-baboons, p. 34, n. a.
+[^fn-275-4]: ![](./images/275_9_3.png){width=27%} - @sauneron-5, p. 148, n. c, seems to have overlooked the *s* sign, and emended *kr-ỉw-nty* to *ḏr-nty*, "because". Rather, this could be the similar compound preposition *r-nty*, "because", while both Sokar and Ptah are spelled alphabetically without determinatives. The gloss seems to justify why Khnum-Tatenen should benefit from this ritual, namely because he can be identified with Ptah-Sokar.
+
+<div class="col2">
+
+*sȝḫ(.w) šd *  
+*ỉn* ^10^ *ẖry-ḥb ḥry-tp*  
+*m ḫft-ḥr n nṯr pn*  
+*ḏd-mdw*  
+   
+*p.t m ḥb*  
+*tȝ m hy*  
+*nb-ʿnḫ m ȝw.t-ỉb*  
+*wʿ nb ỉm=sn m nḏm-ỉb*  
+*mȝȝ=sn ẖnmw*  
+*mn(.w) ḥr ns.t=f*  
+*ỉmỉ.tw ḥw.t-ẖnmw*  
+   
+*ỉw ʿ.wy=f ḥr nḥp=f*  
+*r nḥp nṯr.w rmṯ.w*  
+*ʿ.wt mnmn.w*  
+*pȝy.w ḫny.w ḥrr.w nb.w *  
+*n-mrw.t grg tȝ pn*  
+*n zȝ=f mr(=f)*  
+  
+^11^ *nsw.t-bỉty *  
+*nb-tȝ.wy*  
+*(ỉwtgrtr ksrs)|*  
+*zȝ-Rʿ nb-ḫʿ.w*  
+*(tmdyns nty-ḫwỉ)|*  
+  
+The glorification spell[^fn-275-5] recited   
+by ^10^ the Chief Lector Priest,  
+before this god.  
+Words spoken:  
+  
+Heaven is in festival,  
+the earth rejoices,  
+the Lord of Life (Khnum) is happy;  
+every one within them is delighted,  
+as they see Khnum  
+established upon his throne  
+within the Temple of Khnum.  
+  
+His hands are upon his potter's wheel  
+to fashion the gods, people,  
+animals, livestock,  
+birds, fish and all reptiles,  
+for the desire to populate this earth  
+for his beloved son:  
+  
+^11^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+Son of Re, Lord of Appearances,  
+(Domitian Augustus)|
+
+</div>
+
+[^fn-275-5]: @sauneron-5 seemingly overlooked the first word, translating only: "Et faire la lecture par ...". This key term indicates what follows belongs to the genre of Glorification Spells (*sȝḫ.w*), typically associated with mortuary or Osirian rituals: @barbash, pp. 35-56. Presumably this type of hymn is recited here in the context of the Opening of the Mouth ritual and Khnum's identification with Ptah-Sokar noted above.
