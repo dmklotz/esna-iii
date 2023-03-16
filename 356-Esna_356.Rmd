@@ -1,0 +1,164 @@
+## Esna 356 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 15
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=355){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 175-176; @quack-monumental (extensive commentary); @leitz-loeffler, pp. 57-58.
+
+<div class="col2">
+
+^8^ *pȝ ỉȝw zp-snw*  
+*n nṯr pn šps*  
+   
+^9^ *ỉ pȝ ỉr snḏm ḥr srḫ*  
+*r grg bw nb.w*  
+   
+^10^ *ỉ pȝ ỉr pẖr tȝ.wy m ʿnḫ*  
+*r sʿnḫ ỉmỉ=sn*  
+   
+^11^ *ỉ pȝ ḥry nḥp*  
+*nty qdỉ r mr=f*  
+  
+^8^ The praises  
+for this august god:  
+  
+^9^ O he who sits[^fn-356-1] upon the serekh,  
+to populate every place.  
+  
+^10^ O he who encircles the lands with life  
+to enliven those within them.   
+  
+^11^ O chief of the potter's wheel  
+who builds as he desires.  
+
+</div>
+
+[^fn-356-1]: As @quack-monumental recognized, this text is written in a register of Late Egyptian similar to Demotic. So many epithets are constructed with the periphrastic participle *ỉrỉ*, "to do" + infinitive.
+
+<div class="col2">
+
+^12^ *ỉ pȝ nbỉ ṯȝw*  
+*ỉr wḏ ʿnḫ n qmȝ.n=f*  
+   
+^13^ *ỉ pȝ kȝ sṯỉ*  
+*ỉr ỉr mw m qs.w*  
+   
+^14^ *ỉ pȝ ỉbkȝ ḥmw.wt*  
+*m ỉr.n=f*  
+   
+^15^ *ỉ pȝ ỉt mnḫ*  
+*ỉr ṯz pr.t ȝḫ.t*  
+   
+^16^ *ỉ pȝ ỉr ẖnm nṯr.w*  
+*rmṯ.w ʿ.wt nb.w*  
+*ḥr nḥp=f*  
+   
+^17^ *ỉ pȝ ỉr qd nb*  
+*r sšm tȝ.wy*  
+   
+^18^ *ỉ pȝ ỉr sḫpr wȝḏ*  
+*n nṯr.t nt.t r-ḥnʿ[=f] *   
+    
+^12^ O he who fashions the wind,  
+who decrees life to those he created.   
+  
+^13^ O procreating bull,  
+who makes semen in bones.   
+  
+^14^ O he who makes women pregnant  
+through what he has done.  
+  
+^15^ O beneficent father,  
+who binds together excellent seed.  
+  
+^16^ O he who models the gods,  
+people, and all animals  
+upon his potter's wheel.  
+  
+^17^ O he who builds the Lord  
+in order to lead the two lands.   
+  
+^18^ O he who creates the papyrus scepter  
+of the goddess who is beside [him].
+
+</div>
+
+<div class="col2">
+
+^19^ *ỉ pȝ ỉr ṯnỉ mr=f*  
+*m ẖ.wt*  
+   
+^20^ *ỉ pȝ ỉr qmȝ swḥ.t*  
+*r-ḏr ỉb=f*  
+   
+^21^ *ỉ pȝ ỉr sʿnḫ ṯȝw*  
+*m nfy=f*  
+   
+^22^ *ỉ pȝ ỉr sd qrḥ.t*  
+*r sw=s*  
+   
+^23^ *ỉ pȝ ỉr šd ỉr.n=f*  
+*m štȝ.t nb.t*  
+   
+^24^ *ỉ pȝ ỉr nsw nṯr.w*  
+*ḫprw=f ḥr qdỉ*  
+   
+^25^ *ỉ pȝ ỉr dỉ.t wȝ.t *  
+*n gȝw-ḥty*  
+*m ỉrw=f*  
+   
+^26^ *[ỉ pȝ ỉr mḥ ẖn]m.ty*  
+*m ṯȝw*  
+   
+^27^ *[ỉ pȝ] ỉr ẖnm ḥʿw m ʿnḫ*  
+   
+^28^ *ỉ pȝ nty ỉw fkȝ=f *   
+*qd-sʿnḫ*   
+   
+^19^ O he who distinguishes whom he loves  
+within the womb.   
+  
+^20^ O he who creates the egg  
+according to his heart.   
+  
+^21^ O he who enlivens the embryo  
+with his breath.  
+  
+^22^ O he who opens the amniotic sac  
+at its day.   
+  
+^23^ O he who nourishes what he made  
+in every womb.  
+  
+^24^ O he who acts as King of the Gods (Amun)  
+whose manifestation is the potter.   
+  
+^25^ O he who makes a path   
+for the fetus ('the not-yet-breathing')  
+in his visible form.  
+  
+^26^ [O he who fills the no]strils  
+with air.   
+  
+^27^ [O he who] endows the body  
+with life.  
+  
+^28^ O he whose reward  
+is building and enlivening.  
+
+</div>
+
+This hymn continues in [Esna 367].

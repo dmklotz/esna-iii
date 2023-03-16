@@ -1,0 +1,277 @@
+## Esna 317 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 12
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=285){target="_blank"}
+- Bibliography: @sauneron-5, pp. 281-287; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1199){target="_blank"}
+
+<div class="col2">  
+
+^1^ *dwȝ nṯr.t tn*  
+*m ḏsr wr*  
+*ḏd-mdw*  
+   
+*nṯr.w rmṯ.w*  
+*mỉ=n ȝ*  
+*ks snỉ-tȝ*   
+*ḫr mw.t-nṯr*  
+*N.t pw*  
+*n.t*  
+*nnw=s pw Nwn*  
+*pr nty nb.w *  
+*m pʿpʿ.n=s*  
+*nỉ wn ḫp(r)*  
+*m ḫm ỉr.n=s*  
+   
+*qrḥ.t pw*  
+*wnn(.t) m šȝʿ*  
+*mkr.t ms.tw* ^2^ *ḏs=s*  
+*tmȝ.t ḥr.t-tp*  
+*nty ỉmn-rn=f*  
+   
+*nṯr nṯr.t*  
+*nṯr ỉr nṯr (nb) m-bȝḥ*  
+*ṯnỉ ṯnỉ r (nṯr.w?)*  
+*wr.t wr.tw r nṯr.yt*  
+  
+*tp.t pw*  
+*ḫp(r.t) m ḥȝ.t ỉry*  
+*šȝʿ(.t) ḫp(r)*  
+*nn ḫp(r) ḫprw*  
+*ḫp(r) wnn.w nb*  
+*m-ḫt ḫp(r)=s*  
+   
+^1^ Praising this goddess  
+in great sanctity.  
+Words spoken:  
+   
+O gods and people,  
+come now!  
+Bend down and kiss the earth  
+before the Mother of God,  
+for she is Neith (*N.t*),  
+the *n.t*-waters,   
+whose child (*nnw*) is Nun (*Nwn*).  
+All that is came forth  
+from what she birthed.  
+There is nothing which came about 
+unaware of what she accomplished.  
+   
+She is the *qrḥ.t*-serpent,  
+who existed in the beginning;  
+the *mkr.t*-serpent, who birthed ^2^ herself;[^fn-317-1a]     
+the mother uraeus  
+of Hidden-of-name (Amun).  
+   
+Both god *and* goddess,    
+the god who made (every) god before;[^fn-317-1]  
+distinguished, most distinguished of (gods?),  
+great one, greatest of goddesses.  
+  
+She is the uraeus,   
+who came about before them all.  
+She who began existence,  
+when no beings existed,  
+all that exists came into being  
+after she came into existence.
+
+</div>
+
+[^fn-317-1a]: The meaning of this epithet is unclear: @sauneron-5, pp. 283-284, n. g; *LGG* III, 458b. As Sauneron suggested, it is most likely a variant spelling of a similarly mysterious epithet for uraeus goddesses, *mkr.t*.
+[^fn-317-1]: Similar epithets of Khnum in [Esna 254], 16; [Esna 300], 4; [Esna 394], 24. @sauneron-5, p. 281, translated: "déesse qui agit en dieu (?)", but the first sign lacks any feminine ending.
+
+
+<div class="col2">  
+
+*nts ỉsk ỉn(.t) pḥwy*  
+*n nn r-ȝw*  
+^3^ *m ḏ.t=s nt mtr*  
+*m rn=s n ḏ.t*  
+   
+*ʿȝ zp-snw sḫr.w m ḥn.ty*  
+*n.t nfr.t n kȝ=s*  
+*ỉʿrr.t ḫt.tw *  
+*m ty.t=s*  
+   
+*nts Mw.t Rʿ*  
+*wbn šww ỉm=s rʿ-nb*  
+*m ỉrw=s pfy n Nw.t*  
+*dỉ(.t) ỉḫt nb *  
+*r-ḏr ỉb=s*  
+*qmȝ(.t) tȝ r-ʿ=s*  
+*grg tȝ.wy ẖr s.t-ḥr=[s]*  
+   
+*wr.wy ḥkȝw=s *  
+^4^ *ḥry-tp n pḏ.wt 9.t*  
+*ḫȝs.wt nb.w ḫȝb(.w) *  
+*n bȝw=s*  
+*nts pw rdỉ(.t) qn nḫt*  
+*nswy.t ʿȝ.t*  
+*n zȝ-Rʿ *  
+*nsw.t-bỉty*  
+*(pr-ʿȝ)|*   
+   
+It is she who spans to the very end  
+of all this,  
+^3^ in her true body (*ḏ.t*),  
+in her name of linear eternity (*ḏ.t*).  
+  
+How great of plans for all time!  
+The red and white crowns are for her Ka,  
+the uraeus is inscribed  
+with her hieroglyph.[^fn-317-2]   
+  
+She is the Mother of Re,  
+from whom the sun rises, daily,  
+in this her visible form of Nut,  
+who gives all things,  
+according to her heart,  
+who creates the earth at her control,  
+who founds the lands under her command.  
+  
+How great is her magical power  
+^4^ over the Nine Bows,  
+all foreign lands are bent down   
+to her power;  
+it is she who gives victory and power,  
+and a great kingship,  
+to the Son of Re,  
+King of Upper and Lower Egypt,  
+(Pharaoh)|  
+  
+</div>
+
+[^fn-317-2]: For this statement, paralleled in [Esna 212], A; [Esna 216], 4 (15), see @sauneron-5, p. 286, n. t.
+
+<div class="col2">
+
+*zȝ.w-n=sn *  
+*zȝ=tn r=s*  
+*bw nb.w*  
+*ḥr=tn r bȝw=s*  
+*ṯȝy.w ḥmw.wt*  
+*dwȝ ḥm=s *  
+*šms=s r psḏ.t *  
+*snḏ n=s*  
+*sdȝdȝ n šfy(.t)=s*  
+   
+^5^ *(mw.t?) Rʿ pw*     
+*ʿȝ bȝw*  
+*nb(.t) nš(n)*  
+*ỉṯ=s n=f nḏ.t*  
+*ʿn=s *  
+*r ḥtp n=s*  
+   
+*nb.t pḏ.t*  
+*ḥnw.t šsr*  
+*tqr pḥty*  
+*ỉr.t ḫrwy.t *  
+*m ẖȝk.w=ỉb.w*  
+   
+*nbw.t wr.t *  
+*ʿȝ nbỉ.t*  
+*wd(.t) hh=s*  
+*r ḫfty=s nb*  
+*wbd(.t) sbỉ*  
+*m ỉr.t Sḫm.t*  
+   
+O Guardian deities:  
+be on guard for her!  
+All people:   
+avoid her power!  
+Men and women:  
+praise her Majesty,  
+worship her more than the Ennead!  
+Be fearful of her,  
+and tremble for her prestige.  
+  
+^5^ She is (the Mother of?)  Re,    
+great of power,  
+lady of rage;  
+she begins vengeance on his behalf,   
+and she is pleasant (or: she returns)    
+to whomever is peaceful for her.     
+   
+Lady of the bow,   
+Mistress of the arrow,  
+fierce of strength,  
+who makes a slaughter  
+among the disaffected ones.  
+  
+Great golden one,  
+great of flame,  
+who casts her flame  
+against all her enemies,  
+who burns up the rebel  
+with the fire of Sakhmet.  
+
+</div>
+
+<div class="col2">
+
+*nfr.wy šms=s*  
+^6^ *ʿn.wy dwȝ=s*  
+*t(w)r.wy rhn n rn=s*  
+*ḥnw.t pw snb*  
+*ʿnḫ r-ḫt=s*  
+   
+*nts wr(.t) wsr.t*  
+*ḥr(.t) kȝ.w*  
+*ṯnỉ(.t) pw *  
+*nb(.t) ṯnỉ.w*  
+*Rnnwt.t Wȝd.t*  
+*nb(.t) nfr(.w)*  
+*nṯr.t nb(.t) ndb*  
+   
+*nb.t mrḥ.t m-ʿb mnḫ.t*  
+*fdq(.t) r-mr(=s)*  
+*n 4 ỉp.w *  
+*ỉmy.w p.t tȝ*  
+   
+*sḫȝ bȝw=s*  
+*nn wrḏ (n) šms=s*  
+*dwȝ n qȝw*  
+*kȝ(=s) (r)-ḥn.ty*  
+   
+How good it is to serve her!  
+^6^ How pleasant to worship her!  
+How laudable to bend to her name!  
+She is the Mistress of health,    
+life is under her control.  
+  
+She is the great and mighty one,     
+Chief of Foods.  
+She is the distinguished one,    
+Lady of the distinguished.   
+Renenutet-Wadjyt (or: Green Renenutet),  
+Lady of good products;   
+Goddess, Lady of sustenance.  
+  
+Lady of ointment and linen,  
+she rewards (thereof) as (she) desires,  
+to the four beings     
+who are in heaven and earth.[^fn-317-3]   
+    
+Recall her power(?);[^fn-317-4]  
+never tire of serving her;  
+worship to the heights   
+her Ka, for the limits of eternity.
+
+</div>
+
+
+[^fn-317-3]: The reading of this epithet follows the parallel in [Esna 252], 27, §4 (see my text note there).
+[^fn-317-4]: Following the suggested transcription of the final words by @sauneron-5, p. 287, n. mm. Instead of *bȝw*, "power", one might alternatively read *ỉqr.w*, "excellence."

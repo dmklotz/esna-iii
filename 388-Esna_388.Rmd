@@ -1,0 +1,170 @@
+## Esna 388 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 18
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=414){target="_blank"}
+- Bibliography: @sauneron-5, pp. 223-225; @leitz-loeffler, pp. 60-61; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1412){target="_blank"}
+
+<div class="col2">  
+
+^7^ *ky dwȝ ẖnmw-Rʿ*  
+*ḏd-mdw*  
+   
+*ỉnḏ-ḥr=k*  
+*ẖnmw-Rʿ nb tȝ-sn.t*  
+*Ptḥ qmȝ swḥ.t*  
+*pr(.t) m Nwn*  
+*qmȝ* ^8^ *ḫpr(.w)*  
+*qdỉ ỉqd.w*  
+*rnn rnn.wt*  
+*ẖnmw ỉr ẖnm.w*  
+*tȝ-ṯnn ỉr nn r-ȝw*  
+*nb ḥḥ*  
+*ỉr nṯr.w*  
+*pȝwty ḫnty pȝwty.w*  
+*msỉ ms nty*  
+*ḫʿỉ nḥp *   
+*m wḏ n kȝ=f*  
+*kȝ nb kȝ.w*  
+*ḫnty ḫnt-tȝ*  
+^9^ *Šȝy Rnn.t r-ḫt=f*  
+   
+*ṯz ṯȝw*  
+*srwḏ swḥ.t*  
+*ỉr mw m qsw nfr*  
+*nb mṯȝ *   
+*mry=f sṯỉ*  
+*hy wtṯ nṯr.w nṯr.yt*  
+*qmȝ swḥ.t*  
+*sʿnḫ ṯȝw*  
+*dỉ ṯȝw r fnd*  
+*n gȝw-ḥty.t*  
+   
+^7^ Another hymn to Khnum-Re.  
+Words spoken:  
+  
+Greeting,  
+Khnum-Re Lord of Esna!  
+Ptah, who created the egg  
+which emerged from Nun.  
+He who created ^8^ existence,  
+builder of builders,  
+nurturer of nurturers,  
+Khnum who made the Khnums,  
+Tatenen who made all of this.  
+Lord of millions,  
+who made the gods.  
+Primeval one, foremost of the primeval;  
+Birthing one, who birthed what is;  
+the potter's wheel appears (in the womb)       
+through the command of his Ka;  
+Ka, lord of Kas,  
+foremost of Khent-ta,  
+^9^ Shai and Renenet are with him.  
+  
+He who raises the embryo,  
+who strengthens the egg,  
+who makes semen into good bone;  
+Lord of the phallus,  
+his love is procreating;  
+Husband ram, who begat gods and goddesses,  
+who creates the egg,  
+and enlivens the embryo,  
+who gives air to the nose  
+of the 'not-yet-breathing' (the fetus).
+
+</div>
+
+<div class="col2">
+
+*qdỉ rmṯ.w nṯr.w*  
+*wnn=s(n) ʿnḫ=sn*  
+*m kȝ.t ỉr.n=f*  
+*kȝ.t=f pw ỉr ỉḫt nb.w*  
+*qmȝ kȝ.w*  
+*nbỉ ỉd.wt*  
+*sḫp(r) pr nb ḥr nḥp=f*  
+   
+*nṯr wʿ*  
+*nbỉ=f s(w) ḏs=f*  
+*nn ỉr(.t) *  
+*mȝȝ=s ỉnm=f*  
+   
+*šps wr m ṯpḥ.t-ḏȝ.t*  
+^11^ *wr nn rḫ qd=f*  
+*sšm ḥʿpỉ m qr.ty=f*  
+*m rn=f wr*  
+*ỉwḥ.n=f ȝḫ.t*  
+*ʿnq=f sw r tr=f*  
+*qmȝ.n=f ỉḫt ʿšȝ*  
+*r sḏfȝ ḫȝ.wt *  
+*n nṯr.w nṯr.yt*  
+*qmȝ* ^12^ *sm.w*  
+*sḫp(r) wȝḥy.t*  
+*r sʿnḫ rmṯ.w *  
+   
+*nb wnm nfw*  
+*dỉ=f s(n)*  
+*r bw ḏr ỉb=f*  
+*dỉ=f s(n)*  
+*r snỉ-tȝ n mr=f*  
+*r ḏr sḫr.w=f*  
+*mʿr sp.w=f*  
+*ỉwty whn sp=f*  
+   
+*ḥtp ḥr=k nfr*  
+*n (pr-ʿȝ ʿnḫ.w ḏ.t)|*  
+  
+He who build humans and gods,  
+so that they all live  
+through the works he made:  
+his duty is making all things.  
+He who created bulls,  
+and fashioned cows,  
+who created all that comes forth   
+on his potter's wheel.  
+  
+Sole god,  
+who fashioned himself,  
+without any (other) eye     
+that might see his skin.    
+  
+Great, august one in the Blocked Cavern,  
+^11^ great one, whose form is unknown.  
+He who leads Hapi from his grottoes,  
+in his great name,  
+having flooded the *ȝḫ.t*-field,  
+and withdrawing himself at his time.  
+He created numerous goods,  
+to provision the altars  
+of gods and goddesses.  
+He who created ^12^ plants,  
+who produced grain,  
+to keep humans alive.  
+  
+Lord of eating and breathing,  
+he gives them,  
+to whomever he pleases;  
+he gives them,  
+to whomever bows down to his beloved,  
+and according to his plans.  
+His occasions are successful,  
+without ever failing.  
+  
+May your good face be kind  
+to (Pharaoh Living forever)|!  
+
+</div>

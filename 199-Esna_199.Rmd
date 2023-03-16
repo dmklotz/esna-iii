@@ -1,0 +1,143 @@
+## Esna 199 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 1
+- Date: Probably Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=61){target="_blank"}  
+- Bibliography: @sauneron-5, p. 25; @quack-water, pp. 9-10.
+
+<div class="col2">  
+
+^27^ *ȝbd šmw 2 hrw 1  *
+*hrw wḏȝ*  
+*sḫʿ.n ẖnmw Mnḥy.t N.t *  
+*ẖnmw Nb.t-ww *  
+*r pr-sȝḥw-Rʿ*  
+   
+*ḥtp m s.t tn *  
+*ỉs pr-sȝḥw-Rʿ*  
+*mḥty n tȝ-sn.t*  
+*ỉȝ.t pw *  
+*n nb.w ḥw.t-ẖnmw*  
+   
+*ỉr(.t) wdn qrr(.t)*   
+*fȝỉ ỉḫt*  
+*r pr r-ḏr=f*  
+*m t ḥnq.t ỉrp ỉrṯ.t*  
+*ỉḫt nb nfr*  
+*dqr.w sm.w rnp.w*  
+   
+*ỉr(.t) snṯr*  
+*kȝp ʿntyw*  
+*m pr r-ḏr=f*  
+*m-ḫnt=f rwty=f*  
+  
+^27^ II Shomu 1 (= [Payni 1](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#payni-1) )  
+Day of the Journey:  
+Procession of Khnum, Menhyt, Neith,  
+Khnum (of the FIeld), Nebtu,  
+to Per-Sahure.  
+  
+Stop in this place,  
+namely Per-Sahure,  
+north of Esna:  
+it is the (sacred) mound  
+of the Lords of the Temple of Khnum.  
+   
+Performing the litany and burnt offerings,  
+elevating offerings,  
+for the entire domain,  
+of bread, beer, wine, milk,  
+all good things;  
+fruits, vegetables, fresh plants.  
+
+Perform incense,  
+fumigate with myrrh,  
+in the entire temple,  
+inside and out.  
+
+</div>
+  
+<div class="col2">
+
+*ỉn.ḫr.tw ʿr.w 4*  
+*ḥwỉ m r' r nty ỉm*  
+*ỉn ḥnty n pr-ʿnḫ*  
+^28^ *ḥnʿ ỉr twt n ḫfty*  
+*ḏȝỉ.n ỉb n nsw r=w*  
+*m sš n ry(.t) wȝḏ(.t)*  
+*ḥr šw n mȝw*  
+   
+*ḥnʿ rn.w nw ʿȝpp*  
+*ḏw-qd bb*  
+*m sš n ry.t wȝḏ(.t) ḥr=sn*  
+   
+*ḥnʿ ỉr=w n mnḥ*  
+*ḥr r' n ʿr dšr*  
+*rdỉ m r' n 4.nw ʿr(.w) dšr(.w)*  
+*r rsy mty ỉmnty ỉȝbty*  
+*rdỉ ḥr ḫt*  
+*m ḥmȝ ẖsȝ.t*  
+   
+*šn.ḫr=k mḏȝ.t ʿȝ.t*  
+*n.t sḫr (ʿȝpp)*  
+*ḫfty n Rʿ*  
+*rdỉ m qmȝ-n.t*  
+   
+The one should bring four goats;  
+kill (them) at the each doorway there,  
+by a ritualist of the House of Life;  
+^28^ and make a likeness of any Enemy,  
+against whom the King's heart has soured,  
+drawn in fresh, red ink,  
+on clean papyrus;  
+  
+as well as the names of Apophis,  
+Evil-of-Character, and Baba,  
+with fresh, red ink upon them;  
+  
+and make (figures of) them out of wax,  
+upon the mouth of the red goats;  
+place upon the mouth of the four red goats  
+to the south, north, west, and east;  
+place (them) upon a fire  
+of *ḥmȝ*- and  *ẖsȝ*-wood.  
+
+Then recite the great book  
+of Felling (Apophis),  
+the Enemy of Re;  
+make (him) into a Thrown-into-the-Water.[^fn-199-1]
+
+</div>
+
+[^fn-199-1]: For the apotropaic rituals detailed here, see @quack-water.
+
+<div class="col2">
+
+*wnn pr-sȝḥw-Rʿ ḥr mḥy.t*  
+*n Ỉwny.t*  
+*s.t snḏm-ỉb n Rʿ*  
+   
+*mȝȝ r p(ȝ) wḫȝ ʿȝ*  
+*n ḥr-ỉb ḥw.t-bȝ.w*  
+   
+Per-Sahure exists to the north  
+of Iunyt;  
+the place of pleasing Re's heart.  
+   
+(Look to the great column   
+in the middle of the Temple of the Bas)
+
+</div>

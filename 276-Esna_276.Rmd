@@ -1,0 +1,432 @@
+## Esna 276 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 9
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=223){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 158-160; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1089){target="_blank"}  
+- Parallels: *Esna* II, 95; 101 (partial)
+
+<div class="col2">
+
+^11^ *r' ḏ(d.w) m ḥr=f nfr*  
+*ḏd-mdw*  
+  
+^11^ Verses spoken in his good face.  
+Words spoken:  
+
+</div>
+
+**§1**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*ẖnmw nb qd*  
+*ḥry nḥp*  
+*grg tȝ *  
+*m pr.t=f*  
+       
+How good is your face!  
+Khnum, Lord of Building,    
+Chief of the Potter's Wheel,  
+who populates the earth   
+with his seed.  
+
+</div>
+
+**§2**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw ʿ.wy=k ḥr nḥp*  
+*ḥr qdỉ swḥ.t nb rʿ-nb*  
+       
+How good is your face!  
+Your hands are on the wheel  
+building every egg, daily.  
+
+</div>
+
+**§3**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k (ḥr) sṯỉ kȝ.w r ỉd.wt*  
+*r ỉr(.t) mw*  
+*ḥr sḫp(r) [q]s.w*  
+     
+How good is your face!   
+You make bulls mate with cows,  
+to make semen,   
+creating bones.
+
+</div>
+
+**§4**
+<div class="col2">
+
+^12^ *nfr.wy ḥr=k*   
+*ỉw=k (ḥr) qdỉ rmṯ.w*  
+*ms(.t) nṯr.w*  
+*ʿw.t nb mỉt.t ỉry*  
+     
+^12^ How good is your face!  
+You build humans,  
+and birth gods,  
+and all animals likewise.
+
+</div>
+
+**§5**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*ỉw=k (ḥr) ṯnỉ nsw.t*  
+*ḥr nḥp=k*  
+*r smn tȝ *  
+*m wḏ.n=f*  
+      
+How good is your face!  
+You distinguish the king  
+upon your potter's wheel,  
+to establish the earth  
+through what he commanded.
+
+</div>
+
+**§6**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*ỉw=k m-ḫnt ẖ.t*  
+*r swḏȝ qmȝ.n=k nb.w*  
+*ḥr pr=sn r tȝ*  
+   
+How good is your face!  
+You are inside the womb,  
+keeping healthy all you created  
+as they come forth on earth.
+
+</div>
+
+**§7**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k m ỉwn*  
+*ḥr rdỉ(.t) ṯȝw n ʿnḫ*  
+*n* ^13^ *qdỉ.n=k nb*  
+     
+How good is your face!  
+You are the column of air,  
+giving the breath of life  
+to ^13^ all whom you built.
+
+</div>
+
+**§8**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k m swḥ n šr.ty*  
+*ẖnm.tw m ḥʿw*  
+*n ỉḫt nb.w ʿnḫ(.w)*  
+      
+How good is your face!  
+You are air for nostrils,  
+joining with the bodies    
+of all living things. 
+
+</div>
+
+**§9**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k m bȝ Šw*  
+*sn.t=k m mḥy.t r-gs=k*  
+  
+How good is your face!  
+You are the Ba of Shu,  
+your sister is the north-wind beside you.
+
+</div>
+
+**§10**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k m ỉṯ-kȝ*  
+*sḫn.tw ḥnʿ ww*  
+*m zp tpy*  
+   
+How good is your face!  
+You are the *ỉṯ-kȝ*-flood,     
+which united with the field  
+in the first moment.
+</div>
+
+**§11**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*m tr n ȝḫ.t*  
+*sỉwr ȝḫ.t*  
+*m np(r)y ḥnʿ sm.w*  
+   
+How good is your face!  
+In the time of Akhet,  
+you who impregnates the field  
+with grains and plants.
+
+</div>
+
+**§12**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*m tr n pr.t*  
+*sḫ.t wȝḏ.t*  
+*ṯḥn.tw n ḥr=k*  
+*wʿb.tw r mn.t nb*  
+   
+How good is your face!   
+In the season of Peret,   
+the green field  
+is scintillating before you,   
+being pure of all disease.  
+
+</div>
+
+**§13**
+<div class="col2">
+
+*nfr.wy ḥr=k*   
+*m tpy n šmw*  
+*ỉw=k (ḥr) s[ḫpr] Rnnwt.t*  
+*m zp n ʿnḫ.w*
+       
+How good is your face!  
+On the first day of Shomu,  
+you prod[uce] Renenutet  
+at the time of flowers.[^fn-276-13]  
+
+</div>
+
+[^fn-276-13]: @sauneron-5, p. 159, n. 2, suggested emending this final phrase to *ḫt-n-ʿnḫ*,"the wood of life; vegetation." 
+
+**§14**
+<div class="col2">
+
+^15^ *nfr.wy ḥr=k*     
+*ỉw=k m nb sḫ.t*  
+*ḥr sḫp(r) ẖr.t*  
+*nn r-ȝw*  
+      
+^15^ How good is your face!  
+You are Lord of the Field,  
+producing food,   
+all of this entirely.
+
+</div>
+
+**§15**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*ỉw=k (ḥr) psḏ m mḥn.t*  
+*(ḥr) sšp tȝ.wy*  
+*m mȝwy=k*  
+        
+How good is your face!  
+You shine in the uraeus   
+illuminating the two lands  
+with your radiance.
+
+</div>
+
+**§16**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k ṯnỉ.tw m mʿnḏ.t*  
+*snsn rs-wḏȝ*  
+*zȝw šms=k ḥb.w*  
+*r ỉỉ.t=f*  
+     
+How good is your face!  
+You are distinguished in the day bark,  
+greeting Res-Wedja,    
+o guard, you carry out festivals  
+when he arrives.
+
+</div>
+
+**§17**
+<div class="col2">
+
+^16^ *nfr.wy ḥr=k*     
+*ỉw=k ḫʿ.tw m skt.t*  
+*psḏ.t ẖnm=sn ỉtn=k*  
+     
+^16^ How good is your face!     
+You appear in the night bark  
+the Ennead unites with your disk.  
+
+</div>
+
+**§18**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*ỉw=k m bȝ-ḥḏ*  
+*nṯr wʿ*  
+*dmḏ n fdw*  
+*nb ỉrw*  
+*ʿšȝ ḫprw*  
+     
+How good is your face!  
+You are the Bright Ba,  
+the sole god  
+united out of four,  
+lord of forms,  
+numerous of manifestations.  
+
+</div>
+
+**§19**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k (ḥr) sqd m ḥr.t*  
+*sḫn bȝ=k nṯr.w*  
+*n pr ḥr nḥp=k*  
+     
+How good is your face!  
+You sail through heaven,  
+your Ba makes the gods kind  
+to those who emerged from your wheel.  
+
+</div>
+
+**§20**
+<div class="col2">
+
+^17^ *nfr.wy ḥr=k*  
+*ỉw=k m pr-mḏȝ.t*  
+*(ḥr) spẖr nswy.t n mr=f*  
+*m tỉ.t Ỉsdn*  
+  
+How good is your face!   
+You are in the House of Books,   
+inscribing kingship to whom you love,    
+as the likeness of Isden (Thoth).
+
+</div>
+
+**§21**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*ỉw=k m ḥw.t-ʿnḫ*  
+*(ḥr) snb ḫȝ(.t)*  
+*dr mḥr*  
+*n dwȝ=k*
+     
+How good is your face!  
+You are in the House of Life,  
+healing sickness,  
+and driving away pain,  
+from whomever worships you.
+
+</div>
+
+**§22**
+<div class="col2">
+
+*nfr.wy ḥr=k*  
+*ỉw=k m ḥw.wt-nṯr.w nb.w*  
+*r ʿpr ỉr.t-Ḥr*  
+*m dbḥ.w=s*  
+*m ḫprw=k n Swȝḏ-bȝ*  
+     
+How good is your face!  
+You are in all temples,  
+to equip the Eye of Horus  
+with its pieces,  
+in your form of *Swȝḏ-bȝ*.
+
+</div>
+
+**§23**
+<div class="col2">
+
+^18^ *nfr.wy ḥr=k*  
+*ỉw=k (ḥr) wbn m pr=k*  
+*bȝ šfy.t-ḥȝ.t*  
+*m-m nṯr.w*  
+       
+^18^ How good is your face!    
+You shine in your temple,  
+Ba, prestige of face  
+among the gods.
+
+</div>
+
+**§24**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k m kȝ ḫrwy*  
+*ḥr sḫr sbỉ*  
+*r nḏ.t nb-ḏr*  
+  
+How good is your face!  
+You are the loud bull,  
+striking down the rebel,    
+to protect the All-Lord.  
+
+</div>
+
+**§25**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k m bw nb*  
+*mnỉw nfr *  
+*n tȝ r-ȝw=f*  
+       
+How good is your face!  
+You are in all places,  
+good shepherd  
+of the entire world.
+
+</div>
+
+**§26**
+<div class="col2">
+
+*nfr.wy ḥr=k*     
+*ỉw=k ḥtp.tw ḥr s.t=k*  
+^19^ *ỉw Mnḥy.t mḥn.t*  
+*mn.tw ḥnʿ=k*  
+      
+How good is your face!  
+You rest upon your throne,   
+^19^ and Menhyt the uraeus  
+remains with you.
+
+</div>
+

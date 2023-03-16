@@ -1,0 +1,266 @@
+## Esna 236 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 5
+- Date: Domitian (col. 4) and Trajan (col. 7)
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=145){target="_blank"}  
+- Bibliography: @goyon-thn, p. 96; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1008){target="_blank"} 
+
+NB: This offering scene on this column is adjacent to the [Laboratory inside the north wall](https://bookdown.org/shemanefer/Esna2/laboratory-119-125.html#laboratory-119-125), the place where sacred minerals, spices, and other materials were kept. For the festival context of this particular ritual at North Esna, see @goyon-thn, p. 91.
+
+#### Formula {-} 
+
+<div class="col2">  
+
+^1^ *ỉr(.t) snṯr*  
+*wpš ṯḥn*  
+*ẖr ḥȝ.t nṯr.t tn*  
+*ḏd-mdw*  
+   
+*p.t wʿb.tw šw.tw*  
+*ḫt-mn sṯỉ m ṯḥn*  
+^2^ *ḫft spr nṯr.t tn*  
+*r ḥw.t-nṯr=s*  
+*ẖnm=s sn=s ẖnmw*  
+*m-ḫnt sḫ.t=f*  
+*swr=f ḏsrw=s*  
+*m nỉw.wt spȝ.wt*  
+    
+^1^ Performing incense,  
+sprinkling faience  
+before this goddess.  
+Words spoken:  
+  
+The sky is clear and empty (of clouds),  
+the world is strewn with faience  
+^2^ when this goddess arrives  
+to her temple,    
+to unit with (*ẖnm*) her brother, Khnum (*ẖnmw*),  
+within his Field.  
+He magnifies her sanctity  
+in all cities and nomes.   
+
+</div>
+
+#### The King {-} 
+
+<div class="col2">  
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrtwr gysrs)|*  
+^4^ *zȝ Rʿ*  
+*nb ḫʿ(.w)*  
+*(twmtyns ḫwỉ)|*  
+   
+^5^ *ʿbw snṯr *  
+*n wr.t-ḥkȝw ʿȝ.t*  
+*nb(.t) pr-wr*  
+^6^ *sṯỉ (ṯḥn)*  
+*n nb.t ỉmȝ.t*  
+*wṯz-nfrw*   
+*n Nbw.t*  
+  
+^7^ *nṯr nfr*  
+*ḥqȝ tȝ-nṯr*  
+*ḥwỉ mṯn ḥr Tfrr*  
+*ỉr snṯr n mw.t=f*  
+*kȝp ḫm.w*   
+*m sṯỉ=f*  
+*rwỉ qnd ḥr ỉb=s*  
+*ȝw-ỉb=s*   
+*m wpš ṯḥn*  
+*[...] *  
+*n mȝȝ nfrw=sn*  
+   
+*nb ḏsr(.w)*  
+*(trʿns nty-ḫwỉ)|*  
+   
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^4^ Son of Re,  
+Lord of Appearance(s),  
+(Domitian Augustus)|  
+   
+^5^ He who purifies and makes incense  
+for great Werethekau,  
+Lady of the Per-wer;  
+^6^ who scatters (faience)   
+to the Lady of Grace;  
+who carries the perfection  
+of the Golden One.  
+  
+^7^ The good god,    
+ruler of God's Land,  
+who strikes a path to Tefrer,  
+who offers incense for his mother,  
+who fumigates the chapels  
+with its scent,  
+who repels the rage from her heart,  
+so her heart is glad  
+from sprinkling faience  
+[...]  
+from seeing their goodness.  
+  
+The Lord of sanctity,  
+(Trajan Augustus)|
+
+</div>
+
+#### Nekhbet {-}
+
+<div class="col2">
+
+^7a^ *Nḫb.t*    
+  
+^7a^ Nekhbet.  
+
+</div>
+
+#### Menhyt {-}
+
+<div class="col2">
+
+^8^ *ḏd-mdw n Mnḥy.t wr.t*  
+*nb(.t) ḫnt-tȝ*  
+*Tfn.t ỉw ỉb=s* ^9^ *m ršw*  
+*mw.t-nṯr*  
+*tmȝ.t n Rʿ*  
+*mḥn.t n nṯr.w pȝwty.w*  
+   
+*ỉỉ(.t) m* ^10^ *Kns.t*  
+*spr(.t) r Ỉwny.t*  
+*ỉmȝ-ỉb n sn=s*  
+*ḥnʿ zȝ=s*  
+^11^ *wḏ n=s [pẖr]-ỉb=f m-ḫt=s*  
+*r shr kȝ=s m Nb.t-ww*  
+  
+^12^ *ḥʿʿ n=s tȝ.wy*  
+*nhm n=s ỉdb.w*  
+*ḥng(g)* ^13^ *n=s nṯr.w*  
+*m ỉỉ=s*  
+   
+^14^ *dỉ=ỉ n=k ḥḏ.t m Nḫn*  
+*dšr.t m P*  
+*tȝ nb [...]*  
+   
+^8^ Words spoken by Menhyt the great,  
+Lady of Khent-ta,  
+Tefnut, when her heart ^9^ rejoices.  
+Mother of God,  
+primeval mother of Re,  
+uraeus of the primeval gods.  
+  
+She who comes from ^10^ Kenset,  
+and arrives to Iunyt,  
+so her brother is delighted,  
+along with her son.  
+She ordered him to be [en]amored with her,[^fn-236-1]  
+in order to pacify her Ka as Nebtu.  
+  
+^12^ The two lands rejoice for her,  
+the shores celebrate for her,  
+and the gods ^13^ cheer for her,  
+at her arrival.  
+  
+^14^ I give you the white crown in Nekhen,  
+and the red crown in Pe,  
+every land [...].
+
+</div>
+
+[^fn-236-1]: There is just enough space in the lacuna to restore *[pẖr]-ỉb r-ḫt NN*, "to become enamored with *NN*." The same phrase occurs in another description of Khnum-Shu seducing Tefnut-Nebtu: *Esna* II, 58, 4.
+
+#### Nebtu {-}
+
+<div class="col2">
+
+^15^ *ḏd-mdw n Nb.t-ww*  
+*nb(.t) tȝ-sn.t*  
+*zȝ.t Rʿ*  
+*mḥn.t m-ḥȝ.t=f*  
+*hnw=f (r)-ḏbȝ=s*  
+^16^ *m mr=s*  
+*dwȝ s(y) nṯr.w*  
+*mỉtt rmṯ.w*  
+*m ʿȝ n bȝw=s*  
+*wr kȝ=s*  
+*r nṯr.w nṯry.t*  
+^17^ *tȝ (r)-ḏr=f*  
+*n=s m ʿqy*  
+*ʿbw [...] nṯr.w m [...]*  
+   
+^18^ *dỉ=ỉ n=k tȝ-nṯr*  
+*ẖr ỉmỉ[=f]*  
+*Tfrr ẖr [...]*  
+    
+^15^ Words spoken by Nebtu,  
+Lady of Esna,  
+daughter of Re,  
+uraeus upon his brow:  
+he makes *hnw*-praise about her  
+^16^ with what she loves;  
+gods praise her,  
+likewise humans,  
+because her power is so great;  
+her Ka is greatest   
+of gods and goddesses.  
+^17^ The entire earth   
+belongs to her in festival,  
+purified [...] gods in [...]  
+  
+^18^ I give you God's Land,  
+bearing what is in [it];  
+Tefrer bearing [...]  
+
+</div>
+
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^19^ *[...] *  
+*wpš.n=s p.t*  
+*sḥḏ.n=s tȝ*  
+*ḥnmm.t m ks*  
+*n ḥr=s*  
+   
+*nb(.t) snṯr*  
+*ḥnw.t wȝḏ-šmʿ*  
+*ḥnk.tw n=s kȝp.w nb*  
+   
+*wn.n=s p.t*  
+*m ṯḥn*  
+*wpš.n=s tȝ *  
+*m [...]*  
+  
+^19^ [...]    
+as she brightened the sky,  
+so illumined the earth,  
+so the sunfolk bow down  
+before her.  
+  
+Lady of incense,  
+mistress of green jasper,  
+to whom one offers all aromatics.  
+  
+As she opened the sky  
+with faience,  
+so she illumined the earth  
+with [...]  
+
+</div>

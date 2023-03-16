@@ -18,9 +18,7 @@
 - Location: Column 14
 - Date: Hadrian
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=323){target="_blank"}  
-- Bibliography: See entries in [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1241){target="_blank"} 
-
-<!--get Recklinghausen, Soubassementsudien vol. 2, ritueller Raum--> 
+- Bibliography: @recklinghausen-fremden, pp. 543-544 (337, B); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1241){target="_blank"} 
 
 <div class="col2">  
 
@@ -101,5 +99,5 @@ combat is his delight.[^fn-337-6]
 
 [^fn-337-2]: ![](./images/337_B1.png){width=16%} - The reading is not entirely certain, since this epithet appears to be without parallel. But similar spellings of *qn*, "power; might", occur on the same column in [Esna 350], 1 and 6. Compare also the epithet "Khnum Lord of power and might (*nb qn nḫt*)": [Esna 375], A. 
 [^fn-337-4]: All of these phrases occur in the description of the "great *wpy*-festival" of [Khoiak 1](file:///C:/Users/klotzd/Esna/_book/calendar-i-55.html#khoiak-1): [Esna 346], 22; with allusions to this festival in *Esna* II, 81, 5-6; 127, 8.
-[^fn-337-5]: Similar phrases occur in [Esna 346], 25; [Esna 351], A. Apparently this refers to events on Khoiak 1 and 2: Khnum receives justification on the first, and visits his father Re on the second: [Esna 348]; cf. @sauneron-5, pp. 65-66.
+[^fn-337-5]: Similar phrases occur in [Esna 346], 25; [Esna 351], A. Apparently days 1 and 2 refers to events on Khoiak 1 and 2: Khnum receives justification on the first, and visits his father Re on the second: [Esna 348]; cf. @sauneron-5, pp. 65-66.
 [^fn-337-6]: The reading of these final signs is confirmed by [Esna 350], 16. Khnum Lord of the Field receives weapons from the king, and his epithets include: "battle is his delight (*ršw=f pw r'-(ʿ)-ḫt*)."

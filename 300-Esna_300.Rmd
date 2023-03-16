@@ -1,0 +1,372 @@
+## Esna 300 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 11
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=259){target="_blank"}
+- Bibliography: @sauneron-5, pp. 194-197; @leitz-loeffler, pp. 54-55; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1154){target="_blank"}
+
+
+<div class="col2">  
+
+^1^ *ḏd-mdw ỉn ẖnmw-Rʿ nb tȝ-sn.t*  
+*rwḏ ʿ.wy=ỉ *  
+*n qdỉ=k ḥr nḥp=ỉ*  
+*zȝ=ỉ mry=ỉ*  
+*(pr-ʿȝ ʿnḫ(.w) ḏt)|*  
+   
+*sḫ=ỉ š(n) m ṯb.ty=ỉ*  
+*ḥr qmȝ=k ḥr=f*  
+*ẖnm(=ỉ) tw m ʿnḫ*  
+*m rn=ỉ n ẖnmw*  
+   
+*wp.n=ỉ ḥʿw=k*  
+*m ḏbʿ.w=ỉ*  
+*ỉs nn ʿ ỉm=k*  
+*gȝ.w* ^2^ *m nṯr*  
+   
+*pȝ.n=ỉ wtṯ=k*  
+*m ỉrw=ỉ n kȝ nḏmnḏm*  
+   
+*ṯz.n(=ỉ) tw*  
+*ỉmy ẖ.t nt mw.t=k*  
+*pẖr.n(=ỉ) tw*  
+*m sw[ḥ]*  
+*šd.n(=ỉ) tw m štȝ.t*  
+*m rn=ỉ pfy n Šw*  
+  
+^1^ Words spoken by Khnum-Re Lord of Esna:  
+My arms are firm  
+creating you upon my potter's wheel,  
+my beloved son,  
+(Pharaoh living eternally)|  
+  
+I strike the wheel with my sandals,  
+creating you upon it:  
+I endow (*ẖnm*) you with life  
+in my name of Khnum (*ẖnmw*).  
+  
+I distinguished your body parts  
+with my fingers,  
+and there is no part of you  
+devoid ^2^ of god.  
+  
+I had previously begotten you  
+in my visible form of Lusty Bull.   
+  
+I bound you together  
+within the belly of your mother;  
+I surrounded you   
+with ai[r],  
+and I nourished (*šd*) you in the womb (*štȝ.t*)  
+in this my name of Shu (*Šw*).  
+
+</div>
+
+<div class="col2">
+
+*ỉr.n=ỉ ẖr.wt*  
+*m ȝbd 10*  
+*dỉ=ỉ pr=k r tȝ m ḥʿʿ*  
+*ỉr=ỉ n=k ṯȝw*  
+^3^ *ḥnʿ mw.t=k*  
+*m ḫprw=ỉ pfy n Ỉmn*  
+   
+*sḥḏ=ỉ tȝ.wy*  
+*m hrw n ms.tw=k*  
+*m ỉrw=ỉ pfy n nḥḥ*  
+   
+*ṯnỉ.n=ỉ šȝỉ=k*  
+*ḥr msḫn.t*  
+*m rn=ỉ pfy n tȝ-ṯnn*  
+   
+*ỉnk wr šfy.t*  
+*swr.n=ỉ šfy.t=k*  
+*r qmȝ.n=ỉ*  
+*n mr(w.t) smn bw nb*  
+^4^ *ḥr ḏd=k rʿ nb*  
+   
+I created sustenance  
+for 10 months (of gestation);  
+I let you emerge on earth in joy,  
+and I make air for you,  
+^3^ along with your mother,  
+in this my manifestation of Amun.  
+   
+I illumine the two lands,  
+on the day you are born,   
+in this my name of Neheh.   
+  
+I have distinguished (*ṯnỉ*) your Shai  
+upon the birth-brick,  
+in this my name of Tatenen (*tȝ-ṯnn*).  
+  
+I am great of prestige,    
+and I have magnified your prestige  
+over those I have created,  
+in order to establish every place  
+^4^ as you say, every day.  
+
+</div>  
+
+<div class="col2">  
+  
+*ḫpr.n=ỉ ỉs m nb sḫ.t*  
+*ḥr sḫp(r) ʿnḫ nb*  
+*prỉ m ww=ỉ*  
+*m rn=ỉ pfy nb ʿnḫ*  
+   
+*ẖnm Nwn ȝḫ.t *  
+*m ỉȝ.t=ỉ r tr=f*  
+*n mr(.wt) sḏfȝ Bȝq.t*  
+*n kȝ=k r nḥḥ*  
+   
+*wnn=ỉ m mnỉw ḥqȝ mnỉ.w*  
+*ḥr mnỉ ḥm=k m tȝ r-ȝw=f*  
+*sʿȝ=ỉ bȝw=k m šmʿ-mḥw*  
+*sḫr(=ỉ) sbỉ* ^5^ *m ḫȝs.wt*  
+*m sḫr.w(=ỉ) pfy*  
+*n nṯr ỉr nṯr nb*  
+  
+Moreover I became the Lord of the Field,  
+producing all living things (*ʿnḫ nb*),  
+which emerged from my agricultural district,  
+in this my name of Lord of Life (*nb ʿnḫ*).  
+  
+Nun unites with the field  
+in my mound at its time,[^fn-300-1]   
+in order to provision Egypt  
+for your Ka, eternally.  
+   
+I am the herder, chief of herders,  
+herding your Majesty in the entire world;  
+I increase your power in Upper and Lower Egypt,  
+and I smite the rebel ^5^ in foreign lands,  
+in this (my) condition  
+of God who made every god.[^fn-300-2]  
+
+</div>
+
+[^fn-300-1]: For the theme of the Nile combining with the field inside the mound of Khnum Lord of the Field, see also *Esna* II, 127, 4; [Esna 348], 27-28.
+[^fn-300-2]: @sauneron-5, p. 198, n. c, interpreted the hieroglyphs in this epithet differently. But see [Esna 254], 16; [Esna 394], 24; *LGG* IV, 394b.
+
+<div class="col2">
+
+*twt ỉsk ẖnty n Rʿ*  
+*ỉnk pw sȝq ḥʿw=k*  
+*m ḥw.t-kȝ-Ptḥ*  
+*m rn=ỉ pfy*  
+*n rsy-ỉnb=f*  
+   
+*ntk ḫy nfr*  
+*ḫntš ỉb=ỉ*  
+*n pr=k ḥr nḥp=ỉ*  
+*m rn=k pfy *  
+*n Ḥr-P*  
+   
+*nfr.wy ỉw=k m ḥtp*  
+*nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrtr gsr)|*  
+*zȝ Rʿ *  
+*nb ḫʿ.w*  
+^6^ *(tryns ḫwỉ)|*  
+   
+*ntk ẖrd ỉqr*  
+*tm m ḥʿw=f*  
+*ḥwnw ỉwty sk ḏ.t *  
+  
+You are, morever, the image of Re.  
+I am he who assembles your body  
+in Memphis,  
+in this my name  
+of Resy-inebef.  
+  
+You are the good child,  
+my heart delights  
+when you came forth upon my wheel (*nḥp*)  
+in this your name  
+of Horus of Pe (*n Ḥ(r)-P*).[^fn-300-5b]  
+  
+How good is your coming, in peace!  
+King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+Son of Re,  
+Lord of Appearances,  
+^6^ (Trajan Augustus)|   
+    
+You are an excellent child,    
+complete of body,  
+young without fail, ever.  
+  
+</div>
+
+[^fn-300-5b]: For this rare etymology of *nḥp*, see the precise layout of signs here in @sauneron-3, p. 215, n. c. 
+
+<div class="col2">
+
+*psḏ=k m pr.w*  
+*wr pr=k ḫnt tȝ*  
+*mỉ Rʿ*  
+*pr(.w) m Nw.t*  
+  
+*nsw.n=k tȝ r-ḏr=f*  
+*m ḫʿỉ=k*  
+*m-ʿ šfy.t *  
+*rdỉ.n=ỉ ḫr=k*  
+*ỉmy.w qd.n=ỉ nb.w*  
+   
+*ỉn Mnḥy.t ntt r-gs=ỉ*  
+^7^ *wbn=s ḥr tp=k*  
+*m sḫr.w=s pfy n mḥn.t*  
+   
+*sḏfȝ.ḫr=k spȝ.t=k sn.t*  
+*ḥr ʿḫm.w nty m-ẖnw=s*  
+*mỉ nty ḫn=ỉ ḥr=s*  
+*n-mr(w.t) grg tȝ pn*  
+   
+*snḏm=ỉ ḥr srḫ=ỉ*  
+*m ḫnt-tȝ*  
+*(ḥr) qdỉ rmṯ.w nṯr.w*  
+*(ḥr) ỉr(.t) ỉḫt nb.w*  
+*r ḥnty*  
+  
+You shine in the temples,  
+and your emergence is great on earth,  
+just like Re,  
+when he emerges in Nut.  
+   
+You ruled the entire earth  
+when you appeared in glory,  
+because of the prestige  
+which I made for you  
+among all those I fashioned.    
+  
+It is Menhyt who is beside me,  
+^7^ she shines upon your head  
+in this her condition of a uraeus.  
+  
+So you should provision your nome, Esna,   
+on behalf of the sacred images within it,  
+because I alighted upon it  
+to populate this earth.  
+  
+I sit  upon the *serekh*  
+in Khent-ta,  
+constructing people and gods,  
+making all things  
+for the limits of eternity.
+
+</div> 
+
+<div class="col2"> 
+
+*pẖr=ỉ tȝ.wy*  
+^8^ *m ʿnḫ*  
+*r sʿnḫ ỉmy.w=s nb.w*  
+*m rn=ỉ pfy*  
+*n pẖr-tȝ.wy*  
+   
+*twȝ=ỉ p.t m ỉrw=ỉ*  
+*grg=ỉ tȝ m mnw=ỉ*  
+*m rn=ỉ pfy*  
+*n Ptḥ-ẖnmw*  
+   
+*wnn=ỉ ḥr nbỉ swḥ.t nb.w*  
+*rʿ nb*  
+*n mr(.wt) grg n=k ỉḫt-mn*  
+*m fqȝ n nṯr nfr*  
+   
+*ỉnk nb m* ^9^ *kȝ.t=ỉ*  
+*ỉr.n=ỉ r-ḏr ỉb=ỉ*  
+*dỉ=ỉ ḫȝbs.w zḫn(.w)*  
+*n qdỉ.n=ỉ*  
+*m šȝʿ.n=ỉ qmȝ=sn*  
+  
+I surround (*pẖr*) the two lands (*tȝ.wy*)  
+^8^ in life,  
+to enliven all those within them,  
+in this my name  
+of He who encircles the two lands (*pẖr-tȝ.wy*).  
+  
+I lift up the sky in my visible form,  
+and I lay down the ground with my monument,  
+in this my name  
+of Ptah-Khnum.  
+   
+I fashion all eggs/wombs,   
+every day,   
+to populate the whole world for you,  
+as a reward for the good god.  
+   
+I am a master in ^9^ my work,    
+I have acted as my heart dictates;  
+I allow the decan stars to align (favorably)    
+for those I have built,    
+when I began their creation.  
+
+</div>
+
+<div class="col2">
+
+*ỉnk mnḫ ỉb*  
+*mrỉ qd*  
+*qd.n=ỉ rmṯ.w nṯr.w*  
+*ʿ.wt mnmn.wt *  
+*pȝy.w rm.w ḥrr.w*  
+*m grḥ m hrw*  
+   
+*wnn=k m nb=sn*  
+*r ỉr=k zȝw ỉry*  
+^10^ *n ỉr.n=ỉ nb.w*  
+*ḥnʿ nḥp.n=ỉ r nḥḥ*  
+   
+*ḫp(r) s.t=k m ẖnw=ỉ*  
+*ỉnb-ḥḏ*  
+*ṯȝỉ=k ḥḏ.t*  
+*ẖnm=k dšr.t*  
+*Ḥr (pr-ʿȝ)|*  
+*dmḏ.w n=k sḫm.ty*  
+   
+*wn ỉt=k mw.t=k*  
+*m zȝw=k rʿ-nb*  
+  
+I am beneficent of heart,   
+who loves to build on the wheel.   
+I built humans and gods,  
+small and big livestock,  
+birds, fish, serpents,  
+by night and by day.  
+  
+You shall be as their lord,  
+and you will be the guardian, likewise,  
+^10^ of all that I made,  
+along with what I fashioned on the wheel  
+for eternity.   
+  
+Your throne shall exist in my Residence,  
+Memphis.  
+As you seize the white crown,  
+so you receive the red crown -  
+Horus (Pharaoh)| -   
+the double crown is united for you![^fn-300-10]  
+  
+Your father and mother  
+shall be in your protection, every day. 
+
+</div>  
+
+[^fn-300-10]: For this formula, recited in similar contexts of confirming royal legitimacy, see @klotz-varia, p. 207.

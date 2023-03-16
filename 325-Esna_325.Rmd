@@ -1,0 +1,194 @@
+## Esna 325 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 12
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page299){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1216){target="_blank"}
+
+#### Formula {-} 
+
+<div class="col2">
+
+^1^ *ršw ṯȝw zp snw*  
+*bȝ qn*  
+*ỉr ršw*  
+*ṯȝw n ʿnḫ zp-snw*  
+*nb ʿnḫ*  
+^2^ *dỉ ʿnḫ n tȝ(.w) ḫȝs.wt*  
+   
+*mn n=k [ʿnḫ-ḏd-wȝs]*  
+*pr ỉm=k*  
+*rwḏ ḥm=k*  
+*m p.t tȝ*  
+  
+^1^ Rejoice, o breath![^fn-325-0]  
+Mighty Ba,  
+be joyful, 
+o breath of life!  
+Lord of Life,  
+^2^ who gives life to all lands.  
+   
+Receive the [*ʿnḫ-ḏd-wȝs* symbol]  
+which came forth from you,  
+so your majesty might be firm  
+in heaven and earth.  
+
+</div>
+
+[^fn-325-0]: Note this wind ideogram could be read differently, such as *nfy ỉqr*, "excellent breath" (an epithet of the same god Khnum the Good Protector: see the spelling in *Esna* VII, 553, 9),  or possibly *ỉwn*, "pillar of air." 
+
+#### The King {-} 
+
+<div class="col2"> 
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^4^ *zȝ Rʿ *  
+*nb ḫʿ.w*  
+*(dryns nty-ḫwỉ)|*  
+   
+^5^ *kȝwt ṯȝw [n] ʿnḫ*  
+*[...] ỉȝw.t [n] zȝ Rʿ*  
+  
+^6^ *nṯr nfr*  
+*Šw ṯȝw n ʿnḫ*  
+*wḏ [...]*  
+*[...] ỉm=f*  
+*srwḏ ḥm=f *  
+*m ḫtỉ [ḫntỉ]*  
+*[...] n Ḥr*  
+*ṯȝw [...]*  
+*(dryns [...])|*  
+  
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^4^ Son of Re,  
+Lord of Appearances,  
+(Trajan Augustus)|  
+  
+^5^ He who lifts up the breath [of] life,  
+[...] the office [of] the son of Re.  
+   
+^6^ The good god,  
+Shu, the breath of life,  
+who commends [...]  
+[...] from him;  
+who makes firm his majesty,  
+going north and [south][^fn-325-1],  
+[...] of Horus,  
+breath [...]  
+(Trajan [...])|  
+
+</div>
+
+[^fn-325-1]: Restored after a similar spelling in the related text [Esna 326], B.
+
+#### Khnum the Good Protector {-}
+
+<div class="col2">
+
+^7^ *ḏd-mdw n ẖnmw pȝ nḫy nfr*  
+*n nṯr.w rmṯ.w*  
+*nṯr* ^8^ *ʿȝ nb tȝ-sn.t*  
+*nfy ỉqr*  
+*ỉry-ḥm.t*  
+*ḥʿʿ [...]* ^9^ *nḏm*  
+*nb ʿnḫ mr=f *  
+*wr pḥty*  
+*swḏȝ ỉz.t=f *  
+*zȝw [pȝ]wty.w-tpy.w(?)*  
+   
+^10^ *dỉ=ỉ n=k ṯȝw n ʿnḫ*  
+*r fnḏ[=k...]*  
+   
+^7^ Words spoken by Khnum the Good Protector  
+of gods and people,  
+great ^8^ god, Lord of Esna.  
+Excellent breath of air,  
+Oarsman,  
+who rejoices [...] ^9^ sweet,  
+Lord of life (for) whomever he loves,  
+great of strength,  
+who keeps his troops safe,  
+and protects the First [Prim]eval ones(?).  
+  
+^10^ I give you the breath of life  
+to [your] nose [...]
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2"> 
+
+^11^ *ḏd-mdw n Nb.t-ww*  
+*ḥr.t s.t wr.t *  
+*ḫnt.t ḫnt-tȝ*  
+*ḫnt.t ḥw.t[-ỉt?]*  
+  
+^12^ *Tfn.t *  
+*ỉr=s ḥkȝ *  
+*ỉb=s pw*  
+*ỉr=s ṯȝw nty [ʿnḫ?...]*  
+^13^ *ỉr(.t) ẖr.wt*  
+*n zmȝy.w [...]*  
+   
+^14^ *dỉ=ỉ n=k [...]*  
+*m ȝbḫ m fnḏ=ỉ*  
+*m ʿnḫ*  
+  
+^11^ Words spoken by Nebtu,
+upon the great throne,
+foremost of Khent-ta,
+foremost of Temple [of the Father?].
+  
+^12^ Tefnut:
+she makes Heka,
+he is her true love;
+she makes the breath of [life?...]
+^13^ making food
+for the associates [...]
+
+^14^ I give you [...] 
+as something breathed in my nose 
+in life.
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">  
+
+^15^ *nsw.t-bỉty*  
+*nb [...]*  
+*nḥm.n=f nỉwty.w*  
+*[...]=sn*  
+*wb[n?]=f n [...]*  
+*[ẖnmw-Šw] ṯmȝ-ʿ*  
+   
+^15^ The King of Upper and Lower Egypt,  
+Lord of [...],  
+as he rescued those of the city[^fn-325-2]  
+[...] them,  
+he ris[es?] [...]  
+[Khnum-Shu], Valiant of Arm.  
+ 
+</div>
+
+[^fn-325-2]: Same epithet in [Esna 315], B.

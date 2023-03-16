@@ -1,0 +1,242 @@
+## Esna 211 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 2
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=89){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/929)
+
+#### Title {-}
+
+<div class="col2">  
+   
+^1^ *[mn n=k...]*  
+*[...nw] tȝ r-ḏr=f*  
+*qȝy.(w)t [...]*  
+*r dgȝ n* ^2^ *ỉtn=k*  
+*ḫntš.w r-ʿ ḥp.ty*  
+*[...]=k*  
+*r s.t* ^3^ *mr=k*  
+   
+*mtr=ỉ n=k ḥnb.wt*  
+*m s.t-ỉb=k*  
+*ỉr[=k...]*  
+*m-ḫnt=s*  
+   
+^1^ [Receive ...]  
+[...of] the entire earth,  
+high land(s) [and...]  
+as far as the sundisk ^2^ can see;  
+plots of land as far as the limits  
+[...] you/your  
+to the place ^3^ you love.  
+  
+I measure the fields for you  
+in your favorite place,  
+may [you...]  
+within it.  
+
+</div>
+
+#### The King {-}
+
+<div class="col2">
+
+^4^ *nsw.t-bỉty*  
+*[nb] tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^5^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(twmtyns nty ḫwỉ)|*  
+^6^ *snn n [Šw?]*  
+*zȝ [smsw n?] ḥry-wḏb*  
+   
+^7^ *nṯr nfr*  
+*wȝḏḏ nfr*  
+*wȝḏ pr.t*  
+*wsr ḫpš*  
+*ʿšȝ wȝḥy.t*  
+*swr ḥtp.w*  
+*nw nb sḫ.t*  
+*sʿȝ ḏfȝ.w*  
+*n nb wȝḏwȝḏ*  
+*swsḫ tš n kȝ*  
+*n ỉmy-r' ȝḥ.t*  
+*bʿḥ pr=f *  
+*m ỉḫt nb.w nfr*  
+*pr(.w) m ww=f*  
+  
+*nb ḫnt[š.w]*  
+*([twmtyn]s nty-ḫwỉ)|*
+  
+^4^ The King of Upper and Lower Egypt,  
+[Lord] of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re,  
+Lord of Appearances,  
+(Domitian Augustus)|  
+^6^ image of [Shu?],[^fn-211-0]  
+[eldest?] son of Chief of Agriculture.  
+  
+^7^ The good god,   
+good *wȝḏḏ*-spirit,   
+verdant of seed,  
+mighty of strong arm,  
+numerous of grain.  
+He who magnifies offerings  
+of the Lord of the Field (Khnum);  
+who makes great provisions  
+for the Lord of Verdure,  
+who broadens the territory of the Ka,  
+of the Overseer of the Field[^fn-211-1];    
+who inundates his temple  
+with all good things  
+which come forth from his agricultural domain.  
+  
+Lord of plot[s of land],  
+([Domitian] Augustus)|  
+
+</div>
+
+[^fn-211-0]: Restoration suggested by the context, shape of the damage, and [Esna 211], 8; 
+[^fn-211-1]: For the reading of this group, see @recklinghausen-field.
+
+#### Khnum Lord of Esna {-}
+
+<div class="col2">
+
+^8^ *ḏd-mdw n ẖnmw-Rʿ nb tȝ-sn.t*  
+*Šw zȝ Rʿ*  
+*nb sḫ.t *  
+*[...]*  
+^9^ *ḥry ỉdb*  
+*n tȝ r-ḏr=f*  
+*nb ṯȝw*  
+*mḥy.t r-ḫt=f*  
+*nb ʿnḫ [...]*  
+^10^ *ỉwn [...]*  
+*sr [...]*  
+^11^ *pr m qd*  
+*m sʿr r sḫ.t*  
+*r bʿḥ tȝ.wy [...]*  
+^12^ *qȝ šw.ty*  
+*tk[n] r ḥr.t*  
+*ḥry.t=f (ḥr) pẖr*  
+*m ḥr.w*  
+   
+^13^ *[dỉ=ỉ n=k ...]*  
+*[...]*  
+*šnw n tȝ r-ȝw=f*  
+
+^8^ Words spoken by Khnum-Re Lord of Esna,  
+Shu, son of Re,  
+Lord of the Field   
+[...]  
+^9^ Chief of Agriculture  
+for the entire earth.  
+Lord of air,  
+the north-wind follows him.  
+Lord of Life [...]  
+^10^ pillar of air [...]   
+ram [...]  
+^11^ being ecstatic (lit. 'out of body'),  
+while rising to the field,  
+in order to flood the two lands [...]  
+^12^ tall of double plumes,  
+which reach up to the sky;   
+terror of him circulates  
+in all faces.  
+  
+^13^ [I give you...]  
+[...]  
+the circuit of the entire earth.
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2">
+   
+^14^ *ḏd-mdw n Nb.t-ww*  
+*nb(.t) tȝ-sn.t*  
+*tfn.t zȝ.t Rʿ*  
+*nb(.t) sḫ.t*  
+^15^ *sḫp(r.t) ỉḫt nb.w*  
+*šd.t šd.t m ỉḫt=s*  
+*ʿnḫ tȝ m* ^16^ *r'-ʿ.wy=s*  
+*nb.t np(rỉ)*  
+*ʿšȝ wȝḥy.t*  
+*nb(.t) kȝ.w ḏfȝ.w*  
+   
+^17^ *dỉ=ỉ n=k ȝḫ.t*  
+*ȝḫ.tw r nw=s*  
+*šȝ.w nb.w (ḥr) ṯḥn*  
+*n kȝ=k*  
+  
+^14^ Words spoken by Nebtu,  
+Lady of Esna,  
+Tefnut, daughter of Re,  
+Lady of the Field,   
+^15^ who produces all things.    
+Nurturer, who nurtures with her food;  
+the earth lives from her handiwork.  
+Lady of wheat,  
+numerous of grain,  
+Lady of food and provisions.  
+  
+^17^ I give you the excellent field,  
+made excellent at its time;  
+all plants shining  
+for your Ka.
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^18^ *nsw.t-bỉty*  
+*ḥry-ỉdb n šmʿ-mḥw*  
+*ỉmy-r' ȝḥ.t*  
+*n psḏ m mḥn.t=f*  
+*mtr ḥnb.t *  
+*n zȝ.w-n=sn*  
+   
+*nb sḫ.t*  
+*ḏdȝ ẖms.w*  
+*ỉr sm.w*  
+*r ṯz mn(mn).wt*  
+*sḫp(r) ḫ.t-n-ʿnḫ*  
+*n tpy.w tȝ*  
+*ẖnmw nb ww*  
+*ḫnty ww*  
+  
+^18^ The King of Upper and Lower Egypt,  
+Chief of Agriculture for all Egypt,  
+Overseer of the Field   
+for he who rises in his uraeus (Re),  
+who measures the plots of lands  
+for the Guardian Deities.  
+  
+Lord of the Field,  
+who fattens wheat,  
+who makes plants   
+in order to raise livestock;   
+who produces 'wood of life'    
+for those on earth:  
+Khnum Lord of the Agricultural District,  
+Foremost of the Agricultural District.  
+
+</div>

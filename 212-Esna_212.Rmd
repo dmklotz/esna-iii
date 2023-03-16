@@ -1,0 +1,90 @@
+## Esna 212 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 2
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=92){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/930)
+
+
+<div class="col2">  
+   
+^A^ *[...]*  
+*tmȝ.t ḥr.t[-tp]*  
+*[...]*  
+*ḫtỉ(.w) [ḥr] rn=s*  
+*[ḥȝ].t nṯr.w*  
+*pḥwy nty nb*  
+*ḏd.tw ḏ.t r ḫprw=s*  
+   
+*wʿ.t m ʿḥ*  
+*štȝ.t m stp-zȝ*  
+*wsr.t nḏt.t n Ḥr*  
+*ỉr=s mḥn m tp zȝ=s*  
+*n wbn=f m Nwn*  
+*[...].n=s [...]*  
+*ḏ.t nḥḥ *  
+  
+^A^ [...]   
+The Mother-urae[us]  
+[...]  
+inscribed [in] her name;  
+[firs]t of the gods,  
+the end of all that is:  
+her manifestation is called "eternity".  
+  
+Sole one in the palace,  
+mysterious serpent in the court;  
+Mighty, protector of Horus,
+she serves as uraeus on her son's head  
+when he rises from out of Nun;  
+she [...]  
+for all eternity.
+
+</div>
+
+<div class="col2">
+
+^B^ *[...]*  
+*nb ỉȝw.t ỉmỉ.tw psḏ.t*  
+*tȝ nb ḫtỉ ḥr rn=f*  
+*tỉs=f ḏ.t=f m šdy.w*  
+*wsḫ ḥnb.wt=f r ḥp.ty*  
+*ʿḥʿ ḥr ḫnty n [ḫnt]-tȝ*  
+*ḥr wp tȝš n nṯr nb*  
+   
+*ḏd[.n]=f ỉr *  
+*ḫp(r.w) ḥr-ʿ*  
+*nn thỉ n šȝʿ.n=f*  
+*ʿḥʿy=f mn.tw*  
+*pr.t=f ṯz(.w)*  
+*nn sk=f ḏ.t nḥḥ*   
+  
+^B^ [...]  
+Lord of office among the Ennead,  
+every land is inscribed in his name;   
+he seats his body in the flooded lands,  
+and his fields are broader than the limits;  
+he who sits upon the edge of the earth,  
+assigning territory to every god. 
+  
+That which he [has] said should be done,  
+it happens immediately,  
+what he has fated can not be interrupted.  
+His grain endures,  
+his seed has been bound,  
+without fail, for all eternity.
+
+</div>

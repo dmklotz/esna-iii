@@ -1,0 +1,319 @@
+## Esna 208 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 2
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=83){target="_blank"}  
+- Bibliography: @sauneron-8, pp. 42-43, 78-79. See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/925){target="_blank"} 
+
+NB: This litany is a continuation of [Esna 217].
+
+<div class="col2">  
+
+^24^ (...) *r nb*  
+  
+^24^ (...) to be Lord.
+
+</div>
+
+**49**  
+<div class="col2">
+
+*n Wsỉr mȝʿ-ḫrw*  
+*nb mȝʿ.t*  
+  
+For Osiris, justified,  
+Lord of Maat.  
+
+</div>
+
+**50**  
+<div class="col2">
+
+*n Wsỉr*  
+*twt ʿȝ m ȝbḏw*  
+  
+For Osiris,  
+great statue in Abydos.
+
+</div>
+
+**51**  
+<div class="col2">
+
+*n Wsỉr nb tȝ-sṯỉ*  
+*sṯỉ ḥʿpỉ r nw=f*  
+  
+For Osiris, Lord of Nubia,  
+who gushes the Inundation at its time.  
+
+</div>
+
+**52**  
+<div class="col2">
+
+*n Wsỉr*  
+*bȝ ʿnḫ m ḥȝ.t-spȝ.wt*  
+  
+For Osiris,  
+Living Ba in Foremost of Nomes (Elephantine).
+
+</div>
+
+**53**  
+<div class="col2">
+
+*n Wsỉr*  
+*bȝ šps m ḥw-nty*  
+  
+For Osiris,  
+August Ba in *ḥw-nty*.[^fn-208-1]
+
+</div>
+
+[^fn-208-1]: An alternate name for the Seth nome (UE 11), often used in reference to the local cult of Osiris: P. Montet, *Géographie*, II, p. 124; @leitz-osiris-book, pp. 143-144.
+
+**54**  
+<div class="col2">
+
+*n Wsỉr Gbty*  
+*ḫnty ḥw.t-nbw*  
+   
+For Osiris the Coptite,   
+foremost of the Gold House.
+
+</div>
+
+**55**  
+<div class="col2">
+
+*n Wsỉr Nfr-ḥtp*  
+*nb ḥw.t-sḫm.w*  
+  
+For Osiris-Neferhotep,  
+Lord of Hut-Sekhem (Diospolis Parva).
+
+</div>
+
+**56**  
+<div class="col2">
+
+*n Wsỉr*  
+^25^ *m Wnw.t*  
+  
+For Osiris  
+^25^ in Hermopolis.
+
+</div>
+
+**57**  
+<div class="col2">
+
+*n Wsỉr*  
+*m Nʿrf*  
+  
+For Osiris  
+in Naref.  
+
+</div>
+
+**58**  
+<div class="col2">
+
+*n Wsỉr*     
+*ỉty m tȝ-š*  
+  
+For Osiris,  
+Sovereign in the Fayum.
+
+</div>
+
+**59**  
+<div class="col2">
+
+*n Wsỉr*  
+*sn.t=f Ỉs.t m zȝ=f*  
+  
+For Osiris,  
+his sister Isis protects him.  
+
+</div>
+
+**60**  
+<div class="col2">
+
+*n Wsỉr*  
+*Nb.t-ḥw.t m šms=f*   
+   
+For Osiris,  
+Nephthys is in his following.
+</div>
+
+**61**  
+<div class="col2">
+
+*n Wsỉr*  
+*zȝ=f Ḥr m nḏty=f*  
+   
+For Osiris,    
+his son Horus is his avenger.  
+
+</div>
+
+**62**  
+<div class="col2">
+
+*n Wsỉr wḥm-ʿnḫ*  
+*ỉr ẖr.wt tȝ*  
+   
+For Osiris, *wḥm-ʿnḫ* flood,  
+who makes the food of the earth.
+
+</div>
+
+**63**  
+<div class="col2">
+
+*n Wsỉr*     
+*wsr pḥty*  
+*ṯȝy nṯr.w*    
+     
+For Osiris,  
+mighty of strength,  
+most masculine of the gods.  
+
+</div>
+
+**64**  
+<div class="col2">
+
+*n Wsỉr*  
+^26^ *mryty ḫnty spȝ.wt niw.wt*  
+  
+For Osiris,  
+^26^ Beloved within nomes and cities.  
+
+</div>
+
+**65**  
+<div class="col2">
+
+*n Wsỉr*  
+*ỉty ḥqȝ ḫȝs.wt*  
+
+For Osiris,    
+Sovereign, Ruler of foreign lands.
+
+</div>
+
+**66**  
+<div class="col2">
+
+*n Wsỉr nb qbḥ.wy*  
+*qbḥ.tw n kȝ=f*  
+    
+For Osiris, Lord of the Two Qebehu,  
+for whose Ka one offers cool water.  
+
+</div>
+
+**67**  
+<div class="col2">
+
+*n Wsỉr nb iz.ty*   
+*sṯỉ.tw mw n kȝ=f*  
+  
+For Osiris, Lord of the Two Chapels,  
+for whose Ka one pours out water.  
+
+</div>
+
+**68**  
+<div class="col2">
+
+*n Wsỉr nb ʿbȝ*  
+*ʿbȝ=f ʿb(.w) m ʿbȝ.w *  
+   
+For Osiris, Lord of Aba,  
+whose altar is equipped with offerings.
+  
+</div>
+
+**69**  
+<div class="col2">
+
+*n Wsỉr*     
+*m rn(.w)=f nb.w*  
+
+For Osiris,  
+in all his names.
+
+</div>
+
+**70**  
+<div class="col2">
+
+*n Wsỉr*      
+*m ỉrw=f nb(.w)*
+   
+For Osiris,  
+in all his visible forms.
+
+</div>
+
+**71**  
+<div class="col2">
+
+*n Wsỉr*  
+*m sštȝ=f nb(.w)*  
+  
+For Osiris,  
+in all his secret forms.
+
+</div>
+
+**72**
+<div class="col2">
+
+^27^ *n Wsỉr*   
+*m s.wt=f nb.w*  
+  
+^27^ For Osiris,  
+in all of his thrones.  
+
+</div>
+
+**73**  
+<div class="col2">
+
+*n Wsỉr*  
+*m bw.w nb.w mr kȝ=f ỉm*  
+   
+*dỉ=sn ʿnḫ-ḏd-wȝs nb*  
+*snb ȝw.t(-ỉb) nb*  
+*n zȝ-Rʿ*  
+*(pr-ʿȝ)|*  
+*(dỉ(.w) ʿnḫ) mỉ-Rʿ ḏ.t*  
+  
+For Osiris,  
+in all places his heart desires.  
+    
+May they give all *ʿnḫ-ḏd-wȝs*,  
+all health, all happiness,  
+to the Son of Re,  
+(Pharaoh)|  
+(given) life like Re, eternally!
+
+</div>

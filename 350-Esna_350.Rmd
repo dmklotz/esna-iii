@@ -1,0 +1,262 @@
+## Esna 350 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 14
+- Date: Hadrian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=344){target="_blank"}  
+- Bibliography: @derchain-crown, pp. 283-286; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1259){target="_blank"}  
+- Parallels: *Esna* VI, 475, 6-10 (divine epithets)
+
+
+#### Title {-}
+
+<div class="col2">  
+
+^1^ *mn n=k qn nḫt ṯnr*  
+*nʿš qn=k r[...]*  
+*[...] sḫm*  
+*dỉ.tw m* ^2^ *ỉb=f *  
+*ḥzȝ [...]*
+
+*[...] n=k [mȝḥ]*  
+*mȝẖ ỉb *  
+*[nfr(?)] ỉwn*  
+*ḫr kȝ=k*  
+^3^ *nfr ỉqr*  
+*nḏm sṯi*  
+*ḫntš ỉb=k n mȝȝ=f*  
+   
+*ntk ỉmy-r' nỉw.t nṯr*  
+*ḥms ḥr ḥmr*  
+*mnʿ.t(?) m ỉry-ḫḫ=f*  
+*nṯr.w m dwȝ n ḥr=f*  
+*ḫr ḫfty *   
+*(r) ḫb.t*  
+  
+^1^ Receive the scimitar,[^fn-350-1]   
+strong and mighty,  
+your power is fierce against [...]  
+[...] power,  
+it is placed in ^2^ his heart;  
+raging of [...]  
+  
+[...] for you [the floral crown?][^fn-350-2]  
+burning of heart,  
+[beautiful(?)] of colors,  
+before your Ka,  
+^3^ good and excellent,  
+sweet-smelling,  
+your heart rejoices to see it.  
+  
+You are the divine mayor,  
+who sits upon the throne,  
+with a menat(?) upon his neck,[^fn-350-3]  
+before whom the gods worship;  
+while the enemy has fallen   
+(to) the chopping block.  
+
+</div>
+
+[^fn-350-1]: The tall, ram-headed sign looks like the usual *mdw*-baton, and indeed @derchain-crown, p. 283, translated "baton sacré." However, in the scene, the king is offering Khnum a scimitar (qn), and elsewhere this sacred weapon is topped with a ram's head, just like here: *Esna* VII, 570 and 619. Accordingly, this sign writes *qn* throughout this scene, as well as in other texts at Esna, such as [Esna 337], B.
+[^fn-350-2]: The formula now transitions to describing the floral crown of justification. There is apparently a play on words between *mȝḥ*, "crown", and *mȝẖ-ỉb*, "burning of heart; passionate."
+[^fn-350-3]: This passage is somewhat uncertain. The initial title could alternatively read: *ỉmy-r' ỉḫt nṯr*, "chief of divine rituals," which would explain the *nṯr*-sign. Elsewhere at Esna, chief lector priests are similarly described as wearing menats and sitting upon qni-thrones: [Esna 207], 18; [Esna 284], 11. The only problem is that the present text seems to write *pnʿ.t* instead of *mnʿ.t*.  
+
+#### The King {-} 
+
+<div class="col2">
+
+^4^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwgrtwr kysrs)|*  
+^5^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(ȝtrynns nty-ḫwỉ)|*  
+   
+^6^ *twt ʿnḫ *  
+*n ḥry-ỉb ḫȝs.wt*  
+*ḫnty n nb qn*  
+*ḥm n nỉw.wt-nṯr.w(?)*  
+*sỉʿr wȝḥ ḫr ỉt=f*  
+   
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re,  
+Lord of Appearances,  
+(Hadrian Augustus)|  
+  
+^6^ Living image  
+of He who is within the foreign lands;  
+Statue of the Lord of Victory,  
+servant of the divine cities(??),  
+who elevates the crown to his father.  
+
+</div>
+
+<div class="col2">
+
+^7^ *nṯr nfr*  
+*qn pr-ʿ*  
+*ỉṯ m gb.ty=fy*  
+*tqr pḥty*  
+*hrw dmḏ*  
+*bhȝ ṯȝy.w n dgȝ=f*  
+*tkn m[ṯwn?]*  
+*[...]*  
+*ṯz mȝḥ n ỉt=f*  
+*m ỉḫt nb=f*  
+*pr m wpy=f*  
+*m mȝʿ-ḫrw*  
+*zȝ-rȝ*  
+*(ʿtryn nty-ḫwỉ)|*  
+  
+^7^ The good god,  
+mighty, heroic,  
+who seizes with his arms;  
+fierce of strength,  
+on the day of combat;  
+men flee upon seeing him;  
+who enters the ba[ttlefield?]  
+[...Khnum...][^fn-350-4]  
+who assembles the crown for his father,  
+with the materials of his lord;  
+who comes forth from his trial  
+in justification:  
+the son of Re,  
+(Hadrian Augustus)|  
+
+</div>
+
+[^fn-350-4]: In this damaged section, the figure of Khnum is followed by two knives. This recalls a spelling of his name in [Esna 377], 2.
+
+#### Khnum Lord of the Field {-}
+
+<div class="col2">
+   
+^8^ *ḏd-mdw n ẖnmw-Rʿ*   
+*nb sḫ.t*  
+*nsw.t nṯr.w*  
+*ḫnty ḥw.t-ỉt*  
+*nṯr ʿȝ ʿnḫ*  
+*ḥry nṯr.w nb.w*  
+^9^ *ỉty pn nfr m gb.t*  
+*ḫsf pḏty.w*  
+*ḫbs ḫfty.w m ḥn.ty=f*  
+*nn ʿḥʿ m ḥzỉ=f*  
+   
+*ỉỉ m ḥtp*  
+^10^ *ḫʿỉ ḥr ns.t*  
+*ỉṯ wrr.t*  
+*ỉṯ tȝ.wy*  
+*m wpy=f ʿȝ*  
+   
+^11^ *dỉ=ỉ n=k wsr=k*  
+*[...]*  
+*[mȝʿ]-ḫrw=k*  
+*mwt ḫfty.w=k*  
+  
+^8^ Words spoken by Khnum-Re   
+Lord of the Field,  
+King of the gods,  
+foremost of Temple of the Father,  
+great living god,  
+chief of all the gods.  
+^9^ This good sovereign in heaven,   
+who repels archers,  
+and slaughters enemies with his horns:  
+nobody can stand in his vicinity.    
+  
+He who comes in peace,  
+^10^ and appears upon the throne in glory,  
+who seizes the double crown,  
+and seizes thw two lands  
+in his great *wpy*-festival.  
+  
+^11^ I give to you your might  
+[...]  
+you are [justified] of voice,  
+your enemies are dead. 
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2">
+
+^12^ *ḏd-mdw n Nb.t-ww *  
+*nb(.t) tȝ-sn.t*  
+*nṯr.t ʿȝ.t ḫnt.t sḫ.t*  
+^13^ *tfn.t zȝ(.t) Rʿ*  
+*ỉr.t Rʿ*  
+*wbd(.t) sbỉ n ỉt=s*  
+*mḥ(.t)-ỉb n sn=s*  
+^14^ *m ỉỉ=f m nb qn*  
+   
+*nb(.t) wȝḏwȝḏ *  
+*snfr(.t) rnp[.w]*  
+   
+^15^ *dỉ=ỉ nḥ.t ḥȝ [...]*  
+*[...] n ḫfty.w=f*  
+*m ẖr.t-hrw*  
+  
+^12^ Words spoken by Nebtu,  
+Lady of Esna,  
+great goddess within the Field.  
+^13^ Tefnut, daughter of Re,  
+Eye of Re,   
+who burns the rebels of her father.  
+Trusted companion of her brother  
+^14^ when he arrives as Lord of Victory.  
+  
+Lady of verdure,  
+who makes fresh plant(s) beautiful.  
+  
+^15^ I give protection around [...]  
+[...] of your enemies,  
+in the course of every day.  
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^16^ *nsw.t-bỉty*  
+*Šw ṯmȝ-ʿ*  
+*bȝ tkk*  
+*bṯ bṯn.w*  
+*ršw=f pw r'-ʿ-ḫt*  
+*b[..] zḫz ỉmỉ.tw bdš.w*  
+*nn rḫ ḥp.ty nt pḏ=f*  
+*ỉn=f st *  
+*m sqr.w-ʿnḫ.w*  
+*ẖnmw-Rʿ nb [sḫ.t]*  
+*[...] mȝʿ-ḫrw*  
+*ḫfty.w=f ḫr(.t) m ḫb.t*  
+    
+^16^ The King of Upper and Lower Egypt,  
+Shu, valiant of arm,  
+raging Ba,  
+who seizes the rebels:  
+his delight is combat!    
+[...] who hurries between the disaffected,  
+the limits of his stride are unknown.  
+He captures them  
+as living prisoners.  
+Khnum-Re Lord [of the Field]  
+[...] justification,  
+his enemies are fallen to the chopping block.
+
+</div>

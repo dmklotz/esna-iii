@@ -15,8 +15,9 @@
 
 - Location: Column 7
 - Date: Hadrian 
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=181){target="_blank"}  
-- Bibliography: @sauneron-5, pp. 107-110; @troy-mut, pp. 310-313;  see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1042){target="_blank"} 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=181){target="_blank"}
+- Bibliography: @sauneron-5, pp. 107-110; @troy-mut, pp. 310-313;  see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1042){target="_blank"}  
+- Parallels: Multiple epithets appear verbatim in [Esna 233], and in captions to Menhyt in offering scenes.
 
 <div class="col2">  
 
@@ -36,6 +37,7 @@ Words spoken:
 *sḥḏ.t tȝ.wy*  
 *mn=s* ^22^ *ḥȝ=s*  
 *m tp Rʿ*  
+*m rn=s pfy n Mnḥy.t*  
   
 You are Rayet,  
 who illumines the two lands,[^fn-251-0]    
@@ -226,7 +228,7 @@ in this her name of Isis (*Ỉs.t*).
 
 <div class="col2">
 
-*tw.t nb.t Qbḥ.w*  
+*tw.t nb.t ḫnt-tȝ*  
 *r-mn pḥw.w*  
 *ʿnḫ.t m bỉȝ*  
 *rdỉ sḫn n bnw*  
@@ -244,9 +246,10 @@ when ^25^ he floods (*sṯ.t*) the two lands
 at his season,  
 in this her name of Sothis (*Spd.t*).
 
-</div>  
+</div>
 
-[^fn-251-9]: ![](./images/251_24_9.png){width=28%} - @sauneron-5, pp. 108, 110, n. p, refrained from translating the first sign. Nonetheless, this epithet is paralleled in the Menhyt litany, [Esna 233], 25, §60: ![](./images/233_25_60.png){width=32%}, and again in a water offering scene for Menhyt, *Esna* VII, 552, 7: ![](./images/552_7_1.png){width=20%}. Based on the context, the first toponym does not seem to be Khent-ta, the usual cult center of Menhyt, but a homonymous designation for the southern border of Egypt (*Wb* III, 306, 6-7). For Menhyt as Sothis, see also [Esna 233], 17, §13; *Esna* II, 31, 55-56, and cf. @pichel, pp. 134-135.
+[^fn-251-9]: ![](./images/251_24_9.png){width=28%} - @sauneron-5, pp. 108, 110, n. p, refrained from translating the first sign. Nonetheless, this epithet is paralleled in the Menhyt litany, [Esna 233], 25, §60: ![](./images/233_25_60.png){width=32%}, in a water offering scene for Menhyt, *Esna* VII, 552, 7: ![](./images/552_7_1.png){width=20%}, and a brief mention in [Esna 346], 17:  ![](./images/346_17_1.png){width=20%}.   
+Based on the context, the first toponym does not seem to be Khent-ta, the usual cult center of Menhyt, but a homonymous designation for the southern border of Egypt (*Wb* III, 306, 6-7). For Menhyt as Sothis, see also [Esna 233], 17, §13; *Esna* II, 31, 55-56, and cf. @pichel, pp. 134-135.
 [^fn-251-9b]: Agreeing with the translation of @sauneron-5, p. 108, this would appear to refer to a conjunction of Sothis and Venus, in relation to the New Year Inundation. Nonetheless, a parallel to this whole verse occurs in a water offering scene for Menhyt, where the term bnw, "Phoenix", is replaced with *tȝ*, "earth," suggesting one also understand *bnw*, "earth" here. If that is correct, the verb *sḫn* would have some different connotation here.
 
 

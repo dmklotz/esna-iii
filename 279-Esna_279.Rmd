@@ -1,0 +1,171 @@
+## Esna 279 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 9
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=230){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1093){target="_blank"}  
+- Parallels: compare [Esna 201]
+
+#### Title {-}
+
+<div class="col2">
+
+^1^ *ḥnk ỉrṯ.t*  
+  
+^1^ Offering milk. 
+
+</div> 
+
+#### The King {-}
+
+<div class="col2">
+
+^2^ *[nsw.t-bỉty]*  
+*nb tȝ.wy *  
+*(ȝwtw[krtwr kysrs])|*  
+^3^ *[...]*  
+*([tw]mdyn[s ḫwỉ])|*  
+^4^ *[...] ḫrp [ỉrṯ.t?]*  
+*n [ỉt=f?]*  
+  
+^5^ *nṯr nfr*  
+*mnỉw n ḥḥ.w*  
+*ỉmy-r' ỉḥ n ḥfn.w*  
+*mhr nfr*  
+*ʿšȝ šzp.w*  
+*bʿḥ ỉt=f*   
+*m [...] ḥḏ*  
+*sẖrd ḥʿw*  
+*n ḥqȝ m sḫ.t*   
+*[...]*  
+ 
+^2^ [The King of Upper and Lower Egypt],  
+Lord of the Two Lands     
+(Auto[krator Caesar])|    
+^3^ [...]   
+([Do]mitian [Augustus])|    
+^4^ [...] who consecrates [milk?]  
+to [his father?]  
+  
+^5^ The good god,  
+herdsman of millions,  
+cattle herd of myriads;  
+good dairy farmer,  
+numerous of shining-milk,  
+who inundates his father  
+with white [milk],  
+who rejuvenates the body  
+of the Ruler in the Field (Khnum)  
+[...]
+
+</div>  
+
+
+#### Khnum-Re Lord of the Field {-}
+
+<div class="col2">
+
+^6^ *[ḏd-mdw n] ẖnmw-Rʿ nb sḫ.t*  
+*nṯr ʿȝ nb tȝ-sn[.t]*  
+*[...]* ^7^ *[...]* ^8^ *[...]*  
+*[ỉṯ] r-ḏr ỉb=f*  
+*bs.n=f nṯr.w rmṯ.w*  
+*ḥr [...]*  
+   
+^9^ *dỉ=ỉ n=k pḥty [...]*  
+*[...r] ḫfty.w=k*  
+*zȝ=ỉ ḥȝ=k n ʿnḫ [...]*  
+   
+^6^ [Words spoken by] Khnum-Re Lord of the Field,  
+Great god, lord of Esn[a]  
+[...] ^7^ [...] ^8^ [...]  
+[who seizes] according to his desire.  
+He made gods and humans come forth  
+while/upon [...]   
+  
+^9^ I give you strength [...]  
+[...over] your enemies.  
+My protection of life is around you [...]  
+
+</div> 
+
+#### Nebtu {-}
+
+<div class="col2">
+
+^10^ *[ḏd-mdw] n Nb.t-ww nb.t sḫ.t*  
+*nṯr.t ʿȝ.t ḫnt.t ḥw.t-ỉt*  
+*kȝ nb.t* ^11^ *[kȝ].w*  
+*zȝ.t nb-ḏr*  
+*ỉwt.t snw=s m p.t tȝ*  
+  
+^12^ *sn.t n sn=s*  
+*dmḏ(.t) r-ḥnʿ=f*  
+*nỉ ḥr=s r=f rʿ-nb*  
+   
+^12^ *[ỉr]=ỉ zȝ=k*  
+*m ʿnḫ wȝs*  
+*qn ḥm=k *  
+*r sbỉ r=k*  
+  
+^10^ [Words spoken] by Nebtu, Lady of the Field,
+Great goddess within Temple of the Father;
+Ka, Lady of [Ka]s,
+daughter of the All-Lord,
+without her equal in heaven or earth.  
+  
+^12^ Sister of her brother,  
+who unites with him,  
+never being far from him, daily.  
+    
+^13^ I [make] your protection    
+in life and dominion;  
+your majesty is victorious  
+over whomever rebels against you.
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^14^ *nsw.t-bỉty*  
+*nṯr nṯry*  
+*nṯr.tw s.t=f*  
+*ỉȝ.t=f twr.tw*  
+*ỉmỉ.tw sḫ.t=f*  
+*tȝ-r-ḏr=f ḥr.tw r bwt=f*   
+  
+*ỉmy-r' ỉḥ.w nfr*  
+*mnỉw ḥḥ(.w)*  
+*wḫr(.t)=f (ḥr) zȝ Ḥr [...]*  
+*nb wry.w(t)*  
+  
+^14^ The King of Upper and Lower Egypt,  
+divine god, 
+whose throne is divine,  
+and whose mound is purified  
+within his field:  
+the entire earth avoids his abomination.  
+    
+Good cattle herd,   
+herdsman of millions,   
+his staff[^fn-279-1] protects Horus [...],    
+lord of *wry(.t)*-cows.
+
+</div>
+
+[^fn-279-1]: For this term - more likely in the present context than *wḫr*, "to take care of" - see @sauneron-5, p. 172, n. ff.

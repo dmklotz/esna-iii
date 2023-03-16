@@ -1,0 +1,221 @@
+## Esna 394 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 18
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=421){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 205-207; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1422=){target="_blank"}  
+
+<div class="col2">
+
+^23^ *ky dwȝ ẖnmw*  
+*ḏd-mdw*  
+   
+*ỉnḏ-ḥr=k*  
+^24^ *ẖnmw-Rʿ nb tȝ-sn.t*  
+*Ptḥ tȝ-ṯnn*  
+*msỉ pȝwty.w*  
+*nṯr ʿȝ *  
+*ḫp(r) n ḏr-ʿ*  
+*bȝ ḏsr m zp tpy*  
+   
+*ʿḫ.n=f p.t*  
+*wṯz.n=f ḥr.t*  
+*wbn=f ỉm=s m šww*  
+*dỉ=f (??) sbȝ.w ỉmỉ.tw=sn*  
+   
+*pḏ.n=f tȝ *   
+*ḥr ndb.t=f*  
+*sḥḏ.n=f tȝ.wy*  
+*m nṯr.ty=f*  
+   
+*ỉr nṯr nb*
+^25^ *šȝʿ ḫp(r)*  
+*ỉṯ.n=f tȝ.wy m nḫt=f*  
+   
+*šfy.t-ḥȝ.wt*  
+*ṯny ỉrw*  
+*nb fȝw*  
+*sḫm ḫprw*  
+   
+*ḫp(r) ḫprw nb.w *  
+*n ḫprw=f*   
+    
+^23^ Another hymn of Khnum.  
+Words spoken:  
+   
+Greetings,  
+^24^ Khnum-Re lord of Esna!  
+Ptah-Tatenen,  
+who birthed the primeval ones.  
+Great god,   
+who came about long ago;  
+sacred Ba in the first moment.  
+   
+As he raised up the sky,  
+so did he lift up the firmament,  
+so he might shine within it as the sun,  
+allowing the stars to (??) between them.    
+   
+As he spread out the land  
+on its foundation,  
+so he illumined the two lands  
+with his divine eyes.  
+    
+He who made every god,[^fn-394-5]   
+^25^ who began existence,  
+he seized the two lands with his might.  
+   
+Prestigious of faces,   
+distinguished of visible form,   
+lord of respect,  
+powerful of manifestation.  
+   
+All existence came about  
+through his existence.
+ 
+</div>
+
+[^fn-394-5]: For the reading of this epithet, compare [Esna 254], 16; [Esna 300], 5; cf. *LGG* IV, 394b.
+
+<div class="col2">
+
+*wr wr.w*  
+*ʿȝ ʿȝ.w*  
+*wr sw r nṯr.w nb*  
+*štȝ ḫpr.w *  
+*ṯnỉ.n=f sw*   
+^26^ *r nṯr.w*  
+   
+*nbỉ nbỉ.w*  
+*smsw pȝwty*  
+*ỉt ỉt.w*  
+*mw.t mw.wt*  
+*ỉr ḥry.w*  
+*sḫp(r) ẖry.w*  
+   
+*bȝ šps ỉr bȝ.w*  
+*ẖnmw ỉr ẖnm.w*  
+*qn ḏr.ty*  
+*ḫm wrḏ*  
+*nn kȝ.t nb *   
+*m ḫm=f*  
+   
+*ỉr* ^27^ *nỉw.wt*  
+*wp spȝ.wt*  
+*qmȝ tȝ.wy*  
+*smn ḏw.w*  
+   
+Biggest of the big,  
+greatest of the great,  
+he is greatest of all gods!  
+Mysterious of form,  
+he distinguished himself     
+^26^ beyond the gods.    
+  
+Fashioner of fashioners,  
+eldest primeval one,  
+father of fathers,  
+mother of mothers,  
+who made what is above,  
+and created what is below.  
+  
+August Ba, who made the Bas;  
+Khnum, who made the Khnums.  
+Strong of hands,  
+never tiring,  
+there is no work (made)  
+in his ignorance.  
+  
+He who made ^27^ cities,  
+who divides the nomes;  
+who created the flat lands,  
+who established mountains.
+
+</div>
+
+<div class="col2">
+
+*qd.n=f rmṯ.w*  
+*ms.n=f nṯr.w*  
+*r mḥ tȝ *  
+*šnw n ỉtn*  
+   
+*Nwn wr*  
+*ỉỉ r tr=f*  
+*r sʿnḫ pr nb *  
+*ḥr nḥp=f*  
+   
+*ỉr sm.w *  
+*r ṯz mnmn.t*  
+*ḫ.t-n-ʿnḫ n ʿnḫ.w*  
+   
+*ỉỉ m nw*  
+*nn* ^28^ *sk ỉr.n=f*  
+*ḏr p.t r-mn mỉn*  
+   
+*nṯr mnḫ n ḏr-ʿ*  
+*ḏȝỉ p.t tp dwȝw*  
+*mḥ tȝ m nfr=w*  
+   
+*Šȝy Rnn.t m wḏ=f*  
+*mw ṯȝw m wḏ.n=f*  
+*nn wzf pr nb *  
+*m r'=f*  
+   
+*nfy ḥr nn*  
+*ntf ỉr=sn*  
+*nn pr kȝ.t=sn*  
+*m-ḫm=f*  
+   
+*ḥtp ḥr=k nfr*  
+*(n) (pr-ʿȝ ʿnḫ.w ḏ.t)| *   
+   
+As he built people,  
+so he birthed the gods,  
+to fill the earth,  
+and the circuit of the sundisk.  
+  
+Great Nun,  
+who arrives in his season,  
+to enliven all who came forth   
+from his potter's wheel.  
+  
+He who made plants,  
+in order to raise livestock;  
+and 'wood-of-life' for the living.  
+  
+He who arrives at the proper time,  
+what he made ^28^ never perishes,  
+since (the time of) heaven until today.  
+  
+Beneficent god of the beginning,  
+who sails across heaven each morning,  
+and fills the earth with his goodness.  
+  
+Shay and Renenet are at his command,  
+water and air through what he ordained;  
+nothing spoils which comes forth  
+from his mouth.  
+  
+This and that:  
+it is he who made them,  
+none of their works came forth  
+without him knowing.  
+  
+May your good face be kind  
+(to) (Pharaoh living eternally)|!  
+
+</div>

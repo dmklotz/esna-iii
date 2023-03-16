@@ -1,0 +1,1140 @@
+## Esna 241 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style> 
+
+- Location: Column 6
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=154){target="_blank"}  
+- Bibliography: @sauneron-8, pp. 27-31; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1025){target="_blank"}  
+
+This hymn is a continuation of [Esna 234].  
+  
+**6 bis**  
+<div class="col2">
+
+^1^ *n Nb.t-ww*  
+*nb(.t) ḥw.t-N.t*  
+*wr ỉdb*  
+  
+^1^ For Nebtu,   
+Lady of the Temple of Neith,    
+great of cultivated areas.
+
+</div>
+
+**7**  
+<div class="col2">
+   
+*n Nb.t-ww*  
+*nb(.t) Pr-ẖnmw*  
+*ḥnw.t sḫ.t*  
+  
+For Nebtu,  
+Lady of Per-Khnum,  
+mistress of the field. 
+
+</div>
+
+**8**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) Pr-nṯr*  
+*ḥqȝ(.t) ȝḫ.t*  
+   
+For Nebtu,  
+Lady of Per-Netjer,   
+ruler of the field.  
+
+</div>
+
+**9**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) ʿḥ*  
+*ḥnw.t sm.w*  
+   
+For Nebtu  
+Lady of the palace,  
+mistress of vegetables.  
+
+</div>
+
+**10**  
+<div class="col2">
+   
+*n Nb.t-ww*  
+*nb(.t) ʿbȝ*  
+*ḥnw.t ỉḫt nb.w*  
+  
+For Nebtu  
+Lady of Aba,  
+mistress of all things.  
+
+</div>
+
+**11**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*Ỉs.t wr.t*   
+*mw.t-nṯr*  
+*nb(.t) ḥw.t-bȝ.w*  
+   
+For Nebtu,  
+great Isis,  
+mother of God,  
+Lady of Temple of the Bas.
+
+</div>
+
+**11a**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*špd.t ʿnq.t*  
+  
+For Nebtu,  
+Sothis and Anukis.  
+
+</div>
+
+**12**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*Rʿ.t-tȝ.wy*  
+  
+For Nebtu,  
+Rat-tawy.  
+
+</div>
+
+**13**  
+<div class="col2">
+
+^2^ *n Nb.t-ww*  
+*Mw.t wr.t*  
+*nb(.t) Ỉšrw*
+  
+For Nebtu,  
+Mut the great,  
+Lady of the Isheru.
+
+</div>
+
+**14**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*Ḥw.t-ḥr ḥr(.t)-ỉb Wȝs.t*  
+  
+For Nebtu,  
+Hathor within Thebes.  
+
+</div>
+
+**15**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*Ṯnn.t-Ỉwny.t*  
+  
+For Nebtu,  
+Tjenenet-Iunyt. 
+
+</div>
+
+**16**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*sḫm.t ʿȝ.t*  
+*mr.t Ptḥ*  
+  
+For Nebtu,  
+Sakhmet the great,  
+beloved of Ptah.
+
+</div>
+
+**17**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ḫnty s.t=s*  
+*r nṯr.w*  
+  
+For Nebtu,  
+whose position is most advanced  
+of the gods.  
+
+</div>
+
+**18**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ỉʿrr.t n(.t) Ptḥ*  
+*ḫnty s.t=s*  
+*r nṯr.w*  
+  
+For Nebtu,  
+uraeus of Ptah,  
+whose position is most advanced  
+of the gods.
+
+</div>
+
+**19**  
+<div class="col2">
+
+^3^ *n Nb.t-ww*  
+*sḫm.t tp(.t) ỉn.t*  
+  
+^3^ For Nebtu,  
+Sakhmet atop the valley.  
+
+</div>
+
+**20**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) P ḥnw.t dp*  
+  
+For Nebtu,  
+Lady of Pe, Mistress of Dep.
+
+</div>
+
+**21**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ỉr(.t) ȝḫ.w*
+   
+For Nebtu  
+who does wonderful things. 
+
+</div>
+
+**22**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ḫnt(.t) sḫ.t*  
+*šzp(.t) ỉmy=s*  
+  
+For Nebtu,  
+foremost of the Field,  
+who accepts what is in it.
+
+</div>
+
+**23**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ḫnt(.t) Ṯȝ-wr m ỉȝbt.t*  
+*rdỉ(.t) ṯȝw r fnḏ*  
+*n wrḏ-ỉb*  
+   
+For Nebtu,  
+foremost of the Thinite nome in the east,[^fn-241-0]   
+who gives air to the nose  
+of Weary of Heart (Osiris).
+
+</div>
+
+[^fn-241-0]: Although this term is spelled like "the east", @sauneron-8, p. 28, translated it as "Abydos." While such a phonetic spelling is possible, this more likely refers to Tefnut-Mehyt, who in the Thinite nome was worshipped in the eastern city of *Wbnw*. So also below in verse 68.
+
+**24**  
+<div class="col2"> 
+
+*n Nb.t-ww*  
+*nb.t mȝy.t*  
+*ḥnw.t [qȝy.t]*  
+  
+For Nebtu,  
+Lady of new lands,  
+mistress of [high ground].  
+
+</div>
+
+**25**  
+<div class="col2">
+
+^4^ *n Nb.t-ww*  
+*Rnn.t nfr.w*  
+  
+^4^ For Nebtu  
+Renenutet of good things.
+
+</div>
+
+**26**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) kȝw *  
+*ʿšȝ ḏfȝw*  
+  
+For Nebtu  
+Lady of food,  
+numerous of provisions.
+
+</div>
+
+**27**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*sḫp(r.t) ẖr.t*  
+*n ḥr.w nb.w*  
+   
+For Nebtu  
+who produces sustenance  
+for everybody.  
+
+</div>
+
+**28**  
+<div class="col2">
+   
+*n Nb.t-ww*  
+*ḥnw.t npr.t*  
+*nb(.t) sm.w*  
+*ḫnt.t ḫnt-tȝ*  
+  
+For Nebtu,  
+Mistress of grain,  
+Lady of vegetables,  
+foremost of Khent-ta.
+
+</div>
+
+**29**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ȝḫ.t nb(.t) ȝḫ.t*  
+  
+For Nebtu,  
+the Field, Lady of the field.  
+
+</div>
+
+**30**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ẖnm(.t) ḫnty-sḫ.t=f*  
+  
+For Nebtu  
+who unites with Foremost of his Field   
+(Khnum).
+
+</div>
+
+**31**
+<div class="col2">
+
+*n Nb.t-ww*  
+*ỉỉ(.t) m Ḥʿpỉ*  
+*r [bʿḥ] ȝḫ.t*  
+     
+For Nebtu,  
+who arrives as Hapi,  
+to [flood] the field.
+
+</div>
+
+**32**
+<div class="col2">
+
+^5^ *n Nb.t-ww*  
+*nb.t sm.w*  
+*ʿšȝ wȝḏwȝḏ*  
+  
+^5^ For Nebtu,    
+Lady of plants,  
+plentiful of vegetation.  
+
+</div>
+
+**33**
+<div class="col2">
+
+*n Nb.t-ww*  
+*srwḏ(.t) ḫ.t-n-ʿnḫ*  
+  
+For Nebtu,  
+who makes the wood-of-life grow.  
+
+</div>
+
+**34**
+<div class="col2">
+
+*n Nb.t-ww *  
+*ḏdȝ np(ry)*  
+    
+For Nebtu  
+she with hearty grain.
+
+</div>
+
+**35**
+<div class="col2">
+
+*n Nb.t-ww*  
+*wnm r' nb*  
+*(m) pr ỉm=s*  
+  
+For Nebtu,  
+every mouth eats  
+(of) what grows from her.  
+
+</div>
+
+**36**
+<div class="col2">
+
+*n Nb.t-ww*  
+*bwt=s ḥq(r) ỉbw*  
+  
+For Nebtu  
+who detests hunger and thirst.  
+
+</div>
+
+**37**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) wpy.w*  
+*ḥnw.t tḫ*  
+  
+For Nebtu,  
+Lady of wpy-festivals,   
+mistress of inebration.
+
+</div>
+
+**38**
+<div class="col2">
+
+*n Nb.t-ww*  
+^6^ *nb.t wrh*  
+*ḥnw.t ỉhy*  
+  
+For Nebtu,  
+^6^ Lady of *wrh*-dance,   
+mistress of jubilation.
+
+</div>
+
+**39**
+<div class="col2">
+
+*n Nb.t-ww*  
+*ḥnw.t mnỉ.t sšš*  
+    
+For Nebtu,    
+mistress of the menit and sistrum.
+
+</div>
+
+**40**
+<div class="col2">
+
+*n Nb.t-ww*  
+*ỉḥy n [kȝ]=s*  
+  
+For Nebtu,   
+for whose [Ka] one makes music.  
+
+</div>
+
+**41**
+<div class="col2">
+
+*n [Nb.t-ww]*  
+*wp.tw hbn n kȝ=s*  
+  
+For \\[Nebtu\\],  
+for whose Ka one opens jars.[^fn-241-2]  
+
+</div>
+
+[^fn-241-2]: This phrase apparently refers to drinking beer. See @sauneron-8, p. 28; [Esna 197], 17 (with text note); [Esna 347], 25.
+
+**42**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) ỉhy*  
+*ḥqȝ(.t) ȝw(.t)-ỉb*  
+  
+For Nebtu,  
+Lady of jubilation,    
+ruler of happiness.
+
+</div>
+
+**43**
+<div class="col2">
+
+*n Nb.t-ww*  
+*šps.t wsr.t*  
+^7^ *sḥtp.t ỉb n ỉt=s Rʿ*  
+  
+For Nebtu,  
+august and mighty,  
+^7^ who pacifies her father, Re.
+
+</div>
+
+**44**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Tfn.t m s.t tn*  
+   
+For Nebtu,  
+Tefnut in this place.
+
+</div>
+
+**45**
+<div class="col2">
+
+*n Nb.t-ww*  
+*š[ps.t...]*  
+  
+For Nebtu,  
+Au[gust ....]
+
+</div>
+
+**46**
+<div class="col2">
+
+*[n Nb.t-ww]*  
+*ḥnw.t ḥm.wt*  
+  
+For Nebtu,  
+Mistress of women. 
+
+</div>
+
+**47**
+<div class="col2">  
+
+*n Nb.t-ww*  
+*ḥnw.t pr-nsw.t*  
+  
+For Nebtu,  
+Mistress of the King's house.
+
+</div>
+
+**48**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) ḥzy.t*  
+*ʿȝ mrw.t*  
+  
+For Nebtu,  
+Lady of praise,   
+great of love.
+
+</div>
+
+**49**
+<div class="col2">
+
+*n Nb.t-ww*  
+*spr(.t) r ḥb=s*  
+*m tȝ-sn.t*  
+  
+For Nebtu,    
+who arrives to her festival  
+in Esna.
+
+</div>
+
+**50**
+<div class="col2">
+
+*n Nb.t-ww*  
+*wȝḥ nḥb.t r tȝ*  
+^8^ *ỉn ỉmy.w tȝ*  
+*ḥr ndb=f*  
+   
+For Nebtu,   
+those on earth    
+in its entirety   
+^8^ throw (their) neck on the ground.
+
+</div>
+
+**51**
+<div class="col2">
+
+*n [N]b.t-ww*  
+*sḏm(.t) spr.w*  
+*n ḥr.w-nb.w*  
+  
+For [Ne]btu,  
+who hears prays    
+from everybody.
+</div>
+
+**52**
+<div class="col2">
+
+*n Nb.t-ww*  
+*mḥn.t ḥr tp*  
+*nṯr nb*  
+*[...]*  
+   
+For Nebtu,  
+who coils upon the head   
+of every god   
+[...]
+
+</div>
+
+**53**
+<div class="col2">
+
+*[n Nb.t-ww]*  
+*ḥr(.t) s.t wr.t*  
+   
+[For Nebtu],   
+upon the great throne.
+
+</div>
+
+**54**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) ʿ-ẖnwty*
+  
+For Nebtu,  
+Lady of the audience hall.
+</div>
+
+**55**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) sḫ.t*  
+*ḥnw.t ḫntš*  
+  
+For Nebtu,  
+Lady of the field,   
+mistress of the arbor.  
+
+</div>
+
+**56**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb.t ʿ.t n.t ^9^ ḫ.wt*  
+  
+For Nebtu,  
+Lady of the ^9^ orchard.  
+</div>
+
+**57**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nb(.t) šn.w*  
+*srwḏ.t rwḏ nb*  
+  
+For Nebtu,  
+Lady of trees,  
+who makes all plants grow.
+
+</div>
+
+**58**
+<div class="col2">
+
+*n Nb.t-ww*  
+*ỉr(.t) šnb.t n Rʿ*  
+*ẖnm(.t) ỉt=s Ỉtm*  
+  
+For Nebtu,  
+who acts as chest for Re,  
+who unites with her father, Atum.
+
+</div>
+
+**59**
+<div class="col2">
+
+*n Nb.t-ww*  
+*mḥn.t m tp nb=s*  
+*ḫnd Ḥr m ḥʿʿ*  
+   
+For Nebtu,  
+who coils on the head of her lord,  
+so Horus travels in joy.  
+
+</div>
+
+**60**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Bȝst.t nb(.t) Bȝst.t*  
+*m sḫ.t-nṯr*  
+  
+For Nebtu,  
+Bastet lady of Bubastis,  
+in the Field of God.
+</div>
+
+**61**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Ỉw=s-ʿȝ=s nb(.t) wḥʿ-tȝ *
+  
+For Nebtu,  
+Iusaas Lady of *wḥʿ-tȝ*  
+(Heliopolis).
+
+</div>
+
+**62**
+<div class="col2">
+
+^10^ *n Nb.t-ww*  
+*m ḏd=s nb.w*  
+  
+^10^ For Nebtu,  
+in all that she says.  
+
+</div>
+
+**63**
+<div class="col2">
+
+*n Nb.t-ww*  
+*ḫnt.t Ỉwnw*  
+*wsḫ-nmt.t m skt.t*  
+  
+For Nebtu,  
+foremost of Heliopolis,  
+broad of steps in the night bark.
+
+</div>
+
+**64**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Mȝʿ.t m ḥȝ.t*  
+*wỉȝ n Rʿ*  
+  
+For Nebtu,   
+Maat at the prow   
+of the bark of Re.
+
+</div>
+
+**65**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Nẖb.t nb.t Nḫb*  
+   
+For Nebtu,  
+Nekhbet, Lady of Elkab.
+
+</div>
+
+**66**
+<div class="col2">
+
+*n Nb.t-ww*  
+*ʿnq.t nb(.t) tȝ*  
+  
+For Nebtu,  
+Anukis, Lady of Ta (Komir).[^fn-241-66]  
+
+</div>
+
+[^fn-241-66]: For this name of Komir, see also [Esna 312], 7; *Esna* VI, 516, 6.
+
+**67**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Nb.t-ḥtp.t nb(.t) tȝ.wy*  
+  
+For Nebtu,  
+Nebet-hetepet, Lady of the Two Lands. 
+</div>
+
+**68**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Mn.t nb(.t) ỉȝbt.t*  
+^11^ *Ḥw.t-ḥr wr.t nb(.t) ʿgny*  
+   
+For Nebtu,  
+Menet, Lady of the East,[^fn-241-3]  
+^11^ Hathor the great, Lady of ʿAgny.
+
+</div>
+
+[^fn-241-3]: @sauneron-8, p. 30, translated this epithet as "Lady of Abydos." But elsewhere Menet received the epithet "Lady of the East", as a consort of Sopdu of the Eastern Delta: *LGG* III, 286c (citing *Hibis* III, Pl. 8).
+
+**69**
+<div class="col2">
+
+*n Nb.t-ww*  
+*nbw.t-ʿȝy.t*  
+*nb(.t) (ỉmy)-wȝḏ=s*  
+  
+For Nebtu,  
+the Great Gold,  
+Lady of *(ỉmy)-wȝḏ=s*.[^fn-241-4]
+
+</div>
+
+[^fn-241-4]: For this local version of Tefnut, see [Esna 130](https://bookdown.org/shemanefer/Esna2/intercolumnar-wall-a-and-north-east-door-127-133.html?q=130#esna-130), 4-5. 
+
+**70**
+<div class="col2">
+
+*n Nb.t-ww*  
+*(Ỉs.t)-Ỉr.t-nfr(.t)*   
+*ʿšȝ ḥb.w *  
+*ḫnt.t ḥw.t-ȝw(.t-ỉb)*  
+   
+For Nebtu,  
+(Isis)-*Ỉr.t-nfr.t*  
+numerous of festivals, 
+foremost of the Temple of Happiness.[^fn-242-1]
+
+</div>
+
+[^fn-242-1]: For this form of Isis, see [Esna 266], *Esna* VI, 523; *Esna* VII, 622; cf. @recklinghausen-2014,p. 139, n. 42. The name "Temple of Happiness" for Asfun occurs in *Esna* VII, 622, 6.  
+
+**71**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Nb.t-ḥw.t ʿnq.t*  
+*m ȝ.t=s*  
+   
+For Nebtu,   
+Nephthys and Anukis  
+in her moment (of rage).
+</div>
+
+**72**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Tȝ-sn.t-nfr.t Tfn.t*  
+    
+For Nebtu,  
+Tasenetnefret, Tefnut.[^fn-241-72]  
+
+</div>
+
+[^fn-241-72]: Tasenetnefret was the local form of Tefnut venerated at Kom Ombo.
+
+**73**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Spd.t nb(.t) tp-rnp.t*  
+  
+For Nebtu,  
+Sothis, Lady of the New Year.
+</div>
+
+**74**
+<div class="col2">
+
+*n Nb.t-ww*  
+*ỉr.t Ḥr wr.t*  
+  
+For Nebtu,  
+great Eye of Horus.  
+
+</div>
+
+**75**
+<div class="col2">
+
+^12^ *n Nb.t-ww*  
+*nb(.t) pr-wr*  
+*ḥnw.t pr-nsr*  
+*ḫnt.t pr-nw*  
+   
+^12^ For Nebtu,  
+Lady of the *pr-wr*,    
+mistress of the *pr-nsr*,    
+foremost of the *pr-nw*.  
+
+</div>
+
+**76**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Mȝʿ.t zȝ.t Rʿ*  
+  
+For Nebtu,  
+Maat, daughter of Re.
+
+</div>
+
+**77**
+<div class="col2">
+
+*n Nb.t-ww *  
+*Tfn.t zȝ=s ḥkȝ*  
+  
+For Nebtu,  
+Tefnut, whose son is Heka.
+</div>
+
+**78**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Tfn.t Rnn.t *  
+*n pr-ms *  
+  
+For Nebtu,   
+Tefnut, Renenet   
+of the Mammisi.
+
+</div>
+
+**79**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Ỉp.t-ḥm.t=s*   
+*ḫnt.t ȝḫ.t*  
+  
+For Nebtu,  
+*Ỉp.t-ḥm.t=s*,  
+foremost of the Akhet.  
+
+</div>
+
+**80**
+<div class="col2">
+
+*n Nb.t-ww*  
+*sḫp(r.t) zȝ=s m nsw.t*  
+  
+For Nebtu,   
+who makes her son the king.  
+
+</div>
+
+**81**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*sḫp(r.t)* ^13^ *Ḥr m pr=f*  
+  
+For Nebtu,  
+who produces ^13^ Horus in his domain.
+</div>
+
+**82**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Sšȝ.t nb(.t) zš*  
+  
+For Nebtu,  
+Seshat, Lady of Writing.
+</div>
+
+**83**
+<div class="col2">
+
+*n Nb.t-ww *  
+*Ỉs.t ḫnt.t Pr-ẖnmw*  
+  
+For Nebtu,  
+Isis, foremost of Per-Khnum.
+
+</div>
+
+**84**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Wnw.t šmʿ*  
+  
+For Nebtu,  
+Wenut of Upper Egypt. 
+
+</div>
+
+**85**
+<div class="col2">
+
+*n Nb.t-ww*  
+*Wnw.t mḥw*  
+  
+For Nebtu,  
+Wenut of Lower Egypt.
+
+</div>
+
+**86**
+<div class="col2">
+   
+*n Nb.t-ww *  
+*smsw.t wr.t*  
+   
+For Nebtu, 
+great eldest one.  
+
+</div>
+
+**87**
+<div class="col2">
+
+*n Nb.t-ww*  
+*sẖkr.t nfr.t*  
+  
+For Nebtu,  
+the beautiful adorned one.  
+
+</div>
+
+**88**
+<div class="col2">
+
+*n Nb.t-ww*  
+*wȝḏ ḫỉ*  
+*r nṯr.w nṯry.t*  
+  
+For Nebtu,  
+whose child flourishes the most      
+of gods and goddesses.
+
+</div>
+
+**89**
+<div class="col2">
+
+*n Nb.t-ww*  
+*N.t nb(.t) tȝ-sn.t*  
+  
+For Nebtu,  
+Neith, Lady of Esna.
+
+</div>
+
+**90**
+<div class="col2">
+
+^14^ *n Nb.t-ww*  
+*wsr.t r nṯr.w *  
+   
+^14^ For Nebtu,  
+mightiest of the gods.
+
+</div>
+
+**91**
+<div class="col2">
+
+*n Nb.t-ww*  
+*m rn(.w)=s nb.w*  
+   
+For Nebtu,  
+in all her names.
+
+</div>
+
+**92**
+<div class="col2">
+
+*n Nb.t-ww*  
+*m ḫprw=s nb.w*  
+   
+For Nebtu,  
+in all her manifestations.
+
+</div>
+
+**93**
+<div class="col2">
+
+*n Nb.t-ww*  
+*m sštȝ(.w)=s nb.w*  
+  
+For Nebtu,  
+in all her mysterious forms.  
+
+</div>
+
+**94**
+<div class="col2">
+   
+*n Nb.t-ww*  
+*m s(.w)t=s nb(.w)*  
+  
+For Nebtu,   
+in all her thrones.
+
+</div>
+
+**95**
+<div class="col2">
+
+*n Nb.t-ww*  
+*m bw nb mr kȝ(=s) ỉm*  
+   
+*dỉ=sn ʿnḫ-ḏd-wȝs nb*  
+*snb nb*  
+*n zȝ-Rʿ*  
+*(dryns (ʿnḫ) mỉ-Rʿ ḏ.t)|*  
+   
+For Nebtu,  
+in all places (her) Ka desires to be.  
+  
+May they give all *ʿnḫ-ḏd-wȝs*,  
+all health,  
+to the Son of Re,  
+(Trajan (living) like Re forever)|  
+
+</div>

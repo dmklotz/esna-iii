@@ -15,12 +15,13 @@
 
 - Location: Column 9
 - Date: Domitian 
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=221){target="_blank"}- Bibliography: @sauneron-5, p. 146.
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=221){target="_blank"}
+- Bibliography: @sauneron-5, p. 146.
 
 <div class="col2">  
 
 ^6^ *r' n ḥnk sšn nḥm(.t)  *  
-**ḏd-mdw  **  
+*ḏd-mdw*   
    
 *ẖnmw-Rʿ nb tȝ-sn.t  *  
 ^7^ *mn n=k sḫ.t  *  

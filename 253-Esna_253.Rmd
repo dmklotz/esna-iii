@@ -1,0 +1,216 @@
+## Esna 253 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 7
+- Date: Hadrian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=184){target="_blank"}  
+- Bibliography: @leitz-chronokraten, pp. 140-141 (non vidi). See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1044){target="_blank"} 
+- Compare: [Esna 235]
+
+#### Formula {-} 
+
+<div class="col2">  
+
+^1^ *mzỉ(=ỉ) n=t wȝḏ.w [...]*  
+*[...] ʿšȝ*  
+*ḫrp=ỉ n=t* ^2^ *rȝ.w nb.w*  
+*m ẖnm.w nb*  
+*sr.w [nb].w*  
+*šbn(.w)* ^3^ *mỉ ʿšȝ=sn*  
+*ỉw=w n kȝ=t*  
+*m wḏ ḥm=t*  
+*šms ỉb=t ỉm=w [...]*  
+  
+^1^ As I bring to you papyri [...]  
+[...] numerous,  
+so I consecrate for you ^2^ all birds,  
+consisting of all marsh birds,  
+and [all] geese,  
+mixed together ^3^ as they are numerous.  
+They belong to your Ka,  
+through your command:  
+May you satisfy your heart with them [...]
+  
+</div>
+
+#### The King {-} 
+
+<div class="col2">  
+
+^4^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwgr(twr) kysrs)|*  
+^5^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(Atryns nty-ḫwỉ)|*  
+   
+^6^ *nṯr nfr*  
+*ṯḥn ḫʿ.w m ẖkr.w=f*  
+*n nb.ty*  
+*ḫrp [...]=sn*  
+*n mw.t=f*  
+*šm šȝʿ m ỉdḥ.w*  
+*ỉnỉ ḥḥ n ms.w*  
+*ḫȝ.w n wḏḥ.w *  
+*n nb(.t)=f*  
+   
+*dỉ snsn [...] nfr*  
+*nb šȝ(?) [...] *  
+*([...] ḫwỉ)|*  
+  
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re,  
+Lord of Appearances,  
+(Hadrian Augustus)|  
+  
+^6^ The good god,  
+scintillating of appearances   
+in his regalia of the Two Ladies,    
+who consecrates [...] their [...]  
+to his mother.  
+Who walks, starting from the marshes,  
+and brings millions of products,  
+and thousands of offerings   
+to his Lady.  
+  
+He who allows to smell [...] good,  
+lord of the marsh(?) [...]  
+([....] Augustus)|
+
+</div>
+
+#### Neith {-}
+
+<div class="col2">
+
+^7^ *ḏd-mdw n N.t wr.t *  
+*mw.t nṯr nb(.t) tȝ-sn.t*  
+*ḥr.t s.t wr.t*  
+*nb(.t) Zȝw*  
+^8^ *ḫnt(.t) N.t*  
+  
+*ỉt-ỉt.w mw.t-mw.wt*  
+*ḫp(r.t)*  
+*nỉ ḫpr ḫpr.w*  
+^9^ *ḏd(.t) nty*  
+*ỉr(.t) wnn.t*  
+*nb(.t) šȝy ḥnw.t rnn.t*  
+*smȝ sʿnḫ *   
+*ẖr s.t-r'=s*  
+^10^ *qn sȝ.wy nḫt*  
+*ỉr(.t) ḫrwy.t n ḫfty.w*  
+   
+^11^ *dỉ=ỉ n=k ỉḫt*  
+*dỉ p.t*  
+*qmȝ tȝ*  
+  
+^7^ Words spoken by Neith the great,  
+Mother of God, Lady of Esna,  
+upon the great throne.  
+Lady of Sais,  
+^8^ foremost of the Neith nome.    
+  
+Father of fathers, mother of mothers,  
+who came into existence,   
+before existence existed;    
+^9^ who says what is,  
+and makes what exists;  
+Lady of Shai, Mistress of Renenet,  
+killing and enlivening  
+are under her authority.   
+^10^ Mighty one, who has strength,  
+and makes a massacre of the enemies.    
+    
+^11^ I give to you (all) things,  
+which heaven gives,   
+and the earth creates.  
+
+</div>
+
+#### Shemanefer {-} 
+
+<div class="col2">
+
+^12^ *ḏd-mdw n šmʿ-nfr *  
+*[sbk zȝ] N.t*  
+*[nṯr] ʿȝ ḥry-ỉb ḥw.t-ṯȝ.wy*  
+*nṯr wr*  
+*ḫp(r)* ^13^ *ḫnt*  
+*ḫprw ʿȝ n nṯr nb*  
+*snn ʿnḫ nty nb sḫ.t*  
+   
+*ỉty wḏ-mdw n psḏ.t*  
+^14^ *ỉr sbỉ.w=f [...]*  
+*[...] ṯḥn [...]*  
+*[...] ʿȝ tȝ-Stỉ(?) *  
+   
+^15^ *dỉ=ỉ wsr pḥty=k*  
+*[...]*  
+  
+^12^ Words spoken by Shemanefer,  
+[Sobek, son] of Neith,  
+great [god] within Temple of the Chicks;  
+great god,  
+who came about ^13^ long ago,  
+the great manifestation of every god,  
+living image of the Lord of the Field.[^fn-253-1]  
+  
+Sovereign, who issues orders to the Ennead,  
+^14^ who makes his rebels [...]  
+[...] scintillating [...]  
+[...] great of Ta-Seti(?) (Nubia).    
+   
+^15^ I render your strength mighty   
+[...]  
+
+</div>
+
+[^fn-253-1]: These epithets appear to allude to the apparent crocodile manifestation of Khnum Lord of the Field near North Esna. See also *Esna* VI, 486, 9; 511, 12.
+
+#### Behind the Divinities {-}  
+
+<div class="col2">
+
+^16^ *[...] Nwn*  
+*ms(.t) wȝḏ-wr*  
+*bkȝ(.t) nṯr.w nb.w*  
+*(mw.t) mw.wt*  
+*qrḥ.t ʿnḫ.t*  
+*pr nty nb ỉm=s*  
+*mw.t-nṯr [...]*  
+*[...]=s*  
+*p.t tȝ ʿpr.tw*  
+*ḫrs srq-ḥty.t(?) *  
+*[...] m ḫfʿ=s*  
+*N.t nb.t qn*  
+    
+^16^ [...] Nun,  
+who birthed the Great Green sea,  
+who bore all gods.  
+(Mother) of mothers,  
+living *qrḥ.t*-serpent,  
+through whom all things come forth.  
+Mother of god [...]  
+[...] her [...]  
+Heaven and earth are equipped,  
+who repels scorpions(?)[^fn-253-2]  
+[...] is in her grasp:  
+Neith, Lady of Victory.
+
+</div>
+
+[^fn-253-2]: Because of the damage, these final epithets are unclear to me.

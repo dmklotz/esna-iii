@@ -1,0 +1,216 @@
+## Esna 330 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 13
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=307){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 111-113; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1227){target="_blank"} 
+
+NB: This hymm is a continuation of [Esna 252].
+
+<div class="col2">  
+
+^1^ *ḥnw.t ḫnt-tȝ*  
+*nb(.t) sḫ.t-Rʿ*  
+*ḥr-ỉb ỉȝ.t-ṯȝ.wy*  
+*twȝ(.t) bnw ḥr psḏ=s*  
+   
+*N.t wr.t sḫp(r.t) wnn.t*  
+*qmȝ(.t) wȝḥy*  
+*sʿnḫ(.t) zȝ=s Šw*  
+*m ḥḏ.w=s*  
+*šd.t zȝ=s*  
+*ḏȝỉs.w wr.w m-ẖnw ʿbȝ*  
+*snḫn(.t) [ḥʿw?]*  
+^2^ *n Wsỉr nb ʿnḫ.t*  
+  
+^1^ Mistress of Khent-ta,  
+Lady of the Field of Re,  
+within the Nome of the Chicks,  
+who supports the earth[^fn-330-1] upon her back.  
+  
+Great Neith, who produces what exists,  
+who creates grain,  
+who enlivens her son, Shu  
+with her milk;  
+who nourishes her son  
+(and) the Great Djaisu within Aba;  
+who rejuvenates [the body?]   
+^2^ of Osiris, lord of Ankhet.  
+
+</div>
+
+[^fn-330-1]: I see no reason to follow the emendation suggested by @sauneron-5, p. 115, n. v. For similar epithets, see *LGG* VIII, 369b, especially [Esna 204], B.
+
+#### §8 {-}
+
+<div class="col2">
+
+*tw.t nb(.t) qn*  
+*m hrw sk*  
+*ṯȝy(.t) pḏ.t*  
+*ỉtḥ(.t) šsr*  
+*ṯtf(.t) ḏȝm.w n ẖȝk.w-(ỉb.w)*  
+  
+*wr pḥty=s ḥr-tp pḏ.wt 9.t*  
+*ḫȝs.wt ḫr(.w) n bȝw=s*  
+   
+*ỉṯ(.t) mr=s*  
+*m ḥqȝ ḫr nḥḥ*  
+^3^ *m bỉk ḥr-tp srḫ*  
+  
+You are the Lady of Victory  
+on the day of combat;  
+who seizes the bow,  
+pulls out the arrows,  
+and overwhelms rebel troops.  
+
+Her strength is great over the Nine Bows,  
+and lands fall before her power.[^fn-330-1b]   
+  
+She who takes whomever she desires  
+as ruler for all eternity,  
+^3^ as the falcon atop the serekh.    
+
+</div>
+
+[^fn-330-1b]: @sauneron-5, p. 116, n. bb, expressed doubts about this peculiar sign. Nonetheless, a close parallel in *Esna* VII, 633 (p. 228, line 3), supports the present translation. See also [Esna 324], 16.
+
+#### §9 {-}
+
+<div class="col2">
+
+*tw.t nb.t p.t tȝ*   
+*mw.w ḏw.w*  
+*qfȝ=s qȝ.tw m ẖnw=w*  
+  
+You are the Lady of heaven, earth,  
+waters and mountains,  
+whose prestige is elevated among them.
+
+</div>
+
+#### §10 {-}
+
+<div class="col2">
+
+*tw.t nb.t stp-zȝ*  
+*mk(.t) nsw.t-bỉty*  
+*nḏ.t n mšʿ=f*  
+*zȝw(.t) tȝ.wy*    
+*ḫȝs.wt r-ȝw=s(n)*  
+   
+^4^ *mḥn.t wr(.t) *  
+*m-ḥȝ.t nṯr.w nṯry.t*  
+*qrḥ.t ʿnḫ.t *  
+*ḫwỉ(.t) tȝ pn*  
+   
+*šzp=s ỉn nsw.t-bỉty m ḥʿʿ*  
+*m kȝwt n kȝ=s*  
+   
+*gnš.n tȝ-ṯnn*  
+*r nb(.t) ḥḥ*  
+*m-ȝb bỉk n nb.w*  
+*nṯr ḥnʿ zȝ.t=f*  
+
+You are the Lady of the Palace,  
+who protects ths King,  
+who guards his army,  
+who watches over the Two Lands  
+and all foreign lands in their entirety.  
+  
+The great uraeus   
+before all gods and goddesses,    
+the living *qrḥ.t*-snake,  
+who protects this land.  
+  
+The king receives her in jubilation,  
+as a supporter of her Ka.[^fn-330-2]  
+  
+she who was confirmed by Tatenen  
+to be Lady of Millions,  
+alongside the Falcon of Gold:  
+(namely) the god with his daughter.[^fn-330-3]
+
+</div>
+
+[^fn-330-2]: The restoration and general context is established by the parallel in *Esna* VII, 633 (p. 228, line 2). The allusion here is to the king "supporting" Neith as a uraeus serpent upon his crown.
+[^fn-330-3]: Once again, Neith-uraeus appears on the brow of the king (Falcon of Gold), just like Re with his uraeus-daughter, Tefnut.
+
+#### §11 {-}
+
+<div class="col2">
+
+*tw.t ḫʿ.n nb *  
+*ẖr s.t-rȝ=s*  
+*pr wḏ nb ḫr=s*  
+*nn hb ʿḥ m-ḫm=s *  
+  
+You are she under whose authority  
+the king appears in glory;[^fn-330-4]  
+every decree is issued before her,  
+none enters the palace in her ignorance.  
+
+</div>
+
+[^fn-330-4]: See the remarks by @sauneron-5, pp. 116-117, n. ii, and note the additional parallel in *Esna* VII, 633 (p. 228, line 2).
+
+#### §12 {-}
+
+<div class="col2">
+   
+*tw.t nb.t štȝ*  
+*ḥnw.t mnfty.w*  
+*nb(.t) rwḏ ỉȝbty*  
+*ḥnw.t Pwn.t*  
+  
+*bʿḥ.tw n=s ḥw.t-bỉty*  
+*m sṯy=s*  
+*m ḏfḏf nt ʿnty.w wȝḏ*  
+*ḥr zmȝ.w* ^6^ *n šnw=s*    
+  
+*ṯnỉ ḏ.t=s *   
+*m ḥḏ.t*  
+*nb.t Hh ʿmw*  
+*ỉr.tw n=s Ỉsdrn*  
+*nb(.t) Ršd Tfrr*  
+   
+*qmȝ.n=s ʿȝ.t nb.t n mȝʿ.t*  
+*r ỉr(.t) kȝ.wt nb.w*  
+*nb.t nḏm-ʿnḫ*  
+*ḥnw.t ḫsbḏ mfkȝ.t mḫnm.t*  
+    
+You are the Lady of the Quarry,  
+Mistress of bracelets,  
+Lady of the Eastern Desert,  
+and mistress of Punt;    
+  
+She for whom the Hut-Bity is flooded  
+with her scent,  
+as drops of fresh myrrh  
+upon the locks ^6^ of her hair.  
+  
+Her body is distinguished 
+with the white crown,  
+Lady of Heh and 'Amw,  
+for whom Isderen was made,  
+Lady of Reshed and Tefrer.  
+  
+She created all precious stones,  
+in order to make all works;  
+Lady of *nḏm-ʿnḫ*-mineral,  
+Mistress of lapis lazuli, turquoise, and jasper.
+
+</div>

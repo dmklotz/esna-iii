@@ -1,0 +1,247 @@
+## Esna 371 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=381){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1298){target="_blank"}  
+
+#### Formula {-}
+
+<div class="col2">
+   
+^1^ *ỉ(ȝ)w n=k ẖnmw*  
+*bȝ šfy.t-ḥȝ.t*  
+*ḫnty Ỉwny.t*  
+*dwȝ s(w) nṯr.w*  
+*ỉḫḫ s(w) nṯry.t*  
+*m nb nḥp.n=sn*  
+   
+*swȝš=ỉ kȝ=k [...]*  
+  
+^1^ Praise to you, Khnum!  
+Ba, with a ram head,  
+foremost of Iunyt.  
+He who the gods praise,  
+and the goddesses acclaim,  
+as the lord who fashioned them.  
+  
+I worship your Ka [...]  
+  
+</div>
+
+#### The King {-}
+
+<div class="col2">
+   
+^2^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwgrtwr kysrs)|*  
+^3^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(twmtyns nty-ḫwỉ)|*  
+^4^ *[...]*  
+^5^ *qmȝ nfrw*  
+*n wtṯ s(w)*  
+^6^ *sḥtp nb nḥp*  
+*m sȝḫ.w=f*  
+   
+^7^ *nṯr nfr*  
+*wtṯ n ʿm-tȝ.wy*  
+*bẖ.n s(w) ḥnw.t pr-(mḏȝ.t)*  
+*ȝḫ-rȝ*  
+*šd ḥby.wt *  
+*sfg-ỉrw m nȝy=f drf.w*  
+*nḏm mdw*  
+*mnḫ tp.w-r'.w*  
+*sḥtp ḫntyp-pr-ʿnḫ*  
+*m ȝḫ.w=f*  
+   
+*nb mdw*  
+*(twmtyns nty-ḫwỉ)|*  
+
+^2^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|   
+^3^ Son of Re,  
+Lord of Appearances,  
+(Domitian Augustus)|  
+^4^ [...]  
+^5^ who creates good things  
+for he who begot him;  
+^6^ who pacifies the Lord of the Potter's Wheel  
+with his transfiguration spells.  
+  
+^7^ The good god,  
+begotten of World-Knower (Thoth),  
+born of the Mistress of the House (of Books).  
+Excellent of mouth,  
+who recites festival texts;  
+He who is Unknowable of form  
+through his texts;  
+sweet of voice,  
+excellent of utterances,  
+who pacifies Foremost of Per-ankh  
+with his excellent words.  
+  
+Lord of speech:  
+(Domitian Augustus)|  
+
+</div>
+
+#### Khnum-Re Lord of Esna {-}
+
+<div class="col2">
+
+^8^ *ḏd-mdw n ẖnmw-Rʿ nb tȝ-sn.t*  
+*Ptḥ [...]*  
+^9^ *ỉt nṯr.w*  
+*šȝʿ ḫp(r)*  
+*nỉ ḫpr ḫpr.w*  
+*pr nn sỉȝ ỉrw=f*  
+   
+*qdỉ rmṯ.w*  
+^10^ *ỉr nṯr.w*  
+*ẖnm ḥr.w-nb.w*  
+*ḥr nḥp=f*  
+   
+^11^ *dỉ=ỉ n=k tȝ-mrỉ*  
+*ḥr ỉr(.t) n=k ỉȝw*  
+*mn.t[w] ḫʿ.t[w]*  
+*ḥr ns.t [...]*  
+  
+^8^ Words spoken by Khnum-Re Lord of Esna,  
+Ptah [...]  
+^9^ Father of the gods,  
+who began creation,  
+when nothing else existed;  
+who came forth but was not not perceived.  
+  
+He who built humans,  
+^10^ who made the gods,  
+and modeled everybody  
+upon his potter's wheel.  
+  
+^11^ I give you Egypt  
+making praise for you.  
+You remain and appear in glory  
+upon the throne [...]
+
+</div>
+
+#### Menhyt {-}
+
+<div class="col2">
+
+^12^ *ḏd-mdw n Mnḥy.t wr.t*  
+*nb(.t) ḫnt-tȝ*  
+*Sḫm.t ʿȝ.t *  
+*mr.t Ptḥ*  
+^13^ *ʿȝ mrw.t ḫnt nṯr.w*  
+*mḥn.t ḥr tp n nṯr nb*  
+*nn nṯr *  
+*mḥn=f s(w) ḥr tp=s*  
+   
+*ḥȝy.t* ^14^ *Rʿy.t*  
+*sḥḏ(.t) tȝ.wy *  
+*m mȝwy=s*  
+   
+^15^ *dỉ=ỉ snḏ=k *  
+*m tȝ.wy ḫȝs.wt*  
+*ḥr.w-nb.w rwḏ.(w)*  
+*ḥr s[wȝš ḥm=k]*  
+  
+^12^ Words spoken by Menhyt the great,  
+Lady of Khent-ta,  
+Sakhmet the great,  
+beloved of Ptah;  
+^13^ great of love among the gods;  
+coiled uraeus on the head of every god,  
+without there being any god  
+who might coil upon *her* head.  
+  
+The shining ^14^ Rayet,  
+who illumines the two lands  
+with her rays.  
+  
+^15^ I place fear of you  
+in domestic and foreign lands;  
+everybody are committed  
+to prais[ing your Majesty].  
+
+</div>
+
+#### Heka {-}
+
+<div class="col2">
+
+^16^ *ḏd-mdw n ḥkȝ p(ȝ) ẖrd*  
+*ʿȝ wr tpy n ẖnmw*  
+*sḏ ỉqr*  
+*nn* ^17^ *mỉt.t=f*  
+*ḥwnw nfr*  
+*ḏf(ḏ) n wḏȝ.t*  
+  
+*pʿpʿ.n sw* ^18^ *mw.t=f*  
+*m-ẖnw Ỉwny.t*  
+*m sw tpy tpy n šmw*  
+   
+^16^ Words spoken by Heka the Child,  
+the very great, first-born of Khnum;  
+excellent child,  
+without ^17^ his like;  
+good youth,  
+iris of the *wedjat*-eye.  
+
+His mother bore ^18^ him  
+within Iunyt,  
+on day 1 of I Shomu (= [Pakhons I](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#pakhons-1)).
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^19^ *nsw.t-bỉty*  
+*bȝ ʿȝ ỉrw*  
+*štȝ ḫprw*  
+*nn rḫ sštȝ.=f*  
+*nbỉ ḥḥ(.w)*  
+*wtṯ ḥfn.w*  
+*dỉ ṯȝw n srq.w-ḥty.t*  
+   
+*wr bỉȝ.wt ḫnt nṯr.w*  
+*rḫ.n=f *  
+*qmȝ [tȝ p]n(?) m šȝʿ*  
+*ẖnmw-tȝ-ṯnn*  
+*ỉt nṯr.w*  
+  
+^19^ The King of Upper and Lower Egypt,  
+Ba, great of visible form,    
+remote of manifestation,    
+whose secret image cannot be known.  
+  
+He who fashioned millions,    
+who begot myriads,  
+and gives air to the living.  
+  
+Great of oracles among the gods,  
+whom he knew;  
+who creates [th]is [earth] (?) in the beginning:  
+Khnum-Tatenen,  
+father of the gods.
+
+</div>

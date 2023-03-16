@@ -1,0 +1,207 @@
+## Esna 334 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 13
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=316){target="_blank"}  
+- Bibliography: @sayed-neith, II, pp. 629-630 (Doc. 1017); @shemanefer, p. 52; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1235){target="_blank"}  
+- Parallels: *Esna* VI, 484 (nearly identical, the basis of multiple restorations here)   
+
+#### Formula {-}
+
+<div class="col2">
+
+^1^ *[mn n=t ỉwn.t]*  
+*mds=t šsr*  
+*ỉr ỉḏr.w [zȝ=t] *  
+*r ḫfty.w=f*  
+  
+^1^ [Take the bow],  
+and sharpen the arrow;  
+set the boundaries of [your son]  
+against his enemies.
+
+</div>
+
+#### The King {-}
+
+<div class="col2">
+
+^2^ *nsw.t-bỉty*  
+*nb [tȝ.wy]*  
+*([ȝwtkrtr] kysrs)|*  
+^3^ *(ʿdrʿns nty-ḫwỉ)|*  
+   
+^4^ *pḥty n=f *  
+*mỉ šps.t-wsr.t*  
+*ḫwỉ(.w) m [pḏ.t]*  
+*[ỉr] m ḏbʿ[=f] *  
+^5^ *[...]*  
+   
+^2^ The King of Upper and Lower Egypt,  
+Lord of [the Two Lands]  
+([Autokrator] Caesar)|  
+^3^ (Hadrian Augusuts)|  
+  
+^4^ Unto him is strength,  
+like the August and Mighty one (Neith),  
+protected by the [bow],  
+[and acting] with [his] finger  
+^5^ [...]   
+
+</div>
+
+<div class="col2">
+
+^6^ *nṯr nfr*  
+*snw n Rʿ*  
+*r zȝ-Ỉs.t*  
+*sgrḥ tȝ*  
+*dr bṯn.w=f*  
+*ḥqȝ ṯ(n)r*  
+*qn nḫt m ḫȝs.wt*  
+   
+*ṯȝy (pḏ.t)*  
+*ỉtḥ šsr [n mw.t=f]*  
+*[N.t nb.t š]sr*  
+*ỉr sbỉ m tm-wn*  
+  
+*nb nḫt *  
+*([ỉt]ryns nty-ḫwỉ)|*  
+    
+^6^ The Good God,  
+Second of Re  
+(even) more than the Son of Isis;[^fn-334-1]  
+who quiets the land,  
+and repels its rebels;  
+powerful ruler,  
+mighty and victorious in foreign lands.  
+  
+He who seizes the (bow),  
+and draws out the arrow [of his mother],  
+[Neith, Lady of Ar]rows;[^fn-334-2]  
+who makes the rebel non-existent.  
+  
+Lord of victory,  
+([Had]rian Augustus)|  
+
+</div>
+
+[^fn-334-1]: This royal epithet apparently implies the king exceeds Horus (Son of Isis) in emulating Re during battle. Compare similar epithets of the King and Shemanefer in related scenes: "More primeval than the Son of Isis": [Esna 324], 5 and 13; [Esna 328], B.
+[^fn-334-2]: This epithet is restored based on *Esna* VI, 484, 5; but compare similar epithets for Neith in the nearby hymn [Esna 330], 2.
+
+#### Neith {-}
+
+<div class="col2">
+
+^7^ *ḏd-mdw n N.t wr.t*  
+*mw.t-nṯr nb(.t) tȝ-sn.t*  
+*tmȝ.t ḥr.t-tp*  
+^8^ *ḫp(r.t) m ḥȝ.t*  
+*wbn(.t) m Nwn*  
+*sḥḏ(.t) tȝ m ḥȝy=s*  
+   
+*nb(.t) ỉwn.t*  
+^9^ *ḥnw.t šsr=s*  
+*ỉr zȝ.w-n=sn m wḏ=s*  
+   
+^10^ *dỉ=ỉ n=k sbỉ.w r=f*  
+*ẖr šsr[=ỉ]*  
+*[ḫfty] ḫr(.w)*  
+*nn wn=f*  
+  
+^7^ Words spoken by Neith the great,  
+Mother of God, Lady of Esna,  
+Mother and uraeus,  
+^8^ who came about in the beginning,  
+who arose from Nun,  
+and illumined the earth with her radiance.  
+   
+^9^ Lady of the bow,  
+Mistress of her arrow:  
+the Guardian Deities act at her command.  
+
+^10^ I place those who rebel against you  
+beneath [my] arrows;    
+[the enemy] has fallen,  
+he is no more.  
+
+</div>
+
+#### Shemanefer {-} 
+
+<div class="col2"> 
+
+^11^ *ḏd-mdw n šmʿ-nfr*  
+*sbk-Rʿ*  
+*sḫm šps*   
+*pr* ^12^ *m N.t*  
+*ḫfḫf nḫt*  
+*bẖ.n s(w) ỉh.t*  
+^13^ *wbn m Nwn ḥnʿ mw.t=f*    
+*Rʿ ḥr-ỉb* ^14^ *wp.t *  
+*n Mḥ.t-wr.t*  
+*nṯr wr m tȝ-š*  
+*ḥr-ỉb tȝ-sn.t*    
+   
+^15^ *dỉ=ỉ n=k qn nḫt*  
+*pḏ.wt 9.t ẖr ṯb.ty=k*  
+  
+^11^ Words spoken by Shemanefer,  
+Sobek-Re,  
+august image  
+who emerged ^12^ from Neith;    
+mighty crocodile,  
+whom the Ihet-cow birthed,  
+^13^ who arose from Nun with his mother;  
+Re within ^14^ the horns  
+of Mehet-weret;  
+great god in the Lake[^fn-334-3]    
+within Esna.  
+  
+^15^ I give to you might, victory,    
+and the Nine Bows beneath your sandals.    
+
+</div>
+
+[^fn-334-3]: This is the same name for the Fayum, where the cult of Mehet-weret was also quite developed. Nonetheless, I translate this literally here, since it seems to refer to a replica sacred lake within Esna, perhaps home to a sacred crocodile cult.
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^16^ *nsw.t-bỉty*  
+*mw.t-mw.wt*  
+*nn ḥr-ḫw=s*  
+*wʿ.t nn snw=s*  
+*nh(.t) zȝ=s*  
+*dr(.t) bṯn.w=f*  
+*sḥr(.t) sbỉ.w ḥr=f ḥr mw*  
+   
+*wn=s m zȝ=f rʿ-nb*  
+*N.t ḥȝ.t ỉr(.t) nḥḥ*  
+   
+^16^ The King of Upper and Lower Egypt,   
+Mother of mothers,  
+all by herself;  
+the unique one, without her second;  
+she who protects her son,  
+and repels his enemies,  
+and drives away his rebels onto the water.  
+  
+She is in his protection, every day:  
+Neith, the beginning who made eternity. 
+
+</div>

@@ -1,0 +1,865 @@
+## Esna 346 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 14
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=335){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 54-64 (excerpts); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1253){target="_blank"}
+
+<div class="col2"> 
+
+^15^ *ȝbd 4 ȝḫ.t hrw 1*  
+*ḥb Ỉmn Nwn wr*  
+*ỉt nṯr.w*  
+*ḥb ḏr.t-nṯr *  
+*mw.t(-nṯr) n nṯr.w nb*  
+*ḥb ẖnmw*  
+*ḥb ẖȝʿ mḏȝ.t Ḥʿpỉ*  
+*ʿȝb ʿȝb.t n Ḥʿpỉ*  
+*m t ḥnq.t *  
+*ỉḥ.w ȝpd.w*  
+*ỉrp ỉrṯ.t*  
+*ʿntyw snṯr bỉ.t*  
+*dq(r.w) rnp.w*  
+*ỉḫt nb nfr wʿb*  
+   
+^15^ Akhet IV day 1 (= [Khoiak 1](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#khoiak-1)),  
+Festival of Amun, great Nun,[^fn-346-1]  
+father of the gods;  
+Festival of the Hand of God,  
+(divine) mother of all the gods;  
+Festival of Khnum;  
+Festival of casting the book of Hapi,  
+assembling the great offering for Hapi,  
+of bread, beer,  
+cattle, fowl,  
+wine, milk,   
+myrrh, incense, honey,   
+fruits, fresh plants,   
+and all good and pure things.  
+
+</div>
+
+[^fn-346-1]: ![](./images/346_15_1.png){width=7%} - @sauneron-5, p. 54, translated this group as "Tan(en)", without further comment. Indeed that god's name is spelled with an initial obelisk in [Esna 388], 8, but that writing at least contains the expected determinative for Tatenen. Accordingly, I prefer reading the signs as ideograms for Amun and Nun, with the possibility these particular hieroglyphs would have evoked the name of Tatenen for ancient Egyptian readers just as for Sauneron.
+
+<div class="col2">
+
+*ȝbd 4 ȝḫ.t hrw 1*  
+*ḥb kȝ-ḥr-kȝ *  
+*ỉr(.w) m ḥw.t-nṯr*  
+*nt ẖnmw-Rʿ nb tȝ-sn.t*  
+*mȝʿ ʿȝb.t ʿȝ.t*  
+*m ỉḫt nb nfr*  
+*m t ḥnq.t*  
+*ỉḥ.w ȝpd.w*  
+*qȝḥ-ʿ m wdn*  
+*ỉr(.t) snṯr*  
+*fȝỉ ỉḫt n kȝ*  
+*n ẖnmw Nb.t-ww*  
+*ṯtf ỉnm.t*  
+*bʿḥ m ỉrṯ.t*  
+  
+Akhet IV day 1 (= Khoiak 1),  
+Khoiak Festival,    
+performed in the temple  
+of Khnum-Re Lord of Esna:  
+Present the great offering  
+of all good things,  
+namely: bread, beer,   
+cattle, fowl.  
+Bending the arm with the litany;  
+perform incense;   
+elevate offerings for the Ka  
+of Khnum and Nebtu;  
+pour out wine jars,  
+inundate with milk.  
+
+</div>  
+
+<div class="col2">
+
+*ỉr(.t) pȝ wdn*  
+*n ẖnmw ḥnʿ psḏ.t=f*  
+   
+^16^ *wdn n Mnḥy.t-Nb.tww*  
+*wdn n N.t*  
+*wdn n Wsỉr*  
+*wdn n Ỉs.t*  
+*wdn n Ḫnsw-Ḏḥwty*  
+*wdn n Rʿ Ỉtm Ḫprỉ*  
+*Šw tfn.t*  
+*ḥnʿ psḏ.t n pr pn*  
+  
+*qȝḥ-ʿ m ẖms.w*  
+*m ỉt bd.t*  
+*pr.t nb*  
+    
+Perform the litany  
+for Khnum along with his Ennead:  
+  
+^16^ Litany for Menhyt-Nebtu,  
+litany for Neith,  
+litany for Osiris,  
+litany for Isis,    
+litany for Khonsu-Thoth,    
+litany for Re-Atum-Khepri,    
+Shu, Tefnut,   
+and the Ennead of this domain.  
+  
+Bending the arm with wheat,  
+consisting of grain and emmer,   
+and all seeds.  
+
+</div>
+
+<div class="col2">
+
+*dwȝ ẖnmw-Rʿ nb tȝ-sn.t*  
+*ḏd-mdw *  
+*nsw.t-bỉty*  
+*qdỉ m šȝʿ*  
+   
+*ky dwȝ*  
+*ỉnḏ-ḥr=k*  
+*nṯr nṯr.t ḥnʿ=f*  
+   
+*ky dwȝ*  
+*ỉnḏ-ḥr=k*  
+*ẖnmw Nb.t-ww*  
+*Šw zȝ-Rʿ*  
+   
+*k(y) dwȝ*  
+*ỉnḏ-ḥr=k*  
+*Šw rsy-ỉnb=f*  
+   
+*ky dwȝ*  
+*ỉnḏ-ḥr=k*  
+*ẖnmw nb sḫ.t*  
+*Šw zȝ-Rʿ*  
+*Nwn wr*  
+*ỉt-nṯr.w*  
+   
+*ky*  
+*ỉnḏ-ḥr=k*  
+*ẖnmw nb sḫ.t*  
+*Šw zȝ Rʿ*  
+*zḫnw-nfr*  
+   
+*ky [dwȝ]*  
+*ỉnḏ-[ḥr=k]*
+  
+Hymn of Khnum-Re Lord of Esna.  
+Words spoken:  
+'King of Upper and Lower Egypt,   
+who built in the beginning ...'  
+  
+Another hymn:  
+'Greetings!  
+God with whom is the goddess...'  
+  
+Another hymn:  
+'Greetings!  
+Khnum and Nebtu,  
+Shu son of Re...'  
+  
+Another hymn:  
+'Greetings!  
+Shu, South of his wall...'  
+  
+Another hymn:  
+'Greetings!  
+Khnum Lord of the Field,  
+Shu son of Re,  
+Nun the great,  
+father of the gods...'  
+  
+Another:  
+'Greetings!  
+Khnum Lord of the Field,  
+Shu son of Re,  
+the good companion...'  
+  
+Another [hymn]:  
+'Gree[tings!]  
+[...]'
+
+</div>
+
+<div class="col2">
+
+^17^ *ḏd-mdw*  
+*tw=t nb tȝ-sn.t*  
+*wʿ n fdw*  
+*tw=t nb p.t*  
+*nb tȝ nb dwȝ.t*  
+*nb Nwn ḏw.w*  
+*tw=t nb sḫ.t-Rʿ*  
+*tw=t nb ʿnḫ-tȝ.wy*  
+*mr ʿbw*  
+   
+*dwȝ ẖnmw-Rʿ *  
+*ḥry s.t=f wr.t*  
+*ḏd-mdw*  
+   
+*[ỉnḏ]-ḥr=k*  
+*ẖnmw-Rʿ*  
+*ḥry s.t wr.t*  
+*ỉnḏ-ḥr=k*  
+*ẖnmw-Rʿ *  
+*ḥry s.t=f wr.t*  
+*kȝ sṯỉ*  
+*ḥry nfr.wt*  
+*ỉȝw n=k*  
+*ẖnmw-Rʿ*  
+*ḥry s.t=f wr.t*  
+*Ḥḥ twȝ Nw.t*  
+  
+^17^ Words spoken:  
+'You are the Lord of Esna,  
+one of four.  
+You are Lord of heaven,   
+Lord of earth, Lord of the Duat,   
+Lord of Nun and the mountains.  
+You are Lord of the Field of Re,  
+you are Lord of Ankh-tawy,  
+who loves purity...'    
+  
+Hymn to Khnum-Re  
+upon his great throne.  
+Words spoken:  
+  
+'[Gree]tings!  
+Khnum-Re  
+upon the great throne.  
+Greetings!  
+Khnum-Re  
+upon his great throne,  
+ejaculating bull,  
+who mounts the beautiful females.  
+Praise be unto you!  
+Khnum-Re  
+upon his great throne.  
+Heh who supports Nut...'  
+
+</div>
+
+<div class="col2">
+
+*dwȝ Mnḥy.t*  
+*ḏd-mdw*  
+*ỉnḏ-ḥr=t*  
+*Mnḥy.t wr.t*  
+*nb.t ḫnt-tȝ*  
+*(r)-mn pḥw*  
+*ḫnt(.t) sḫ.t*  
+   
+*ky*  
+*ỉnḏ-ḥr=t*  
+*Mnḥy.t Šw*  
+   
+*dwȝ Nb.t-ww*  
+*ḏd-mdw*  
+*ỉnḏ-ḥr=t*  
+*sḏ.t mr(.t) Rʿ*  
+   
+*ky*  
+*ỉȝw n=t*  
+*šps.t wsr.t*   
+   
+Hymn to Menhyt.  
+Words spoken:  
+'Greetings!  
+Menhyt the great,   
+Lady of Khent-ta  
+as far as the *pehus* (of the Delta),[^fn-346-2]  
+foremost of the field...'  
+  
+Another:  
+'Greetings!  
+Menhyt and Shu...'  
+  
+Hymn to Nebtu.  
+Words spoken:  
+'Greetings!  
+Small girl whom Re loves...'  
+  
+Another:  
+'Praise be unto you,  
+August and mighty one...'  
+
+</div>
+
+[^fn-346-2]: This phrase occurs in multiple hymns to Menhyt. For the interpretation, see [Esna 251], 24, §9, with textual note there.  
+
+<div class="col2">
+
+*dwȝ N.t*  
+*ḏd-mdw*  
+*ỉnḏ-[ḥr]=t*  
+*N.t wr.t*  
+*mw.t-nṯr*  
+*nb(.t)* ^18^ *sn.t*  
+*nṯr.t ʿȝ.t*  
+*ḫnt(.t) Pr-nṯr*  
+*nb(.t) Zȝw*  
+*ḫnt(.t) N.t*  
+   
+*ky*  
+*ỉnḏ-ḥr=t*  
+*N.t wr.t*  
+*mw.t-nṯr*  
+*nb(.t) tȝ-sn.t*  
+*ỉt-ỉt.w*  
+*ḫnt.t ḥw.t-ỉt*  
+*mw.t-mw.wt*  
+*ḫnt(.t) ḥw.t-mw.t*  
+   
+*ky*  
+*ỉnḏ-ḥr=t*  
+*N.t wr.t*  
+*mw.t-nṯr*  
+*nb.t tȝ-sn.t*  
+*šps.t*  
+   
+*ỉr(.t) ỉrw*  
+  
+Hymn to Neith.  
+Words spoken:  
+'Greet[ing]s!  
+Neith the great,   
+Mother of God,  
+Lady of ^18^ Esna,    
+great goddess,   
+foremost of Per-netjer,   
+Lady of Sais,  
+foremost of the Neith nome...'  
+  
+Another:  
+'Greetings!  
+Neith the great,    
+Mother of God,    
+Lady of Esna,    
+father of fathers,   
+foremost of the Temple of the Father;  
+mother of mothers,   
+foremost of the Temple of the Mother...'  
+  
+Another:  
+'Greetings!  
+Neith the great,   
+Mother of God,  
+Lady of Esna,   
+august cow...'  
+  
+Perform the rituals.  
+
+</div> 
+
+<div class="col2">
+
+*dwȝ Rʿ-Ḥr-ȝḫty*  
+*ḏd-mdw*  
+*ỉnḏ-ḥr=k*  
+*wbn m wḏȝ.t*  
+*ḫy šps*  
+*pr m ȝḫ.t*  
+   
+*dwȝ Nb.t-ww*  
+*ḏd-mdw*  
+*ỉȝw n=t Nb.t-ww*  
+*ỉr.t-Rʿ*  
+*ḥr(.t) s.t-wr.t*  
+*nb(.t) Ỉwny.t*  
+   
+*ky*  
+*ỉnḏ-ḥr=t*  
+*Nb.t-ww*  
+*ỉr.t-Rʿ*  
+*ḥr(.t) s.t [wr.t]*  
+*[...]*  
+   
+*[dwȝ Ḥkȝ]*  
+*ỉnḏ-ḥr=k*   
+*wr-ḥkȝw*  
+*nb ḥkȝ *  
+   
+*ky*  
+*ỉnḏ-ḥr=k*  
+*Ḥkȝ* ^19^ *nb ʿḥ*  
+   
+*ky*  
+*ỉ Ḥkȝ nb ḥkȝ*  
+   
+*ky*  
+*ỉnḏ-ḥr=k*  
+*ḥkȝ wr-ḥkȝw*  
+   
+Hymn to Re-Harakhty.  
+Words spoken:  
+'Greetings!  
+He who arose from the wedjat-eye,   
+august child,  
+who emerged from the Akhet...'  
+  
+Hymn to Nebtu.  
+Words spoken:  
+'Praise be unto you, Nebtu,  
+Eye of Re,  
+upon the great throne,  
+Lady of Iunyt...'  
+  
+Another:  
+Greetings!  
+Nebtu,  
+Eye of Re,  
+upon the [great] throne  
+[...]  
+  
+[Hymn to Heka].  
+Greetings!  
+'Greatest magician,  
+lord of magic...'  
+  
+Another:  
+'Greetings!  
+Heka, ^19^ Lord of the palace...'  
+  
+  
+Another:  
+'O Heka, Lord of magic...'  
+  
+Another:  
+'Greetings!  
+Heka, greatest magician...'
+
+</div>
+
+<div class="col2">
+
+*ỉr ḥr-sȝ*  
+*sḫʿ.n nṯr pn šps*  
+*r tȝ wsḫ.t*  
+*ỉḫt (ḥr) ḫȝ.wt*  
+*rmn nḥp (ḥr)-ḥȝ.t=f*  
+*nṯr.w tpy.w ỉȝ.t=sn*  
+*dm rn=sn*  
+*šms nṯr pn*  
+*ẖnm ỉtn*  
+   
+*ỉr(.t) qrr wdn*  
+*m ḫft-ḥr n nṯr pn*  
+*ḥtp ḥr s.t=f wr.t*  
+*šd.n=f Ḥʿpỉ m ṯpḥ.t*  
+*hrw pn*  
+*mḥ hrw 5 m ḥb*  
+   
+*ḫʿỉ N.t p(ȝ) ḥȝ.t*  
+*ḫʿỉ n Ḥw.t-Ḥr*  
+*ḫʿỉ n Nb.t-ww*  
+*ḥtp ḥr s.t=s wr.t*  
+*mzỉ mnḏ.ty m-bȝḥ=s*  
+*ỉn ḥmw.wt nw.t nỉw.t tn*  
+   
+*sḫʿỉ n ḥm=s*  
+*nṯr.t tn šps.t wsr.t*  
+*Nb.t-ww nb(.t) tȝ-sn.t*  
+*r pr-ẖnmw*  
+^20^ *ḥtp m tȝ s.t-ʿȝ.t*  
+*ỉr(.t) qrr wdn*  
+*n ḫft-ḥr n nṯr.t tn*  
+*m hrw pn*  
+  
+Now afterwards,   
+procession of this august god  
+to the forecourt,  
+offerings (upon) the altar;  
+carry the potter's wheel before him.  
+The gods who are on their standard,   
+pronounce their names,    
+follow this god,  
+union with the sundisk.  
+  
+Perform burnt offerings and litany,  
+before this god,  
+rest upon his great throne:  
+he removed Hapi from the grotto  
+on this day.  
+Fill (the next) five days with festival.[^fn-346-2b]  
+  
+Procession of Neith at the front;  
+procession of Hathor;[^fn-346-3]  
+procession of Nebtu,  
+rest upon her great throne,   
+presenting breasts before her  
+by the ladies of this city.[^fn-346-4]    
+  
+Carry her Majesty in procession,    
+this goddess, august and mighty,   
+Nebtu Lady of Esna,  
+towards Per-Khnum;  
+^20^ stop at the Great Place,  
+perform burnt offerings and litany  
+before this goddess  
+on this day.
+
+</div> 
+
+[^fn-346-2b]: This phrase apparently refers to [Khoiak 1-6](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#khoiak-1-6), when many divinities visited Esna, and multiple rituals were performed.
+
+[^fn-346-3]: Although this ideogram could also read "Nebtu", the context suggests reading it otherwise. Hathor of Agny, north of Esna, had her own festival a couple of days earlier on Hathor 29, detailed in [Esna 344]. In that hymn, Hathor of Agny is identified with Nebtu, and the main calendar for [Hathor 29](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#hathor-29) describes similar events, including the visit to the Great Place, as a "Festival of Nebtu." As such, the present events mentioned here either refer to the days leading up to Khoiak 1, or similar rituals were performed for Nebtu in North Esna (Per-Khnum, Per-Netjer) during Khoiak, as suggested in [Esna 344], 14.
+
+[^fn-346-4]: The same ritual disrobing by women before Hathor-Nebtu, echoing the famous episode of this goddess in the Tale of Horus and Seth, is mentioned again in [Esna 344], 11.
+
+<div class="col2">
+
+*ḫʿỉ r pr-ẖnmw*  
+*m tr rwhȝ*  
+*nȝ sš(.w) ḏ(d.w)*  
+*ẖr-ḥȝ.t n.t Nb.t-ww*  
+*m hrw ḫny.t*  
+*ḥb šm r sḫ.t*  
+*ỉw ỉr=s sqd*  
+*r pr-ẖnmw*  
+   
+*ḏd-mdw*  
+*šm Rnnwt.t-wȝḏ.t*  
+*Nb.t-ww r sḫ.t*  
+*dwȝ *  
+*ỉr=n wpy n Nb.t-ww*  
+*wrh=n n Nbỉ.t*  
+
+*spr ḥm=s r s.t-ʿȝ.t*  
+*ḥnʿ ẖnmw pȝ-nḫy nfr*  
+*dỉ(.t) ḥr m sqd r-ẖnw*  
+*ʿḥʿ ỉn ẖnmw pȝ-nḫy nfr*  
+*ỉr(.t) snṯr qbḥw*  
+*r n(ȝ) ḥtp.w ʿȝ.w*  
+*nty(.w) m-rwty=s*  
+*m-ḫnt=s*  
+*ḥtp-dỉ-nsw.t wʿb n Wsỉr*    
+   
+Procession towards Per-Khnum  
+at the time of evening.  
+The writings which are spoken  
+before Nebtu  
+on the day of the bark procession,  
+the Festival of Going to the Field,  
+when she sails  
+towards Per-Khnum.  
+  
+Words spoken:  
+'Green Renenutet,  
+Nebtu, is going to the field!  
+Worship!  
+Let us make festival for Nebtu!  
+Let us dance for the *nbỉ.t*-cow!'  
+  
+Her majesty arrives at the Great Place,  
+along with Khnum the Good Protector.  
+Turning to process inside.  
+Then Khnum the Good Protector stops;  
+perform incense and cool water offerings,  
+to the great offering tables  
+which are all around it  
+and inside it;  
+pure royal offerings for Osiris.
+ 
+</div>
+
+<div class="col2">
+
+*ky rȝ*  
+*n ỉr(.t)* ^21^ *qbḥw*  
+*mỉ=n m ḥtp*  
+*bȝ.w ỉqr.w*  
+*kȝ.w ḥtpty.w*  
+   
+*ỉr(.t) snṯr*  
+*ʿbw snṯr*  
+*wr.t-ḥkȝw*  
+*wȝḏy.t nb.t pr-wr*  
+   
+*ḥtp ỉm*  
+*ỉr(.t) ỉrw nb*  
+*mỉ nty r-ḥȝ.t*  
+   
+*sḫʿ.n nṯr.t tn*  
+*m tr n rwhȝ*  
+*ẖnmw pȝ-nḫy nfr*  
+*r-ḥȝ.t=s*  
+   
+Another spell   
+of offering ^21^ cool water:  
+'Come in peace!  
+Excellent Bas,  
+Kas of the blessed dead...'  
+  
+Performing incense:  
+'The incense purifies,    
+Weret-Hekau,  
+Wadjyt, Lady of the Per-wer...'[^fn-346-5]  
+  
+Rest there,  
+perform all rituals,  
+as is (outlined) anove.  
+  
+Carry this goddess in procession  
+at the time of evening,  
+Khnum the Good Protector  
+being ahead of her.  
+
+</div>
+
+[^fn-346-5]: ![](./images/346_21.png){width=35%} - @sauneron-5, p. 62, translated this group as: "purifier la grande manifestation de Knêph et d'Ouadjyt, maîtresse du Per-Out, qui repose ici." While this pairing of serpentine deities would be interesting, this overlooks a direct parallel in [Esna 74](https://bookdown.org/shemanefer/Esna2/north-anta-71-76.html#esna-74), 25-26. This is simply the incipit of a canonical hymn to incense attested in many temples and on ritual papyri.
+
+<div class="col2">
+
+*ỉr pḥ ḥm=s *  
+*r ḫft-ḥr n Pr-nṯr*  
+*rȝ ḏ(d)*  
+*ỉn ẖry-ḥb ḥry-tp*  
+   
+*tȝy ḥnw.t ww*  
+*ʿq.tw r sḫ.t*  
+*tȝ ḥnw.t Ỉwny.t*  
+*ʿq.tw r ḥw.t-bȝ.w*  
+*rnp ỉmy=s*  
+*ʿnḫ ỉmy.w nb-ʿnḫ*  
+*rnp Wsỉr*  
+*ʿnḫ ḥtp[ty.w]*  
+   
+*Nb.t-ww zȝ[.t] Rʿ*  
+*ỉỉ.tw m ḥtp*  
+*ẖnm=s sn=s*  
+*šzp=f s(y) m ḥʿʿ*  
+*[...]*  
+*[...]* ^22^ *m-ʿ=w*  
+*mȝȝ=sn ỉtn.wy*  
+*Šw ḥnʿ Tfn.t*  
+*zḫn.tw m zp wʿ*  
+   
+Now when her Majesty arrives  
+at the forecourt of Per-netjer:  
+the utterance spoken  
+by the Chief Lector Priest:  
+  
+'The Mistress of the agricultural domain  
+has entered the field!  
+The Mistress of Iunyt  
+has entered the Temple of the Bas!  
+Those within it are rejuvenated,  
+those within the necropolis come alive!  
+Osiris is rejuvenated,  
+the blessed [dead] come alive!  
+  
+'Nebtu the daught[er] of Re,  
+has arrived in peace!  
+She unites with her brother,  
+and he receives her with joy  
+[...]  
+[...] ^22^ from them,  
+they see the two celestial disks,[^fn-346-6]  
+(namely) Shu and Tefnut,  
+united together as one.'
+
+</div>
+
+[^fn-346-6]: The theme of Khnum-Shu and Nebtu-Tefnut shine like two disks (sun and Sothis?) occurs in multiple texts: *Esna* II, 31, 39; 80, 3; 81, 6; 127, 9. 
+
+<div class="col2">
+
+*[...]w=s ḥr zbỉ-sš.w ḥnʿ=sn*  
+*Ỉs.t ḥr wnmy*  
+*Nb.t-ḥw.wt ḥr ỉȝby*  
+*ỉr.t-Rʿ*  
+*sḥḏ(.t) tȝ.wy*  
+*bȝq(.t) Bȝq.t*  
+*snfr(.t) tȝ-sn.t(?)*  
+*šzp Km.t ȝw.t-ỉb*  
+   
+*nṯr.w nṯry.t nw spȝ.wt*  
+*ỉb=sn nḏm(.w)*  
+*r mȝȝ ẖnmw m wpy=f*  
+*mȝʿ-ḫrw ỉn ḥm n nṯr*  
+*m wpy=f nb*  
+*m ḥb=f nfr *  
+*n wḏʿ-mdw*  
+   
+*smn=f zȝ=f Ḥr*  
+*ḫʿ.w ḥr s.t=f*  
+*m nsw.t mnḫ ḏ.t*  
+   
+Her [...] roams the fields with them,[^fn-346-7]  
+Isis on the right,  
+Nephthys on the left.  
+Eye of Re,  
+who illumines the two lands,  
+who makes Egypt shine,  
+who makes Esna(?) beautiful,  
+so Egypt received all happiness.  
+  
+The gods and goddesses of the districts,  
+their hearts are pleased,  
+to see Khnum in his *wpy*-festival.  
+The Majesty of this god is justified  
+in all of his trials (*wp*),  
+in his good festival  
+of making judgments.[^fn-346-8]    
+   
+He establishes his son, Horus,   
+to appear in glory upon his throne,    
+as a beneficent king, for all time.  
+
+</div>
+
+[^fn-346-7]: The restoration here is unclear. This could simply be "her child", an allusion to Heka who also visits the Great Place around this time. Yet the subsequent mention of Isis and Nephthys suggests this might somehow refer to Osiris.
+
+[^fn-346-8]: Another allusion to the neighboring divinities visiting during Khoiak 1-6. Similar descriptions occur in *Esna* II, 81, 5-6; 127, 8-9; [Esna 337], B. See recently @recklinghausen-fremden, pp. 541-546.
+
+<div class="col2">
+
+*ʿḥʿ m pȝ [wsḫ.t? n] ḫnt*  
+^23^ *rȝ ḏ(d)*  
+*ỉỉ(.tw) zp-snw m ḥtp*  
+*nbỉ.t*  
+*snsn(.t) nṯr*  
+*Nb.t-ww-Mnḥy.t wr.t*  
+*ỉỉ.tw r Pr-ẖnmw*  
+*ʿn.wy nbỉ.t ỉỉ=s *  
+*ỉs ỉỉ.tw*  
+   
+*pẖr=s sḫ.t*  
+*ḫnm=s m sm.w*  
+*ỉȝd.t-nṯr=s*  
+*pr.w m-ẖnw Pr-nṯr*  
+*mḥ=s ḥw.t-nṯr m nfrw=s*  
+   
+*dỉ sn=s ʿ=f r-ʿ=s*  
+*ỉr=f n=s wrh*  
+*sqȝ=f ḥm=s*  
+*m ỉỉ=s m ỉȝ.t-ṯȝ.wy*  
+*nỉw.t=s pw n ỉbw*  
+*ḥtp=s ḥnʿ=f*  
+*sfn(n)=sn m zp*  
+   
+Stopping at the front [courtyard?].  
+^23^ Utterances spoken:  
+'Welcome, welcome in peace!  
+*Nbỉ.t*-cow,  
+who unites with the god (Khnum),   
+Nebtu-Menhyt the great,  
+has come to Per-Khnum.  
+How pleasant is the *nbỉ.t*-cow when she comes,  
+and indeed now she has come!'  
+  
+As she goes around the field,  
+her fragrance is in all the plants,  
+and her divine scent  
+comes forth within Per-netjer:  
+thus she fills the temple with her goodness.  
+  
+Her brother (Khnum) gives his hand to hers,  
+he performs the *wrh*-dance for her (see [Esna 380]),   
+and he elevates her Majesty,  
+when she comes into Mound of the Chicks,  
+it is her city of dancing;  
+she rests there with him,  
+and they are delighted together.  
+
+</div>
+
+<div class="col2">
+
+*ky dwȝ ẖn[m]w*  
+^24^ *ḏd-mdw*  
+*ỉnḏ-ḥr=k *  
+*ẖnmw-Šw*  
+*wr smsw zȝ Rʿ*  
+*ẖnm sn=f tfn.t*  
+*m rn=s n Mnḥy.t-Nb.t-ww*  
+*ʿqȝ ḥr.w n sn sn.t*  
+*m ḥb=sn nfr*  
+*n 4 n ȝḫ.t hrw 1*  
+   
+*Pr-nṯr šps.tw*  
+*ḥw.t-bȝ.w m ḥb-ḥr-ḥb*  
+*sḫ.t nfr.t *  
+*m grg n wpy*  
+*pr=k r ỉfdw=f*  
+*m nḏm-ỉb*  
+   
+*ʿȝ kȝ=k m ḥtp*  
+*ỉȝt ḏsr(.tw)*  
+*m ḫrwy.t=k*  
+*ỉb=k m ỉ[hȝy]*  
+   
+*Nb.t-ww-Mnḥy.t wr.t*  
+*ỉỉ=s n=k m šps.t*  
+*m ỉrw=s n nbỉ.t*  
+    
+Another hymn to Khnu[m].  
+^24^ Words spoken:   
+'Greetings!  
+Khnum-Shu,  
+great, eldest son of Re,  
+who unites with his sister, Tefnut,[^fn-346-9]   
+in her name of Menhyt-Nebtu.  
+The faces of the brother and sister align  
+in their good festival  
+of IV Akhet day 1 (= Khoiak 1).  
+  
+Per-netjer is made august,   
+Temple of the Bas celebrates continually,  
+the Good Field  
+is overwhelmed with wpy-festival;  
+and all four corners of your domain  
+are in happiness.  
+  
+Your Ka is great in peace,    
+the mound is made sacred   
+through your oracular decree,  
+and your heart rej[oices].  
+  
+Nebtu-Menhyt the great,   
+she comes to you as the august one,   
+in her visible form of a *nbỉ.t*-cow.  
+   
+</div>
+
+[^fn-346-9]: Most of the following text has direct parallels in [Esna 351], as well as *Esna* II, 81, 6.
+
+<div class="col2">
+
+^25^ *ḏr=k ssw 1*  
+*ȝm ssw 2*  
+*p(ȝ) šby pḏ(.w) r tr=f*  
+*p(ȝ) ỉms wȝḏwȝḏ(.w) r dmḏy.t=f*  
+*pr p(ȝ) ḫnm ʿntyw wȝḏ*  
+*nḏm.wy sṯỉ pr=k*  
+*rʿ-nb*  
+    
+^25^ May you seize the first day,    
+and grasp the second day![^fn-346-10]  
+The *šȝb*-plant spreads at its season,  
+the dill is green at its time.  
+The aroma of fresh myrrh comes forth.  
+How sweet is the scent of your domain,   
+every day!
+   
+</div>
+
+[^fn-346-10]: This curious phrase occurs several other times, and seems to allude to Khnum receiving justification on Khoiak 1 and 2. See [Esna 337], B; [Esna 351], A.
+

@@ -2,8 +2,12 @@
   
 *ȝw.t-ỉb*, "happiness"; *ȝw-ỉb*, "to be happy"  
   
-![](./images/194_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B; [Esna 341], 8  
-
+![](./images/194_3.png){width=4.4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 194], B; [Esna 341], 8; [Esna 346], 22    
+   
+*ȝpd.w*, "birds"  
+   
+![](./images/358_31_4.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 358], 31   
+     
 *ȝḫ.t*, "the Akhet"  
   
 
@@ -12,19 +16,30 @@
 *Ỉwny.t*, "Iunyt (Esna)"  
   
 ![](./images/259_3_5.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 259], 3, §5; 
-
+   
+![](./images/233_25_61.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 233], 25 (61)    
+  
 *ỉmỉ.t-pr*, "inheritance document"  
   
 ![](./images/332_bis_28_2.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 332^bis^], 28 
+      
+*ỉn*, "by" (agential particle)    
   
+![](./images/358_34.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 358], 34  
+  
+![](./images/358_34_2.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 284], 2; [Esna 358], 34  
+  
+![](./images/358_35.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 358], 35   
+    
 *ỉrỉ*, "to do; make"  
 
-![](./images/224_1b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis); [Esna 332^bis^], 28  
+![](./images/224_1b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1 (bis); [Esna 319], 16; [Esna 330], 6; [Esna 331], 11; [Esna 332^bis^], 28; [Esna 334], 8; [Esna 339], 1; [Esna 388], 8; [Esna 395], 7       
 
 *ỉrṯ.t*, "milk"  
   
 ![](./images/347_25a1.png){width=5%}![](./images/347_25a2.png){width=3.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 347], 24 
   
+![](./images/346_15_2.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 346], 15    
   
 *ỉḫḫ*, "evening; dusk"
   
@@ -46,19 +61,65 @@
 
 *ỉtn*, "solar disk"  
   
+![](./images/387_1_2.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 1    
+   
 ![](./images/379_24_2a.png){width=6%}![](./images/379_24_2b.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24  
   
 ![](./images/259_2_1_d.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 259], 2, §1
-
+  
+![](./images/387_2_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 2; [Esna 395], 7       
+  
 *ʿȝ*, "great"  
   
 ![](./images/372_15.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 372], 15  
   
 ![](./images/392_20_4a.png){width=15%}![](./images/392_20_4b.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 20  
   
-![](./images/392_21_1.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 21  
+![](./images/392_21_1.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 11, §14; [Esna 392], 21  
   
+*ʿ.wt*, "livestock; mammals"  
+   
+![](./images/377_5_5.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 5
+  
+*ʿnḫ*, "life"  
+  
+![](./images/356_27.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 356], 27  
 
+![](./images/276_12_7.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 276], 12, §7    
+  
+![](./images/379_23_0.png){width=2.2%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 23
+      
+![](./images/378_22_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 22     
+    
+*ʿš*, "to call"  
+   
+![](./images/368_34_1.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 368], 34  
+  
+![](./images/378_19.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 19  
+   
+*wȝ.t*, "path; way"  
+   
+![](./images/387_4_2.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 4  
+   
+*wbn*, "to rise; shine"  
+  
+![](./images/272_4_2.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 4    
+
+![](./images/331_10_2.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 10 and 11   
+   
+![](./images/331_7_2.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 7   
+  
+![](./images/378_22_8.png){width=25%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 22 (uncertain)   
+  
+![](./images/331_21_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 21     
+  
+![](./images/378_12_3.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 12  
+   
+*wn*, "to open"  
+  
+![](./images/272_2_0.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 2    
+   
+   
 *wr.t*, "the great one"  
   
 ![](./images/209_28b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 209], 28 (2)  
@@ -75,6 +136,16 @@
   
 ![](./images/392_20_5.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 20   
   
+*p.t*, "sky"  
+  
+![](./images/225_6_10.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 6 (10) (the tranliteration*p.t* rather than *gb.t* is from context)   
+  
+*pȝwty*, "Primeval one"
+
+![](./images/388_8_2.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 388], 8  
+   
+![](./images/387_4_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 4  
+    
 *pr*, "temple"  
   
 ![](./images/224_1c.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
@@ -83,13 +154,23 @@
   
 ![](./images/392_20_3.png){width=8.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 20
   
+*psḏ*, "to shine"  
+  
+![](./images/331_8_0.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 8 and 18  
+   
+*fdw*, "four"  
+    
+![](./images/377_1_2.png){width=4.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 1   
+  
+![](./images/377_2_4.png){width=4.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 2   
+    
 *fd.t*, "four (feminine)"  
   
 ![](./images/313_A_3a.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 313], A  
 
 *m*, "in; as; from"  
   
-![](./images/234_27a.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 27  
+![](./images/234_27a.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 233], 18 (19); [Esna 234], 27  
   
 ![](./images/382_11_1.png){width=3.8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 382], 11  
 
@@ -106,6 +187,10 @@
   
 ![](./images/335_B_2.png){width=1.8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 335], B  
   
+*mnmn.t*, "livestock"  
+  
+![](./images/319_17_2.png){width=20%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 17    
+  
 *Mnḥy.t*, "Menhyt"  
   
 ![](./images/304_17_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 304], 17  
@@ -113,14 +198,29 @@
 ![](./images/298_B_2.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 298], B
   
 ![](./images/301_10_1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 10
+![](./images/254_12.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 254], 12 
   
-![](./images/335_B_3.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 335], B   
+![](./images/335_B_3.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 335], B  
+  
+![](./images/346_24_1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 346], 24   
+  
+![](./images/346_23_1.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 346], 23    
+   
+![](./images/344_14.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 344], 14  
   
 ![](./images/251_22_2.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 251], 22, §2  
-  
+   
+![](./images/232_12_135_2.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 232], 12 (135)    
+   
+*mḥy.t*, "north wind"  
+   
+![](./images/387_4_5.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 4    
+   
 *msỉ*, "to birth; create; fashion"  
    
 ![](./images/390_17_1.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 390], 17  
+  
+![](./images/387_3_2.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 3    
    
 *mzỉ*, "to present; offer"
   
@@ -132,62 +232,144 @@
   
 *Ptḥ*, "Ptah"
 
-![](./images/224_2b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2  
-
+![](./images/224_2b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2; [Esna 388], 7   
+  
+![](./images/250_14.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 250], 14  
+   
+![](./images/394_24_2.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 394], 24; [Esna 395], 8     
+  
 *N.t*, "Neith"  
   
 ![](./images/305_18.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 305], 18  
   
+![](./images/331_7_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 7      
+   
 *nb*, "lord" and *nb*, "all" 
   
-![](./images/328_A1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 328], A; [Esna 393], 23   
+![](./images/328_A1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 328], A; [Esna 368], 29; [Esna 393], 23   
   
 ![](./images/362_D_0.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 362], D  
     
 ![](./images/273_6_1.png){width=4.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 273], 6  
   
+![](./images/225_24_74.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 24 (74)   
+   
+![](./images/242_18_19.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 242], 18 (19)   
+   
+![](./images/242_19_29.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 242], 19 (29)   
+   
 ![](./images/379_24_4.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24   
-
+   
+![](./images/332_26.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 332], 26   
+   
+![](./images/378_21_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 21      
+   
+![](./images/250_17_1.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 250], 17   
+   
+*nb.t*, "lady"  
+  
+![](./images/233_25_60_1.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 233], 25 (60)  
+  
 *Nb.t-ww*, "Nebtu"  
   
 ![](./images/306_20_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 30   
+  
+![](./images/346_24_2.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 346], 24  
   
 ![](./images/240_5.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 240], 5
 
 *nn*, negation  
   
 ![](./images/379_24_6.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24  
+  
+![](./images/378_10_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 10   
+  
+![](./images/242_22_46.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 242], 22 (46)  
+   
+![](./images/378_18_2.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 18  
 
-*nḥp*, "potter's wheel"  
+   
+![](./images/319_20.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 20    
+  
+*nḥp*, "potter's wheel" (n.), "to build on the potter's wheel" (v.)    
   
 ![](./images/390_17_3.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 390], 17
 
   
 ![](./images/224_1a.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
 
-![](./images/320_21_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 320], 11   
+![](./images/320_21_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 320], 11; [Esna 300], 10; [Esna 358], 31    
   
-![](./images/301_11_1.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 11
+![](./images/311_1_2.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 311], 1;  
+
+  
+![](./images/301_11_1.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 11  
+  
+![](./images/356_16.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 356], 16    
   
 ![](./images/277_20_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 277], 20; [Esna 302], 14; [Esna 304], 16   
   
 ![](./images/302_13.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 302], 13 
   
-![](./images/310_28_b.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28 
+![](./images/310_28_b.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28; [Esna 358], 32 (slightly different)  
+  
+![](./images/276_11_2.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 276], 11 §2 
    
 ![](./images/313_A_9.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 313], A   
+     
+![](./images/378_9_2a.png){width=5.2%}![](./images/378_9_2b.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 9     
+     
+![](./images/319_18_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 18      
+   
+![](./images/394_27_2.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 394], 27  
+  
+![](./images/311_1_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 311], 1; 276, 11 §1  
+  
+![](./images/377_7_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 7   
+  
+![](./images/378_9_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 9  
+  
+![](./images/250_7_1.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 250], 7     
+    
+![](./images/378_21_4.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 21  
 
+![](./images/377_1_3a.png){width=7%}![](./images/377_1_3b.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 1  
+  
+*ntk*, "you" (second person masculing independent pronoun)  
+  
+![](./images/319_19_2bis.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 19 bis  
+  
+*nṯr.w*, "the gods"  
+   
+![](./images/319_17_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 17  
+  
+![](./images/358_31_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 358], 31  
+  
+![](./images/388_9.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 388], 9   
+   
 *r*, "to; towards; at; until"  
   
-![](./images/304_17_3b.png){width=10%}  
+![](./images/304_17_3b.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 304], 17   
+  
+![](./images/254_6_2.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 254], 6   
 
 *Rʿ*, "Re"  
   
-![](./images/293_27_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 293], 27  
+![](./images/293_27_1.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 196], 5; [Esna 293], 27; [Esna 318], 7, §4; 11, §14           
   
 ![](./images/224_1e.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
   
+![](./images/225_4_3_b.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 4 (3)    
+   
+![](./images/378_23_6.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 23  
+  
+![](./images/242_17_11.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 242], 17 (11)    
+   
 ![](./images/231_4.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 231], 4, 9
+  
+*rmṯ.w*, "humans"  
+  
+![](./images/225_4_2.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 4 (2)  
   
 *rs*, "to awaken" 
   
@@ -197,9 +379,12 @@
   
 ![](./images/259_3_4.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 259], 3, §4  
   
+![](./images/378_22_6.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 22    
+   
 ![](./images/259_4_7.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 259], 4, §7
-
-
+  
+![](./images/378_22_5a.png){width=4.5%}![](./images/378_22_5c.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 22    
+  
 *ḥb*, "festival" 
 
 ![](./images/380_25_1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1; [Esna 380], 25 and 26
@@ -216,75 +401,215 @@
   
 ![](./images/308_25.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 308], 25 *bis*  
   
+*m-ḫt*, "after"  
+  
+![](./images/387_3_1.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 3  
+  
 *ḫʿỉ*, "to appear (on the throne; in procession)"  
  
 ![](./images/393_23_1.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 23  
-
+  
+![](./images/378_12_2.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 12  
+  
+*nb-ḫʿ.w*, "Lord of Glorious Appearances"  
+  
+![](./images/334_7_1.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 334], 7
+  
+*Ḫmny.w*, "the Ogdoad"  
+  
+![](./images/272_1_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 1  
+  
+![](./images/272_5_1.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 5  
+  
+![](./images/272_3_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 2  
   
 *ẖnmw*, "Khnum" (examples from outside the main Khnum litanies)   
   
-![](./images/369_36_1.png){width=19%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 369], 36  
+![](./images/369_36_1.png){width=19%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 358], 39; [Esna 369], 36  
   
-![](./images/261_15_0.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 261], 15 
-
-
-![](./images/310_28.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28  
+![](./images/261_15_0.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 261], 15   
   
-![](./images/341_9.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 341], 9; [Esna 371], 1   
+![](./images/378_14_1.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 14  
+   
+![](./images/318_9_8.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 9, §8  
+  
+![](./images/378_23_9a.png){width=5%}![](./images/378_23_9b.png){width=3%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 23   
+     
+![](./images/378_17_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 17  
+   
+![](./images/389_16.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 389], 16  
+  
+![](./images/310_28.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 310], 28  
+  
+![](./images/341_9.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 341], 9; [Esna 371], 1   
   
 ![](./images/383_B.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 4, §3  
    
 ![](./images/383_B.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 277], 22, §6; [Esna 383], B  
+    
+![](./images/232_6_107.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 232], 6 (107)   
+    
+![](./images/294_12.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 211], 18; [Esna 294], 12   
+  
+![](./images/377_3_1.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 3   
   
 ![](./images/224_1d.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1   
   
 ![](./images/264_25_2.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 264], 25  
 
-![](./images/393_21_1.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21  
+![](./images/393_21_1.png){width=20%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21   
+   
+![](./images/318_10_12.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 10, §12  
   
+![](./images/377_1_4.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 1     
+    
+![](./images/318_11_14_1.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 10, §13; 11, §14      
+  
+![](./images/377_4_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 4    
+    
 ![](./images/275_9_4.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 275], 9  
      
 ![](./images/195_7a.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 195], 7  
      
 ![](./images/364_B.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 364], B   
-   
+  
+![](./images/262_23.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 262], 23   
+  
+![](./images/368_34_2.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 368], 34 
    
 ![](./images/230_B1.png){width=8%}![](./images/230_B2.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 230], B  
   
+![](./images/272_1_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 1 
+  
 ![](./images/291_21_0.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 291], 21  
   
-![](./images/379_24_12.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24
+![](./images/379_24_12.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24  
   
+![](./images/318_7_0.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 7    
+   
 ![](./images/224_2a.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 2  
   
+![](./images/387_1_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 1  
+   
+![](./images/377_2_2a.png){width=3.3%}![](./images/377_2_2b.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 2  
+   
+![](./images/388_8_1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 388], 8  
+   
+![](./images/318_8_6.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 8, §6    
+   
 ![](./images/264_25_1.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 264], 25  
   
-![](./images/353_A.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 353], A  
+![](./images/353_A.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 353], A; [Esna 387], 1    
   
 ![](./images/364_A.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 364], A    
-
-![](./images/393_21_2a.png){width=2.9%}![](./images/393_21_2b.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21 
   
+![](./images/272_4_1.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 4     
+   
+![](./images/262_18_1.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 262], 19, §1  
+  
+![](./images/393_21_2a.png){width=2.9%}![](./images/393_21_2b.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21  
+  
+![](./images/318_10_11.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 10, §11     
+   
 ![](./images/379_24_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24   
   
-![](./images/292_25_1.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 292], 25 
+![](./images/394_23.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 394], 23   
   
-![](./images/353_B.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 353], B  
+![](./images/377_8_1.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 8  
+  
+![](./images/377_5_1.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 5  
+  
+![](./images/292_25_1.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 292], 25  
+
+![](./images/249_1_14bis.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 249], 1, §14bis
+
+  
+![](./images/353_B.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 353], B  
+  
+![](./images/318_8_7.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 8, §7    
   
 ![](./images/392_19_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 19    
 
+![](./images/346_23_2.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 346], 23      
+  
+![](./images/272_6.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 6  
+   
+![](./images/377_2_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 2    
+   
+![](./images/318_9_9a.png){width=5.5%}![](./images/318_9_9b.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 9, §9     
+    
+![](./images/318_9_10.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 318], 9, §10       
+  
+![](./images/249_3_21.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 249], 3, §21     
+   
+![](./images/378_21_0.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 21      
+   
+*=s*, "she; her" (third person singular suffix pronoun)  
+     
+![](./images/216_5_23.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 216], 5 (23)  
+      
 *sy*, "her" (third person singular dependent pronoun)
     
 ![](./images/380_28_1.png){width=3.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 380], 28
     
+*sʿnḫ*, "to keep alive; to support"
+  
+![](./images/377_4_8.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 4   
+    
+![](./images/377_6_1.png){width=6.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 6   
+  
+![](./images/378_17_2.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 17  
+    
+*swḥ.t*, "egg"  
+  
+![](./images/356_20_1.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 249], 4, §23; [Esna 356], 20; [Esna 377], 5; [Esna 388], 7, 8     
+   
+![](./images/225_21_64.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 21 (64)         
+![](./images/276_11_2b.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 276], 11, 2     
+  
+![](./images/249_1_15.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 249], 1, §15  
+       
+![](./images/377_8.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 8
+       
+*sbȝ.w*, "stars"  
+  
+![](./images/394_24_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 394], 24   
+  
+*sm.w*, "plants; vegetables"  
+  
+![](./images/394_27.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 394], 27   
+  
+  
 *snw*, "two"  
   
-![](./images/328_B2.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 27; [Esna 328], B; [Esna 346], 25.
+![](./images/328_B2.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 255], A; [Esna 309], 27; [Esna 328], B; [Esna 339], 1; [Esna 346], 25; [Esna 377], 2.  
   
-*sḫ.t*, "field"  
+*sr*, "ram"  
   
-![](./images/306_20_2.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 20    
+![](./images/232_13_138.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 232], 13 (138)  
   
+*srwḏ*, "to make grow; make thrive"   
+  
+![](./images/377_3_3.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 3  
+  
+*sḥtp*, "to pacify; appease"  
+  
+![](./images/319_13.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 13  
+  
+*sḥḏ*, "to illumine"  
+   
+![](./images/389_15.png){width=8%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 389], 15; [Esna 394], 24    
+  
+![](./images/331_10_1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 10; [Esna 387], 12, 15      
+  
+*sḫ.t*, "field" (spelled as if it were "place of offerings")    
+  
+![](./images/306_20_2.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 306], 20   
+  
+![](./images/340_5_3.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 340], 5  
+  
+![](./images/340_7_1.png){width=5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 340], 7  
+   
 *sḫpr*, "to create"
   
 ![](./images/337_A1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 337], A  
@@ -296,36 +621,64 @@
   
 ![](./images/393_22_1.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 22  
   
-
-*zẖȝw*, "scribe"
-
-![](./images/309_26_1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 26
+*zẖȝw*, "scribe"  
   
+![](./images/309_26_1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 26  
+  
+*sḫr.w*, "conditions; plans"  
+  
+![](./images/387_4_3.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 4     
+    
 *sqdỉ*, "to sail; travel"  
 
 ![](./images/379_24_1a.png){width=3.3%}![](./images/379_24_1b.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 23-24
   
+*Šw*, "Shu"  
+   
+![](./images/358_38.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 358], 38  
+   
+*šps.t*, "August one"  
+  
+![](./images/331_17_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 17       
+   
 *qmȝ*, "to create"  
   
-![](./images/388_1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 388], 7, 9, 10; [Esna 393], 23
+![](./images/388_1.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 250], 19; [Esna 387], 3, 6; [Esna 388], 7, 9, 10; [Esna 393], 23; [Esna 395], 9    
+  
+![](./images/356_20.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 356], 20  
+  
+![](./images/225_8_15.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 8 (15)      
   
 *=k*, "you; your" (second person singular masculine suffix pronoun)  
 
 ![](./images/379_23_1.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 23  
   
-![](./images/393_23_3.png){width=3%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 392], 21; [Esna 393], 23 
+![](./images/393_23_3.png){width=3%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 17, 18; [Esna 334], 14; [Esna 346], 19; [Esna 392], 21; [Esna 393], 23 
+   
+![](./images/378_22_7.png){width=4%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 22    
+   
+*kȝ*, "Ka; spirit"  
+   
+![](./images/241_95.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 241], 14 (95)  
   
 *tȝ-sn.t*, "Esna"  
   
 ![](./images/224_1f.png){width=21%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 224], 1  
   
+![](./images/334_7.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 334], 7; [Esna 324], 7    
+  
 ![](./images/234_28a.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 234], 28  
+   
+![](./images/254_7.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 195], 4; [Esna 243], 9 (slight variant); [Esna 249], 1, §14bis; [Esna 254], 7; [Esna 301], 10 (partially damaged)  
+   
+![](./images/394_24_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 249], 3, §21; [Esna 394], 24  
   
-![](./images/195_4.png){width=5.5%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 195], 4  
+![](./images/378_23_7.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 23   
   
-![](./images/301_10_2.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 301], 10 (the damaged sign was a child)  
+![](./images/272_1_2.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 272], 1  
   
-
+![](./images/378_9_1.png){width=13%}&nbsp;&nbsp;[Esna 378], 9    
+  
 ![](./images/274_8_1.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 231], 3, 10; [Esna 274], 8; [Esna 285], 14; [Esna 291], 21; [Esna 383], A (flowers vary slightly)
 
 
@@ -333,18 +686,16 @@
   
 ![](./images/288_18.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 288], 18  
   
-![](./images/195_7.png){width=6%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 195], 7    
-    
 ![](./images/293_26_3a.png){width=10%}![](./images/293_26_3b.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 293], 26  
 
 ![](./images/379_24_5.png){width=22%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24
 
   
-![](./images/216_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 216], 1; [Esna 292], 22; [Esna 309], 26
+![](./images/216_1.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 216], 1; [Esna 225], 3; [Esna 233], 15 (3); [Esna 241], 13 (89);  [Esna 249], 2, §16; [Esna 292], 22; [Esna 309], 26; [Esna 378], 22  
   
 ![](./images/273_6_2.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 273], 6  
   
-![](./images/369_38_2.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 302], 14; [Esna 369], 38  
+![](./images/369_38_2.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 300], 1; [Esna 302], 14; [Esna 369], 38  
 
 ![](./images/293_27_2.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 293], 27  
   
@@ -354,21 +705,63 @@
   
 ![](./images/362_D_1.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 362], D  
    
+![](./images/389_13.png){width=12%}&nbsp;&nbsp;[Esna 389], 13  
+    
+![](./images/254_6_1.png){width=13%}&nbsp;&nbsp;[Esna 254], 6   
+   
+![](./images/300_7.png){width=14%}&nbsp;&nbsp;[Esna 300], 7   
+   
+![](./images/378_14_2.png){width=15%}&nbsp;&nbsp;[Esna 378], 14      
+  
+![](./images/378_21_5.png){width=13%}&nbsp;&nbsp;[Esna 378], 21  
+   
 ![](./images/240_10.png){width=6%}&nbsp;&nbsp;[Esna 240], 10![](./images/240_12.png){width=6%}&nbsp;&nbsp;[Esna 240], 12  
+*tȝ-ṯnn*, "Tatenen"  
+
+![](./images/331_9_1.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 331], 9; [Esna 378], 13    
+  
+![](./images/319_19_1.png){width=9%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 319], 19     
+   
+![](./images/388_2_1.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 388], 8
    
 *tp*, "head"  
   
 ![](./images/226_11.png){width=7%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 226], 11; [Esna 321], 24
   
+*ṯȝw*, "chick; fetus"  
+   
+![](./images/377_5_2.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 5    
+
+*ṯȝw*, "air; wind"  
+  
+![](./images/377_4_4.png){width=15%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 4  
+  
+![](./images/377_5_6.png){width=12%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 377], 5  
+   
+![](./images/378_17_3.png){width=14%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 17    
+  
+![](./images/378_21_6.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 15, 21   
+  
+![](./images/378_13_4.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 378], 13   
+  
 *ṯpḥ.t-ḏȝ.t*, "blocked cavern (in Memphis)"
   
 ![](./images/393_22_3a.png){width=8.5%}![](./images/393_22_3b.png){width=28%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 22 
   
+*ṯmȝ-ʿ*, "valiant of arm"  
+  
+![](./images/242_21_44.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 242], 21 (44)    
   
 *ṯnỉ*, "to distinguish"  
   
 ![](./images/393_21_4.png){width=16%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 393], 21  
   
+*dgȝ*, "to see; behold"  
+  
+![](./images/225_18_50.png){width=17%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 225], 18 (50)  
+  
+![](./images/387_2_2.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 387], 2    
+    
 *ḏȝỉ*, "to sail; travel"
   
 ![](./images/379_23_2.png){width=10%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 23
@@ -377,10 +770,12 @@
   
 ![](./images/379_24_7.png){width=19%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 379], 24
 
-
 *Ḏḥwty*, "Thoth"  
   
-![](./images/309_26_2.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 26  
+![](./images/309_26_2.png){width=13%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 309], 26   
+  
+![](./images/358_37.png){width=11%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 358], 37  
+ 
   
 *ḏsr*, "sacred"
   
@@ -392,11 +787,18 @@ Hadrian
    
 ![](./images/251_25_10.png){width=18%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 251], 10  
   
+![](./images/334_3.png){width=19%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 334], 3   
+
+![](./images/350_7.png){width=19%}&nbsp;&nbsp;&nbsp;&nbsp;[Esna 350], 7  
+  
 Trajan  
 
 ![](./images/240_1.png){width=6%}&nbsp;&nbsp;[Esna 240], 1&nbsp;&nbsp;![](./images/240_6.png){width=6%}&nbsp;&nbsp;[Esna 240], 6  
   
 ![](./images/195_1.png){width=6%}&nbsp;&nbsp;[Esna 195], 1&nbsp;&nbsp;![](./images/195_12.png){width=6%}&nbsp;&nbsp;[Esna 195], 12 
+  
+![](./images/235_6.png){width=28%}&nbsp;&nbsp;[Esna 235], 6   
+  
   
 ### Phrases {-}
   

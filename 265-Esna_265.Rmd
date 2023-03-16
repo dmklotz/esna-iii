@@ -1,0 +1,159 @@
+## Esna 265 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 8
+- Date: Antoninus Pius 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=208){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 375-376; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1061).
+
+<div class="col2">  
+
+^26^ *ỉr-m-ḫt*  
+*ʿq r ʿḥ*  
+*ỉn ỉmy-pr*  
+   
+*dwȝ-nṯr*  
+*ḏd-mdw*  
+
+^26^ Afterwards,  
+enter into the palace  
+by the attendant.  
+  
+Praising God.  
+Words spoken:  
+
+</div>  
+
+<div class="col2">
+
+*ỉnḏ-ḥr=k*  
+*ḫnty wr*  
+*ỉmn=f s(w) m [Nw]n*  
+^27^ *r sẖrd ḥʿw=f*  
+*pr=f m mȝỉ wr*  
+*r sbỉ sbỉ.w * 
+
+*šzp.n=f ẖkr.w=f nw (ʿḥȝ)*  
+*(ḥr) ḫfʿ ḫ.t n sḫ.t=f*  
+*r sḫr ḫfty.w=f*  
+   
+*(ḥr) ḥbs ḥr=f *  
+*r grgy.w*  
+*(ḥr) ỉṯ gs.t *  
+*pḏ nmt.wt ḫnt sḫ.t=f*  
+*khb dnỉ.t*  
+*hmhm.t n mȝwỉ ḥr ḫȝs.t*  
+*[ḥr] bṯ ỉmỉ.tw bṯn.w*  
+  
+Greetings,  
+great *ḫnty*-crocodile,  
+who hides himself in [Nu]n,  
+^27^ to rejuvenate his body,  
+coming out as a great lion[^fn-265-1]    
+to drive away the rebels.    
+  
+He donned his (battle) armor,  
+grasping a stick from his field,  
+to slay his enemies;  
+  
+Covering his face  
+against the fraudulent;  
+starting to move,  
+with broad steps within his field;  
+fierce of shouts,  
+the battle cry of a lion in the wild,  
+hurrying among the rebels.  
+
+</div>
+
+[^fn-265-1]: ![](./images/265_7_1.png){width=5%} - The serpent here is unexpected. @sauneron-5, p. 375, translated "forme de lion." Rather than a suffix-pronoun, the serpent could also write *wr* (< *wr-ḥkȝw*), and Khnum is elsewhere called a "great lion (*mȝỉ wr*)." 
+
+<div class="col2">
+
+*dwn.n=f ʿ.wy=f*  
+*ẖr ḥwy=f*  
+*(ḥr) ḫbḫb ẖȝk.w-ỉb.w*  
+*ḥr ḫȝḫ*  
+   
+*(ḥr) šzp mʿbȝ*  
+*mds(.w) m ʿȝpp*  
+*(ḥr) ȝm dm*  
+^28^ *(ḥr) ỉr(.t) ʿḏ.t *  
+*m ʿ.wy=f nb*  
+   
+*(ḥr) smȝ zmȝy.w=f*  
+*(ḥr) bdš bdš.w*  
+*m sḫm*  
+   
+*(ḥr) ỉr(.t) ḫry.t*  
+*m ḫry.w*  
+*(ḥr) nkn Nỉk*  
+*(ḥr) dkn ḏw-qd*  
+*(ḥr) dỉ(.t) tȝ-R'*  
+*r ḫb.t=f*  
+  
+He stretched out his arm  
+bearing his striking stick,  
+dashing the disaffected ones  
+in a hurry;  
+  
+Picking up the 30-spear,  
+stabbing into Apophis;  
+(then) grasping a knife  
+^28^ making a massacre   
+in all his body parts;  
+  
+Making a slaughter  
+among the enemies;  
+annihilating Nik,  
+eliminating Evil of Character,  
+putting the Hot-Mouth  
+to his chopping block.
+  
+</div>
+
+<div class="col2">
+
+*(ḥr) gbgb ky.w*  
+*(ḥr) ḫbḫb ḫfty.w*  
+*(ḥr) snỉ šnṯy.w=f*  
+*r-ḏr(=w)*  
+*m ṯb.ty=f*  
+   
+*(ḥr) ỉn(.t) ỉȝ.t=f m ḥʿʿ zp-snw*  
+*tỉ-sw ḥr qnỉ=f m qn *  
+*rʿ nb*  
+   
+*ḥtp-ḥr=k nfr *  
+*n (ỉntnyns ḫwỉ)|*  
+*wḏ=k n=f nḫt *  
+*ḏ.t nḥḥ*  
+   
+Chopping up the opponents,  
+smashing the enemies,  
+trampling over the fiends  
+in (their) entirety  
+with his sandals.  
+  
+Reaching his mound in jubilation!  
+While he is on his throne in victory,  
+daily.  
+  
+May your good face be kind  
+to (Antoninus Augustus)|  
+Decree to him victory  
+for all eternity!  
+
+</div>

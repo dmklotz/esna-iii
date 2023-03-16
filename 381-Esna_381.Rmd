@@ -1,0 +1,196 @@
+## Esna 381 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 17
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=401){target="_blank"}
+- Bibliography: see *LGG* references in [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1315){target="_blank"}
+
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *m.k zmȝ *  
+*spt=ỉ m-bȝḥ=k*  
+*ḫfty qs.tw *  
+*mʿbȝ=ỉ*  
+   
+*ḫʿỉ=k r=sn *  
+*m ḫprw=k štȝ*  
+*sḫm kȝ=k ỉm=sn*  
+*ḥnʿ zȝ=k *  
+  
+^1^ Behold, the sacrificial bull,  
+whom I slaughter before you.  
+The rebel is tied up,  
+which I harpoon.  
+  
+May you appear against them  
+in your mysterious form;  
+may your Ka have power over them,   
+along with your son.  
+
+</div>
+
+#### The King {-}
+<div class="col2">
+
+^2^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrdwr kysrs)|*  
+^3^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(tryns nty-ḫwỉ)|*  
+   
+^4^ *pḥty-ỉb mỉ ẖnmw nḫt*  
+*ḥzȝ-ḥr m sbỉ n ỉt=f*  
+   
+^5^ *nṯr nfr*  
+*šzp-ʿnḫ n ẖry-ḫ.t*  
+*ḥry-srḫ n nb pḥty*  
+*ḫrp ỉb[...]*  
+  
+^2^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^3^ Son of Re,  
+Lord of Appearances,  
+(Trajan Augustus)|  
+  
+^4^ Mighty of heart like Khnum the strong,  
+fierce against the rebel of his father.  
+  
+^5^ The good god,  
+living image of Club Bearer,  
+successor of the Lord of Strength,  
+who guides the heart[...]
+
+</div>
+
+#### Khnum-Re Lord of Esna {-}
+<div class="col2">
+
+^6^ *[ḏd-mdw n] ẖnmw-Rʿ nb tȝ-sn.t*  
+*nṯr ʿȝ nb sḫ.t*  
+*Ptḥ qmȝ swḥ(.t)*  
+*pr m* ^7^ *[Nwn...]*  
+*[...]=f*  
+*zmȝ sʿnḫ ẖr s.t-r'=f*  
+*qmȝ wnn.t*  
+^8^ *[...] *  
+*Šw wr*  
+*ḥwỉ ḫfty *  
+   
+^9^ *dỉ=ỉ n=k ḥzȝ*  
+*r sḫr ḫfty.w=k*  
+*[...] mʿbȝ=ỉ*  
+   
+^6^ [Words spoken] by Khnum-Re Lord of Esna,    
+Great God, Lord of the Field,    
+Ptah who created the egg   
+which came forth from ^7^ [Nun...]  
+[...] his [...]  
+killing and enlivening are under his control.  
+  
+He who created what exists  
+^8^ [...]  
+Shu the great,  
+who slays the enemy.  
+  
+^9^ I give you ferocity    
+to fell your enemies  
+[...] my harpoon.
+
+</div>
+
+#### Menehwy {-}
+<div class="col2">
+
+^10^ *ḏd-mdw n Mnḥwy*  
+*ʿšȝ dm*  
+*nṯr ʿȝ nb ḥw.t-snfrw*  
+*mnhz ḥry-ỉb* ^11^ *ḥw.t-bȝw*  
+*qdfty(?) n sḫm.t*  
+   
+*Ỉmn-Rʿ m ỉrw=f*  
+*Ḥr-ỉmnty m ḫprw=f*  
+*ỉry-pʿ.t nṯr.w*  
+*sḫpr ẖr.t* ^12^ *n ỉt=f*  
+   
+*zȝ Ỉs.t*  
+*ḫʿ.tw ḥr ḫ.t n nsw.t*  
+*ʿnḫ-mwt ẖr s.t-ḥr=f*
+
+^13^ *dỉ=ỉ hȝỉ bdš.w=k *  
+*r ḫb.t*  
+*???*  
+  
+^10^ Words spoken by Menehwy,  
+numerous of knives,  
+great god, lord of Hut-Sneferu,   
+Menqeb within ^11^ Temple of the Bas,    
+avenging demon(?)[^fn-381-1] of Sakhmet.  
+  
+Amun-Re in his visible form,   
+Horus the Westerner in his manifestation,   
+Governor of the gods,    
+who creates sustenance ^12^ for his father.  
+  
+Son of Isis,   
+appearing on the throne of the King,   
+life and death are under his authority.  
+  
+^13^ I cause your rebels to descend   
+to the slaughtering block  
+???.[^fn-381-2]  
+
+</div>
+
+[^fn-381-1]: The precise reading is uncertain, but compare the similar term used elsewhere at Esna, as discussed by @sauneron-bifao64, pp. 5-7.
+[^fn-381-2]: Clearly the meaning is something like: "I stab your enemies with my harpoon/knife." But the precise transliteration is uncertain.
+
+#### Behind the Divinities {-}
+<div class="col2">
+
+^14^ *nsw.t bỉty*  
+*qn ʿḏ ksm=f*  
+*pr nn ʿḥȝ m hȝw=f*  
+*ḥzȝ rȝ-ḥzȝ*  
+*ỉṯ m sḫm=f*  
+*ʿȝ pḥty*  
+*zmȝ ẖȝk.w-ỉb=w*  
+*sbỉ=f nb n tp[...]*  
+*[...] ḫrwy.w=f*  
+*ỉr šʿ.t*  
+*n šš zȝṯw=f*  
+*[...]=f*  
+*ẖnmw wr [...]*  
+    
+^14^ The King of Upper and Lower Egypt,  
+mighty one who massacres his enemy,    
+valiant one, nobody can stand in his area,   
+fierce, wild crocodile,   
+who seizes with his power;  
+great of strength,  
+who slays the disaffected ones,    
+all of his rebels are cut[...]  
+[...] his dissenters,   
+who makes a slaughter  
+for whomever violates his ground,   
+[...] his [...]  
+Khnum, great [...]  
+
+</div>

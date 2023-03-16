@@ -45,14 +45,14 @@ to open up the Akhet for his Ba.[^fn-328-2]
 He who made this earth,  
 and created what is upon it  
 as the Potter.  
-Overseer of Upper Egypt[^fn-328-3]  
+Overseer of the Field[^fn-328-3]    
 throughout all Egypt.
 
 </div>
 
 [^fn-328-1]: ![](./images/328_A3.png){width=6%} - This reading is based on the well-attested interchange between the *wḏȝ* and *wṯz* signs at Esna: @sauneron-2, p. xxxv. This verb could alternatively be *smn.w*, "established."  
 [^fn-328-2]: This theme ties to the separation of heaven from earth, celebrated on [Phamenoth 1](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#phamenoth-1). Once the sky is lifted up, it gives space for the celestial Ba to sail around.
-[^fn-328-3]: ![](./images/328_A2.png){width=8%} - Reading after *LGG* I, 243c. This epithet occurs several times at Esna only.  
+[^fn-328-3]: ![](./images/328_A2.png){width=8%} - For this reading, see @recklinghausen-field (non vidi).  
 
 <div class="col2">  
 ^B^ *nsw.t-bỉty  *   
@@ -80,5 +80,5 @@ Neith, Lady of Combat.[^fn-328-6]
 </div>
 
 [^fn-328-4]: ![](./images/328_B1.png){width=18%} - For the reading of this epithet, see @klotz-caesar, p. 173, n. 1130. The celestial pair (sun and moon) write "two", just as in the same epithet in [Esna 255], A. As the next line explains, this refers to the primeval, serpentine Neith who created the second serpent, Tatenen-Irita. Note that in the symmetric text (A), Khnum is called "Lord of the Field", with lord (*nb*) written with a ram wearing a red crown; while here, the first word *nṯr* is spelled with a crocodile with the same crown, an appropriate cult manifestation of Neith.
-[^fn-328-5]: ![](./images/328_B3.png){width=20%}![](./images/328_B4.png){width=10%} - *LGG* IV, 596b, cited this unique epithet, but only translated the first half. However, the same epithet occurs twice elsewhere to describe Shemanefer: [Esna 324, 13]:  ![](./images/324_13A.png){width=18%}. Although partially damaged there, in the same scene the king is described as the successor of the same god: [Esna 324, 5]: ![](./images/324_5A.png){width=22%}. Apparently Shemanefer, son of Neith, was considered even "more ancient" than Horus. 
-[^fn-328-6]: ![](./images/328_B5.png){width=11%} - Following the suggestion of *LGG* IV, 86b-c to change the harpoon sign to a stick, and read *r'-(ʿ)-ḫt*, "combat." Similar spellings (with a stick) can be found in [Esna 337], B; [Esna 350], 16.
+[^fn-328-5]: ![](./images/328_B3.png){width=20%}![](./images/328_B4.png){width=10%} - *LGG* IV, 596b, cited this unique epithet, but only translated the first half. However, the same epithet occurs twice elsewhere to describe Shemanefer: [Esna 324, 13]:  ![](./images/324_13A.png){width=18%}. Although partially damaged there, in the same scene the king is described as the successor of the same god: [Esna 324, 5]: ![](./images/324_5A.png){width=22%}. Apparently Shemanefer, son of Neith, was considered even "more ancient" than Horus. Compare a similar royal epithet in [Esna 334], 6.
+[^fn-328-6]: ![](./images/328_B5.png){width=11%} - Following the suggestion of *LGG* IV, 86b-c to change the harpoon sign to a stick, and read *r'-(ʿ)-ḫt*, "combat." Similar spellings (with a stick) can be found in [Esna 337], B; [Esna 350], 16. However, since Neith was the goddess of archery, one might alternatively suggest reading *r'-pḏ.t*, "archery (*Wb.* II, 397, 9)

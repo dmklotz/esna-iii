@@ -1,0 +1,396 @@
+## Esna 262 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 8
+- Date: Antoninus Pius 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=204){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 366-370; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1057).
+
+<div class="col2">  
+
+^18^ *ky r'*  
+*ḏd-mdw*  
+  
+^18^ Another recitation.  
+Words spoken:  
+
+</div>
+
+**§1**    
+<div class="col2">
+
+*wbn zp-snw*  
+*nb-ḏr zȝ nb-ḏr*  
+*mỉ šzp ȝḫ.ty*  
+*m pr=f m Nwn*  
+^19^ *ẖnm nṯr.w nṯry.t*  
+*m st.wt=f*  
+*m rn=f pfy n ẖnmw*  
+  
+Arise!   
+All-Lord, son of the All-Lord,  
+as the luminous eyes shine  
+as he arises from Nun;  
+^19^ gods and goddesses unite (*ẖnm*)  
+with his rays,  
+in this his name of Khnum.  
+
+</div>
+
+**§2**    
+<div class="col2">
+
+*wbn zp-snw*  
+*smsw n Rʿ*  
+*ỉšš.n Ỉtm*  
+*ỉw=f r ṯz ms.w*  
+  
+Arise!  
+Eldest of Re,  
+spit out by Atum,  
+as he was going to bind births.
+
+</div>
+
+**§3**    
+<div class="col2">
+
+*wbn zp-snw*  
+*zȝ mr=f n Rʿ*  
+*wḏb=k ḥr-sȝ=f*  
+*r šzp ỉȝw.wt=f*  
+  
+Arise!  
+Beloved son of Re,  
+you shall succeed after him  
+to receive his offices.  
+
+</div>
+
+**§4**    
+<div class="col2">
+
+*wbn zp-snw*  
+*bȝ ʿȝ-štȝ*  
+*ʿȝ mr.wt*  
+*šnbty ʿȝ*  
+*ḏȝỉ=f p.t *  
+*m wsḫ=s*  
+  
+Arise!  
+Ba, great of mystery,  
+great of love;  
+great falcon,  
+as he sails across heaven   
+in its breadth.
+
+</div>
+
+**§5**    
+<div class="col2">
+
+*wbn zp-snw*  
+*bȝ ʿȝ-sṯy*  
+*ʿȝ šfy.t*  
+^20^ *nb nḏmnḏm*  
+*ṯz pr.t*  
+  
+Arise!  
+Ba, great of procreation,  
+great of prestige,  
+^20^ lord of sexual pleasure,  
+who binds together seed.
+
+</div>
+
+**§6**    
+<div class="col2">
+
+*wbn zp-snw*  
+*Rʿ m wḥm ms.w*  
+*psḏ m ỉȝbt.t n Ỉtm*  
+  
+Arise!   
+Re while repeating births,  
+who shines from the left-eye of Atum.  
+
+</div>
+
+**§7**    
+<div class="col2">
+
+*wbn zp-snw*  
+*Rʿ wḥm rnp*  
+*ẖrd šps *  
+*pr m Nwn*  
+*mw.t=f pw ỉh.t wr.t*  
+  
+Arise!   
+Re who rejuvenates,  
+august child  
+who came forth from Nun:  
+the great Ihet cow is his mother.
+
+</div>
+
+**§8**    
+<div class="col2">
+
+*wbn zp-snw*  
+*ḫfḫf ʿȝ šps*  
+*psḏ m Nwn*  
+*sḥḏ tȝ*  
+*m ḫʿỉ=f*  
+  
+Arise!  
+Great, august *ḫfḫf*-crocodile,  
+who shines from Nun,  
+and illumines the earth   
+at his appearance. 
+
+</div>
+
+**§9**    
+<div class="col2">
+
+*wbn zp-snw*  
+*šy štȝ*  
+*bȝ ḫpr ḏs=f*  
+*ḫp(r) m ḥȝ.t*  
+*wp-wȝ.wt m Nwn*  
+  
+Arise!  
+Mysterious *šy*-crocodile,  
+Ba who came about by himself,  
+who came about in the beginning,  
+who opened paths in Nun.
+</div>
+
+**§10**    
+<div class="col2">
+
+^21^ *wbn zp-snw*  
+*Rʿ shḏ tȝ.wy*  
+*ỉm šps *  
+*pr m Nwn*  
+  
+^21^ Arise!  
+Re, who illumines the two lands,  
+august image,  
+who rises from Nun.
+
+</div>
+
+**§11**    
+<div class="col2">
+
+*wbn zp-snw*  
+*mȝỉ ḥzȝ-ḥr*  
+*hmhm.t=f (ḥr) pẖr ḏw.w*  
+*m nḫ(t)=f*  
+*ḫ(ȝ)ḫ nmt.wt*  
+*smȝ ḫfty.w=f*  
+  
+Arise!   
+Lion, fierce of face,  
+whose roar encircles the mountains  
+with his strength;  
+swift footed,  
+who massacres his enemies.
+
+</div>
+
+**§12**    
+<div class="col2">
+
+*wbn zp-snw*  
+*sr šps*  
+*ʿȝ šfw.t*  
+*kȝ ḥwỉ kȝ.w*  
+*nbỉ.t rqḥ ḫfty.w=f*  
+  
+Arise!  
+August ram,  
+great of prestige;  
+Bull who strikes down bulls,  
+flame that consumes his enemies.
+
+</div>
+
+**§13**    
+<div class="col2">
+
+*wbn zp-snw*  
+*kȝ ʿḥȝ*  
+*wtṯ ḫprw=f*  
+*Šw ṯmȝ-ʿ*  
+*qn gb.ty*  
+*šʿd bṯn.w=f*  
+  
+Arise!  
+Bull of combat,  
+who begat his own manifestation;  
+Shu, Valiant of arm,  
+mighty of shoulders,  
+who chops up his rebels.
+
+</div>
+
+**§14**   
+<div class="col2">
+
+^22^ *wbn zp-snw*  
+*sṯz ỉb.w*  
+*ỉw=k m Ḥr*  
+*kȝ ỉȝḫw*  
+*nḏty n ỉt=f*  
+  
+^22^ Arise!  
+You who elevate hearts,  
+when you are as Horus,  
+the luminous bull,  
+avenger of his father.
+
+</div>
+
+**§15**    
+<div class="col2">
+
+*wbn zp-snw*  
+*ỉwny ḥry nṯr.w*  
+*šȝʿ ḫp(r)*  
+*nbỉ nṯr.w rmṯ*  
+*ʿ.wt nb.w*  
+*qmȝ ʿnḫ *  
+*n pr ỉm=f*  
+  
+Arise!  
+Pillar, chief of the gods,  
+who began existence;  
+who fashioned gods, people,  
+and all livestock;  
+who creates life  
+for whomever emerged from him.
+
+</div>
+
+**§16**    
+<div class="col2">
+
+*wbn zp-snw*  
+*Rʿ nb Rʿ.w*  
+*nb-ḏr pw*  
+*ỉt nṯr.w*  
+*ḫp(r) ḫpr.w nb.w*  
+*m-ḫt ḫp(r)=f*  
+  
+Arise!  
+Re, Lord of Re's,  
+that means the All-Lord,  
+father of gods,  
+all existence came about  
+after he came about.  
+
+</div>
+
+**§17**    
+<div class="col2">
+
+*wbn zp-snw*  
+*ʿpy šps *  
+*ḫp(r) m ḥw.t-ʿȝ.t*  
+*ʿȝ ḫʿ.w*  
+*wbn ḥtp [m] ḥw.t-[b]n[b]n*  
+   
+Arise!  
+August flying-scarab,  
+who came about in the Great Palace,  
+great of appearances,  
+who rises and sets [in] the Hut-[B]en[b]en. 
+</div>
+
+**§18**    
+<div class="col2">
+
+*wbn zp-snw*  
+*bnw nṯry*  
+^23^ *pẖr Pwn.t*  
+*ṯȝy.n=f ḥw.t-ʿȝ.t*  
+*r mȝȝ ỉt=f*  
+  
+Arise!  
+Divine Phoenix,  
+^23^ who travels around Punt,  
+having visited the Great Palace  
+to see his father.
+
+</div>
+
+**§19**    
+<div class="col2">
+
+*wbn zp-snw*  
+*bỉk šps *  
+*zȝb-šw.ty*  
+*ḫnty ỉtr.ty mḥw šmʿ*  
+*nṯr ʿȝ*  
+*pr m N.t*  
+  
+Arise!  
+August falcon,   
+dappled of plumage,  
+foremost of the shrines of Egypt,  
+great god,  
+who came forth from Neith.
+
+</div>
+
+<div class="col2">
+
+*hȝy n=k*  
+*wbn rʿ nb*  
+*nḫn šps*  
+*ms.tw sšm=f*  
+*ḥwnw wr*  
+*zȝ ȝḫ n ỉt=f*  
+   
+*ỉȝw n=k ẖnmw*  
+*nb nṯr.w rmṯ*  
+*ỉmy ḥr=k nfr*  
+*n nsw.t-bỉty*  
+*(ȝntnyns nty-ḫwỉ)|*  
+*dỉ=k n=f tȝ nb*  
+*m ksw n bȝw=f*  
+*šfy.t=f r-ʿ *   
+*st.wt ỉtn*  
+  
+Hail to thee,  
+you who arise every day!  
+August child,  
+whose image is born;  
+great youth,  
+excellent son of his father.  
+   
+Praise to thee, Khnum!  
+Lord of gods and people.  
+Turn your good face  
+to the King of Upper and Lower Egypt  
+(Antoninus Augustus)|  
+Give to him all lands  
+bent down to his power,  
+his prestige as far   
+as the rays of the solar disk.
+
+</div>

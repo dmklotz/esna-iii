@@ -1,0 +1,189 @@
+## Esna 235 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 5
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=142){target="_blank"}  
+- Bibliography: @leitz-chronokraten, pp. 139-140 (non vidi). See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1007){target="_blank"} 
+- Compare: [Esna 253]
+
+#### Formula {-} 
+
+<div class="col2">  
+
+^1^ *mn n=k ỉdḥ.w *  
+*wȝḏ.w [...]*  
+*[...]*  
+^2^ *r wȝḏ.w n ʿnḫ.w *  
+*[...]*  
+   
+^1^ Receive the marsh plants,  
+papyri [...]  
+[...]  
+^2^ as papyri for the living   
+[...]
+
+</div>
+
+#### The King {-} 
+
+<div class="col2">  
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^4^ *zȝ Rʿ*  
+*nb ḫʿ(.w)*  
+*(tryns nty-ḫwỉ)|*  
+   
+^5^ *wḥʿ qn m sḫ.t*  
+*sḫt rȝ.w n ỉt=f*  
+   
+^6^ *nṯr nfr *  
+*ỉmy-r' ḫnty-š*  
+*srwḏ ḥsp.w*  
+*nb wȝḏ.w*  
+*sʿnḫ sšn.w*  
+*šzp ỉȝd.t*  
+*sḫt rȝ.w*  
+*ḥtr wḏḥ.w*  
+*m-bȝḥ wbn m nḫb*  
+   
+*ỉdḥ.w r nw=f*  
+*nḫb r tr=f*  
+*rȝ.w r dmḏ.t=s*  
+*n šzp nswy.t *  
+*(trʿns nty-ḫwỉ)|*  
+    
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^4^ Son of Re,  
+Lord of Appearance(s),  
+(Trajan Augustus)|  
+  
+^5^ The mighty fowler in the field,    
+who traps geese for his father.    
+  
+^6^ The good god,  
+overseer of land administrators,   
+who makes gardens thrive;  
+lord of papyri,  
+who keeps lotus blossoms alive;  
+who grabs the trapping net,  
+and catches geese,  
+and binds bird offerings  
+before He who Shines from the Lotus.  
+  
+Marsh plants at its time,  
+the lotus blossom at its season,  
+and geese at the appointed moment,  
+of inheriting kingship:  
+(Trajan Augustus)|   
+
+</div>
+
+#### Khnum Lord of the Field {-}
+
+<div class="col2">
+
+^7^ *ḏd-mdw n ẖnmw-Rʿ *   
+*nb sḫ.t*  
+*nṯr nṯry *  
+*ṯȝy nṯr.w*  
+*Rʿ ḫnty* ^8^ *mȝnw*  
+*sḏ šps*  
+*wbn m nḫb*  
+*šzp tȝ.wy*   
+*m nṯr.ty=f *  
+   
+^9^ *ỉr ỉgb*  
+*sʿnḫ ỉd.t*  
+*snfr rnp.w nb.w*  
+*smȝ sʿnḫ *  
+^10^ *ẖr s.t-r'=f *  
+   
+^11^ *dỉ=ỉ n=k wȝḏ.w nb.w*  
+*r wȝḏ ỉr.ty=k*  
+*qbḥw ẖr pr ỉm=f*  
+  
+^7^ Words spoken by Khnum-Re,   
+Lord of the Field,  
+divine god,  
+most male of the gods,  
+Re within ^8^ Manu;  
+the august child,  
+who rises from the lotus,  
+who illumines the two lands   
+with his divine eyes.  
+  
+^9^ He who makes the wind,  
+who keeps alive the dew,  
+and makes all fresh plants good.  
+Killing and keeping alive  
+^10^ are under his authority.   
+  
+^11^ I give you all papyrus plants,  
+to make your eyes green;  
+and Qebehu, with all its produce.
+
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2">
+
+^12^ *[ḏd-mdw n Nb.t]-ww*  
+*nb(.t) tȝ-sn.t*  
+*ḥnw.t sḫ.t*  
+*nḏm-sṯỉ*  
+^13^ *mr.t [...]*  
+*[...] ḥr.w-nb.w*  
+   
+*ḫnm=s m nḫb*  
+*sṯỉ=s m ỉdḥ.w*  
+    
+^12^ [Words spoken by Nebt]u,  
+Lady of Esna,  
+Mistress of the Field,  
+sweet of scent,  
+^13^ who loves [...]  
+[...] everybody.  
+  
+Her aroma is the lotus,  
+her scent is of the marsh flowers.  
+  
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^14^ *[...] *  
+*tȝ-r-ḏr=f ḥr.tw*  
+*r bwt*  
+*r tm dỉ(.t) ḫpr [ḫrwy.t]*  
+*[...] ʿȝ šfy.t*  
+*[...]*  
+  
+^14^ [...]  
+the whole land keeps away  
+from the abomination,  
+lest a [calamity] is allowed to happen  
+[...] great of prestige  
+[...]
+
+</div>

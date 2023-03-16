@@ -1,0 +1,789 @@
+## Esna 206 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 2
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=74){target="_blank"}  
+- Bibliography: @sauneron-5 pp. 253-270; @kurth-lebten, pp. 227-231 (most recent translation with commentary); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/922){target="_blank"} 
+- NB: Sauneron divided this creation account into thematic sections. I have kept those here to facilitate comparison with the text edition. 
+
+### Creation Account of Neith {-}
+
+**§1. Title** 
+<div class="col2">  
+
+^1^ *nty-ʿ ỉr(.w) *  
+*m pr n N.t wr.t*  
+*mw.t-nṯr nb(.t) tȝ-sn.t*  
+*ỉr(.w)*  
+*m pr n N.t wr.t*  
+*mw.t-nṯr nb.t Zȝw*  
+*m ȝbd 3 šmw hrw 13*  
+  
+^1^ The ritual performed   
+in the Domain of Neith the Great,  
+Mother of God, Lady of Esna;  
+and also performed  
+in the Domain of Neith the Great,   
+Mother of God, Lady of Sais,   
+on III Shomu day 13 (= [Epiphi 13](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#epiphi-13) ).  
+
+</div>
+
+**§2. The Birth of Neith** 
+<div class="col2">
+
+*ỉt ỉt.w *  
+*mw.t mw.wt*  
+*nṯr wʿ ḫp(r) m snw*  
+*wn=s m ḥry-ỉb Nwn*  
+*(ḥr) pr(.t) m ḥʿw=s*  
+*ỉs tȝ m kkw zmȝw*  
+*nỉ pr tȝ-Tnn*
+*srwḏ ỉdb.w*  
+  
+The father of fathers,  
+mother of mothers,   
+sole god who became two:  
+she was within the Nun waters,  
+which came forth from her body,[^fn-206-0a]  
+while the earth was in utter darkness,  
+and Tatenen had not yet come forth,[^fn-206-0b]  
+he who makes the lands grow with plants.  
+
+</div>
+
+[^fn-206-0a]: @sauneron-5, p. 253, n. b, translated *ḥʿw=s* as "elle-même," which is possible. However, other texts make it clear that Neith actually created the Nun waters, and was thus anterior to them, unlike other creators such as Atum: e.g. [Esna 252], 27, 5; [Esna 317], 1.
+
+[^fn-206-0b]: Reading suggested by @kurth-lebten, p. 228, n. 1991, although it is unusual that this divine name has no determinative. If correct, this would assert Neith's primacy over Khnum-Tatenen at the beginning of creation.
+
+**§3. Initial Transformations** 
+<div class="col2">
+
+*ỉr.n=s ḫprw=s m ỉd.t*  
+*nt.t nn rḫ=s nṯr.w*  
+*m bw nb.w*  
+   
+*wḥm.n=s ỉrw=s m ʿḥȝ*  
+^2^ *šm=s ỉm=s*  
+  
+She made her manifestation as a cow,  
+unknowable by the gods  
+in any place.    
+  
+She changed her form as a fish (Nile perch),  
+^2^ and she went as that.  
+  
+</div>
+
+**§4. Light** 
+<div class="col2">
+
+*sḥḏ.n=s stw.t nt ỉr.ty=s*  
+*ḫp(r) šzp*  
+   
+She lit up the rays of her eyes:  
+thus light came about.  
+  
+</div>
+
+**§5. Primeval Mounds of Esna and Sais** 
+<div class="col2">
+   
+*ʿḥʿ.n ḏ(d).n=s*  
+*ḥȝ-n=(ỉ) bw pn*  
+*m zȝṯ m ḥry-ỉb Nwn*  
+*rhn.n=ỉ ḥr=f*  
+   
+*bw pn wȝḥ=f*  
+*m zȝṯ m ḥry-ỉb Nwn*  
+*mỉ ḏd=s*  
+*ḫp(r) (tȝ)-sn.t*  
+*Zȝw pw*  
+   
+*ʿpỉ.n=s ḥr ỉȝ.t tn*  
+*ḫp(r) Pr-nṯr*  
+*P pw *  
+   
+*ḏ(d)=s*  
+*dp nḏm*  
+*m ỉȝ.t tn*  
+*ḫp(r) dp pw*  
+*ḫp(r) tȝ nḏm pw*  
+*m rn (n) Zȝw*  
+  
+Then she said:   
+'Would that I had a place  
+as ground (*zȝṯ*) within Nun (*Nwn*)  
+on which I might repose!'  
+  
+This place was laid down  
+as ground (*zȝṯ*) within Nun (*Nwn*),  
+just as she said;  
+thus came about Esna (*zȝ-nw*)  
+(that is also 'Sais (*Zȝw*)').  
+  
+Then she flew (api) upon this mound,  
+thus came about Per-netjer (*Pr-nṯr*)  
+(that is also 'Pe (*P*)').  
+  
+She said:  
+'What a sweet (*nḏm*) taste (*dp*)   
+in this mound!'  
+Thus came about 'Dep (*Dp*)',  
+and thus came about 'Ta-nedjem (*tȝ-nḏm*)'  
+as the name of Sais.
+
+</div>
+
+**§6. Creation of Egypt** 
+<div class="col2">
+
+*ỉs mȝṯ.n ỉb=s*  
+*ḫp(r)=sn ḥr-ʿ*  
+   
+^3^ *ʿḥʿ.n bȝq.n=s*  
+*m ỉȝ.t tn*  
+*ḫp(r) Bȝq.t m ỉhȝy*  
+   
+Whatever her mind conceived  
+materialized immediately:  
+  
+^3^ Then she was radiant (*bȝq*)  
+in this mound;  
+thus Egypt (*Bȝq.t*) came about in joy.  
+
+</div>
+
+**§7. The Thirty Creator Gods** 
+<div class="col2">
+
+*qmȝ.n=s nṯr.w 30*  
+*ḏd=s rn.w*  
+*wʿ-wʿ.w*  
+*ḫp(r)=s m ỉḥy*  
+*m-ḫt mȝȝ=s w*  
+   
+*ḏ(d)=w*  
+*dwȝ n=t *  
+*nb(.t) nṯr.w*  
+*mw.t=n*  
+*sḫp(r.t)=n*  
+*ỉr=t rn.w=n*  
+*nn rḫ=n s(n)*  
+*wḏʿ=t (n)=n*  
+*ʿn.t kkw*  
+*ỉr=t (n)=n tȝ*  
+*rhn=n ḥr=f*  
+*wp=t (n)=n grḥ r hrw*  
+   
+*ȝḫ.wy pr.w nb.w*  
+*n ỉb=t*  
+*nt(t) wʿ(.t)*  
+*ḫp(r.t) m ḥȝ.t*  
+*zb(.t) nḥḥ *  
+*ḏ.t m ḥr=t*  
+  
+She created the 30 gods,[^fn-206-1]  
+and she said their names,   
+one by one.    
+Then she rejoiced    
+after she saw them.   
+  
+They said:  
+'Praise to you,   
+Lady of the Gods,  
+our mother  
+who created us.  
+You made our names  
+which we didn't know.  
+You removed for us  
+the period of darkness.  
+You made for us the earth  
+upon which we may rest.  
+You separate night from day for us.    
+  
+'How excellent is all that comes forth   
+from your heart!  
+You are the sole goddess,  
+who came about in the beginning,  
+who traverses cyclical-eternity,  
+while linear-eternity is before you.'[^fn-206-2]  
+ 
+</div>
+
+[^fn-206-1]: A text from Armant (*Ermant* I, No. 38) explicitly labels these 30 creator gods: the 7 Djaisu of Methyer, the 7 Khnums, the 8 members of the Ogdoad, and the 8 Djebau: see the discussion of @ermant-1, pp. 73-77. While the first two groups were quite important at Esna, the Ogdoad is mentioned later in this text, and then in various cosmogonic texts and hymns. The Djebau, meanwhile, are only mentioned in occasional epithets of Khnum.
+[^fn-206-2]: The same epithets conclude the great hymn to Neith, [Esna 163](https://bookdown.org/shemanefer/Esna2/column-b-159-165.html#esna-163), 28.
+
+**§8. Gods move to the Primeval Mound** 
+<div class="col2">
+   
+^4^ *ʿḥʿ.n ḏd.n=s n ms.w=s*  
+*ỉmy sqȝ=n *  
+*m bw pn m tȝ*  
+*rhn=n ḥr=f*  
+*r dr wrḏ*  
+*ḫdỉ=n r bw pfy*  
+*sn.t *  
+*zȝṯ pw*  
+*tȝ m ḥry-ỉb Nwn*  
+*ỉȝ.t tn nḏm*  
+*snḏm=n ỉm=s*  
+   
+*wȝḥ.n=s tȝ*  
+*m ḥry-ỉb Nwn*  
+*ỉr.n=s rn=f*  
+*m qȝw qȝ*  
+  
+^4^ Then she said to her children:  
+'Come, let us go up  
+to this place on earth,  
+so we might rest upon it  
+to dispel (our) weariness.  
+Let us go north to this place,  
+Esna (*Zȝ-nw*),  
+(that means Sais (*Zȝw*)),  
+the land within Nun;  
+this sweet mound (*nḏm*),  
+in which we may dwell (*snḏm*).'  
+  
+She established the land  
+within Nun,  
+and she made its name  
+'The High Mound.'  
+
+</div>
+
+**§9. Gods ssk Neith about the Future** 
+<div class="col2">
+
+*ʿḥʿ.n ḏd=sn *  
+*n wr.t wsr.t*  
+*ỉ ḥnw.t ms.t=n*  
+*ỉ [...] pr=n ỉm=s*  
+   
+*šsr=t (n)=n *  
+*ỉw nỉ ḫp(r)=sn*  
+*m.t sw wʿ *  
+^5^ *nỉ rḫ=n nty r ḫp(r)*  
+   
+*ḏ(d).ỉn N.t*  
+*ỉw=ỉ r rdỉ(.t) rḫ=tn*  
+*nty r ḫp(r)*  
+*ỉmy ỉp=n ȝḫ 4*  
+*sbȝq=n ỉmy.w ẖ.t=n*  
+*šd=n tp-rȝ=n*  
+*rḫ=n s(t) nb mỉn*  
+   
+*ỉr=sn ḏ(d)=s nb*  
+*wnw.t 8.t *  
+*ỉỉ(.t) m ʿnḏ*  
+   
+Then they said  
+to the Great and Mighty one:  
+'O Mistress, who bore us;   
+O [mother?] from whom we emerged:  
+  
+'May you foretell for us,  
+that which has not yet happened.  
+Behold, it is lonely here,  
+^5^ and we do not know what else will exist.'  
+   
+Then Neith said:   
+'I will let you know  
+what else will exist.  
+Come, let us reckon the 4 Akhu-powers,  
+illumine what is in our bodies,  
+and recite our utterances,   
+so we can discover it all today.'  
+  
+They did all she said,  
+and 8 hours  
+passed in an instant.   
+
+</div>
+
+**§10. Prediction of the Sun** 
+<div class="col2">
+
+*ḥms pw ỉr.n ỉh.t*  
+*ḥr mȝṯ nty r ḫp(r)*  
+*ḏd=s*  
+*ỉw nṯr šps r ḫp(r) mỉn*  
+*wn.n=f ỉr.t=f*  
+*ḫp(r) ḥḏḏ.w(t)=f*  
+*ʿḫn.n=f s(t)*  
+^6^ *ḫp(r) kkw*  
+   
+*ḫp(r) rmṯ.w *  
+*m rmy.t n.t ỉr.t=f*  
+*nṯr.w m ntt n sp.ty=f*  
+   
+*snḫt=ỉ sw m nḫt=ỉ*  
+*ȝḫ=ỉ sw m ȝḫ=ỉ*  
+*wsr=ỉ sw m wsr=ỉ*  
+   
+*ỉw ms.w=f r (ẖȝ)k-ỉb r=f*  
+*sḫr(=ỉ) sn n=f*  
+*ḥwỉ(=ỉ) sn n=f*  
+*zȝ(=ỉ) pw*  
+*pr m ḥʿw=ỉ*  
+   
+*ỉw=f r nb n tȝ pn ḏ.t*  
+*ỉw=ỉ ḥr mk.t=f*  
+*m-ẖnw ʿ.wy=ỉ*  
+*nn tkn ḏw nb* ^7^ *ḥr=f*  
+
+*ḏd=ỉ n=tn rn=f m-ʿ(=ỉ)*     
+*Ḫprỉ m dwȝw*  
+*Ỉtm m mšr*  
+*ỉw=f m rdỉ(.w) ḫʿ=f r nḥḥ*  
+*m rn=f pfy n Rʿ*  
+*rʿ-nb*  
+    
+Then the *ỉh.t*-cow began  
+conceiving what would exist next.  
+She said:  
+'The august god shall come about today:  
+when he has opened his eye,  
+his bright rays will appear;  
+when he has closed it,  
+^6^ then there will be darkness.  
+  
+'Humans (*rmṯ.w*) will come about  
+from the tears (*rmy.t*) of his eye.  
+Gods (*nṯr.w*) from the spittle (*ntt*) of his lips.  
+  
+'I will strengthen him with my strength,   
+empower him with my power,   
+and make him mighty with my might.  
+  
+'His children will rebel against him,  
+I will strike them down for him,  
+I will slay then for him,  
+for he is my son,  
+who came forth from me.  
+  
+'I will be lord of this earth, forever.  
+I shall protect him  
+within my arms.  
+Nothing evil shall befall ^7^ him.  
+  
+'I shall tell you his name from me:  
+Khepri in the morning,  
+Atum in the evening.  
+He is one allowed (*rdỉ*) to appear forever,  
+in this his name of Re (*Rʿ*),  
+every day.
+
+</div>
+
+**§11. The Ogdoad** 
+<div class="col2">
+
+*ʿḥʿ.n ḏd.ỉn nṯr.w ỉp(n)*  
+*ḫm=n m nn sḏm=n*  
+*ḫp(r) Ḫmny.w*   
+*m rn n nn n nṯr.w*  
+*ḫp(r)=f m rn (n) nỉw.t tn*  
+    
+Then these gods said:  
+'We didn't know (*ḫm.n*) about what we just heard.'  
+Thus came about 'the Ogdoad (*Ḫmn.w*)'  
+as the name of these gods,  
+and it became the name of this city (Hermopolis).  
+
+</div>
+
+**§12. Birth of Re** 
+<div class="col2">
+
+*ʿḥʿ.n nṯr pn*  
+*m rḏw pr(.w) m ḥʿw=s*  
+*rdỉ.n=s *  
+*m-ẖnw ẖ.t n swḥ.t*  
+  
+*sd.n=s Nwn*  
+*ḫpr.n Ḥʿpỉ*  
+^8^ *r bw wʿ*  
+*hy n swḥ.t*  
+*ḥr sd n=f swḥ.t twy*  
+*wnn(.t) m swȝ.w *  
+*nṯr pn šps*  
+   
+*sw m Rʿ*  
+*ỉmn.n=f sw m-ẖnw Nwn*  
+*m rn=f pfy n Ỉmn wr*  
+*ẖnmw nṯr.w nṯry.t*  
+*m st.wt=f*  
+*m rn=f pfy n ẖnmw*  
+   
+This god came to be   
+from the efflux of her (Neith's) body,  
+which she placed  
+within the womb of an egg.  
+  
+It (the egg) was broken by Nun,  
+having become a powerful flood (Hapi)   
+^8^ (concentrated) in a single place;  
+the husband of the egg,[^fn-206-3]  
+cracking this egg for him,  
+which was surrounding  
+this august god.  
+  
+He is as Re,  
+and he hid (*ỉmn*) himself within Nun  
+in this his name of Amun (*Ỉmn*) the great.  
+Gods and goddesses were endowed (*ẖnm*)  
+with his rays,  
+in this his name of Khnum (*ẖnmw*).  
+
+</div>
+
+[^fn-206-3]: As @sauneron-5, p. 263, nn. e-f observed, the present signs could be read many different ways. Since Neith is the first primeval divinity, the only male entity ("husband of the egg") that could assist with creation is Nun-Hapi, who seems to crack open the cosmic egg with his waves.
+
+**§13. Neith and Re** 
+<div class="col2">
+
+*ʿš mw.t=f ỉh.t*  
+*m qȝ n ḫrw=s*  
+   
+*mỉ=n zp-snw*  
+*pȝy qmȝ[=ỉ]*  
+*mỉ=n zp-snw*  
+*pȝw msw=ỉ*  
+*mỉ=n zp-snw*  
+^9^ *pȝw sḫp(r)=ỉ*  
+*ỉnk mw.t=k ỉh.t*  
+   
+*ỉỉ.n nṯr pn*  
+*rȝ=f wn(.w)*  
+*ʿ.wy=f pgȝ.w*  
+*r nṯr.t tn*  
+*hdb.n=f sw m ḫḫ=s*  
+*nn pw ỉr.n zȝ*  
+*mȝȝ.n=f mw.t=f*  
+   
+*ḫp(r) hrw pn*  
+*m ssw nfr tp rnp.t*  
+*ỉs rmy=f m Nwn*  
+*nỉ mȝȝ.n=f ỉh.t*  
+*ḫp(r) rmṯ.w*  
+*m rmy.t nt ỉr.t=f*  
+*sbṯ=f m-ḫt mȝȝ=f sy*  
+*ḫp(r) nṯr.w *  
+*m ntt n spt.y=f*  
+   
+His mother, the *ỉh.t*-cow called  
+at the top of her voice:  
+  
+'Come, come,  
+he whom [I] created!  
+Come, come,  
+he whom I bore!  
+Come, come,  
+^9^ he whom I produced!  
+I am your mother, the *ỉh.t*-cow!'  
+  
+This god came,  
+his mouth open,  
+his arms spread wide  
+to this goddess.  
+He threw himself down on her bosom.  
+This is what a son did  
+when he saw his mother.  
+  
+This day happened to be  
+the good day of the New Year.[^fn-206-3b]  
+He cried (*rmy*) into the Nun waters,  
+when he saw the *ỉh.t*-cow,  
+so humans (*rmṯ.w*) came into existence  
+from the tears (*rmy.t*) of his eye.  
+He laughed after he saw her (again),  
+and thus gods (*nṯr.w*) came about  
+from the spittle (*ntt*) of his lips.
+
+</div>
+
+[^fn-206-3b]: Since this is apparently still the first day of creation, and Re has not started circling the earth, it is also the first day of the year. Perhaps the text suggests Neith temporarily leaves Re by himself so she can celebrate the New Year festival.
+
+**§14. Re and the other gods** 
+<div class="col2">
+
+^10^ *nn n nṯr.w*  
+*ḫp(r) ḥtp=sn m kȝr=sn*  
+*ḏm=sn*  
+*ḫft mȝṯ=sn nṯr.t tn*  
+     
+*šd=sn Rʿ m-ẖnw kȝr=sn*  
+*ỉr=sn ỉȝw n nṯr pn*  
+*ḏd=sn*  
+*ỉỉ.tw zp-snw*  
+*pȝ ỉwʿʿ n N.t*  
+*ỉr(.w) m ʿ.wy=s*  
+*qmȝ(.w) m ỉb=s*  
+   
+*ỉw=k m nb n tȝ pn ḏ.t*  
+*mỉ nn sr.t.n mw.t=k*  
+  
+^10^ Now these gods   
+happen to dwell in their shrines;  
+they were pronounced  
+when this goddess conceived them.  
+  
+They took care of Re within their shrines,  
+they make praise for this god,  
+saying:  
+'Welcome!  
+O heir of Neith,  
+made by her hands,  
+created by her heart.  
+  
+'You are lord of this earth forever,  
+just like what your mother predicted.'  
+
+</div>
+
+**§15. Apophis** 
+<div class="col2">
+
+*ỉs ȝy dr.n=s* ^11^ *npȝ*  
+*n zȝ=s*  
+*ỉr.n=s (sw) m Nwn*  
+*ḫp(r) ḥfȝw n mḥ 120*  
+*ḏ(d).t(w) n=f ʿȝpp*  
+   
+*qmȝ ỉb=f sbỉ r Rʿ*  
+*ḥnʿ zmȝy.w=f*  
+*pr(.w) m ỉr.t=f*  
+    
+Moreover she removed ^11^ the umbilical cord   
+from her son,[^fn-206-4]  
+and she put it in the Nun waters.  
+Thus came about a snake of 120 cubits,  
+who is called Apophis.  
+  
+His heart conceived rebellion against Re,  
+along with his associates,  
+who came forth from his (Re's) eye.  
+
+</div>
+
+[^fn-206-4]: For this whole episode, see the translation and commentary by @quack-nabelschnur.
+
+**§16. Thoth** 
+<div class="col2">
+
+*Ḏḥwty pr(.w) m ỉb=f*  
+*ḫft dḥr=f*  
+*ḏd.tw n=f Ḏḥwty*  
+*mdw=f ḥnʿ ỉt=f*  
+*hb.n=f sw r sbỉ*  
+*m rn=f n nb mdw-nṯr*  
+   
+*ḫp(r) Ḏḥwty nb Ḫmnw*  
+*m s.t tn*  
+*ḥnʿ Ḫmny.w n pȝwty tpy*  
+   
+Thoth emerged from his heart,  
+when he was upset (*dḥr*),  
+thus he is called 'Thoth' (*Ḏḥwty*).  
+He spoke (*mdw*) with his father,  
+who dispatched him against the rebel,  
+in his name of Lord of Divine Words (*mdw-nṯr*).  
+  
+Thus Thoth Lord of Hermopolis  
+came about in this place,  
+with the Ogdoad of the first primeval moment.[^fn-206-5]
+
+</div>
+
+[^fn-206-5]: Another reminder that the birth of Re occurs in Hermopolis, not Sais or Esna, in the company of the Ogdoad: see above, §8 (Neith moves to the "High Mound"), §11 (the Ogdoad), §12 (the cosmic egg within Nun).  
+
+**§17. Neith moves to Esna/Sais** 
+<div class="col2">
+
+^12^ *N.t ḏd=s n zȝ=s*  
+*mỉ ḥnʿ=ỉ*  
+*r tȝ-zȝ-nw*  
+*zȝw pw*  
+*zȝṯw pfy *  
+*m ḥry-ỉb Nwn*  
+*dm=ỉ rn=k r nỉw.t=k*  
+*nn ȝb=ỉ n sḏm rn=k rʿ-nb*  
+  
+*ȝṯt=ỉ tw *  
+*r wr pḥty=k*  
+*r sʿȝ snḏ=k*  
+*smȝ=ỉ n=k nn *  
+*wȝỉ.w ỉm=k*  
+    
+^12^ Neith says to her son (*zȝ*):  
+'Come with me  
+to Esna (*tȝ-zȝ-nw*),  
+(that is also 'Sais (*Zȝw*)'),  
+this land (*zȝṯw*)  
+within the Nun waters (*Nwn*).  
+I shall pronounce your name like your city,  
+so I shall never stop hearing your name.[^fn-206-6]  
+  
+I nurse you,   
+to magnify your strength,    
+and to increase fear of you;    
+I shall slaughter for you all those    
+who have plotted against you.  
+
+</div>
+
+[^fn-206-6]: @sauneron-5, p. 267, n. b, assumed Neith means she will ceremoniously present Re to the city; @kurth-lebten, p. 230, n. 2030, will introduce a cult of Re within Sais. With the numerous puns in this text, and the emphasis on Neith "pronouncing (*dm*)" Re's name, it seems likely the city 'Sais (*Zȝw*)' sounds like the word 'son (*zȝ*)', so each time people mention her cult center, she will think of him as a child.
+
+**§18. The 7 Djaisu of Methyer** 
+<div class="col2">
+
+*ỉs pr ḏȝỉs.w 7*  
+*m rȝ=s*  
+*ḫp(r)=sn m nṯr 7*  
+*ḫp(r) ḏd=s*  
+*m* ^13^ *ḏȝỉs.w*  
+*m rn n mdw-nṯr r=f*  
+*m rn n Zȝw*  
+   
+*ḫp(r) ḏȝỉs.w nw Mḥ.t-wr.t*  
+*wn=sn m zȝ n Mḥ.t-wr.t*  
+*r bw nb šm=s ỉm*  
+   
+*ʿḥʿ.n ỉr.n=s ḫprw=s*  
+*m ỉh.t*  
+*ỉr.n=s Rʿ m wp.t=s*  
+*mḥỉ.n=s ẖr=f*  
+*ḏd.ỉn nṯr.w*  
+*Mḥ.t-wr.t dy*  
+*ḥnʿ zȝ=s*  
+*ḫp(r) Mḥ.t-wr.t pw*   
+  
+Now the seven utterances (*ḏȝỉs.w*)   
+came forth from her mouth,  
+and became 7 gods;[^fn-206-7]  
+thus what what she said came about  
+as ^13^ utterances (*ḏȝỉs.w*),  
+as the name of the hieroglyphs for it,  
+as the name of Sais.  
+  
+Thus came about the 7 Djaisu (*ḏȝỉs.w*) of Mehet-weret.  
+They protect Mehet-weret,  
+in whichever place she goes.  
+  
+Then she made her transformation  
+as an *ỉh.t*-cow,  
+she put Re on her horns,  
+and she floated (*mḥỉ*) with him.  
+The gods said:  
+'The great floater (*mḥ.t-wr.t*) is here   
+with her son!'  
+Thus came about Mehet-weret (*Mḥ.t-wr.t*).  
+
+</div>
+
+[^fn-206-7]: As @sauneron-5, pp. 268-269, n. a, observed, Neith speaks exactly 7 times in the present text. Each of those utterances becomes a hypostasis of her divine speech. They were known as a group already in the Coffin Texts (spells 406-408), and they are depicted alongside Neith in *Esna* VI, 481.  
+
+**§19. Neith and Re** 
+<div class="col2">
+
+*ʿḥʿ.n ỉr.n=s ʿḥʿ*  
+*ȝbd 4*  
+*m nỉw.wt šmʿ*  
+^14^ *ḫnt-tȝ ḫr.tw r=f*  
+*ḥr sḫr sbỉ.w*  
+*ỉỉ(.w) r msḏ ḥm=s*  
+   
+*sšp.tw tkȝ ḥȝ.t=s*  
+*m šmʿ-mḥw*  
+    
+Then she made a stop,  
+for four months,  
+in the cities of Upper Egypt,  
+^14^ it is called 'Khent-ta',[^fn-206-9]   
+striking down the rebels,  
+who had come to hate her Majesty.  
+  
+One lights torches before her  
+in Upper and Lower Egypt.
+
+</div>
+
+[^fn-206-9]: For Neith's presence in Khent-ta, a toponym primarily associated with Menhyt, see also [Esna 60](https://bookdown.org/shemanefer/Esna2/intercolumnar-wall-f-and-south-east-door-57-64.html#esna-60), 2-3; [Esna 163](https://bookdown.org/shemanefer/Esna2/column-b-159-165.html#esna-163), 26; [Esna 207], 23.
+
+**§20. Neith returns to Sais/Esna** 
+<div class="col2">
+
+*ỉr spr=s r Zȝw m wḫȝ*  
+*m ȝbd 3 šmw hrw 13*  
+*ḥb pn nfr wr*  
+*m p.t m tȝ*  
+*m tȝ.wy nb.w*  
+   
+*ʿḥʿ.n wḥm.n=s ḫprw=s*  
+*m wrr.t smȝ.n=s*  
+*pḏ.t=s m-ʿ=s*  
+*šsr=s m ḫfʿ=s*  
+*ḫnỉ=s (m) ḥw.t-N.t*  
+^15^ *ḥnʿ zȝ=s Rʿ*  
+  
+Now when she reaches Sais at night,  
+on III Shomu day 13 (= [Epiphi 18](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#epiphi-13)),  
+this very good festival,  
+in heaven, earth,   
+and in all lands.  
+  
+Then she changed her manifestation,  
+as the Great One, when she made a massacre,  
+her bow in her hand,  
+her arrow(s) in her grasp,[^fn-206-10]  
+she alights (in) the Temple of Neith,  
+^15^ along with her son, Re.
+
+</div> 
+
+[^fn-206-10]: See the detailed festival description for this day in [Esna 207], prominently featuring archery. Even though the term *wrr.t* is determined with a uraeus, it seems unlikely that Neith the archer could carry her weapons in the form of a snake.  
+
+**§21. The Festival of Epiphi 13**
+<div class="col2">
+
+*ḏd.ỉn Rʿ*  
+*n nṯr.w nt(y.w) r-ḥnʿ=f*  
+*sšp (r)-ḥȝ.t N.t*  
+*m hrw pn*  
+*mỉ.w nhm.w n=s*  
+*m hrw pn nfr*  
+*ḏr ỉnỉ=s r ʿnḏ-wḏȝ*  
+*sṯỉ(.w) tkȝ.w (r)-ḥȝ.t=s*  
+*ỉr.w ḥb m-bȝḥ=s*  
+*r ḥḏ-tȝ*   
+   
+Then Re said  
+to the gods who were with him:  
+'Make a light before Neith[^fn-206-11]  
+on this day!  
+Come, rejoice for her  
+on this good day,  
+since she returned safe and sound.  
+Light up torches before her,  
+and celebrate in her presence   
+until dawn!'[^fn-206-12]  
+
+</div>
+
+[^fn-206-11]: For this expression, see @klotz-baboons, pp. 57-58, with n. 131.
+[^fn-206-12]: Similar fetival directions occur in the calendar for this day, [Esna 77](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#epiphi-13), as well as the subsequent text [Esna 207], 23.

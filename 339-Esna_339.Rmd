@@ -1,0 +1,247 @@
+## Esna 339 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 14
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=325){target="_blank"}  
+- Bibliography: @sauneron-5, p. 29 (partial); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1244){target="_blank"} 
+
+<div class="col2"> 
+
+^1^ *nt-ʿ n wpy*  
+*ỉr(.w) ẖnw pr-ẖnmw-Rʿ *  
+*(pr) ẖnmw nb sḫ.t*  
+*m ȝbd 3 ȝḫ.t sw 22*  
+*r ȝbd 4 ȝḫ.t sw 10*  
+*wpy ʿȝ ḫ(r.w) r=f*  
+
+*sḫʿ.n nṯr.w nṯr.yt*  
+*r sw=sn*  
+*ḥb-Ḏḥwty*  
+*psḏnty.w r tp-tr*  
+   
+*ỉỉ wʿb.w *  
+*r ỉr(.t) ỉrw=sn*  
+*(n)ḏr tp-rd n ṯ.t*  
+*n šm ḥr mṯn*  
+   
+*ỉr(.t) ṯnw ḥb*  
+*r-ḫft-(ḥ)r=f*  
+*r tp-ḥsb(?)*  
+   
+*ỉỉ sḫm=f m p.t*  
+*ẖnm=f pr=f*  
+*ỉʿr nṯr.w r wsḫ(.t)*  
+*n(ỉ)s ḥtp-dỉ-nsw *  
+*zȝ-Rʿ pr-ʿȝ*  
+*mry ẖnmw Bȝq.t *  
+  
+^1^ The ritual of the *wpy*-festival,  
+performed in the temple of Khnum-Re  
+and Khnum Lord of the Field,  
+from III Akhet 22 (Hathor 22)  
+until IV Akhet 10 (Khoiak 10).  
+It is called the "Great *wpy*-feast."    
+  
+Procession of gods and goddesses  
+on their days;  
+Thoth feast,  
+new moon festivals at the proper time.  
+  
+Wab-priests arrive  
+to perform their rites;  
+follow the rules of the table(?),  
+for he who walks on the path.  
+  
+Perform each festival  
+in front of him,  
+perfectly(?)[^fn-339-1]  
+  
+His image arrives from heaven  
+and units with his temple;  
+gods ascend to the broad courtyard;  
+recite a royal offering  
+for the Son of Re, Pharaoh,  
+beloved of Khnum and of Egypt.  
+
+</div>
+
+[^fn-339-1]: The arrangement of hieroglyphs in this section is quite confusing, and Sauneron refrained from offering a definitive transcription. The present translation is only a first attempt to do justice to the preserved signs.  
+
+<div class="col2">
+
+*sḥr sȝṯ bwt.w*  
+*ỉỉ ḥʿpỉ*  
+*ỉwr sḫ.t (m) rwḏ.w*  
+*ḏdȝ npry sm.w*  
+*wdn nỉwty.w nfr(w)=sn*  
+*ʿnḫ=sn m nfr n nb=tn*  
+  
+*nb ʿnḫ pw *  
+*dỉ ʿḥʿ*  
+*nb kȝ.w ʿšȝ ḏfȝw*  
+*nb hn.w*  
+*ṯz ḏȝm.w*  
+*fqȝ šms=f *  
+*m zȝ wm ỉm*  
+     
+Repel any impurity and abominations;  
+the Inundation arrives,  
+so the field becomes pregnant (with) plants,  
+and Nepri fattens (with) vegetable;  
+the villagers offer their best products,  
+since they live from the goodness of your lord:  
+  
+He (Khnum) is the Lord of Life,  
+who grants a lifetime;  
+Lord of food, numerous of provisions,  
+lord of families,  
+who binds together children,  
+and who rewards his follower  
+with a son of his own.  
+  
+</div>
+
+<div class="col2">
+
+*ḫnd=tn ḥr wȝ.t-nṯr*  
+*ỉr=tn ʿbw*  
+*zȝw n sš=sn pr=sn*  
+*zbỉ.ḫr sbỉ.w m tȝ-r-ḏr=f*  
+*wḏȝ=tn r dmḏy.t*  
+*ỉr (n)hỉ=tn*  
+*m nkn qd n ẖnmw* 
+
+*zȝw pw *  
+^3^ *nb sḫ.t *   
+*ḥqȝ ww*  
+*wr bȝw n šmʿ mḥw*  
+*sḥtp ỉb ẖnmw*  
+*tȝ-ṯnn wr ḫnty Ỉwny.t*  
+*nḥp nty ỉw kȝ 4 r-ʿ=f*  
+*ỉn ḥp.ty n ḫy nfr*  
+  
+Travel upon the path of god;[^fn-339-2]
+perform purification;
+guard lest they open their temples,
+and rebels fall upon the entire earth;
+be clean at the appointed times,
+carry out your protection,
+do not transgress the design of Khnum:
+
+He is a guardian,  
+^3^ Lord of the Field,   
+Ruler of the agricultural domain,    
+great of power in Upper and Lower Egypt.    
+Pacify the heart of Khnum,  
+Great Tatenen within Iunyt;  
+the Potter, who has the Four Kas,  
+and who reaches the limits of a good youth.
+
+</div>
+
+[^fn-339-2]: In the preceding paragraph, the festival section addressed the local devotees of Khnum, extolling his benficent qualities. This seems to have introduced an excursus here about the importance of behaving properly; the phraseology recalls the so-called "Priestly Recommendations" known from other temples.
+
+<div class="col2">
+
+*spr Mnḥy.t-Nb.t-ww r ḥb=s*  
+*m (tȝ)-sn.t*  
+*ẖnm=s ẖnmw*  
+   
+*pr r-ḥȝ n N.t mw.t-nṯr*  
+*wp wȝ.t n ẖnmw pȝ-nḫy-nfr*  
+   
+*ỉỉ r nw=f*  
+*ỉn ʿšȝ-dm(.w)*  
+*ḥnʿ nṯr.w nṯr.yt*  
+*ỉỉ(.w) m spȝ.wt*  
+*r mȝȝ ẖnmw*  
+*m wpy=f ʿȝ*  
+  
+Menhyt-Nebtu arrives at her festival  
+in Esna,  
+so she might unite with Khnum.  
+  
+Going outside by Neith, Mother of God;  
+opening the way by Khnum the Good Protector.[^fn-339-3]   
+  
+Numerous-of-Knives (Menehwy)  
+arrives at his time,[^fn-339-3a]  
+along with the gods and goddesses  
+who come from the districts,  
+in order to see Khnum  
+in his great *wpy*-festival.[^fn-339-4]  
+
+</div>
+
+[^fn-339-3]: Compare *Esna* II, 74, 34, where the procession of divine standards includes Khnum the Good Protector in the form of a ram.
+[^fn-339-3a]: The proposal by @recklinghausen-fremden, p. 544, n. 40, to read this word as an unusual spelling for *nỉw.t*, "city", is unnecessary, as this is a standard spelling of *nw*, "time."
+[^fn-339-4]: The arrival of these neighboring divinities occur on Khoiak 1-6, as indicated in *Esna* II, 55, 5-6.
+
+<div class="col2">
+
+*ỉw mnfy.t=sn ỉm*  
+*ḥr fȝỉ bȝk=sn *  
+*r pr-nṯr*  
+*ḥnʿ rdỉ(.t)*  
+*bỉȝ.wt nw tȝ r-ȝw=f*  
+*r nw nb (?)*  
+   
+*snỉ-tȝ nṯr.w rmṯ.w*  
+*m ḥry-ỉb sḫ.t*  
+^4^ *ḥr nḥ(.t) ʿnḫ m-ʿ=f*  
+   
+*kȝw ḏfȝw m wḏ=f*  
+*ỉr ṯz wnḏ.w *  
+*n šm ḥr mw=f*  
+*ṯȝw n ʿnḫ*  
+*n swtwt ỉḫt *  
+*r pr=f*  
+*ḫwỉ zȝ n ḥm.w=f *   
+*ḥnʿ zȝ.t*  
+*wḏb ḥr-sȝ zȝ.w*  
+*ḥts nfr m-ḫt kḥkḥ*  
+*hp.w=f mn(.w)*  
+*nr-r-nr*  
+*m ȝw n ḏ.t nḥḥ*  
+  
+Their people are also there,  
+offering up their tribute  
+to Per-netjer,  
+as well as giving   
+special goods from the whole earth   
+at all moments (?).    
+  
+Gods and people kiss the earth  
+in the middle of the field(?),  
+^4^ beseeching life from him.  
+  
+Food and provisions are at his command,  
+he who gathers sustenance  
+for whomever is loyal to him;   
+the breath of life  
+for whomever brings offerings   
+to his domain;  
+he who protects the son of his servants  
+as well as the daughter,  
+succeeding for generations of children;  
+a good burial after old age:  
+his laws endure,  
+year after year,  
+for the span of all eternity.  
+
+</div>
+

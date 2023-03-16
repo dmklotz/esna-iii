@@ -1,0 +1,164 @@
+## Esna 332 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 13
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=312){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 226-227; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1230){target="_blank"}
+
+NB: This hymn continues from [Esna 389]
+
+<div class="col2">
+
+^22^ *(m rn=f pfy n) Ḏḥwty*  
+   
+*Nwn wr*  
+*ỉwḥ ȝḫ(.t)*  
+*m rn=f pfy n Wsỉr*  
+   
+*ỉỉ r nw=f*  
+*šm r tr=f*  
+*srwḏ.n=f šd.t*  
+*r dmḏy.t=s*  
+*r sḫp(r) pr.t nb.w*  
+*n qmȝ.n=f *  
+   
+*ỉt n ṯȝ.w*  
+*mw.t n.t swḥ.t*  
+*(sʿnḫ??) gȝw-ḥty.t*  
+*n* ^23^ *ỉmy.w ẖ.t ỉwr(.t)*  
+   
+*qdỉ wtṯ m šȝʿ*  
+*ỉr ỉḫt nb.w*  
+*m qmȝ.n ỉb=f*  
+   
+*dỉ ṯȝw r fnḏ(.w) nb.w*  
+*ʿnḫ m ȝm=f*  
+*mwt m ḫfʿ=f*  
+*smȝ sʿnḫ*  
+*ẖr s.t*^24^-*r'=f*  
+*p.t tȝ dwȝ.t*  
+*ẖr wḏ=f*  
+  
+^22^ (in this his name of) Thoth.  
+  
+Great Nun,  
+who moistens the field,  
+in this his name of Osiris.  
+  
+He who arrives at his time,  
+and goes away at his season,  
+having made the field blossom  
+at its time,  
+in order to produce all seeds  
+for those whom he created.  
+  
+Father of the chick,  
+mother of the egg,  
+(who sustains?)[^fn-332-1] the fetus ('not-yet-breathing')  
+of ^23^ those within pregnant wombs.  
+  
+The builder, who begat in the beginning,  
+who makes all things,  
+through what his mind created.   
+  
+He who gives air to all noses:  
+life is in his hand,  
+death in his grasp,  
+killing and enlivening  
+are under his ^24^ authority;  
+heaven, earth, and Duat,  
+are under his command.
+
+</div>
+
+[^fn-332-1]: As @sauneron-5, p. 229, n. k; and @leitz-loeffler, p. 18, n. 63, noted, the first word or phrase was apparently omitted from this epithet.  
+
+<div class="col2">
+
+*wr bȝw=f*  
+*ʿšʿ (?)=f*  
+*nn thỉ n šȝʿ.n=f*  
+*wr šfy.t*  
+*ḥr ỉr(.t) mr=f*  
+*nn tkn.tw zp=f r nḥḥ*  
+   
+*ẖmw n ỉb=f *  
+*m* ^25^ *kȝ.wt nb.w*  
+*nn ḫsf.tw ʿ=f*  
+*rʿ nb*  
+   
+*nfy ḥr nn*  
+*ntf ỉr=sn*  
+*nn kȝ.t nb m ḫm=f*  
+   
+*p.t tȝ mḥ.tw*  
+*m nfrw=f*  
+*nṯr mnḫ m ỉnb-ḥḏ*  
+*sḫnt s.t=f* ^26^ *m Wȝs.t*  
+*ḏ.t=f štȝ(.tw)*  
+*m ḥw.t-sr*  
+   
+*nỉw.wt spȝ.wt nb.w*  
+*ʿpr(.w) ẖr sšm=f*  
+*grg.n=f tȝ pn*  
+*n zȝ=f Ḫr*  
+*nn spȝ.t šw(.tw) m rn=f wr*  
+   
+*ḥtp ḥr=k nfr*  
+*n nsw.t-bỉty*  
+*nb tȝ.wy*  
+*zȝ-rȝ*  
+*nb ḫʿ(.w)*  
+*(ȝtryns ḫwỉ)|*  
+  
+His power is great,  
+his (?) is numerous,  
+what he began cannot be stopped.  
+Great of prestige  
+while doing what he pleases,  
+one can never approach his deeds.    
+  
+The artisan of his heart  
+is in ^25^ all works;  
+one cannot stop his hand,  
+every day.  
+  
+That and this,  
+it is he who made them,  
+there is no work without him knowing.  
+  
+Heaven and earth are filled  
+with his goodness.  
+Beneficent god in Memphis,  
+who place is advanced ^26^ in Thebes,  
+whose corpse is kept secret   
+in the Temple of the Prince (Heliopolis).  
+  
+All cities and nomes  
+are equipped with his sacred image,  
+since he populated this earth  
+for his son, Horus,  
+no nome lacks his great name.  
+  
+May your good face be kind  
+to the King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+Son of Re,    
+Lord of Appearance(s),    
+(Hadrian Augustus)|!
+
+</div>
+

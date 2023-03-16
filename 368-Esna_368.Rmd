@@ -1,0 +1,207 @@
+## Esna 368 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=375){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 177-178; @quack-monumental (extensive commentary).
+
+NB: This hymn is a continuation of [Esna 367].
+
+<div class="col2">
+   
+^28^ *ỉ pȝ nb sḫ.t*  
+*ỉr ḥqȝ ww*  
+   
+*ỉ pȝ ỉr ẖr.wt*  
+*n qd.n=f*  
+*m pr m sḫ.t=f*  
+   
+*ỉ pȝ nb ʿnḫ*  
+*nty ỉw ỉḫt nb r-ḫt=f*  
+   
+*ỉ pȝ ḥry-wḏb*  
+*ỉr wp tȝ*  
+   
+^30^ *ỉ pȝ ỉr dỉ ḥtp.w-nṯr.w*  
+*r ȝbw.t=f *  
+*n nṯr.w nb.w*  
+   
+*ỉ pȝ ʿḫỉ ḥʿpỉ m ḫy=f*  
+   
+*ỉ pȝ ỉȝḫḫ šn.w nb ỉm=f*  
+   
+*ỉ pȝ nb pḥty*  
+*wr nmt.t*  
+   
+^31^ *ỉ pȝ nhs*  
+*ʿȝ hmhm*  
+   
+*ỉ pȝ nb nrw*  
+*nʿš dnỉ.t*  
+   
+*ỉ pȝ wr bȝw n šmʿ-mḥw*  
+   
+*ỉ pȝ nty ỉw wḏȝ n tȝ-ḥr-ḏr=f*  
+*ẖr s.t-ḥr=f*  
+  
+^28^ O Lord of the Field,  
+ruler of the agricultural domain.  
+  
+O he who makes food  
+for those he created  
+with the products of his field.  
+  
+O Lord of Life  
+at whose disposal are all things.  
+  
+O chief of agriculture (*ḥry-wḏb*),  
+who divvies up the land.  
+  
+^30^ O he who gives divine offerings  
+however he wishes,  
+to all the gods.  
+  
+O he with whose ascent Hapi rises.   
+  
+O he through whom all trees blossom.    
+  
+O Lord of strength,  
+great of stride.  
+  
+^31^ O fierce lion,  
+great of growl.    
+  
+O Lord of fear,  
+fierce of shout.  
+  
+O great of power  
+in Upper and Lower Egypt.    
+  
+O he under whose control  
+is the health of the entire world.  
+ 
+</div>
+
+<div class="col2">
+
+^32^ *ỉ pȝ mnỉw nfr*  
+*ỉr ḥqȝ qn.w*  
+   
+*ỉ pȝ mrỉ mȝʿ.t*  
+*mḥ-ỉb n ỉr s(y)*  
+   
+*ỉ pȝ nty ỉw ȝḫ*  
+*m ỉr.n=f nb.w*  
+   
+*ỉ pȝ nṯr šps*  
+*ỉwty smh*  
+   
+^33^ *ỉ pȝ ỉr šm ḥr kȝḥ*  
+*ỉmỉtw zȝ.w-n=sn*  
+   
+*ỉ pȝ ỉw ršw Rʿ n mȝȝ=f*  
+   
+*ỉ pȝ ỉw ỉr n=f nb-ḏr ỉmỉ.t-pr*  
+   
+*ỉ pȝ nsw nfr*  
+*ỉr ḫʿỉ ḥr ns.t n Ḫ[r]*  
+   
+^34^ *ỉ pȝ ȝms-ỉb *  
+*nty ỉỉ n ʿš n=f*  
+    
+^32^ O good herdsman,  
+chief of the brave.  
+  
+O he who loves Maat,  
+and trusts whomever performs it (Maat).  
+  
+O he of whom there is excellence  
+in all he has made.  
+  
+O august god,  
+who never forgets.  
+  
+^33^ O he who goes upon the earth,  
+amidst the Guardian Deities.  
+  
+O he at whose sight Re rejoices.  
+  
+O he to whom the All-Lord gave the inheritance.  
+O good king,  
+who appears upon the throne of Ho[rus].  
+  
+^34^ O compassionate one,  
+who comes to whomever calls unto him.  
+
+</div>
+
+<div class="col2">
+
+*ỉw n=ỉ ḥr=k nfr*  
+*m ḥtp zp-snw*  
+*ẖnmw-Rʿ nb tȝ-sn.t*  
+*nṯr šps*  
+*mnḫ mnw.w*  
+   
+*nb=ỉ ỉm=k*  
+*ḥm=k [ỉm=ỉ]*  
+^35^ *fqȝ.tw m ȝḫ.w=k*  
+   
+*m.k ỉb=ỉ ḥr mṯn=f rʿ-nb*  
+   
+*ḥtp ḥr=k nfr *  
+*n nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwgrtwr k[ys]rs)|*  
+*zȝ-Rʿ nb-ḫʿ.w*  
+*(twmtyns nty-ḫwỉ)| *  
+   
+^36^ *rwḏ nṯry=k *  
+*m grg tȝ pn *  
+*ḏ.t n-mḏ*  
+   
+*mȝȝ r ḏsr-kȝ=f*  
+*n pȝ wḫȝ mḥty*  
+  
+May your good face be towards me  
+in peace, in peace!  
+Khnum-Re, Lord of Esna,  
+August god,  
+effective of monuments.  
+  
+You are my lord,  
+and [I am] your servant,  
+^35^ rewarded with your excellent deeds.  
+  
+Behold my heart is on your path, daily!  
+  
+May your face be kind  
+to the King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator C[aes]ar)|  
+Son of Re, Lord of Appearances,  
+(Domitian Augustus)|  
+  
+^36^ May your heart be steady  
+in populating this earth,  
+for all eternity.  
+  
+(Now look to 'Sanctifying his Ka'  
+on the column to the north = [Esna 358]).  
+  
+</div>  
+
+The conclusion to this hymn is in [Esna 357].

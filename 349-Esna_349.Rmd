@@ -1,0 +1,205 @@
+## Esna 349 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 14
+- Date: Hadrian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=341){target="_blank"}  
+- Bibliography: @sauneron-5, p. 66; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1257){target="_blank"} 
+
+#### Title {-}
+
+<div class="col2">  
+
+^1^ *ḥtp-dỉ-nsw.t*  
+*Nb.t-ww-Mnḥy.t*  
+*nb(.t) ḫnt-tȝ*  
+*ʿḥȝ nṯr.w pȝwty.w tpy*  
+*m ỉtr.ty* ^2^ *[...]*  
+*[...] ḥḥ.w ḏbʿ.w ḥfn.w*  
+*ḥȝ.t=s *  
+*ḫȝ.w šn.w mḏ.w r pḥ.t=s*  
+*šb.t m ḫb.t*  
+   
+*ḥtp.w-nṯr=k*  
+*rtḥ(.w) ỉmỉ.tw ʿ=s*  
+  
+^1^ A Royal Offering  
+(of) Nebtu-Menhyt,   
+Lady of Khent-ta;  
+the gods of the First Primeval stand  
+in the double shrines ^2^ [...]  
+[...]  
+millions, ten thousands, myriads  
+are before her;  
+thousands, hundreds, tens  
+are behind her:  
+(as) meat offerings on the chopping block.  
+   
+Your divine offerings  
+are assembled within her hand.    
+
+</div>
+
+#### The King {-}
+
+<div class="col2">  
+
+^4^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwgrtwr ks[rs])|*  
+^5^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(ȝtrynns [nty-ḫwỉ])|*  
+^6^ *ỉṯ.n Mnḥy.t-Nb.t-ww*  
+*r ḥqȝ*  
+*m ỉzw n ḥnk n sẖn*  
+   
+^7^ *nṯr nfr*  
+*ḥqȝ ʿȝ n Km.t*  
+*ḫbỉ ỉnw m ndb.t*  
+*wr sṯỉ*  
+*ḫrp.n=f bỉȝ.wt=sn*  
+*dg(ȝ) mn.wt*  
+*hrw wpy*  
+*ḥk(n) [n?] ḥnw.t=f*  
+*[...] Mnḥy.t-Nb.t-ww*  
+*ʿȝb.t mn(.w)*    
+*tp-rnp.t*   
+*n Pr-ẖnmw nb sḫ.t*  
+   
+*nb ḥtp.w*  
+*(ʿtry(n)s nty-ḫwỉ)|*  
+  
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caes[ar])|  
+^5^ Son of Re,  
+Lord of Appearances,   
+(Hadrian [Augustus])|    
+^6^ he whom Menhyt-Nebtu seized  
+to be ruler,  
+as a reward for offering the lotus blossom.   
+  
+^7^ The good god,  
+great ruler of Egypt,   
+who gathers tribute from the earth;  
+chief of the Asiatics,  
+having consecrated their wonderful products.  
+He who beholds the offerings,  
+on the day of the wpy-festival,  
+who rejoices [to?] his Mistress,   
+[...] Menhyt-Nebtu;  
+and the great mixed offering endures  
+every year,  
+in the Per-Khnum Lord of the Field.  
+  
+Lord of offerings,  
+(Hadria(n) Augustus)|
+
+</div>
+
+#### Menhyt {-}
+
+<div class="col2">  
+
+^8^ *ḏd-mdw n Mnḥy.t-Nb.t[-ww...]*  
+^9^ *[...] n nṯr.w nṯr.yt*  
+*dỉ(.t) ẖr.w n ḥr(.w) nb*  
+   
+^10^ *dỉ=ỉ n=k ḥms-wḥȝ*  
+*m ỉḫt nb.w nfr.w*    
+*nn [...]*  
+  
+^8^ Words spoken by Menhyt-Nebt[u...]  
+^9^ [...] of gods and goddesses,  
+who gives food to everybody.     
+  
+^10^ I allow you to feast  
+on all good things,  
+without [fail?].  
+
+</div>
+
+#### Heka {-}
+
+<div class="col2">  
+
+^11^ *ḏd-mdw n ḥkȝ [pȝ ẖrd]*  
+*[ʿȝ] wr tpy [n] ẖnmw*  
+^12^ *wr-ḥkȝw zȝ Sḫm.t*  
+*ḥȝ.t n nṯr.w*  
+*wpy=f ḥr ʿnḫ nb*  
+    
+^11^ Words spoken by Heka [the child],  
+the very [great], first-born [of] Khnum,  
+^12^ Eldest magician, son of Sakhmet,   
+beginning of the gods,  
+his festival is upon all who live.  
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">  
+
+^13^ *nsw.t-bỉty*  
+*Tfn.t wr.t*  
+*mḥn.t n(t) Rʿ*  
+*mḥ(.t) p.t tȝ*  
+*m nfr(.w)=s*  
+*Rnnwt.t-wȝḏy.t*  
+*ḫnt.t pr np(ry)*  
+*ms(.t) ḥḥ.w*  
+*qmȝ(.t) ḥfn.w*  
+*ỉr(.t) ỉs zp.t*  
+*m ḥḥ n ḥḥ.w*  
+*sḫp(r.t) kȝ.w*  
+*m r'-ʿ=s*   
+  
+*sỉp(.t) pr-nṯr r tr=f*  
+*tp rnp.t*  
+*r mȝȝ wpy nty ẖnmw*  
+*ḫʿỉ.n=s (???)*     
+*[...]*  
+*ỉỉ(.t) r ỉw=f n=s*  
+*ḫrp ḥtp-(dỉ)-nsw.t*  
+*n ḥnw.t*  
+*Mnḥy.t nb(.t) t*   
+    
+^13^ The King of Upper and Lower Egypt,  
+great Tefnut,  
+uraeus of Re,  
+who fills heaven and earth  
+with her goodness;  
+Renenutet-Wadjyt (or: Green Renenutet),  
+foremost of the Temple of Nepri,  
+who births millions,  
+and creates myriads,  
+and who makes grain  
+in millions upon millions,  
+who produces food  
+through her actions.    
+  
+She who inspects Per-netjer at its time  
+every year,  
+to see the *wpy*-festival of Khnum.  
+She appears (???)  
+[...]  
+who arrives when he comes to her,  
+to consecrate a (royal) offering  
+to the Mistress:  
+Menhyt, Lady of Bread.
+
+</div>

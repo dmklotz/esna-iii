@@ -1,0 +1,131 @@
+## Esna 294 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 10
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=249){target="_blank"}
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1116){target="_blank"}
+
+#### The King {-} 
+
+<div class="col2"> 
+
+^3^ *wdpw ḫrp [...]*  
+   
+^4^ *nṯr nfr*  
+*ʿpr wḏȝ.t*  
+*mḥ ỉr.t Ḥr*  
+*m nfrw=s*  
+*srwḏ šȝ[.w...] *  
+*n nb [...]*  
+*(twmtyns nty-ḫwỉ)|*  
+  
+^3^ The cup-bearer who consecrates [...]  
+  
+^4^ The good god,  
+who supplies the wedjat-eye,  
+and fills the Eye of Horus  
+with its perfection.  
+He who makes thrive the vineyard[s...]  
+for [its] lord [...]  
+(Domitian Augustus)|
+  
+</div>
+
+#### Khnum-Re Lord of Esna {-} 
+
+<div class="col2">
+
+^5^ *ḏd-mdw n ẖnmw-Rʿ nb tȝ-[sn.t]*  
+*[...]*  
+^6^ *[...] ʿȝ šfy.t*  
+*[...]*  
+^7^ *n [...] Rʿ*  
+*ỉr šȝ.w*  
+*s[...] nṯr.w *  
+  
+^5^ Words spoken by Khnum-Re Lord of E[sna]  
+[...]  
+^6^ [...] great of prestige   
+[...]  
+^7^ of [...] Re,  
+who makes vineyards  
+and [...] the gods.
+
+</div>
+
+#### Nebtu {-}
+
+<div class="col2">
+
+^8^ *ḏd-mdw n Nb.t-ww nb.t tȝ-sn.t*  
+*Tfn.t zȝ.t Rʿ*  
+^9^ *šps.t wsr.t *  
+*n nṯr.w nṯr.yt*  
+*wr(.t) mrw.t*  
+*ḥnw.t ḥmw.wt*  
+^10^ *nb(.t) [t]ḫ*  
+*mr(.t) hrw-nfr*  
+   
+^11^ *dỉ=ỉ ḥsb=k ʿḥʿ*  
+*m [...]*  
+   
+^8^ Words spoken by Nebtu, Lady of Esna,  
+Tefnut, daughter of Re,  
+^9^ august and mighty one  
+of gods and goddesses;  
+great of love,  
+Mistress of women,  
+^10^ Lady of intoxication,  
+who loves holiday.  
+  
+^11^ I allow you to reckon a lifetime  
+as/in [...]
+
+</div> 
+
+#### Behind the Divinities {-} 
+
+<div class="col2">
+
+^12^ *nsw.t-bỉty*  
+*nb sḫ.t*  
+*sḫpr ỉḫt nb.w*  
+*ʿȝ šȝ.w*  
+*ṯḥn wȝḏwȝḏ*  
+*swsḫ tȝš *  
+*m s.t-ỉb=f*  
+*nb ḏw.w*  
+*ḥqȝ nw.w*  
+*[šȝʿ?] ȝpd-ỉb*  
+*r sḥʿʿ ỉb*  
+*n nṯr.w rmṯ.w*  
+*ẖnmw nb šȝ.w*  
+  
+^12^ The King of Upper and Lower Egypt,  
+Lord of the Field,  
+who produces all things;  
+great of vineyards,  
+scintillating verdure,  
+who expands the territory  
+in all his favorite places.  
+Lord of the hills,  
+ruler of waters,  
+[who started?] *ȝpd-ỉb*-wine   
+to rejoice the hearts  
+of gods and people:  
+Khnum, Lord of Vineyards.  
+
+</div>

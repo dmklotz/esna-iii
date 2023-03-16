@@ -18,9 +18,10 @@
 - [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=314){target="_blank"}  
 - Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1231){target="_blank"}
 
-<div class="col2">
 
 #### Formula {-}
+
+<div class="col2">
 
 ^1^ *ḥnk sḫ.t n nb=s *  
    
@@ -31,16 +32,16 @@
 *ww ḥr ỉmnt.t=k ȝḫ.t*  
 *ḥr ỉȝbt.t=k qʿy.t*  
 *ʿb.tw r-ḫft-ḥr=k*   
-  
+   
 ^1^ Presenting the field to its lord.  
   
-Your field [extends?] to the outer limits,  
-your territory reaches to the sunrise;  
+Your field [extends?] to the outer limits,    
+your territory reaches to the sunrise;    
 your south is ^2^ the pillar of air,  
 your north the Great Green sea;  
-the terrirory on your west is the field,  
-on your east the *qʿy.t*-land,  
-united together in your presence. 
+the territory on your west is the field,  
+on your east the *qʿy.t*-land,   
+united together in your presence.  
 
 </div>
 
@@ -152,18 +153,20 @@ at its appointed time.
 *ỉwn srwḏ sm.w*  
 *ỉȝḫ ȝḫȝḫ šȝ.w ỉm=f*  
 *nb ʿnḫ sʿnḫ qmȝ.n=f*  
+  
 *ỉỉ r nw=f*  
 *šm r tr=f*  
 *bʿḥ tȝ pn [m ...]=f*  
 *ẖnmw *  
 *ḏsr s.t=f ḫnt sḫ.t*  
   
-^16^ The King of Upper and Lower Egypt,  
-Lord of the Field, Ruler of the district,  
+^16^ The King of Upper and Lower Egypt,   
+Lord of the Field, Ruler of the district,   
 Pillar of air who makes plants grow;  
 Luminous one, through whom marshes flourish.  
 Lord of life, who enlivens what he created;  
-who arrives at this time,  
+  
+he who arrives at this time,  
 and goes away at his season,  
 who floods this earth [with] his [...]:  
 Khnum,  

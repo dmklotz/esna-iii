@@ -24,7 +24,7 @@ list.files(pattern = "Esna_") %>% substr(1,3) %>% as.integer() %>% setdiff(194:3
 
 bookdown::render_book(input = ".")
 bookdown::publish_book(name = "Esna3", account = "shemanefer", server = "bookdown.org")
-rmarkdown::find_pandoc(dir = "c://users/klotzd/AppData/local/pandoc/", version = "2.13.0")
+#rmarkdown::find_pandoc(dir = "c://users/klotzd/AppData/local/pandoc/", version = "2.13.0")
 
 fix_translit <- function(x) {
   
@@ -34,6 +34,9 @@ fix_translit <- function(x) {
   
 
 }
+
+
+###          Do next: 361; 279, 377, 387, 388
 
   tmp_theme <- function() bookdown::bs4_book(css = "style.css", theme = bookdown::bs4_book_theme(font_scale = .5, 
                                                                               primary = "#9B110E"))

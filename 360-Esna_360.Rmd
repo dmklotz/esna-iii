@@ -1,0 +1,230 @@
+## Esna 360 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 15
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=361){target="_blank"}  
+- Bibliography: @kinnaer, pp. 85-86.
+
+#### Formula {-}
+
+<div class="col2">
+
+^1^ *mn n=k mks *  
+*[ỉmỉ.t-pr]*  
+*n tȝ (r)-ḏr=f*  
+*šnw n tȝ*  
+*ḥr ỉfd.w=f*  
+*ỉr.n [...]*  
+   
+^2^ *šmʿ mḥw ḥr.tw *  
+*r bw.t=f*  
+*m sš n Ḏḥwty ḏs=f*  
+   
+*ỉr ʿr s.t*  
+*r s.t=f*  
+*ḫp(r) ḫrwy.t *  
+^3^ *m tȝ (r)-ḏr=f*  
+  
+^1^ Take the document holder,
+[the inheritance] document
+of the entire earth:  
+the circuit of the globe  
+upon its four sides,  
+made by [...]  
+  
+^2^ Upper and Lower Egypt   
+avoid his abomination,  
+from the writing of Thoth himself:  
+  
+'If a woman should approach  
+his place,  
+a disaster will befall  
+^3^ in the entire land.'
+
+</div>  
+
+#### The King {-}
+
+<div class="col2">
+
+^4^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwgrtwr kysrs)|*  
+^5^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(twmtyns nty-ḫwỉ)|*  
+   
+^6^ *ḫnty n Rʿ*  
+*mswt n Ỉtm*  
+   
+^7^ *nṯr nfr*  
+*ḥqȝ zȝ ḥqȝ*  
+*ỉty wr ḥry srḫ*  
+*ỉdn s.t*  
+*nt bỉk n nbw*  
+*ỉmỉ.t-pr m ʿ=f*  
+*psš.ty m ʿ.wy=f*  
+*(ḥr) mʿȝ n kȝ*  
+*n nb ỉȝw.wt*  
+*(ḥr) ẖnk n ḥm=f *  
+*m ỉḫt ỉt=f*  
+*nb tȝ.wy *   
+*(twm(t)y[ns nty-ḫwỉ])|*  
+   
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re,  
+Lord of Appearances,  
+(Domitian Augustus)|  
+
+^6^ Replica of Re,  
+image of Atum.  
+  
+^7^ The good god,  
+Ruler, son of the ruler,  
+great sovereign upon the *serekh*,  
+he who takes over the throne  
+of the Falcon of Gold;  
+he has the inheritance document,  
+the Two Shares (Egypt) are in his hands;  
+offering to the Ka  
+of the Lord of Offices,  
+presenting to his Majesty,  
+with the property of his father:  
+Lord of the Two Lands,  
+(Domiti[an Augustus])|
+
+</div>
+
+#### Khnum upon his great throne {-} 
+
+<div class="col2">
+   
+^8^ *ḏd-mdw n ẖnmw-Rʿ*  
+*ḥry s.t=f wr.t*  
+*ḥry-ỉb ḥw.t-bȝ.w*  
+   
+*bȝ ʿȝ *  
+^9^ *pḏ nmt.t ḫnt sḫ.t=f*  
+*ḥry wḏb*  
+*wtṯ ỉḫt nb*  
+*mḥ-ỉb* ^10^ *n ỉt=f Rʿ*  
+*swḏ=f n=f ḥqȝ=f*  
+*ns.t=f nswy.t=f*  
+*m p.t* ^11^ *tȝ*  
+*ḥp.ty r-ʿ st.wt ỉtn*  
+   
+^12^ *dỉ=ỉ n=k ỉfdw n [...]*  
+  
+^8^ Words spoken by Khnum-Re,  
+upon his great throne,  
+within the Temple of the Bas.  
+  
+Great Ba,  
+^9^ wide of steps within his field;  
+Chief of agriculture,  
+confidant ^10^ of his father, Re:  
+he commends to him his rule,  
+his throne, and his kingship,  
+in heaven ^11^ and earth,  
+the limits are the rays of the sun disk.  
+  
+^12^ I give to you the four corners of [...]
+
+</div>
+
+#### Isis-Nebtu {-}
+
+<div class="col2">
+
+^13^ *ḏd-mdw n Ỉs.t-Nb.t-ww*  
+*ḫnt(.t) sḫ.t*  
+*mȝʿ.t wr.t r-gs ẖnmw*  
+   
+^13^ *ḫʿỉ(.t) r-ḥȝ*  
+*tp hrw 10 nb*  
+*ḥr sfsf ȝw*  
+*n sn=s*  
+*ḥnʿ ḥtpty.w*  
+^15^ *[...] rnp bȝ=sn n mȝȝ=s*  
+*nn ȝb rʿ nb*  
+   
+^16^ *dỉ=ỉ n=k šmʿ-mḥw*  
+*m ỉmỉ.t-pr *  
+*n ḥḥ n rnp.wt*  
+*ḥfnw m ḥb.w-sd.w*  
+*ʿšȝ [...]*  
+  
+^13^ Words spoken by Isis-Nebtu,  
+foremost of the Field,  
+Great Maat beside Khnum.  
+  
+^13^ She who goes out in procession    
+every 10 days   
+to lay down offerings  
+for her brother,   
+as well as the blessed dead    
+^15^ [...] their Bas rejuvenate to see her,  
+without fail, every day.  
+  
+^16^ I give to you Upper and Lower Egypt,  
+in an inheritance document  
+of thousands of years,  
+myriads of Sed-Festivals,  
+numerous [...] 
+
+</div>
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^17^ *nsw.t-bỉty*  
+*Šw ṯmȝ-ʿ*  
+*nʿš dnỉ.t*  
+*nb pḥty*  
+*ʿȝ mrw.t*  
+*wr bȝw n šmʿ-mḥw*  
+*ḥʿʿ ỉt=f Rʿ *  
+*n mȝȝ=f*  
+   
+*dỉ=f n=f ḥqȝ=f *  
+*nswy.t=f*  
+*m pt tȝ*  
+*bw nb psḏ=f ḥr=sn*  
+   
+*ẖnmw-Šw nb ḥz.wt*  
+*ḫnty ḥw.t-ẖnmw*  
+  
+^17^ The King of Upper and Lower Egypt,  
+Shu, valiant of arm,  
+fierce of shout,  
+lord of strength,  
+great of love,  
+great of power in Upper and Lower Egypt;  
+his father, Re, rejoices  
+from seeing him.  
+  
+He gives to him his rule,  
+his kingship,  
+in heaven and earth,  
+and all places over which he shines.  
+   
+Khnum-Shu, Lord of Praise,  
+foremost of Temple of Khnum.  
+
+</div>

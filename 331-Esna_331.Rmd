@@ -1,0 +1,430 @@
+## Esna 331 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 13
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=308){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 151-158; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1228){target="_blank"} 
+- Parallels: *Esna* IV, 421, 2-4 (for 331, 10-11).
+
+<div class="col2">  
+
+^7^ *dwȝ nṯr.t tn *  
+*m ḏsr wr*  
+*ḏd-mdw*  
+   
+*p.t m ḥb*  
+*tȝ m mfkȝ(.t)*  
+*gs.w-pr.w sṯỉ(.w) m ṯḥn*  
+   
+*nṯr.w m hy*  
+*nṯr.(y)t m hnw*  
+*ḥnmm.t m sns.w n ḥr=s*  
+   
+*N.t ʿȝ.t wr.t*  
+*ỉr(.t) wnn.t*  
+*ḥr pẖr nỉw.t=s m ȝw.t-ỉb*  
+   
+*wbn=s m ʿḥ=s*  
+*m ʿnḫ-ḏd-wȝs nb*  
+*Nw.t wr.t*  
+^8^ *dr.n=s šnʿ*  
+*ḫsr.n=s ḥw.t*  
+*m ʿqȝ=s*  
+*wpš p.t*  
+*psḏ tȝ*  
+   
+*nn.t wr.t*  
+*wṯz(.t) m gb.t=s*  
+*ỉr=s sšm ḥb*  
+*m snw n zp*  
+*m hrw 1 ḥb ʿḫỉ p.t*  
+  
+^7^ Praising this goddess  
+in great sanctity.  
+Words spoken:  
+  
+The sky is festive,  
+the earth is turquoise,  
+the temples are strewn with faience.  
+  
+The gods make *hy*-jubilation,  
+the goddess(es) make *hnw*-praise,  
+and the sunfolk worship before her.  
+  
+Neith, the very great,[^fn-331-1]  
+who made what exists,  
+surrounding her city with happiness.  
+  
+She shines from her palace,  
+with all *ʿnḫ-ḏd-wȝs*,  
+Great Nut  
+^8^ having repelled storm clouds,  
+and cleared away rain   
+from its area,  
+so that the sky lights up,  
+and the earth shines.    
+  
+Great nether-sky (*Nn.t*),[^fn-331-2]  
+is supported in her recumbent form.  
+She directs a festival a second time  
+on the first day   
+of the Festival of Lifting up Heaven.
+
+</div>
+
+[^fn-331-1]: ![](./images/331_7_1.png){width=8%} - The reading of this divine name is uncertain. The present hymn celebrates Neith as the sky (Nut), mother of Re, specifically during the festival of Lifting up Heaven. As such, the sky hieroglyph is used in many different ways throughout the text. In later verses, Neith is also called ![](./images/331_8_1.png){width=12%} (331, 8), and ![](./images/331_17_1.png){width=12%} (331, 17). Since the sky sign writes the uniliteral value *n* in multiple words here (e.g. *wbn*, "to rise", "Tatenen"), the present translation assumes the name with the single sky sign is "Neith", the one with two sky signs is *Nn.t*, "nether-sky," while the three sky signs write *šps.t*, "august one." But other interpretations are possible for the present instance, such as *štȝ.t*, "mysterious sky" (elsewhere associated with Neith and creation, e.g. [Esna 216], 5, 22), "Nut", or even simply *p.t*, "sky" (see below, column 11). 
+[^fn-331-2]: For the reading of this epithet, see the preceding note.  
+
+<div class="col2">
+
+^9^ *ḫʿỉ tȝ-ṯnn*  
+*m zp snw*  
+*ḏ.t ḫr.tw r ḥm=s*  
+*tȝ-ṯnn pw*  
+*2/3=s m ṯȝy*  
+*1/3=s m ḥmw.t*  
+*qmȝ(.t) st.wt*  
+*ḫrs(.t) kkw*  
+*ḥbs(.t) ỉtn*  
+*m šzp=s*  
+*ỉmn(.t) s(w)*  
+^10^ *m-ẖnw ḏfḏ=s*  
+   
+*wbn=s sḥḏ.n=s ḥḏḏ.w=s*  
+*(ḥr) rdỉ(.t) sỉȝ wʿ r snw=f*  
+*ḫʿỉ=s m ỉʿḥ*  
+*dr.n=s snk *  
+   
+*Nw.t pw n.t ȝḫty*  
+*wbn=f ḥtp=f ỉm=s*  
+*ỉwty ỉḏrw=s*  
+^11^ *nn rḫ ḥn.ty=s*  
+   
+*wbn(.t) m šww*  
+*ḫʿỉ(.t) m ỉʿḥ*  
+*šzp.n=s ỉdb.w *  
+*m nfrw=s*  
+   
+*ỉr.n=s nty*  
+*qmȝ.n=s wnn.t*  
+*(ḥr) wtṯ ỉḫt nb.w ʿnḫ*  
+    
+^9^ Tatenen appears,  
+a second time.  
+One calls her majesty 'linear eternity'.[^fn-331-3]  
+She is Tatenen:  
+2/3 of her is male,  
+1/3 of her is female.[^fn-331-4]  
+She who creates rays,  
+who repels darkness,  
+who clothes the sundisk  
+in her radiance,  
+and who hides him   
+^10^ within her iris.[^fn-331-5]   
+   
+As she rises, her bright rays illumine,  
+allowing one to perceive their fellow;  
+she also appears as the moon,  
+having driven away darkness.  
+  
+She is Nut, of Akhty (Re),[^fn-331-6]  
+he rises and sets in her;  
+she is infinite,  
+^11^ and her limits are unknown.[^fn-331-7]  
+  
+She who rises as the sun,  
+and appears as the moon,  
+having illumined the shores  
+with her perfection.  
+   
+As she made what is,  
+so she created what exists,  
+begetting all living things.  
+
+</div>  
+
+[^fn-331-3]: The same name is given to Neith as infinite sky goddess in [Esna 317], 2-3; see also [Esna 216], 3 (11). There might be a phonetic pun her between "Tatenen" and *ḏ.t*-eternity.
+[^fn-331-4]: For the meaning of this epithet, see @klotz-caesar, pp. 173-174. The same concept is alluded to in the Neith's litany, [Esna 216], 2, 6-9, where she is "Irita who made Tatenen, Tatenen who made Irita, man ho acts as a woman, woman who acts as a man."
+[^fn-331-5]: These epithets borrow phraseology from cloth-offering scenes, wherein the solar goddess clothes and conceals Re within her luminous appearances. See @klotz-ram, pp. 178-180.
+[^fn-331-6]: For this passage, see @klotz-baboons, p. 34.
+[^fn-331-7]: Most of the preceding epithets occur in  the architrave *Esna* IV, 421, 2-4, roughly above the present column.
+
+
+<div class="col2">
+
+*p.t kȝ.tw r ḥm=s*  
+*šȝʿ.n=s tȝ.wy*  
+^12^ *m sḫr.w=s*  
+*ỉr.n=s ỉḫt nb.w*  
+*m qmȝ.n ỉb=s*  
+   
+*ḏȝỉ=s p.t*  
+*r-ḏr ỉb=s*  
+*zȝ=s Rʿ ḥʿʿ(.w)*  
+*m-ʿqȝ=s*  
+*ʿ.wy=f m ỉȝw*  
+*n nb(.t) nṯr.w*  
+*ḥr qmȝ sns*  
+*n mw.t=f wsr.t*  
+   
+*[ms?]=s sw m* ^13^ *ḥwnw*  
+*m dwȝw*  
+*Rʿ ḏs=f (ḥr) htt n kȝ=s*  
+   
+*rnp=s bȝ ʿḥʿy*  
+*Ḥr-ȝḫty pw*  
+*ḥr swȝš nfrw=s*  
+   
+*qn=s qn Ỉtm pw*  
+*ḥr snỉ-tȝ n ḥr=s*  
+  
+Her Majesty is called 'Sky'.  
+As she began the two lands  
+^12^ through her plans,  
+so she made all things,  
+as the creation of her heart.    
+  
+She sails across the sky  
+as her heart dictates.  
+Her son, Re, rejoices  
+before her.  
+His arms are in praise  
+to the Lady of gods,  
+creating praises,  
+for his mother, the Mighty.  
+  
+She [births?] him as a ^13^ child  
+in the morning:  
+Re himself jabbers for her Ka.  
+  
+Her young one, the Ba at Noon,[^fn-331-8]  
+(that means Harakhty),  
+worships her perfection.  
+  
+As she is strong, so is Atum strong,  
+kissing the earth before her.  
+  
+</div>
+
+[^fn-331-8]: ![](./images/331_13_1.png){width=28%} - @sauneron-5, p. 156, n. v, tentatively rendered this phrase quite differently: "jeune homme qui a dépassé une certaine durée de temps (*rnp zbỉ ʿḥʿw*)". As he recognized, this part of the hymn refers to the three stages of the sun: youth in the morning, young man at noon (= Harakhty), and Atum at night. Hence one expects a reference to the term *ʿḥʿy*, "mid-day; noon." Alternatively, this could be a corrupted version of bA-HD, "bright Ba", another epithet of Khnum as a solar ram: [Esna 276], 16, 17: ![](./images/276_16_17.png){width=20%}.
+
+<div class="col2">
+
+*nṯr.w nṯry.t m ỉȝw zp-snw*  
+^14^ *pȝwty.w-tpy m ks*  
+*n bȝw=s*  
+*psḏ.t ʿȝ.t mỉ qd=s*  
+*msḏ.t nḏs(.t) m wȝḥ-tp*  
+   
+*ȝḫ.t wr.t*  
+*nn ỉgp ỉm=s*  
+*nb(.t) snḏ*  
+*sḥḏ.n=s tȝ.wy*  
+   
+*nṯr.w rsty.w*  
+*wn(.w) m ks*  
+^15^ *nṯr.w mḥty.w*  
+*m wȝḥ-tp*  
+*ỉmnty.w n=s m nyny*  
+*ỉȝbt(y.w) m ỉȝw zp-snw*  
+*ȝḫty.w ḥr dwȝ nfrw=s*  
+*bȝ.w ỉȝbty(.w) m hy zȝ-ṯȝ*  
+*nṯr.w ʿȝ.w dmḏ(.w) m zp*  
+*ḥr mȝȝ w.t=sn *  
+*nṯr nṯr.t*  
+    
+Gods and goddess are in praise!  
+^14^ The first primeval one are bent down  
+to her power;  
+the entire Great Ennead,  
+and the Lesser Ennead bow their heads.    
+  
+The great Akhet,  
+with no storm-cloud in it;  
+Lady of fear,   
+having illumined the two lands.  
+  
+The southern gods  
+are bent down;  
+^15^ the northern gods   
+bow their heads;  
+the westerners make *nyny* for her,  
+the easterners are in praise!  
+Those of the Akhet praise her perfection,  
+the Bas of the East make hy-zA-tA chants:  
+all of the gods are united together  
+beholding their mother,  
+both God *and* Goddess.
+
+</div>
+
+<div class="col2">
+
+^16^ *nṯr wʿ (ḥr) ḏd n snw=f*  
+*ỉmy ỉr=n ỉȝw*  
+*n nb(.t) nṯr.w*  
+*sqȝ=n wr-šfy.t*  
+*ỉmy ỉr=n hnw *  
+*n nb(.t) mrw.t*  
+*sḥtp=n ʿȝ bȝw*  
+*m kȝr=s*  
+*ỉmy ỉr=n ỉhȝy*  
+*n* ^17^ *ỉh.t*  
+*swȝš=n ỉb*  
+*n ḥnw.t p.t tȝ*  
+   
+*ỉmy ỉr=n ȝbw*  
+*n mw.t-Rʿ*  
+*dhn=n tȝ*  
+*n ḥnw.t šmʿ-mḥw*  
+*ỉmy ḏsr=n tȝ *  
+*n šps.t wsr.t*  
+  
+*ḏr ỉw=s m ȝḫ.t n.t p.t*  
+*ỉd.t=s* ^18^ *m Pwn.t*  
+*ḫnm=s n ʿntyw*  
+*Rʿ.t psḏ(.t) m ḫʿỉ=s*  
+*wr smd.t=s*  
+*r smd.t n šmʿ mḥw*  
+   
+*p.t ʿnḏ.n=s ḥw.t ʿȝ.t*  
+*nn twt=s m nṯr.t*  
+*nỉm [sy nṯr.t]*  
+*[snỉ] r qd=s*   
+    
+^16^ One gods says to his fellow:  
+Let us make praise  
+for the Lady of the Gods!  
+Let us elevate Great of Prestige!  
+Let us make *hnw*-acclaim  
+for the Lady of Love!  
+Let us pacify Great of Power  
+in her shrine!  
+Let us make jubilation (*ỉhȝy*)  
+for ^17^ the Ihet-cow (*ỉh.t*)!  
+Let us worship the heart  
+of the Mistress of heaven and earth.  
+  
+Let us make dancing  
+for the Mother of Re!  
+Let us bow to the ground  
+for the Mistress of all Egypt!  
+Let us sanctify the ground  
+for the August and Mighty!  
+   
+When she comes from the Akhet of the sky,  
+her scent ^18^ is of Punt,  
+her aroma is of myrrh:  
+Rayet, who shines when she appears,  
+her adornments are greater  
+than any adornments in Egypt.  
+   
+The sky, which is scarce of great rains,[^fn-331-9]  
+no goddess equals her!  
+Who is [the goddess]  
+[who would even resemble] her form?   
+ 
+</div>
+
+[^fn-331-9]: Difficult passage, with a different explanation by @sauneron-5, p. 157, n. ii. The present translation assumes this is another reference to Neith-Nut as a sky clear of clouds (see *supra*, cols. 10 and 14). The combination of the verb *ʿnḏ*, "to be lacking; scarce", and *ḥw.t p.t*, "rain", recalls the famous Tell Defenna stela. Where Egyptian troops are stranded in a desert area, since "rain fall is scarce (and pw Hw.t) in the southern regions. The goddess Neith of Sais saves the day by creating an unusually high Inundation: @cavasin, p. 8, line x+13.
+
+<div class="col2">
+
+*bȝq p.t m mȝwy*  
+^19^ *n ỉr.ty=s*  
+*wbḫ mr.ty*  
+*n dgȝ=s*  
+*wỉȝ=s m nbw nfr*  
+*ṯḥn ẖkr.w*  
+*ʿȝ.wt n.w n mȝʿ.t*  
+   
+*nṯr(.w) nb.w ʿḥʿ(.w)*  
+*m ỉry=f*  
+*ỉzy.t wỉȝ=s m ḥʿʿ*  
+*kȝr=s šps m ršw*  
+*ḥr ỉṯ* ^20^ *n nb(.t)=f*  
+*nṯr.w ỉm=f m ṯḥḥ*  
+   
+The sky radiates with the rays  
+^19^ of her eyes,  
+the deserts light up  
+just from beholding her.  
+Her bark is of good gold,  
+sparkling of ornaments,  
+(of) all truly precious stones.  
+  
+All gods stand up  
+to protect it;  
+the crew of her bark rejoices;  
+her sacred shrine is jubilant,  
+upon receiving ^20^ its Lady;  
+the gods in it are ecstatic.  
+
+</div>
+
+<div class="col2">
+
+*Mr.t šmʿ *  
+*Mr.t mḥw *  
+*m ỉȝw zp-snw*  
+*bȝ.w P Nḫn m hnw*  
+*n bȝw=s*  
+*wỉȝ=s (ḥr) nʿy*  
+*nn wš*  
+*ḥr ḫdỉ ḫntỉ*  
+*m ḥw.t-N.t*  
+   
+*tȝ-mrỉ* ^21^ *ḏr=s*  
+*m ʿq*  
+*nṯr nṯr.t*  
+*nb=sn*  
+*wbn ḥr tp=sn*  
+*dgȝ ỉr.wt-nb.w m psḏ=s*  
+*bd tȝ.w nb.w*  
+*m ỉmȝw=s*  
+   
+*psḏ wȝḏ=sn*  
+*nȝ nty m dwȝ.t*  
+*ḥʿʿ ỉmy.w ẖr.t-nṯr*  
+*n dgȝ=s*   
+    
+Meret of Upper Egypt,  
+Meret of Lower Egypt,  
+are in praise!  
+The Bas of Pe and Nekhen make *hnw*  
+for her power.[^fn-331-10]    
+Her bark travels on,  
+without fail,  
+going north and south  
+from the Temple of Neith.   
+    
+The entirety ^21^ of Egypt  
+is in festival.  
+The god *and* goddess,   
+their lord,  
+who rises over their heads:  
+all eyes see from her shining.  
+All lands light up  
+from her radiance.    
+    
+Their shrines are illumined,    
+(namely) those who are in the Duat.  
+Those within the Necropolis rejoice   
+from seeing her.  
+
+</div> 
+
+[^fn-331-10]: Compare [Esna 216], 10 (45).

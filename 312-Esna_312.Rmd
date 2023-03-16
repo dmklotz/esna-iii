@@ -1,0 +1,225 @@
+## Esna 312 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+</style> 
+
+- Location: Column 11
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=275){target="_blank"}
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1176){target="_blank"}
+- Parallels: *Esna* VI, 516 (epithets of the goddesses); see also the hymns to Anukis and Nephthys from Komir: @komir.
+
+#### Formula {-} 
+
+<div class="col2">
+  
+^1^ *ḥnk [ḥnq.t]*  
+*ḏd-mdw*  
+   
+*mn n=t nṯry*  
+*r [...]*  
+^2^ *[...] qnd*  
+*sḥtp=f [...] *  
+   
+^1^ Offering [beer].  
+Words spoken:  
+  
+Take the divine-beer,  
+to [...]  
+^2^ [...] rage,  
+it pacifies [...]  
+  
+</div>
+  
+#### The King {-}
+  
+<div class="col2">
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrtwr gysrs)|*  
+^4^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(twmṯyns nty-ḫwỉ)|*  
+^5^ *ỉḥy-wʿb n ḥnw.t=f*  
+   
+^6^ *nṯr nfr*  
+*wtṯ n Mnq.t*  
+*nb nr*  
+*dr ḫrwy.w=f*  
+*nḏr nbty.w*  
+*n Nb[.t...]*  
+*[...] *  
+*[rwỉ=f(?)] qnd=s*  
+*sḥtp=f s(y)*  
+*sḫp(r) mr=s*  
+*sḫr[...]*  
+    
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^4^ Son of Re,  
+Lord of Appearances,  
+(Domitian Augustus)|  
+^5^ pure-Ihy priest of his mistress.  
+    
+^6^ The good god,    
+begotten of Menqet,   
+Lord of fear,    
+who repels his foes;  
+who grasps the *nbty*-jars,   
+for the [Lady of ...]   
+[...]  
+[he dispels(?)] her rage,[^fn-312-1]  
+he pacifies her,  
+producing what she loves,  
+and striking down [...]  
+
+</div>
+
+[^fn-312-1]: Restoration suggested by *Esna* II, 14, 2; 102, 2.
+  
+#### Anukis {-}
+  
+<div class="col2">
+
+^7^ *ḏd-mdw n ʿnq.t*  
+*nb(.t) tȝ*  
+*nṯr.t ʿȝ.t*  
+*ḥnw.t pr-mr*  
+*ʿšȝ ḥb.w *  
+^8^ *ḫnt.t ḫnt-tȝ*  
+*pr ḥʿʿ n ḥm=s*  
+*nn wš(r)*  
+  
+*ʿnq(.t) Nwn*  
+*r srwḏ* ^9^ *ȝḫ.t*  
+*sḫp(r.t) ỉḫt nb.w*  
+*m tȝ pn*  
+  
+*nb(.t) ḥʿʿ*  
+*dr(.t) ḥȝw.t-ỉb*  
+^10^ *nṯr.t ʿȝ hp.w*  
+*ʿnḫ.tw n mȝȝ=s rʿ nb*  
+   
+^11^ *dỉ=ỉ n=k tḫ *  
+*[...]*    
+   
+^7^ Words spoken by Anukis (*ʿnq.t*),  
+Lady of Ta,[^fn-312-1b]      
+Great goddess,  
+Mistess of Komir,[^fn-312-2]   
+numerous of festivals,  
+^8^ foremost of Khent-ta,      
+jubilation comes forth for her Majesty    
+without fail.   
+  
+^9^ She who makes the Nun waters flood (*ʿnq.t*)  
+to make the field ^9^ grow,  
+who produces all things  
+in this land.  
+  
+Lady of rejoicing,   
+who repels sadness,  
+^10^ Goddess great of laws,  
+from whose sight one lives, daily.  
+  
+^11^ I give you intoxication   
+[...]  
+  
+</div>
+
+[^fn-312-1b]: This toponym is known only from Esna: *LGG* IV, 154c.
+[^fn-312-2]: The transliteration of the gazelle nome is suggested by the close parallel (*Esna* VI, 516, 6). At the very least, *pr-mr* and *gḥs.t*, "the gazelle nome", were more or less equivalent:@komir, p. 168. 
+
+#### Nephthys {-}
+  
+<div class="col2">
+
+^12^ *ḏd-mdw n Nb.t-ḥw.t*  
+*sn.t nṯr*  
+*ỉʿy.t ṯḥn.t*  
+*ḫnt.t ḥw.t-ẖnmw*  
+*ḥwn.t wr.t *  
+^13^ *ḫnt.t ḥw.t-N.t*  
+*šps.t wsr.t*  
+*ḥnw.t ḥw.t-sḫn*  
+   
+*nb(.t) nfr.w*  
+*ḥnw.t pẖr-ỉb*  
+*nb(.t) ḥ(n)q.t*  
+*mr(.t) hrw nfr*  
+*nb(.t)* ^14^ *nbty.w*  
+*ỉr.tw n wḏ.n=s*  
+*nb(.t) p.t*  
+*ḥnw.t nṯr.w nb(.w)*  
+   
+^15^ *dỉ=ỉ n=k Ỉwnty.w*  
+*ḫȝb(.w) m-bȝḥ=k*  
+*ḥr ḫrp ỉnw=sn*  
+*r pr=k*  
+  
+^12^ Words spoken by Nephthys,  
+Sister of God,  
+the scintillating purifier  
+foremost of the Temple of Khnum;  
+the great youth,  
+^13^ foremost of the Temple of Neith,[^fn-312-3]  
+august and mighty one,  
+foremost of Hut-sekhen.[^fn-312-4]    
+  
+Lady of goodness,    
+Mistress of enchantment,  
+Lady of beer,  
+who loves holiday,   
+Lady of ^14^ *nbty*-jars,   
+one acts as she commanded.  
+Lady of Heaven,  
+Mistress of all the gods.  
+  
+^15^ I give you the Iunty-bedouins,  
+bent down before you,  
+offering their tribute  
+to your domain.  
+  
+</div>
+
+[^fn-312-3]: Same epithets in *Esna* VI, 516, 10; @komir, Fig. 10, col. 5.
+[^fn-312-4]: The transcription of this toponym is clear from @komir, Fig. 9, col. 5.  
+
+#### Behind the divinities {-}  
+
+<div class="col2">  
+
+^16^ *nsw.t-bỉty*  
+*ʿn.t ʿn qd*  
+*nb(.t) ḥʿʿ*  
+*dr(.t) ḥȝw-ỉb*  
+*nb(.t) nrw*  
+*sḥr(.t) ḫrwy.w=s*  
+*ỉr(.t) dr mn.t*  
+*r sḥʿʿ nṯr[.w] *  
+*[...]tȝ*  
+    
+^16^ The King of Upper and Lower Egypt,  
+pleasant (*ʿn.t*), pleasing of form (*ʿn qd*),[^fn-312-5]  
+Lady of rejoicing,  
+who drives away sadness.  
+Lady of fear,  
+who repels her enemies.  
+She who banishes suffering  
+to make the god[s] rejoice  
+[...]-Ta.
+
+</div>
+
+[^fn-312-5]: Note the pun here between *ʿn-qd*, "pleasing of form", and *ʿnq.t*, "Anukis," repeated in the related text [Esna 313], B.

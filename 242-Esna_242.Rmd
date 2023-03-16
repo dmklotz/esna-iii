@@ -1,0 +1,1344 @@
+## Esna 242 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style> 
+
+- Location: Column 6
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=158){target="_blank"}  
+- Bibliography: @sauneron-8, pp. 31-35; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1026){target="_blank"}  
+<div class="col2">
+   
+^14^ *ỉr(.t) p(ȝ) wdn*  
+*n Ḥkȝ pȝ ẖrd*  
+*m hrw pn mỉ rʿ-nb*  
+*ḏd-mdw*  
+   
+*wdn n Ḥkȝ pȝ ẖrd*  
+^15^ *ʿȝ wr*   
+*[tpy] n ẖnmw*  
+*m rn(.w)=f nb.w*  
+*ḥr-tp ʿnḫ-wḏȝ-snb*  
+*n nsw.t-bỉty*  
+*(pr-ʿȝ ʿnḫ ḏ.t)|*   
+    
+^14^ Performing the litany  
+for Heka the Child   
+on this day, just like every day.  
+Words spoken:  
+  
+Litany for Heka the Child,  
+^15^ the very great,  
+[first-born] of Khnum,     
+in all his names,  
+on top of the life, prosperity, health  
+for the King of Upper and Lower Egypt,  
+(Pharaoh living eternally)|
+
+</div>
+ 
+**1**  
+<div class="col2">
+
+*n Ḥkȝ pȝ ẖrd*  
+*ʿȝ wr *  
+*tpy n ẖnmw*  
+  
+For Heka the Child,  
+the very great,  
+first-born of Khnum.
+
+</div>
+
+**2**  
+<div class="col2">
+
+*n Ḥkȝ pȝ ẖrd*  
+*ʿȝ wr*  
+*tpy n Ỉmn*
+  
+For Heka the Child,    
+the very great,  
+first-born of Amun.
+
+</div>
+
+**3**  
+<div class="col2">
+
+*n Ḥkȝ pȝ ẖrd*  
+*ʿȝ wr*  
+*tpy n Rʿ*  
+  
+For Heka the Child,    
+the very great,  
+first-born of Re.  
+
+</div>
+
+**4**  
+<div class="col2">
+
+*n Ḥkȝ pȝ ẖrd*  
+*ʿȝ wr*  
+*tpy n Ptḥ*  
+  
+For Heka the Child,    
+the very great,  
+first-born of Ptah.  
+
+</div>
+
+**5**  
+<div class="col2">
+
+^16^ *n Ḥkȝ*  
+*[wr] ḥkȝw*  
+*zȝ Sḫm.t*  
+*ḥry-ỉb tȝ-sn.t*  
+  
+^16^ For Heka  
+great of magic,  
+son of Sakhmet,  
+within Esna.
+
+</div>
+
+**6**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥry-ỉb ỉȝ.t-ṯȝ.wy*  
+*mrỉ mw.t=f*  
+*Mnḥy.t nb(.t) ḫnt-tȝ*  
+  
+For Heka,  
+within Mound of the Chicks,   
+beloved of his mother,   
+Menhyt, Lady of Khent-ta.
+
+</div>
+
+**7**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*zȝ tfn.t ḫnt.t Ỉwny.t*  
+*rr.t*  
+*ms.tw=f Nb.t-ww*  
+*ḥnw.t*  
+  
+For Heka  
+son of Tefnut, foremost of Iunyt,  
+the nurse;   
+Nebtu bore him,    
+the Mistress.
+
+</div>
+
+**8**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nṯr ʿȝ ḥry-ỉb tȝ-sn.t*  
+*Ḥkȝ ms.n Rnnwt.t*  
+*ḥry-ỉb* ^17^ *ʿḥ*  
+  
+For Heka,  
+great god within Esna;  
+Heka, born of Renenutet,  
+within ^17^ the palace.
+
+</div>
+
+**9**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*šm r sḫ.t*  
+*ḫnty Pr-ẖnmw*  
+  
+For Heka,  
+who goes to the Field,  
+foremost of Per-Khnum.
+
+</div>
+
+**10**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḫnd ww*  
+*ḥry-ỉb Pr-nṯr*  
+  
+For Heka,  
+who traverses the agricultural area,  
+within Per-netjer.  
+
+</div>
+  
+  
+**11**  ![](./images/242_17_11_0.png){width=18%}  
+
+<div class="col2">
+
+*n Ḥkȝ*  
+*Šw zȝ Rʿ*  
+*nb Ỉwny.t*  
+  
+For Heka,  
+Shu,[^fn-242-11] son of Re,   
+Lord of Iunyt.  
+
+</div>
+
+[^fn-242-11]: Note that in this verse, Heka is spelled with attributes related to Shu-Onuris: the wind, and a raging ape. 
+
+**12**  ![](./images/242_17_12.png){width=10%}   
+  
+<div class="col2">
+  
+*n Ḥkȝ*  
+*Gbb ỉt-nṯr.w*  
+   
+For Heka,  
+Geb,[^fn-242-2] father of the gods.  
+
+</div>
+
+[^fn-242-2]: In this verse, Heka's name is written with ideograms of Horus and Geb. 
+
+**13**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*zȝ Sḫm.t*  
+*ỉwʿʿ n Ptḥ*  
+  
+For Heka,  
+son of Sakhmet,  
+heir of Ptah.
+
+</div>
+
+**14**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*snsn* ^18^ *bȝ ʿnḫ *  
+*n ẖnmw*  
+   
+For Heka   
+who unites ^18^ with the living Ba   
+of Khnum.
+
+</div>
+
+**15**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*zȝỉ r ỉw(.t)=f*  
+    
+For Heka  
+one waits for his arrival.  
+
+</div>
+
+**16**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*snsn Ḥp ʿnḫ*  
+   
+For Heka   
+who unites with the living Apis.  
+
+</div>
+
+**17**  
+<div class="col2">
+ 
+*n Ḥkȝ*  
+*nb hȝ.w*(?)    
+  
+For Heka   
+Lord of jubilation(?).  
+
+</div>
+
+**18**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb šm.w*  
+  
+For Heka  
+Lord of omens.[^fn-242-3]  
+  
+</div>
+
+[^fn-242-3]: For this passage, see @ritner-magical, pp. 36-37, n. 167.  
+
+**19**  
+<div class="col2">
+   
+*n Ḥkȝ*  
+*nb bỉȝ.y.t*  
+  
+For Heka  
+Lord of oracles.  
+
+</div>
+
+**20**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*sr ḫpr*  
+  
+For Heka  
+who announces what will happen.
+
+</div>
+
+**21**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*wr* ^19^ *m Ỉnb-ḥḏ*  
+    
+For Heka  
+great ^19^ in Memphis. 
+
+</div>
+
+**22**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*m ḥw.t-Ḥkȝ*  
+    
+For Heka  
+in the Temple of Heka.
+
+</div>
+
+**23**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḫnty pr-mḏȝ.t*  
+  
+For Heka  
+foremost of the House of Papyri.
+
+</div>
+
+**24**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḫnty Pr-ʿnḫ*  
+  
+For Heka  
+foremost of the House of Life.  
+
+</div>
+
+**25**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḫnty Pr-ẖnmw*  
+  
+For Heka   
+foremost of Per-Khnum.
+
+</div>
+
+**26**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḫnty ḥw.t-Ỉtm*  
+    
+For Heka  
+foremost of the Temple of Atum.[^fn-242-4]  
+
+</div>
+
+[^fn-242-4]: This temple of Atum is presumably identical with the "Upper Place" or "Great Place", the divine necropolis of North Esna: see [Esna 217], 23 (20), and text note there.
+
+**27**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥry-ỉb ʿḥ*  
+  
+For Heka  
+within the palace.
+
+</div>
+
+**28**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥry-ỉb s.wt-Rʿ*  
+  
+For Heka  
+within the Thrones (*s.wt*) of Re.  
+
+</div>
+
+**29**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb šw.t-Rʿ*  
+     
+For Heka  
+Lord of the Shade (*šw.t*) of Re.
+
+</div>
+
+**30**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*wn ʿ.wy*  
+*nw s.t-ʿȝ.t*   
+  
+For Heka   
+who opens the double doors  
+of the Great Place.[^fn-242-5]
+
+</div>
+
+[^fn-242-5]: Allusion to the festival of Heka in North Esna on Hathor 22, as described in [Esna 340], 6.
+
+**31**  
+<div class="col2">
+
+^20^ *n Ḥkȝ*  
+*snsn [ms.w] Rʿ*  
+   
+^20^ For Heka   
+who lets breathe [the Children of] Re.[^fn-242-31]
+
+</div>
+
+[^fn-242-31]: Restoration suggested by @sauneron-3, p. 114, n. b. The Children of Re appear along with the August Ape (Atum) and the double doors of the Great Place in [Esna 340], 6.  
+
+**32**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*[...] ỉm=s*  
+*ky šps*  
+   
+For Heka  
+[...] in it,   
+august ape.  
+
+</div>
+
+**33**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ʿnḫ.tw n mȝȝ=f*  
+  
+For Heka,  
+one lives from seeing him.  
+
+</div>
+
+**34**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥʿʿ.tw n dgȝ=f*  
+  
+For Heka,   
+one rejoices to behold him.  
+
+</div>
+
+**35**  
+<div class="col2">
+ 
+*n Ḥkȝ*  
+*ṯz n=f ḥȝ.wt*   
+  
+For Heka,  
+for whom hearts are raised.
+
+</div>
+
+**36**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*wȝḏ nmt.t*  
+  
+For Heka,  
+green[^fn-242-6] of steps. 
+
+</div>
+
+[^fn-242-6]: Understanding that he leaves plants growing in his footsteps. Alternatively, this could be a graphic error for *ʿȝ nmt.t*, "great of steps", given the frequent interchange between the similar *wȝḏ* and *ʿȝ*-signs at Esna. See below, verse (48)
+
+**37**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ẖnmw*  
+  
+For Heka,  
+who unites/endows.  
+
+</div>
+
+**38**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥwnw nfr*  
+*mry n ỉt=f*  
+   
+For Heka  
+good youth,   
+beloved of his father.
+
+</div>
+
+**39**  
+<div class="col2">
+
+^21^ *n Ḥkȝ*   
+*ḥʿʿ[.tw ...]=f*  
+  
+^21^ For Heka,  
+one rejoices [...] him.
+
+</div>
+
+**40**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*bʿḥ tȝ.wy*   
+*m nfrw=f*  
+    
+For Heka  
+who floods the two lands  
+with his goodness.
+
+</div>
+
+**41**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*sṯỉ [...] pr.t*  
+  
+For Heka   
+who shoots out [...] seed.  
+
+</div>
+
+**42**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*wtṯ ỉḫt nb.w*  
+  
+For Heka  
+who begets all things.  
+
+</div>
+
+**43**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*wr ms.w*  
+  
+For Heka  
+great of children.  
+
+</div>
+
+**44**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ʿȝ-pḥty*  
+*ṯmȝ-ʿ *  
+*sḫr ḫfty=f*  
+  
+For Heka  
+great of strength,  
+valiant of arm,  
+who strikes down his enemy.
+
+</div>
+
+**45**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉnỉ mr(w.t)*  
+*dr msḏ*  
+   
+For Heka   
+who brings love,    
+and repels hate.
+
+</div>
+
+**46**  
+<div class="col2">
+
+^22^ *n Ḥkȝ*  
+*nn tkn.tw ḏr.ty=f*  
+  
+^22^ For Heka,  
+one may not approach his hands.
+
+</div>
+
+**47**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*hn.tw n=f*  
+  
+For Heka,  
+for whom one bows down.
+
+</div>
+
+**48**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ʿȝ nmt.t*  
+*ỉwty ḥm m ȝḫ.w=f*  
+  
+For Heka,  
+great of stride,  
+with no deflection of his radiance.
+
+</div>
+
+**49**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉb n Rʿ*   
+*ws(ḫ) nmt.t m ȝḫ.t*  
+    
+For Heka,  
+the heart of Re,  
+broad of steps in the Akhet.
+
+</div>
+
+**50**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḏfḏ n ỉr.t Rʿ*  
+  
+For Heka  
+iris of the Eye of Re.
+
+</div>
+
+**51**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥqȝ n Bȝq.t*  
+  
+For Heka  
+ruler of Baqet (Egypt).
+
+</div>
+
+**52**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb tȝ.wy*  
+  
+For Heka   
+Lord of the Two Lands. 
+
+</div>
+
+**53**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nfr wr*  
+  
+For Heka,  
+greatly beautiful.
+
+</div>
+
+**54**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉwn wr*  
+  
+For Heka  
+great pillar (*ỉwn*) of air.
+</div>
+
+**55**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉwn-^23^-ḥʿʿ*  
+  
+For Heka,  
+the ^23^ moon (*ỉwn-ḥʿʿ*).  
+
+</div>
+
+**56**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*štȝ ḫprw*  
+  
+For Heka  
+remote of manifestation.
+</div>
+
+**57**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*wḥm msḫʿ.w*  
+  
+For Heka  
+who repeats radiant births.  
+
+</div>
+
+**58**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*zȝ[-tȝ]*  
+*[m] ḥw.t-nṯr*  
+  
+For Heka,    
+*zȝ-[tȝ]*-serpent  
+[in] the temple.
+
+</div>
+
+**59**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*rnp rʿ-nb*  
+  
+For Heka  
+who rejuvenates every day.
+
+</div>
+
+**60**  
+<div class="col2">
+
+*n Ḥkȝ p(ȝ) ẖrd*  
+*ẖrd.n=f m ẖr(.t)-rnp.t*
+  
+For Heka the child,  
+he rejuvenated annually.  
+
+</div>
+
+**61**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḫy nfr*  
+  
+For Heka   
+beautiful child.
+
+</div>
+
+**62**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*sḏty ỉqr*  
+  
+For Heka  
+excellent youth.  
+
+</div>
+
+**63**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*sḏty sḏty.w*  
+  
+For Heka  
+youth of youths.  
+
+</div>
+
+**64**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*sfy šps*   
+  
+For Heka   
+august youngster.
+
+</div>
+
+**65**  
+<div class="col2">
+
+^24^ *n Ḥkȝ*  
+*ḥwnw tȝ.wy*  
+  
+^24^ For Heka  
+boy of the two lands.  
+ 
+</div>
+
+**66**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥwnw ḥwnw.w*  
+  
+For Heka   
+boy of boys.
+
+</div>
+
+**67**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nfr-ḥr*  
+  
+For Heka  
+beautiful of face.
+
+</div>
+
+**68**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ʿȝ mrw.t*  
+  
+For Heka  
+great of love.
+
+</div>
+
+**69**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*bnr-mrw.t*
+  
+For Heka  
+sweet of love.
+
+</div>
+
+**70**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉqr mrw.t *  
+   
+For Heka  
+excellent of love.
+
+</div>
+
+**71**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*bỉk nṯry*  
+   
+For Heka  
+divine falcon.  
+
+</div>
+
+**72**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*bỉk bỉk.w*  
+  
+For Heka  
+falcon of falcons.  
+
+</div>
+
+**73**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*Ḥr m ȝḫ.t*  
+    
+For Heka   
+Horus in the Akhet (Harmakhis).
+
+</div>
+
+**74**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*sḏty smsw nṯr.w*  
+  
+For Heka  
+eldest child of the gods.  
+
+</div>
+
+**75**  
+<div class="col2">
+
+^25^ *n Ḥkȝ*  
+*wȝḏ tȝ m pr=f*  
+  
+^25^ For Heka   
+the earth turns green when he comes forth.
+
+</div>
+
+**76**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb wʿ*  
+*nn mỉt.t=f*  
+  
+For Heka  
+the sole lord,  
+without his peer.
+
+</div>
+
+**77**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nsw.t nsw.wt*  
+  
+For Heka  
+King of kings.  
+
+</div>
+
+**78**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*Ḥr ḥry nṯr.w*  
+  
+For Heka  
+Horus (*Ḥr*), chief (*ḥry*) of the gods.  
+
+</div>
+
+**79**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥqȝ sḫm.ty*  
+    
+For Heka (*Ḥkȝ*)  
+ruler (*ḥqȝ*) of the two uraei.
+
+</div>
+
+**80**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥqȝ ʿnḫ.w*  
+  
+For Heka  
+ruler of the living. 
+
+</div>
+
+**81**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥqȝ qn*  
+  
+For Heka   
+mighty ruler.
+
+</div>
+
+**82**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḥqȝ ḥqȝ.w*  
+  
+For Heka  
+ruler of rulers.
+
+</div>
+
+**83**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*qn nȝ qn.w*  
+  
+For Heka   
+mightiest of the mighty.
+
+</div>
+
+**84**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉty mnḫ*  
+  
+For Heka  
+beneficent sovereign.
+
+</div>
+
+**85**  
+<div class="col2">
+
+*n Ḥkȝ*  
+^26^ *rnp wr*  
+  
+For Heka  
+^26^ great rejuvenating one.  
+
+</div>
+
+**86**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*mȝȝ ḥn.ty*  
+  
+For Heka  
+who sees the limits of the future. 
+
+</div>
+
+**87**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*sḏty n ỉr.t-Rʿ*  
+  
+For Heka  
+child of the Eye of Re.
+
+</div>
+
+**88**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ḏfḏ n wḏȝ.t*  
+  
+For Heka   
+iris of the *wedjat*-eye.
+
+</div>
+
+**89**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*dgȝ ḥḥ.w*  
+*m ḥr=f nfr*  
+  
+For Heka   
+millions can see  
+by means of his beautiful face.
+
+</div>
+
+**90**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*šfy.t=f dỉ=s m ʿḥ*  
+  
+For Heka  
+whose prestige manifests in the palace.
+
+</div>
+
+**91**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*mḥ-ỉb n nsw.t-bỉty*
+  
+For Heka  
+trusted one of the King.  
+
+</div>
+
+**92**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nḏty ʿšȝ*  
+*r bỉȝ.t=f*  
+  
+For Heka  
+who protects numerous ones   
+from his wondrous manifestation. 
+
+</div>
+
+**93**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb sȝ-ẖbw*  
+  
+For Heka  
+Lord of Sakhebu (near Letopolis).
+
+</div>
+
+**94**  
+<div class="col2">
+
+^27^ *n Ḥkȝ*  
+*zȝ Sḫm.t*  
+*nb pr-Mȝnw*  
+  
+^27^ For Heka  
+son of Sakhmet,  
+Lord of Per-Manu (Western Delta).  
+
+</div>
+
+**95**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*zȝ Sḫm.t*  
+*tp ỉn.t*  
+  
+For Heka  
+son of Sakhmet,  
+presiding over the Valley.
+
+</div>
+
+**96**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb ḫȝs.t [ṯmḥw?]*  
+    
+For Heka  
+Lord of the desert of the [Tjemehu?].
+
+</div>
+
+**97**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*smsw n ṯḥn.t*  
+  
+For Heka  
+eldest of Tjehenet (Libya).
+
+</div>
+
+**98**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nh ḥm.w=f*  
+  
+For Heka  
+who protects his servants.
+
+</div>
+
+**99**  
+<div class="col2">
+   
+*n Ḥkȝ*  
+*ʿšȝ ỉḫt*  
+  
+For Heka   
+plentiful of offerings.  
+
+</div>
+
+**100**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb kȝw*
+  
+For Heka  
+Lord of food.
+
+</div>
+
+**101**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*nb ḥtp.w*  
+*pr m-ȝw*  
+  
+For Heka  
+Lord of offerings,  
+which come forth entirely.
+
+</div>
+
+**102**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ʿḥʿ-ḥms* ^28^ *r ḫȝ.w=f*  
+  
+For Heka   
+who dines ^28^ at his offerings.
+
+</div>
+
+**103**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉr ẖr.t*  
+*n r' nb wnm*  
+  
+For Heka  
+who makes sustenance  
+for every mouth that eats.  
+
+</div>
+
+**104**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ỉwr m sf*  
+  
+For Heka  
+who was conceived yesterday.
+
+</div>
+
+**105**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ms m pȝ hrw*   
+  
+For Heka  
+who was born today.  
+
+</div>
+
+**106**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*rw ʿȝ štȝ *  
+*ḫnty Mȝnw*  
+  
+For Heka  
+great, mysterious lion,  
+foremost of Manu.  
+
+</div>
+
+**107**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*ms m wḥm*  
+ 
+For Heka  
+who was born again.
+
+</div>
+
+**108**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*kȝ wr n Rʿ*  
+  
+For Heka  
+great Ka of Re. 
+
+</div>
+
+**109**  
+<div class="col2">
+
+*n Ḥkȝ*  
+*pr-ʿ*  
+  
+*mȝȝ m-ḫt=f*  
+*(r) p(ȝ) wḫȝ n ỉmnty*  
+  
+For Heka  
+forthcoming of arm.  
+  
+(After this, look   
+to the column to the west).
+
+</div>
+
+NB: This hymns continues in [Esna 323].
+
+

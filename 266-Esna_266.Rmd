@@ -1,0 +1,194 @@
+## Esna 266 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 8
+- Date: Antoninus Pius
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=209){target="_blank"}  
+- Bibliography: Cf. entries in [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1070){target="_blank"}
+- Parallels: [Esna 381]; *Esna* VII, 622 (epithets of Menehwy)
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *mk smȝ*  
+*smȝ=ỉ m ḥr=k*  
+*ḫfty.w=k ḫr(.w)*  
+*[r ḫb.t]*  
+*ḫʿỉ=k r=sn*  
+*m km n ȝ.t*  
+*sḫm nsr.ty=k ỉm=s[n]*   
+  
+^1^ Behold the sacrificial bull (*smȝ*)
+which I slaughter (*smȝ*) before you.  
+Your enemies have fallen  
+[to the chopping block].[^fn-266-0]  
+You appear[^fn-266-1] against them  
+in the completion of a moment,  
+and your fiery uraei consume th[em].  
+
+</div>
+
+[^fn-266-0]: For the restoration, cf. *Philä* I, 60, 16-17.
+
+[^fn-266-1]: For the reading, see [Esna 381], 1. Alternatively, both versions could write *bsỉ*, "to come forth."
+
+#### The King {-}
+
+<div class="col2">  
+
+^2^ *nsw.t bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^3^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(ʿntnyns [nty-ḫwỉ])|*  
+  
+^4^ *[nṯr nfr]*
+*[q]n [gb]t.y*  
+*smȝ ḫfty.w=f*  
+*smȝ smȝ [...]*  
+*[...]*  
+*grg ỉr.t-Ḥr *  
+*ḥr s.t=s *  
+*[...] nswy.t*  
+*(ỉtryn[s nty]-ḫwỉ)|*  
+  
+^2^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^3^ Son of Re,  
+Lord of Appearances,  
+(Antoninus [Augustus])|  
+  
+^4^ [The good god],  
+[mi]ghty of [shoul]ders,  
+who slays his enemies,   
+and slays the bull [...]  
+[...]  
+recapturing the Eye of Horus  
+in her place  
+[...]  
+
+</div>
+
+#### Menehwy {-}
+
+<div class="col2">  
+
+^5^ *ḏd-mdw n Mnḥwy*  
+*ʿšȝ dm.w m ḥw.t-ḥtp*  
+*ḥry-ỉb ḥw.t-bȝ.w*  
+*khb nʿš dnỉ.wt*  
+*ʿȝ hmhm.t*  
+*nḏty n ỉt*  
+^7^ *mḥ-ỉb n Rʿ*  
+*hrw dmḏ*  
+*smȝ.n=f sbỉ.w*  
+*m ḫb.t=f*  
+*ḫfty.w ḫr(.w) *  
+*ẖr dm=f*  
+   
+^8^ *ỉỉ r sw=f*  
+*wn ʿȝ.wy m s.t-ʿȝ.t*  
+*ršw ms.w Rʿ*  
+*n mȝȝ=f*  
+   
+^9^ *dỉ=ỉ nḫt ʿ.wy=k*  
+*r ḥwỉ ḫfty.w[=k]*  
+*npḏ=ỉ sbỉ=k*  
+*m dm=ỉ*  
+  
+^5^ Words spoken by Menehwy,    
+numerous of knives in Hut-Hetep,[^fn-266-2a]  
+within Temple of the Bas;[^fn-266-2]  
+warrior, fierce of shouts,    
+great of battle cry,    
+guardian of the father (Khnum),  
+^7^ trusted one of Re,  
+on the day of battle.  
+He slaughtered the rebels  
+in his abattoir,  
+the enemies have fallen  
+beneath his knife.   
+  
+^8^ He who arrives on his day,  
+and opens the doors in the Great Place,   
+so the Children of Re rejoice    
+from seeing him.[^fn-266-3]  
+  
+^9^ I cause your arms to be strong  
+to strike down [your] enemies;  
+I stab your rebel  
+with my knife.
+
+</div>
+
+[^fn-266-2a]: This temple might literally be read "Temple of the Sunset", since it was associated with Manu and the West: @recklinghausen-2014, p. 139, n. 44.
+[^fn-266-2]: For the reading of this toponym, see [Esna 268], A; [Esna 381], 11; *Esna* VII, 622, 7.
+
+[^fn-266-3]: The Great Place was a sacred necropolis south of Per-netjer, as described in [*Esna* II, 130](https://bookdown.org/shemanefer/Esna2/intercolumnar-wall-a-and-north-east-door-127-133.html#esna-130). The primary ancestor deities were the Seven Children of Re, mentioned in *Esna* II, 130, 1-2; 163, 27; and depicted in *Esna* VII, 613.  Menehwy is one of the local gods who wold visit Esna during [Khoiak 1-6](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html?q=s.t-%CA%BF%C8%9D#khoiak-1-6), at which point multiple processions lead up to the Great Place to perform funerary offerings: see @recklinghausen-fremden, pp. 541-548.  The child god Heka opens the doors of the Great Place  during the festival of Hathor 22, in order to give offerings to the Children of Re: [Esna 340], 6.
+
+#### Isis of Asfun {-}
+
+<div class="col2">  
+
+^10^ *ḏd-mdw n Ỉs.t-ỉr.t-nfr.t*  
+*nb(.t) pr-Mȝnw*  
+*šps.t [wsr.t]*   
+*[...]*  
+^11^ *Rnnwt.t nfr.t*  
+*ḥnw.t np(ry)*  
+*nb(.t) sḫ.t [...]*  
+*[...]*  
+^12^ *wȝḥ ỉḫt n sn=s*  
+*m-ḫnt ʿbȝ*  
+*ḥnʿ nṯr.w [...]*  
+  
+^10^ Words spoken by Isis-*ỉr.t-nfr.t*,[^fn-266-4]   
+Lady of Per-Manu,[^fn-266-5]     
+august [and mighty][^fn-266-6]  
+[...]  
+^11^ Good Renenutet,   
+mistress of grain,   
+Lady of the Field [...]  
+[...]  
+^12^ to lay offerings for her brother,   
+within Aba,   
+along with the gods [...]  
+
+</div>
+
+[^fn-266-4]: This form of Isis was worshipped at Asfun alongside Menehwy: for references, see @recklinghausen-2014, p. 139, n. 42. She appears elsewhere in *Esna* VI, 523; *Esna* VII, 622.
+[^fn-266-5]: For this temple, see @recklinghausen-2014, p. 139, n. 43.
+[^fn-266-6]: This is a common sequence of epithets, and applies to Isis of Asfun in *Esna* VI, 523, 7.  
+
+#### Behind the Divinities {-}
+
+<div class="col2">  
+
+^13^ *nsw.-t-bỉty *   
+*mn[...]*  
+*[...]*  
+*ʿšȝ dm*  
+*ḥry-ỉb ḥw.t-ẖnmw*  
+  
+^13^ King of Upper and Lower Egypt,  
+[...]    
+[...]   
+numerous of knives   
+within the Temple of Khnum.  
+
+</div>

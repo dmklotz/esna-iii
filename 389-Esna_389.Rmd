@@ -1,0 +1,176 @@
+## Esna 389 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 18
+- Date: Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=416){target="_blank"}
+- Bibliography: @sauneron-5, pp. 225-226; see [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1414){target="_blank"}
+
+=<div class="col2">  
+
+^12^ *ky dwȝ ẖnmw*  
+*ḏd-mdw*  
+   
+^13^ *ỉnḏ-hr=k*  
+*ẖnmw-Rʿ nb tȝ-sn.t*  
+*Ptḥ tȝ-ṯnn*  
+*ḫnty ʿ-rsy*  
+*qmȝ ḥmw.wt*  
+*ḥr-ỉb ṯp[ḥ].t-ḏȝ.t*  
+*ỉt-ỉt.w*  
+*nṯr ʿȝ m ḥw.t-ỉt*  
+   
+*Šw rsy-ỉnb=f*  
+*ḫnty Ỉwny.t*  
+*ḏfn mnḫ *  
+*nb nṯr.w rmṯ.w*  
+*šȝʿ šȝy*  
+^14^ *nb msḫn.t *  
+*kȝ pw ḥry kȝ.w*  
+*wtṯ nṯr.w*  
+*qd ʿw.t nb*  
+*qmȝ pȝy.w*  
+*sḫp(r) ḫnn.w*  
+*ỉr.n=f ḥrr.w nb*  
+   
+^12^ Another hymn to Khnum.  
+Words spoken:  
+  
+^13^ Greetings,  
+Khnum-Re Lord of Esna!  
+Ptah-Tatenen,  
+foremost of the Southern District,  
+he who created the artisans  
+within the Blocked Gro[tt]o,  
+Father of Fathers,  
+great god in the Temple of the Father.  
+  
+Shu, South of his Wall,  
+foremost of Iunyt,  
+beneficent ancestor,  
+Lord of gods and people;  
+who began Shai,  
+^14^ lord of the birth-brick.  
+  
+He is the Ka, foremost of Kas,  
+who begat the gods,  
+who built all livestock,  
+who created birds,  
+who produced fish,  
+and he made all snakes.
+
+</div>
+
+<div class="col2">
+
+*qmȝ nty*  
+*ỉr wnn.t nb*  
+*wtṯ ỉḫt nb*  
+   
+*qmȝ ȝ.t=f *  
+*qmȝ ỉḫt nb*  
+*ḫp(r) kȝ.t nb *  
+*m r'-ʿ.wy=f*  
+^15^ *m rn=f pfy *  
+*n Km-ȝ.t=f*  
+  
+He who created what is,  
+who made all that exists,  
+and begat all things.  
+  
+He who created his moment (*qmȝ-ȝ.t=f*),  
+and created all things,  
+so that all works come about  
+through his actions,  
+^15^ in this his name  
+of Kematef (*Km-ȝ.t=f*).[^fn-389-1]    
+  
+</div>
+
+<div class="col2">  
+
+*ptḥ.n=f sw m ḫprw=f štȝ*  
+*m rn=f n Ptḥ*  
+   
+*ṯnỉ=f r nṯr.w nṯry.t*  
+*m rn=f pfy n tȝ-ṯnn*  
+   
+*bȝ n R m zp-tpy*  
+*shḏ.n=f tȝ.wy*  
+*wn(.w) m snk*  
+*ẖnmw nṯr.w nṯry.t*  
+^16^ *m st.wt=f*  
+*(m rn=f) pfy n *  
+*ẖnmw*  
+  
+He opened (*ptḥ*) himself  
+in his mysterious image[^fn-389-2]  
+in his name of Ptah (*Ptḥ*).   
+  
+He distinguished (*ṯnỉ*) himself   
+over the gods and goddesses,  
+in this his name of Tatenen (*tȝ-ṯnn*).  
+  
+Ba of Re in the initial moment,  
+he illumined the two lands  
+which were in darkness;  
+he who endows (*ẖnm*) gods and goddesses    
+^16^ with his rays,  
+(in) this (his name) of   
+Khnum (*ẖnmw*).[^fn-389-3]   
+
+</div>
+
+<div class="col2"> 
+
+*ỉmn=f sw r nṯr.w*  
+*m rn=f pfy n Ỉmn-wr*  
+   
+*šȝʿ.n=f ṯȝw*  
+*nn rḫ.tw=f*  
+*m rn=f pfy n Šw*  
+   
+*ḥsb ʿḥʿ*  
+*nb rnp.wt*  
+*m rn=f pfy n Ḏhwty *  
+  
+He hid (*ỉmn*) himself from the gods,  
+in this his name of great Amun (*Ỉmn*).  
+  
+He began (*šȝʿ*) the air  
+without being known  
+in this his name of Shu (*Šw*).  
+  
+He who calculates lifetimes,  
+lord of years,  
+in this his name of Thoth.  
+
+</div>
+
+[^fn-389-1]: This section details the first generations of Khnum as a primeval creator, similar to Theban theology concerning Amun. Kematef exists first, followed by the demiurge (Ptah-Tatenen-Irita), who emerges from Nun waters and creates the dry earth with the solar rays of his eyes. The determinative to Kematef here shows Khnum as a ram-headed crocodile.
+[^fn-389-2]: This "mysterious image" is likely a ram-headed crocodile like Kematef.
+[^fn-389-3]: ![](./images/389_16.png){width=17%} - The spelling of Khnum alludes to the current cosmogony. He is a crocodile emerging from the initial flood waters, similar to the divine crocodile depicted in *Esna* II, 112.
+
+<div class="col2">
+
+*mȝȝ r pȝ wḫȝ mḥty*  
+*m sḫr.w=f*  
+  
+(Now look to the column to the north  
+in its position).    
+
+</div>
+
+The hymn continues in [Esna 332].

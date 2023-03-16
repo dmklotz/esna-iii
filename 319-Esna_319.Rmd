@@ -1,0 +1,413 @@
+## Esna 319 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 12
+- Date: Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=289){target="_blank"}
+- Bibliography: @sauneron-5, pp. 233-242 (partial); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1203){target="_blank"}
+
+<div class="col2">
+
+^12^ *ỉr ḏsr sštȝ*  
+*m ḥb ʿḫỉ p.t*  
+*sʿq psḏ.t *  
+*nt nb nḥp*  
+*r s.t=sn*  
+*sr nṯr*  
+*ḏsr wȝ.t*  
+*ỉn ẖry-ḥb ḥry-tp*  
+   
+*sḫʿỉ nṯr ʿȝ pn*  
+*ỉr(.t) n=f ỉr.w nb n ẖn.t*  
+*mỉ nty r-ḥȝ.t*  
+*swʿb ḫft wḏȝ=f r pr=f*  
+*ḥtp ḥr s.t=f wr.t*  
+*m ʿnḏ wḏȝ*  
+   
+*smn nḥp*  
+^13^ *sḏfȝ ḫȝ.wt*  
+*sqr wdn.wt*  
+*n kȝ=f*  
+*ỉr(.t) ỉhȝy*  
+*m hȝw nỉw.t=f*  
+*r qȝ nt p.t*  
+*sṯỉ bs*  
+*ḏr zmȝw r ḥḏ-tȝ*  
+   
+^12^ As for sanctifying the mystery,    
+in the festival of Lifting up the Sky,    
+cause the Ennead  
+of the Lord of the Potter's Wheel  
+to enter to their places.   
+Announce the god   
+and sanctify the path   
+by the Chief Lector Priest.  
+  
+Carry this great god in procession,   
+and perform all navigation rites for him  
+as outlined above.  
+Purification when he goes to his temple,  
+and sits upon his great throne,   
+completely safe and sound.   
+  
+Install the potter's wheel,  
+^13^ provision the altars,    
+sacrifice offerings  
+for his Ka;  
+perform *ỉhȝy*-cries  
+all around his city  
+to the height of the sky.  
+Light torch(es),  
+from darkness until dawn.
+
+</div>
+
+<div class="col2">
+
+*ỉr(.t) ỉȝw zp-snw*  
+*n nṯr ʿȝ pn *  
+*štȝ šps*  
+*sḥtp kȝ=f*  
+*m sȝḫ.w nb.w nfr.w*  
+*ḏd-mdw*  
+   
+*ỉȝw zp-snw m ḥr=k nfr*  
+*ẖnmw nb=n r-ḏr=w*  
+*nṯr šps*  
+*qmȝ* ^14^ *ỉrw=f nb.w*  
+*m tp-ḥsb*  
+   
+*pr=ỉ m ḥr=k*  
+*ḥr dwȝ=k rʿ-nb*  
+*ỉr=ỉ n=k ỉȝw*  
+*m-ḥȝ.t nṯr.w*  
+*sḥtp=[ỉ] tw*  
+*m pḥwy psḏ.t*  
+*m.k twt nṯr nṯry*  
+*grg tȝ m kȝ.t=f*  
+*nb=ỉ ỉm=k*  
+*ḥm=k ỉm=ỉ*  
+    
+Making wonderful praise  
+for this great god,  
+august and mysterious.  
+Satisfying his Ka  
+with all good transfiguration hymns.  
+Words spoken:    
+  
+Praise, praise in your good face,  
+Khnum, our lord entirely!  
+August god,   
+who created ^14^ all his forms   
+perfectly.  
+  
+I come forth before you,  
+worshipping you, daily.  
+I make praise for you  
+as first of the gods;  
+[I] pacify you  
+as the last of the Ennead.  
+Behold, you are the divine god,  
+who populates the earth with his work.  
+You are my lord,  
+and I am your servant.
+
+</div>
+
+<div class="col2">
+
+*wr šfy.t=ỉ *  
+*m rn=k nb*  
+*ḫpr sḫr.w=ỉ*  
+*m wḏ kȝ=k*  
+*ʿnḫ ỉwf=ỉ*  
+*m nfw n rȝ=k*  
+*snb qsw=ỉ*  
+^15^ *m mḥy.t n fnḏ=k*  
+*šzp nṯry=ỉ ȝw.t-ỉb*  
+*n mȝȝ=k*  
+*hrw nfr hrw n mȝȝ=k*  
+   
+*nfr.wy dwȝ=k rʿ-nb*  
+*ḥb=ỉ tw m ḥb=k*  
+*ḥʿʿ=ỉ tw m ẖn.t=k*  
+*ḥtp ḥry-mk.t=ỉ*  
+*ḏr ḥtp=k m pr=k*  
+   
+*ỉb=ỉ r mȝȝ=k zp-snw*  
+*pȝ wr n pr-wr*  
+*ỉb=ỉ r mȝȝ=k zp-snw*  
+*ỉw=k m ỉhȝy r-nḥḥ*  
+^16^ *ỉw=k rwḏ.tw*  
+*m grg tȝ pn ḏ.t*  
+  
+My prestige is great    
+through all your names;    
+my condition exists   
+through the command of your Ka;  
+my body lives  
+through the breath of your mouth;  
+my bones are healthy  
+^15^ through the north-wind of your nose;  
+my heart becomes happy  
+from seeing you;  
+any day of seeing you is a holiday!  
+    
+How good it is to worship you, daily!  
+I celebrate you in your festival;  
+I rejoice you in your navigation ritual;  
+my heart is at peace (Htp)  
+since you dwell (Htp) in your temple.  
+  
+How my heart desires to see you,  
+o great one of the Per-wer!  
+How my heart desires to see you,   
+as you rejoice forever,  
+^16^ and as you continue  
+to populate this land, forever!  
+  
+</div>
+
+<div class="col2">
+
+*twt nb nḥp*  
+*mrỉ qd*  
+*nṯr mnḫ*  
+*grg tȝ m ỉrw ỉt bnr*  
+*ṯz pr.t ȝḫ.t*  
+*kȝ sṯỉ*  
+*ỉr mw m qs.w*  
+   
+*twt sḫm [wr]*  
+*ʿšȝ ỉrw*  
+*wȝḏ qd(?)*  
+*ỉr r nfr*  
+   
+*qd.n=k rmṯ.w*  
+*ỉr.n=k nṯr.w*  
+*nbỉ.n=k ʿ.wt mnmn.t*  
+*ẖnm.n=k ỉḫt nb.w*  
+*ḥr* ^17^ *nḥp=k rʿ-nb*  
+*(m) rn=k n ẖnmw-qd *   
+   
+You are Lord of the Potter's Wheel,    
+who loves building,    
+beneficent god,    
+who populates the earth  
+in the form of the 'Sweet Father',  
+who binds the excellent seed;  
+ejaculating bull,   
+who makes semen in bones.  
+   
+You are the [great] power,   
+numerous of forms,    
+excellent of character(?),  
+who acts for the good.  
+    
+As you built humans (*qd*),   
+so you made the gods,    
+and you fashioned all livestock,    
+and modeled (*ẖnm*) all things  
+upon ^17^ your wheel, daily,    
+(in) your name of Khnum (*ẖnmw*) the Builder (*qd*).  
+
+</div>
+
+<div class="col2">
+
+*twt ṯnỉ.n=k nsw.t m ẖ.t*  
+*ỉmỉ.tw qmȝ.n=k r-ȝw*  
+*n mrw.t sḥn n=f ḫt-mn*  
+*r ḥn.ty*  
+   
+*ỉ[w s]n.t nty r-ḥnʿ=k*  
+*ỉr=s mḥn.t m ḥȝ.t=f*  
+*m rn=s n Mnḥy.t*  
+   
+*ḫpr ḥm=k m nb n sḫ.t*  
+*ḥr ỉr(.t) mẖr.t*  
+*n qdỉ.n=k nb.w*  
+*sn.t=k nṯr.t*  
+*snsn.n=s tw *  
+*m* ^18^ *ww*  
+*m rn=s pfy*  
+*n Nb.t-ww*  
+*ẖnm=k sw *  
+*m Nwn r tr=f*  
+*ḥr sḫpr ʿnḫ n ỉr.wt nb*  
+*m rn=k pfy *  
+*n ẖnmw nb ʿnḫ*  
+  
+You are he who distinguished   
+the king in the womb,  
+from among all whom you created,  
+in order to assign him the entire world  
+for the limits of the future.  
+  
+The [si]ster who is beside you,    
+she acts as uraeus (*mḥn.t*) on his brow,   
+in her name of Menhyt (*Mnḥy.t*).  
+  
+When your Majesty is Lord of the Field,    
+making sustenance  
+for all whom you built on the wheel,    
+your divine sister,    
+she embraces with you  
+in/as ^18^ the agricultural area (*ww*),  
+in this her name  
+of Nebtu (*Nb.t-ww*).  
+You unite (*ẖnm*) with her  
+as Nun in his season,  
+producing life (*ʿnḫ*) for everybody (*ỉr.t nb*)  
+in this your name  
+of Khnum Lord of Life (*ẖnmw nb ʿnḫ*).  
+
+</div>
+
+<div class="col2">
+
+*wnn=k m zȝw*  
+*ḥr zȝ nḥp=k*  
+*sšm=k s(n)*  
+*m tȝ r-ȝw=f*  
+*sỉȝ.n=k msw=k*  
+*m bw nb*  
+*ỉw=k m bw nb*  
+*ỉw=k ỉmỉ.tw=n*  
+*m mnỉw* ^19^ *nfr*  
+   
+*swḏȝ=k zȝ mry=k*  
+*nsw.t-bỉty*  
+*nb-tȝ.wy *  
+*(pr-ʿȝ)|*  
+*m s.t nb.w*  
+*ỉwʿʿ=k pw*  
+*ỉr=f mr=k*  
+   
+You are also the Guardian,    
+guarding those you built  
+and you guide them  
+throughout the whole world.  
+You recognize your children  
+in all places,   
+since you are in all places,   
+you are even among us,  
+as the good ^19^ shepherd.  
+  
+May you preserve your beloved son,   
+the King of Upper and Lower Egypt,  
+Lord of the Two Lands,   
+(Pharaoh)|  
+in all places.  
+He is your heir,   
+who does what you desire.  
+  
+</div>  
+
+<div class="col2">
+
+*ỉw n=f kȝ.w fdw nb.w*  
+*nty r-ḫt=k*  
+*n(t)k nb=sn*  
+*m rn=k pfy*  
+*n tȝ-ṯnn*  
+   
+*ỉw n=f ʿnḫ ḏ.t*  
+*ntk ỉwn wr*  
+   
+*ỉw n=f ỉḫt ʿšȝ.w*  
+*ntk nb sḫ.t*  
+   
+*ỉw n=f ẖrd.w bnr.w*  
+*ntk ḥry nḥp*  
+   
+*ỉw* ^20^ *n=f qrs.t ʿȝ.t*  
+*ḥr-sȝ kḥkḥ*  
+*ntk ḫnty sḥ-nṯr*  
+  
+He has all the Four Kas  
+who follow you,   
+since you are their lord,  
+in this your name  
+of Tatenen.[^fn-319-1]  
+  
+He has life for all eternity,  
+since you are the Great Iun-pillar.  
+  
+He has plentiful food  
+since you are Lord of the Field.  
+  
+He has sweet children  
+since you are Chief of the Potter's wheel.  
+  
+He ^20^ has a great burial  
+after aging,  
+since you are Foremost of the Divine Tent.[^fn-319-2]  
+
+</div>
+
+[^fn-319-1]: The four Kas were a standard group of benefits often wished for in Egyptian funerary texts and autobiographies, and they were also deified as a group subservient to Ptah-Tatenen in Memphis: @wild; @sauneron-ka; @meeks-ka; @thiers-ka. Here each benefit is attributed to different aspects of Khnum, including unexpectedly "Foremost of the Sacred Tent", a title typically reserved for Anubis.
+
+[^fn-319-2]: Khnum here takes over a traditional role of Anubis during mummification, appropriate for a god who manipulates divine bodies. See also [Esna 250], 17-18; [Esna 355], 5, §31.
+
+<div class="col2">
+
+*wr.wy bȝw=k*  
+*m-ḫnt nṯr.w*  
+*ʿȝ šfy.t=k*  
+*ỉmỉ.tw psḏ.t*  
+*ḥr-ntt grg n tȝ*  
+*ẖr ʿ=k*  
+   
+*nn nmmw n ptr kȝ=k*  
+*grg pr*  
+*n šm ḥr mw=k*  
+*pȝ hn sw n rn=k*  
+*wḏb ms.w=f ḥr-sȝ=f*  
+*dwȝ=k nb*  
+^21^ *ẖr nḏm-ỉb rʿ-nb*  
+   
+*ḥtp ḥr-k nfr*  
+*n mnw (pr-ʿȝ)|*  
+*(zȝ)-Rʿ mry=k*  
+*ʿpr=k pr=f*  
+*m zȝ zȝ.t r-nḥḥ*  
+*sḏfȝ=f spȝ.t=k*  
+*m nfrw=f ḏ.t*  
+   
+How great is your power  
+within the gods!  
+Great is your prestige  
+among the Ennead,    
+since populating the earth  
+is under your control.  
+  
+Nobody tires from beholding your Ka:  
+you who populate the household  
+of whomever walks on your water.  
+Whoever bends himself to your name  
+his many children will multiply after him.  
+All who worship you  
+^21^ have happiness, daily.   
+  
+May your good face be kind  
+to the monument (of) (Pharaoh)|,  
+the (son) of Re, whom you love:  
+may you equip his domain  
+with sons and daughter forever;  
+and he will provision your district  
+with his goodness eternally.  
+
+</div>

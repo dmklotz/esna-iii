@@ -25,7 +25,7 @@
 ^A^ *nsw.t-bỉty  *   
 *ỉt-ỉt.w  *  
 *mw.t-mw.wt  *  
-*Rnn.t wsr.t  *  
+*šps.t wsr.t  *  
 *ḥnw.t nṯr.w-nṯry.t  *  
    
 *Km-ȝ.t=s(?)  *  
@@ -38,7 +38,7 @@
 ^A^ The King of Upper and Lower Egypt,  
 Father of fathers,  
 mother of mothers,  
-mighty Renenutet,  
+August[^fn-247-0] and mighty one,  
 mistress of gods and goddesses.  
   
 Kemates(?),[^fn-247-1]  
@@ -50,6 +50,7 @@ father and mother of every god
 
 </div>
 
+[^fn-247-0]: The serpent with a double crown is not Renenutet here, but an ideogram for *šps.t*, "mighty". This pair of epithets is very common, and a similar spelling occurs in [Esna 344], 11.
 [^fn-247-1]: ![](./images/247_A1.png){width=18%} - The penultimate sign is uncertain, but this appears to be a gender-correct variant of Kematef, the initial primeval serpent usually linked to Atum and Amun, but also elsewhere to Neith (e.g. [Esna 255], A).
 
 <div class="col2">  

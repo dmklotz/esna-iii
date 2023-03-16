@@ -1,0 +1,265 @@
+## Esna 344 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>   
+  
+  
+- Location: Column 14
+- Date: Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=332){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 41-43.
+
+<div class="col2"> 
+
+^11^ *ȝbd 3 ȝḫ.t sw 29*  
+*ʿȝb ỉḫt *  
+*ḫr.tw r psḏntyw*  
+   
+*ỉr ỉỉ wnw.t 4.nw m hrw pn*  
+*sḫʿ n šps.t wsr.t*  
+*Mnḥy.t-Nb.t-ww nb(.t) tȝ-sn.t*  
+*m ḥb=s nfr*  
+*n ḥb Ḥw.t-ḥr*   
+  
+*ỉỉ r t(ȝ) wsḫ.t n bnr*  
+*ẖnm ỉtn*  
+*ḥtp m (wsḫ.t)-ḫʿ*  
+   
+*ṯz wʿr.t=s m-bȝḥ=s*  
+*ỉn z.t*  
+*mzỉ mnḏ.ty=s m-bȝḥ=s*  
+*ỉn ḥmw.t*  
+   
+*dwȝ Ḥw.t-ḥr*  
+*m hrw(?)* ^12^ *pn*  
+*ḏd-mdw*  
+  
+^11^ III Akhet 29 (= [Hathor 29](https://bookdown.org/shemanefer/Esna2/calendar-i-55.html#hathor-29)),   
+Assembling offerings,  
+so the new moon (festival) is called.  
+  
+Now when the 3rd hour of this day arrives,  
+procession of the August and mighty,  
+Menhyt-Nebtu, Lady of Esna,  
+in her good festival,  
+the Hathor festival.  
+  
+Come to the outer courtyard,  
+union with the solar disk,  
+rest in the (courtyard) of appearances.  
+  
+Raising a leg before her  
+by a woman;  
+presenting breasts before her   
+by a lady.  
+  
+Praising Hathor  
+on this ^12^ day(?).  
+Words spoken: 
+
+</div>
+
+<div class="col2">
+
+*ỉnḏ-ḥr=t*  
+*Ḥw.t-ḥr wr.t*  
+*nb.t ʿgny*  
+*m hrw pn nfr*  
+*mry Rʿ m mȝȝ=s*  
+*rʿ nb*  
+   
+*sḥr ḏȝỉ m r'-wȝ.t=f*  
+*nḥm (pr-ʿȝ ʿnḫ.w ḏ.t)|*  
+*m-ʿ ỉḫt nb ḏw*  
+*nt rnp.t tn (r)-ḏr(?)=s *  
+  
+Greetings to you,  
+Hathor the great,  
+Lady of 'Agny,[^fn-344-1]  
+on this good day!  
+She whom Re loves to see  
+every day.  
+  
+Repel all evil from his path,  
+and rescue (Pharaoh living forever)|  
+from all evil things,  
+from this entire(?) year.  
+
+</div>
+
+[^fn-344-1]: This is a form of Hathor from a nearby town, who would visit Esna during the first days of Khoiak, and who featured in other local festivals. In *Esna* VI, 509, Hathor of 'Agny is shown receiving a bouquet "of all flowers" from the king, similar to the plant offerings mentioned in the present festival.
+
+<div class="col2">
+ 
+*ỉsk ỉr(.t) ʿȝb.t ʿȝ.t*  
+*m t ḥnq.t ỉḥw ȝpd.w*  
+*ỉḫt nb nfr*  
+*mȝ-ḥḏ gḥs ṯȝy-nỉȝ*  
+*ỉrp ỉrṯ.t snṯr bỉ.t*  
+*ḫȝ.w nb nḏm nb*  
+*sm.w rnp.w *  
+*dqr.w nb bnr*  
+*sšn nḫb wȝḏ*  
+     
+*ḥwỉ-ʿ r stp(.w)*  
+*rn (ỉ)wȝ*  
+*rn gḥs*  
+*rn mȝ-ḥḏ*  
+*t n mȝw*  
+  
+Meanwhile, perform the great offering,  
+of bread, beer, cattle, fowl,  
+all good things;  
+oryx, gazelle, male ibex,  
+wine, milk, incense, honey,  
+all good ingredients, all sweet things,  
+fresh plants,  
+all sweet fruits,  
+lotus blossoms and papyrus.  
+  
+Consecrating choice meats:  
+young beef,  
+young gazelle,  
+young oryx,  
+and fresh bread.  
+
+</div>
+
+<div class="col2">
+
+*ḥm.w ḥr bȝk=sn qmȝ=sn*  
+*mšʿ.w m ṯnỉ ʿšȝ*  
+*mỉ p(ȝ) nty r ʿḥʿy ʿȝ*  
+*n (mn-ḫpr-Rʿ)| (Ḏḥwty-ms)|*  
+   
+^13^ *ḥtp m wsḫ.t n bnr*  
+*ỉw ḥr=s r-ẖnw*  
+*r-ḏd*  
+   
+*mỉ zȝ-Rʿ*  
+*(pr-ʿȝ ʿnḫ.w ḏ.t)|*  
+*ʿȝb.t wr.w ʿb.w*  
+*nn ỉḏr=sn*  
+*mỉ nty r nt-ʿ*  
+   
+*dwȝ nṯr.t tn*  
+*ḏd-mdw*  
+  
+Servants with their tribute,  
+which they created,  
+masses of people in great numbers,  
+just as is on the great stela  
+of (Menkheperre)| (Thutmosis III)|  
+  
+^13^ Stop in the outer courtyard,  
+(while) she faces inside (the temple):  
+saying:  
+  
+'Come, son of Re,  
+(Pharaoh living eternally)|!  
+The enormous offering is purified,  
+without limits!'  
+Just as is on the ritual papyrus.  
+  
+Hymn (for) this goddess.  
+Words spoken:  
+
+</div>
+
+<div class="col2">
+
+*ỉnḏ-ḥr=t*  
+*Nb.t-ww ȝḫ.t*  
+*sḫp(r.t) wnn.t*  
+*Mnḥy.t *  
+*mḥn.t n(.t) Rʿ*  
+   
+*šzp.n bỉty sḫm*  
+*ỉn nsw.t ỉr sḫm*  
+*zp-4*  
+*r rsy.t mḥy.t ỉmnt.t ỉȝbt.t*  
+   
+*ỉỉ.n (pr-ʿȝ ʿnḫ.w ḏ.t)|*  
+*ḫr Mnḥy.t-Nb.t-ww*  
+*ḥnk wnšb*  
+*ḏd-mdw*  
+   
+*ỉỉ.n (pr-ʿȝ ʿnḫ.w ḏ.t)|*  
+*ḫr=t*  
+*Mnḥy.t-Nb.t-ww *  
+*nb(.t) tȝ-sn.t *  
+  
+'Greetings,  
+Nebtu the excellent,  
+who creates what exists!  
+Menhyt,  
+uraeus of Re!  
+  
+The *bỉty*-king has grabbed the sistrum,  
+the *nsw*-king shakes the sistrum,  
+four times:  
+to the south, north, west, and east.'  
+  
+(The hymn): (Pharaoh living eternally)| has come  
+before Menhyt-Nebtu.  
+Offering the *wnšb*-symbol.  
+Words spoken:    
+  
+'(Pharaoh living eternally)| has come  
+before you,  
+Menhyt-Nebtu,  
+Lady of Esna! (...) '   
+
+</div>
+
+<div class="col2">
+
+*rdỉ ʿm(ry.t) wʿb(.t)*  
+*ḥp.tỉ m ỉrṯ.t*  
+*ḥnk ỉrp ḥnq.t*  
+*ỉr(.t) snṯr*  
+*ḥnk ẖms(.w) rnp(.w) dqr(.w)*  
+*mzỉ nḫb* ^14^ *sšn*  
+*ḥnk wȝḏ*  
+*ḥnk sšn-ḥḏ*  
+*ḥnk sm.w*  
+*mzỉ pȝ mnw *  
+*n Nb.t-ww-Mnḥy.t*  
+   
+*ḫr ỉr.tw mỉ nn*  
+*m ḫft-ḥr n Pr-nṯr*  
+*mỉ nty šd.tw (n) ḥm=s *  
+*m ʿnḫ wḏȝ s(nb) *  
+*m Ỉwny(.t)*  
+  
+Giving a (figure) of a pure milk-cow  
+filled with milk.  
+Offering wine, beer.  
+Performing incense.  
+Offering wheat, fresh plants ([Esna 286]), fruits ([Esna 288]).  
+Presenting varieties of lotus ^14^ flowers.[^fn-344-2]   
+Offering papyrus ([Esna 291]).  
+OPffering the white lotus ([Esna 274])  
+Offering plants.  
+Presenting the *mnw*-beverage,  
+for Nebtu-Menhyt.   
+  
+Now one does the same  
+in front of Per-netjer,  
+just like what is recited for her Majesty,  
+in life, prosperity, health,  
+in Iunyt.    
+
+</div> 
+
+[^fn-344-2]: Many of these specific plant offerings are presented to Khnum on Columns 9 and 10.

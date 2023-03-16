@@ -1,0 +1,856 @@
+## Esna 233 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 5
+- Date: Probably Trajan
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=137){target="_blank"}  
+- Bibliography: @sauneron-8, pp. 24-27, 64-66. See also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1001){target="_blank"}
+- Parallels: Multiple epithets occur verbatim in the great hymn to Menhyt: [Esna 251].
+
+
+<div class="col2">  
+
+^14^ *ỉr(.t) p(ȝ) wdn n Mnḥy.t *  
+*m hrw pn mỉ rʿ-nb  *  
+*ḏd-mdw  *  
+
+^14^ Performing the litany of Menhyt  
+on this day like every day.  
+Words spoken:  
+
+</div>
+
+<div class="col2">
+
+^15^ *wdn n Mnḥy.t wr.t  *  
+*nb.t ḫnt-tȝ*  
+*m rn(.w)=s nb(.w)*  
+*ḥr-tp ʿnḫ-wḏȝ-snb  *  
+*n nsw.t-bỉty  *  
+*(pr-ʿȝ ʿnḫ(.w) ḏ.t)|  *  
+  
+^15^ Offering for Menhyt the great,   
+Lady of Khent-ta,   
+in all her names,  
+in addition to the life, prosperity, health    
+for the King of Upper and Lower Egypt,  
+(Pharaoh, living forever)|   
+
+</div>
+
+**1**  
+<div class="col2">
+
+*n Mnḥy.t wr.t*     
+*nb(.t) ḫnt-tȝ*  
+  
+For Menhyt the great,  
+Lady of Khent-ta.  
+
+</div>
+
+**2**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*nb.t wp-tȝ m tȝ-sn.t*  
+  
+For Menhyt,  
+Lady of Wep-ta in Esna.  
+
+</div>
+
+**3**  
+<div class="col2">
+
+*n Nb.t-ww *  
+*nb(.t) tȝ-sn.t*  
+  
+For Nebtu,  
+Lady of Esna.  
+
+</div>
+
+**4**  
+<div class="col2">
+
+*n Nb.t-ww*  
+*ỉr.t-Rʿ ḥr.t s.t wr.t*  
+    
+For Nebtu,  
+Eye of Re upon the Great Throne.
+
+</div>
+
+**5**  
+<div class="col2">
+
+*n Mnḥy.t*     
+^16^ *nb(.t) hn*  
+  
+For Menhyt,   
+^16^ Lady of the chest.
+
+</div>
+
+**6**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*nb.t tmm.w*   
+
+For Menhyt,  
+Lady of all people.  
+
+</div>
+
+**7**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*mḥn.t Tm.t*  
+
+For Menhyt,  
+uraeus, Temet.  
+
+</div>
+
+**8**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t pr-wr*  
+  
+For Menhyt,  
+Lady of the Per-wer.  
+
+</div>
+
+**9**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t pr-nsr*  
+  
+For Menhyt,  
+Lady of the Per-neser.
+
+</div>
+
+**10**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb(.t) pr-nw*  
+  
+For Menhyt,  
+Lady of the Per-nu.
+
+</div>
+
+**11**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*nb.t wrr.t*   
+*ḥr.t-ỉb ʿḥ wr*  
+  
+For Menhyt,  
+Lady of the double crown  
+within the great palace.
+
+</div>
+
+**12**  
+<div class="col2">
+
+*n Mnḥy.t-N.t*   
+^17^ *wr wr.w*  
+  
+For Menhyt-Neith,  
+^17^ greatest of the great. 
+
+</div>
+
+**13**  
+<div class="col2">
+
+*n Mnḥy.t-Spd.t*  
+*nb(.t) tp-rnp.t*  
+  
+For Menhyt-Sothis,  
+Lady of the New Year.
+
+</div>
+
+**14**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*ḥȝy(.t) m ḥʿpỉ*  
+  
+For Menhyt,  
+who floods as the Inundation.
+
+</div>
+
+**15**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*wȝḏwȝḏ(.t) šny.w-tȝ*  
+  
+For Menhyt,  
+who makes plants verdant. 
+
+</div>
+
+**16**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb(.t) pȝwty.w*  
+
+For Menhyt,  
+Lady of the Primeval ones.
+
+</div>
+
+**17**  
+<div class="col2">
+
+*n Mnḥy.t*    
+*nb.t wȝḏ*  
+
+For Menhyt,  
+Lady of the *wȝḏ*-hall.
+
+</div>
+
+**18**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*m mḥn.t* ^18^ *m tp n Rʿ*  
+  
+For Menhyt,  
+as the uraeus ^18^ on the head of Re.
+
+</div>
+
+**19**  
+<div class="col2">
+
+*n Mnḥy.t*       
+*ḥȝy(.t) m šww*  
+  
+For Menhyt,  
+who shines as the sun.  
+
+</div>
+
+**20**  
+<div class="col2">
+
+*n Mnḥy.t*    
+*Rʿy.t sḥḏ(.t)*    
+  
+For Menhyt,  
+Rayet, who illumines the two lands.
+
+</div>
+
+**21**  
+<div class="col2">
+
+*n Mnḥy.t*    
+*ḥȝy(.t) m mḥy.t*
+  
+For Menhyt,  
+who blows as the north-wind.    
+
+</div>
+
+**22**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*mḥy.t nfr.t*  
+   
+For Menhyt,  
+the good north-wind.
+
+</div>
+
+**23**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*wrh n=s Šw*  
+   
+For Menhyt,  
+for whom Shu dances.
+
+</div>
+
+**24**  
+<div class="col2">
+
+*n Mnḥy.t*   
+*ḫʿỉ(.t) m bȝw=s*  
+   
+For Menhyt,  
+who appears in her power.  
+
+</div>
+
+**25**  
+<div class="col2">
+
+*n Mnḥy.t*   
+*ḫnt(.t) ḥw.t-ỉt*  
+  
+For Menhyt,  
+within Temple of the Father.
+
+</div>
+
+**26**  
+<div class="col2">
+
+*n Mnḥy.t*    
+*ḫnt(.t) ḥw.t-Mw.t *  
+   
+For Menhyt,  
+within Temple of the Mother.  
+</div>
+
+**27**  
+<div class="col2">
+
+*n Mnḥy.t*    
+*ḫnt(.t) ḥȝ.t-nỉw.wt*  
+   
+For Menhyt,   
+within First of the Cities (Elephantine).  
+
+</div>
+
+**28**  
+<div class="col2">
+
+*n Mnḥy.t*       
+*ḫnt(.t) sḫ.t*   
+  
+For Menhyt,  
+within the Field.  
+</div>
+
+**29**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*ḫnt(.t) Pr-ẖnmw*  
+   
+For Menhyt,  
+within Per-Khnum.
+
+</div>
+
+**30**  
+<div class="col2">
+
+*n Mnḥy.t*    
+*ḫnt(.t) Pr-nṯr*  
+    
+For Menhyt,  
+within Per-netjer.
+
+</div> 
+
+**31**  
+<div class="col2">
+
+^20^ *n Mnḥy.t*  
+*wsr.t m tȝ-šmʿ*  
+    
+For Menhyt,   
+Mighty one in Upper Egypt. 
+
+</div>
+
+**32**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*sḫm.t m tȝ-mḥw*  
+  
+For Menhyt,   
+Sakhmet in Lower Egypt.
+
+</div>
+
+**33**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*Wȝḏy.t N.t*  
+*m s.t=sn nb.w*  
+  
+For Menhyt,   
+Wadjyt, Neith,  
+in all their places.
+
+</div>
+
+**34**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t ʿnḫ-tȝ.wy*    
+  
+For Menhyt,   
+Lady of Ankh-tawy (Memphis).
+
+</div>
+
+**35**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t ḥqȝ-ʿnḏ*    
+  
+For Menhyt,   
+Lady of Heqa-andj (Heliopolis).
+
+</div>
+
+**36**  
+<div class="col2">
+
+*n Mnḥy.t*   
+*nb.t N.t*    
+    
+For Menhyt,  
+Lady of the Neith nome.  
+
+</div>
+
+**37**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t Ỉwnw-šmʿ*  
+  
+For Menhyt,     
+Lady of Upper Egyptian Heliopolis.  
+
+</div>
+
+**38**  
+<div class="col2">
+
+^21^ *n Mnḥy.t*     
+*Mw.t wr.t *   
+*nb.t Ỉšrw*  
+  
+^21^ For Menhyt,   
+Mut the great,    
+Lady of the Isheru lake.  
+
+</div>
+
+**39**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*[...]*  
+  
+For Menhyt  
+[...] 
+
+</div>
+
+**40**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*mnḥ(.t) tp.w *  
+*n ḫfty.w=s*  
+    
+For Menhyt,   
+who chops off the heads  
+of her enemies.  
+
+</div>
+
+**41**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*dr(.t) šsr(.w)*     
+*r ḫfty.w nb(.w) nw Rʿ*  
+  
+For Menhyt,     
+who sends arrow(s)  
+against all the enemies of Re.
+
+</div>
+
+**42**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*ḥwỉ(.t) ḫfty n Ḥr=s*    
+    
+For Menhyt,   
+who slays the enemy of her Horus.
+
+</div>
+
+**43**  
+<div class="col2">
+
+^22^ *n Mnḥy.t ʿḥȝ.t*  
+*ḥwỉ(.t) ẖȝk.w-ỉb.w*
+
+^22^ For Menhyt the warrior,  
+who slays the disaffected ones. 
+
+</div>
+
+**44**  
+<div class="col2">
+
+*n Mnḥy.t Mȝfd.t*  
+*sḫr(.t) ḫfty.w=s*  
+  
+For Menhyt-Mafdet,  
+who fells her enemies.
+
+</div>
+
+**45**  
+<div class="col2">
+
+*n Mnḥy.t*   
+*Rȝy.t wr.t *  
+*ḥnw.t tȝ.wy*  
+    
+For Menhyt,  
+Rayet the great,  
+Mistress of the Two Lands.
+
+</div>
+
+**46**  
+<div class="col2">
+
+*n Mnḥy.t*  
+*ʿȝ sḫr.w m qbḥ.wy*  
+
+For Menhyt,    
+great of plans in the two lands.  
+
+</div>
+
+**47**  
+<div class="col2">
+
+*n Mnḥy.t-Sḫm.t*  
+*sḫm(.t) (m) rky.w*  
+    
+For Menhyt-Sakhmet,   
+who has power over the rebels.
+
+</div>
+
+**48**  
+<div class="col2">
+   
+*n Mnḥy.t-Bȝst.t *  
+*wbd(.t) ḫfty=s*  
+   
+For Menhyt-Bastet,  
+who burns her enemy.
+
+</div>
+
+**49**  
+<div class="col2">
+
+*n Mnḥy.t-Wȝḏy.t*  
+*wḏ(.t) ʿnḫ *  
+*n mr=s*  
+   
+For Menhyt-Wadjyt,  
+who bestows life  
+to whomever she pleases.
+
+</div>
+
+**50**  
+<div class="col2">
+
+*n Mnḥy.t-Ḥdd.t*  
+*ḥʿʿ.tw n mȝȝ=s*  
+   
+For Menhyt-Hededet,  
+who one rejoices to see.
+
+</div>
+
+**51**  
+<div class="col2">
+
+*n Mnḥy.t-Tfn.t*   
+*ḥr.t-tp n.t Rʿ*  
+
+For Menhyt-Tefnut,  
+uraeus of Re.  
+
+</div>
+
+**52**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*ỉr.t-Rʿ* ^24^ *wḏ(.t) mȝwy*  
+  
+For Menhyt,   
+Eye of Re, ^24^ who emits radiance.
+
+</div>
+
+**53**  
+<div class="col2">
+
+*n Mnḥy.t*   
+*Rpy.t wr.t*  
+   
+For Menhyt,   
+great Repit.
+
+</div>
+
+**54**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*wnm(.t) ỉḫt nb.w rkḥ*  
+  
+For Menhyt,   
+who eats all things grilled.
+</div>
+
+**55**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*wnm(.t) wȝḏ r mr=s*  
+    
+For Menhyt,   
+who eats raw meat as she pleases.
+
+</div>
+
+**56**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*ḫȝḫ(.t) wpwty.w*  
+  
+For Menhyt,   
+who dispatches the messenger demons.
+
+</div>
+
+**57**  
+<div class="col2">
+
+*n [M]n[ḥy.t]*   
+*dỉ(.t) ʿnḫ *  
+*n nty ḥr mw=s*  
+   
+For [Me]n[hyt],     
+who gives life  
+to whomever is loyal to her.
+
+</div>
+
+**58**  
+<div class="col2">
+
+*n Mnḥy.t*     
+^25^ *ḫwỉ(.t) nỉw.t=s*    
+  
+For Menhyt,   
+^25^ who protects her city.
+
+</div>
+
+**59**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t ḫnt-tȝ*  
+*ỉr.t-Rʿ Bȝst.t*  
+     
+For Menhyt,   
+Lady of Khent-ta,  
+Eye of Re, Bastet.  
+
+</div>
+
+**60**  
+<div class="col2">
+
+*n Mnḥy.t*   
+*nb.t ḫnt-tȝ*  
+*r-mn pḥw*  
+*ḫnt.t sḫ.t*  
+   
+For Menhyt,     
+Lady of Edge of the Earth  
+all the way to the Pehus,[^fn-233-1]  
+foremost of the Field.
+
+</div>
+
+[^fn-233-1]: ![](./images/233_25_60.png){width=32%} - This epithet occurs in the main Menhyt hymn [Esna 251], 24: ![](./images/251_24_9.png){width=28%}, as well as *Esna* VII, 552, 7: ![](./images/552_7_1.png){width=20%}. Based on the context, the first toponym might not be identical with Khent-ta, the usual cult center of Menhyt, but a homonymous designation for the southern border of Egypt (*Wb* III, 306, 6-7). The location of *ḫnt-tȝ* in Esna has never been established, however, so it is at least theoretically possible that Menhyt's original home was closer to Elephantine.
+
+
+**61**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t Ỉwny.t*  
+  
+For Menhyt,   
+Lady of Iunyt.  
+
+</div>
+
+**62**  
+<div class="col2">
+
+*n Mnḥy.t*   
+*ỉỉ(.t) ḥnʿ sn=s Šw*  
+*m [...]*  
+    
+For Menhyt,  
+who comes with her brother Shu   
+as/in/from [...]   
+
+</div>
+
+**63**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*nb.t tḫ *  
+*ʿšȝ ḥb.w*  
+*ḥnk.tw n=s mnw*  
+  
+For Menhyt,   
+Lady of Intoxication,  
+numerous of festivals,  
+to whom one offers the *mnw*-drink. 
+
+</div>
+
+**64**  
+<div class="col2">
+
+^26^ *n Mnḥy.t*   
+*Šw ḥnʿ=s*  
+*r sḥtp=s*  
+  
+^26^ For Menhyt,  
+Shu is with her,  
+in order to pacify her.
+
+</div>
+
+**65**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*m rn.w=s nb.w*  
+   
+For Menhyt,   
+in all her names.
+
+</div>
+
+**66**  
+<div class="col2">
+ 
+*n Mnḥy.t*     
+*m ḫprw.w=s nb.w*  
+  
+For Menhyt,   
+in all her forms.
+
+</div>
+
+**67**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*m sštȝ.w=s nb.w*  
+  
+For Menhyt,   
+in all her secret images.
+
+</div>
+
+**68**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*m s.wt=s nb.w*    
+   
+For Menhyt,   
+in all her thrones.
+
+</div>
+
+**69**  
+<div class="col2">
+
+*n Mnḥy.t*     
+*m bw.w nb.w*   
+*mr kȝ=sn ỉm*   
+   
+^27^ *dỉ=sn ʿnḫ-ḏd-wȝs nb*  
+*snb nb*  
+*n zȝ-Rʿ*  
+*(pr-ʿȝ ʿnḫ(.w) ḏ.t)|*  
+*mỉ Rʿ ḏ.t*  
+  
+For Menhyt,   
+in all places,  
+where their Kas love to be.[^fn-233-2]  
+   
+May they give all *ʿnḫ-ḏd-wȝs*,  
+all health,   
+to the son of Re,  
+(Pharaoh living eternally)|  
+like Re, forever.  
+
+</div>
+
+[^fn-233-2]: At this point, the hymn switches to the third person plural. Either referring to the many manifestations of Menhyt, or alluding to the duality Menhyt-Nebtu.

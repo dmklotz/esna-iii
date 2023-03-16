@@ -1,0 +1,551 @@
+## Esna 260 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 8
+- Date: Antoninus Pius 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=199){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 358-363; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1055){target="_blank"}
+
+<div class="col2">  
+
+*rs.w nw Šw*  
+*ḏd-mdw*  
+  
+The Awakenings of Shu.  
+Words spoken:
+
+</div>
+
+**§1**
+<div class="col2">
+
+*rs=k nfr*  
+*nhp.n=k m dwȝw*  
+*ỉtn=k r mȝȝ ỉtn*  
+*nhs nṯr.w r mȝȝ nfrw=f*  
+*ʿnḫ=sn m st.wt=k*  
+*fȝỉ=k ḥr=k*  
+*ṯz=k r'.w*  
+*ỉr=k* ^5^ *mṯn ḥr šm*  
+*ỉr=k ẖr.t *  
+*n r' nb ḥr wnm*  
+*ʿ.wt mnmn.t ḏdf.wt rm.w ȝpd.w*  
+  
+May you awake beautifully!  
+When you burst forth in the morning,  
+replacing yourself(?) to see the sundisk.  
+Gods awake to behold your beauty,  
+since they live from your rays.  
+As you lift up your face,  
+so you attract mouths;  
+as you make a ^5^ path while moving,  
+so you creat sustenance  
+for all eating mouths:  
+livestock, serpents, fish, birds.  
+</div>
+
+<div class="col2">
+
+*hb=k wȝwȝ.w m sbḫ.t dwȝ.t*  
+*pẖr=k qr.ty štȝ.wt*  
+   
+*dwȝty.w ḥr ʿḏʿḏ n mȝȝ=k*  
+*nhs=k nȝ bȝ.w ỉqr.w*  
+   
+*dỉ=k ḥw.t-ʿȝ.t m mrḥ sk*  
+^6^ *m-ḫm ṯb.ty=k*  
+*ḥȝp=k štȝ.wt*  
+*r ỉmn sḫr.w=k*  
+  
+You emit rays past the portal of the Duat,  
+and you go around the mysterious grottoes.  
+   
+Those of the Duat rejoice to see you,  
+as you awaken the excellent Bas.[^fn-260-1]  
+  
+You put the Great Palace in decline,  
+^6^ without (the presence) of your sandals,  
+you cover the mysteries,  
+in order to hide your conditions.[^fn-260-2]
+
+</div>
+
+[^fn-260-1]: The descent of Re into the Duat is a classic theme for a solar hymn. In the festival context of Epiphi 19-20, this should also refer to Khnum the Good Protector visiting Re-Atum and the blessed dead within the divine Necropolis of the Great Place and the Red Lake: [Esna 197].
+
+[^fn-260-2]: The same language is employed to describe Re hiding himself from his enemies during Payni 9: [Esna 196], 3-4. 
+
+<div class="col2">
+   
+*kfȝ=k ʿfn*  
+*bȝq dwȝ.t*  
+*m ḥʿʿ n nw=k*  
+   
+*wnf=k ỉ(ȝ)kb*  
+*dr=k mḥr*  
+*n nȝ bȝ.w ȝṯpty.w*  
+   
+*wḏb=k r r'-ʿ=k n sf*  
+*pẖr=k štȝ.wt*  
+*n ỉḫm.w-wrḏ.w*  
+*ỉw=k (ḥr) qd r šzp=k*  
+*r ẖnm pr-wr m skt.t*  
+*wỉȝ=k m ḥʿʿ ẖr sšm=k*  
+*ntk pw wḥm n Rʿ*  
+  
+You reveal what was covered,    
+and the Duat is radiant,  
+rejoicing to behold you.   
+      
+As you cheer up the weeping,    
+so do you repel bitterness,     
+from the burdened souls.  
+  
+You return to your position of yesterday,  
+as you go around the mysterious regions  
+of the indefatigable stars.  
+You sail as you desire,  
+to join the Per-Wer in the day bark.  
+Your bark rejoices carrying your image:  
+for you are the replica of Re.
+
+</div>
+
+**§2**
+<div class="col2">
+
+^7^ *rs=k nfr*  
+*wbn=k m (ỉ)ʿḥ*  
+*mḥ.n=k nȝ bȝ.w dmḏ(.w)*  
+*ʿpr.n=k wḏȝ.ty*  
+*m r'.w=sn*  
+   
+*ḫprw=k m nḫt n Rʿ*  
+*zḫn.tw ṯȝ.ty ỉm r-ḥnʿ=k*  
+*bqȝ.tw mḥn.t*  
+*ḫrs.n=k snk.t m ḥr.t*  
+*m ỉnm nfr n ỉtn*  
+*ỉb=k sṯỉ=sn m ỉr.ty*  
+  
+^7^ May you awake beautifully!  
+You shine as the moon,   
+as you completed the United Bas,   
+so have you equipped the two *wedjat*-eyes  
+with their parts.  
+   
+Your manifestation is the champion of Re,    
+the two children are united there with you,  
+and the uraeus is radiant;  
+that you have repelled darkness from the sky  
+is with the beautiful color of your disk,  
+from your desire that they all see  
+by means of the two (celestial) eyes.  
+
+</div>
+
+<div class="col2">
+ 
+*ỉr.n=k snḫḫ*  
+*wp.n=k ȝbd nb*  
+*r ms(.t) rnp.wt*  
+^8^ *ỉn.n=k smd.t ỉmỉ.tw=sn*  
+   
+*dỉ.n=k dmḏy.t*  
+*n pr ỉm=k*  
+*r ṯz ỉwʿʿ n nṯr.w*  
+*m ḫprw=k*  
+   
+*nsw.t nḥḥ*  
+*ỉn.n=k ḏ.t*  
+*dwȝty ḥwnw*  
+*ỉỉ.tw m mȝwy*  
+    
+As you have performed rejuvenation,[^fn-260-3]    
+so you separated every month,   
+in order to produce years;    
+^8^ you have attained the full moon in between.  
+  
+You have set the appointed time  
+for those who come forth from you,   
+to select an heir for the gods   
+in your manifestation:  
+  
+King of cyclical eternity,    
+having achieved linear eternity;  
+rejuvenated star of the morning,    
+who arrives anew.
+
+</div>
+
+[^fn-260-3]: @sauneron-5, p. 360 understood the verb as: *ỉr.nk zȝ nḫḫ*, "ayant assuré la protection de l'astre devenu vieux." However, context suggests this refers to the new moon, and hence the verb is more likely the causative *snḫḫ*, "to rejuvenate."
+
+**§3**
+<div class="col2">
+
+*rs nfr*  
+*spr=k m Ḥʿpỉ*  
+*mḥ.n=k tȝ.wy nb.w*  
+*m rḏw=f*  
+   
+*ỉt nṯr.w*  
+*ḫp(r) ḏs=f*  
+*ỉmn ỉwty rḫ=f*  
+*Nwn wr*  
+*ỉwḥ ȝḫ(.t)*  
+*ms pr.t nb.w*  
+*šny.w nb.w ḥrr.w nb.w*  
+   
+^9^ *qmȝ m r'-ʿ.wy=k*  
+*ḫwỉ.n=k nṯr.w*  
+*sḏfȝ.n=f ḫm.w=sn*  
+*sʿšȝ.n=k pȝ.t rḫy.t*  
+*sšm=k r' nb ḥr wnm*  
+  
+Awake beautifully!  
+You arrive as Hapi,  
+having filled all the lands  
+with your efflux.  
+  
+Father of the gods,  
+who came into existence himself,  
+hidden, without being known;  
+Great Nun,  
+who floods the field,  
+and creates all seeds,  
+all plants and all flowers.  
+  
+^9^ He who creates with your activity,  
+as you protected the gods,  
+so you provisioned their shrines;  
+you multipled elites and commoners,  
+and you guide all eating mouths.  
+</div>
+
+<div class="col2">
+
+*nfy ḥr nn*  
+*ẖr.t=sn pr(.w) ỉm=k*  
+*pr Ḥʿpỉ m ṯpḥ.t=k*  
+*ẖr ṯb.ty=k*  
+*ṯpḥ.t Nwn r sḫnt=f*  
+   
+*ntk pw pr m swḥ(.t)*  
+*mḥy.t ḫnm n fnḏ=k*  
+^10^ *r sʿnḫ ḥr.w-nb.w*  
+   
+*nḫb.n=k tȝ pn *  
+*m ḫprw=k*  
+*ntk pw sḫm n Rʿ-Ḫr-ȝḫty*  
+*ỉỉ n=k nṯr.w m dḥn tȝ*  
+*m ḥtp=k ns.t n Rʿ*  
+*ṯȝty(?)*  
+*nn snw=k*  
+*wp-ḥr=k wʿ.w*  
+   
+*wȝḥ.n=k spȝ.wt nỉw.t*  
+*m qmȝ.n ỉb=k*  
+*ms.n=k ʿḫm.w=sn*  
+*psš.n=k wnn.t nb*  
+*nt(y) m ḫm=sn*  
+*m qd=s(n) n ʿnḫ*  
+  
+This and that,  
+their sustenance comes forth from you;  
+Hapi emerges from your grotto,  
+beneath your sandals:   
+(from) the grotto of Nun until it advances.  
+  
+It is you who comes forth as air,  
+the northwind is the breath of your nose,  
+^10^ in order to enliven everybody.  
+  
+You have assigned this land  
+in your manifestation.  
+For you are the image of Reharakhty,  
+the gods come to you bowing to the ground,  
+when you occupy the throne of Re,  
+as the vizier(??),   
+without your equal,    
+except you alone.  
+   
+That you established nomes and cities,    
+was according to your heart's plan;  
+you fashioned their divine images,  
+and you apportioned all that exists
+which is in their shrines  
+in their living forms.  
+ 
+</div>
+
+**§4**
+<div class="col2">
+
+*rs=k nfr*  
+*šȝʿ.n=k ḫp(r)*  
+*ṯz.n=k ẖ.t n nṯr.w*  
+*tȝ pn mḥ(.w) ẖr ỉr.n=k *  
+*wḏ ỉb n qmȝ.n=k*  
+   
+*ỉỉ.n=k m snw n ỉt=k*  
+*wȝḥ=k*  
+*ỉr.n=k msq*  
+*ḫy nḥp m ḏr.t=f*  
+*mn qmȝ pw*  
+*wn r-ḥȝ.t Rʿ pw*  
+*pr m fnḏ=f*  
+  
+May you awake beautifully!  
+As you begin creation,  
+so you bound the body of the gods.  
+This earth is filled with what you made,    
+who commands the heart of what you created. 
+  
+You arrived as the second of your father,  
+as you endure,  
+so you made the skin;   
+the potter's wheel is high in his hand,[^fn-260-4],   
+and the creator is stable.    
+That is, what was before Re,   
+and which came forth from his nose.  
+
+</div>
+
+[^fn-260-4]: @sauneron-5, p. refrained from translating this lines. This appears to be an allusion to scenes showing Khnum alongside his father, Ptah, fashioning human figures on two potter's wheels. 
+
+**§5**
+<div class="col2">
+
+*rs=k nfr*  
+*ḫprw=k m Ḥw*  
+*Sỉȝ pw m ḏ.t=k*  
+*ḫw.tw m zš*  
+*zmȝ.tw m ẖ.t n mw.t=k*  
+   
+*ỉỉ.tw m nḥḥ*  
+*ỉr.tw m wḏ=k*  
+*nn ḫsf.tw ḏd(.t)=k*  
+   
+^12^ *spr.n=k wʿ*  
+*msḫn(.t) pw m ḏ.t=k *   
+   
+May you awake beautifully!  
+Your manifestation is Hu,    
+that means Sia in your body.  
+Protected in writing,   
+united with the body of your mother.  
+  
+You have arrived as eternity,  
+and one acts according to your decree,   
+one cannot contradict what you say.   
+  
+^12^ You have arrived alone,  
+that means the birthbrick is in your body.
+
+</div>
+
+**§6**
+<div class="col2">  
+
+*rs=k nfr*  
+*dwȝ tw nṯr.w*  
+*swȝš tw ḥnmm.t*  
+*dỉ=k ṯȝw r fnḏ nb*  
+*dp=sn m hh ṯȝw=k*  
+   
+*Rʿ (ḥr) dr ḫfty.w=k*  
+*nṯr.w swȝš.n=sn *  
+*m nfrw=k*  
+  
+May you awake beautifully!  
+The gods worship you,  
+the sunfolk praise you.  
+Tou give air to every nose,  
+they taste the blaze of your breath.  
+  
+Re drives away your enemies,    
+and the gods rejoiced   
+through your goodness.  
+
+</div>
+
+**§7**
+<div class="col2">
+
+*rs=k nfr*  
+*ỉt nṯr.w*  
+*ẖnmw ỉnỉ-ḥr.t*  
+*Ḥr ṯmȝ-ʿ*  
+*rs Rʿ r mȝȝ nfrw=k*  
+*Ỉtm ḥtp=f m tȝ-ʿnḫ*  
+  
+May you awake beautifully!  
+Father of the gods,  
+Khnum Onuris,  
+Horus valiant of arm.  
+Re awakens to see your beauty,  
+(as does) Atum as he sets in the West. 
+</div>
+
+**§8**
+<div class="col2">
+
+*rs=k nfr*  
+*mswt n Rʿ*  
+*ỉwʿʿ mnḫ n ỉt=f*  
+   
+*nn wn*   
+^13^ *nhs tw m štȝ.t*  
+*nn qȝʿ=f m ẖ.t=s*  
+   
+*ỉỉ.n=k m wʿ*  
+*nn snw=f*  
+*wp-ḥr=k wʿ.w*  
+  
+May you awaken beautifully!  
+Image of Re,    
+beneficent heir of his father.   
+  
+There was nobody (else)   
+^13^ who might awaken you in the womb,   
+who might expel you from her belly.  
+   
+You arrived as one alone,    
+without his peer,  
+except for you alone.  
+
+</div>
+
+**§9**
+<div class="col2">  
+
+*rs=k nfr*  
+*p(ȝ) swḏȝ ỉb.w*  
+*zȝ.n=k ms.w=k*  
+   
+*ḏȝỉ=k ḥr.t ḥnʿ Rʿ*  
+*wṯz=k wʿr.t Nw.t*  
+  
+May you awake beautifully!  
+He who keeps hearts healthy,  
+having protected your children.  
+  
+As you sail the sky alongside Re,   
+so you lift up the leg of Nut.
+
+</div>
+
+**§10**
+<div class="col2">  
+
+*rs=k nfr*  
+*sqd ỉzy.t=k *  
+*šzp=sn*  
+*m ḥȝ.t wỉȝ=k*  
+  
+*spr.n=k ỉmnt.t n.t p.t*  
+*srq nt(y).w-ỉm *  
+    
+May you awake beautifully!  
+You who sail your crew,  
+and receive them  
+in the front of your bark.  
+  
+That you reached the West of heaven,   
+is so those who are there might breathe.  
+
+</div>
+
+**§11**
+<div class="col2">
+
+*rs=k nfr*  
+*m rn(.w)=k nb.w*  
+*ẖnmw-Rʿ nb sḫ.t*  
+*Šw [...]* ^14^ *ỉt nṯr.w*  
+*sḫm šps*  
+*ḥry-tp tȝ.wy*  
+*wȝḏ tȝ.wy m nfrw=f*  
+   
+*sqȝ tw ỉtn*  
+*pr.tw r s.t=f*  
+*ḥḏḏ.w m ḥr=k*  
+   
+*wnn=k wnn.t nb.w*  
+*ṯz-pẖr*  
+*ỉw ỉr.n=k wnn.t nb*  
+  
+May you awake beautifully!  
+In all your names,   
+Khnum-Re Lord of the Field,   
+Shu [...] ^14^ father of the gods,   
+august image,   
+chief of the two lands,   
+all lands thrive in his perfection.  
+  
+The sundisk elevates you,  
+and you come forth to his place,  
+solar rays in your face.  
+
+As you exist, so everything exists,  
+and vice-versa,  
+since you made all that exists.  
+
+</div>
+<div class="col2">
+
+*dwn.n zȝ Rʿ*  
+*dwn n zȝ rn=k*  
+  
+*ỉw rn=k mn(.w) r nḥḥ*  
+*m ḥw.t-sr*  
+*wr m Ỉwnw*  
+   
+*ỉw ʿḥʿy.t=k mn.tw*  
+*m s.t ḥr.t m Ỉwnw*  
+*ỉw=k ḫʿỉ.tw* ^15^ *wsr.tw*  
+*m-ẖnw Ỉwny.t*  
+*ḥw.t-bȝ.w ḥw.t-ṯȝ.wy*  
+*wnn=k m ẖnw=w ḏ.t zp-snw*  
+*ẖnmw-Rʿ nb sḫ.t*  
+*Šw zȝ-Rʿ ḏ.t zp-snw *   
+    
+*ḥtp ḥr=k nfr*  
+*n nsw.t-bỉty*  
+*(ȝntnyns ḫwỉ)|*  
+*nn šw n=k ṯȝw=k *  
+*m šr.ty=f rʿ-nb*   
+  
+As the Son of Re extended,  
+so did the son of your name extend(?).  
+
+Your name endures eternally   
+in the Temple of the Prince,    
+great one in Heliopolis.  
+  
+Your stations endures  
+in the Upper Place in Heliopolis.  
+You appear in glory, ^15^ mighty,   
+within Iunyt (Esna),   
+Temple of the Bas, Temple of the Chicks,  
+you shall exist in them forever!  
+Khnum-Re Lord of the Field,   
+Shu son of Re, forever!  
+    
+May your beautiful face be kind  
+to the King of Upper and Lower Egypt,  
+(Antoninus Augustus)|.  
+May your breath never be lacking  
+from his nostrils, every day.
+
+</div>

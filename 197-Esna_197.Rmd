@@ -1,0 +1,662 @@
+## Esna 197 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+   
+</style>  
+
+- Location: Column 1
+- Date: Probably Trajan 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=55){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 332-351; @sauneron-mdaik; @leitz-quellen, pp. 80-81 (with text notes); @quack-purity, p. 120; @kühnemund-reinheit, pp. 259-265 (*non vidi*); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/911){target="_blank"} 
+
+**§1**
+<div class="col2">  
+
+^12^ *ỉr ḫp(r) 1/2 1/10 1/30*  
+*n 3 šmw*  
+*m dwȝw nty ỉḫt ḥr ḫȝw.t*  
+*ḥb ṯȝy ʿwn *  
+*n ḥqȝ mnỉ.w*  
+   
+^13^ *nỉs ỉn ỉmy-p.t m Ỉwny.t*  
+*wʿb=sn ỉn ḥm.w-nṯr.w wʿb.w*  
+*ỉr(.t) ỉrw=sn ỉn wnwty.w nb *  
+*nw ḥw.t-nṯr*  
+*mỉ nty r-ḥȝ.t*  
+   
+*sḫʿỉ n ẖnmw p(ȝ) nḫy nfr*  
+*nȝỉ m ḥr=f r pr-nṯr*   
+  
+^12^ Now on the 19th (15+3+1)  
+of III Shomu (= [Epiphi 19](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#epiphi-19)) 
+on the morning of Offerings on the Altar,[^fn-197-1]:  
+the festival of Seizing the Staff  
+for the Chief of Herdsmen.  
+   
+^13^ The star-watching priest[^fn-197-2] in Iunyt announces    
+that the prophets and priests purify themselves;  
+all hourly priests of the temple   
+perform their duties,  
+just as (described) before.  
+  
+Procession of Khnum the Good Protector,
+going with him to Per-netjer.
+
+</div>
+
+[^fn-197-1]: Based on the determinative, this is likely not just the food-offering ritual, but a reference to the Fifth day of the Lunar Month: *Wb*. III, 226, 19; @guermeur-bastet, p. 180, n. h.
+
+[^fn-197-2]: For this priest, referred to in Greek as the *horoskopos* (lit. "time watcher"), see recently @birk-astrologer; @winkler-astrologer, pp. 107-112.  
+
+**§2**
+<div class="col2">  
+
+*pḥ r tȝ s.t ỉr-sḫr.w*  
+*spr r s.t-ḥr.t*  
+*ẖnm ḥnʿ ỉt=f*  
+*sḫr ḫfty=f*  
+*ʿhʿ n ḫft-ḥr n nṯr pn*  
+*ỉw ḥr=f nfr r mḥy*  
+*ỉr(.t) snṯr qbḥw*  
+*my nt(y) r-ḥȝ.t*  
+   
+*ỉr m-ḫt nȝỉ m ḥr=f*  
+*r-rwty* ^14^ *pȝ wbȝ*  
+*nt(y) s.t ỉr-sḫr.w*  
+*dỉ(.t) ḥr r rsy*  
+   
+*dwȝ ẖnmw-Rʿ nb tȝ-sn.t*  
+*mỉ nty r nt-ʿ*  
+*ỉr(.t) snṯr*  
+*dỉ(.t) qbḥw*  
+*n ms.w-Rʿ*  
+*nty(.w) m šw.t-Rʿ*  
+   
+*pḥ r p(ȝ) ḫnt*  
+*swʿb nṯr pn*  
+*sṯȝ*   
+  
+*dỉ(.t) ḥr r r' n š dšr*  
+*htp m-ẖnw n pr pn *  
+*ỉw ḥr=f r mḥy*  
+  
+Arrive at the Place of Care-Taking,[^fn-197-3]  
+reaching the Upper Place,  
+uniting with his father,  
+slaying his enemy;  
+standing in the dromos of this god,  
+with his face to the north,   
+performing incense and cool water,  
+just like above.  
+  
+Afterwards, going with him  
+all around the forecourt   
+of the Place of Care-Taking,   
+with his face to the south.  
+  
+Hymn to Khnum-Re Lord of Esna,  
+as is on the ritual papyrus,  
+performing incense,  
+giving cool water  
+to the Children of Re  
+who are in the *šw.t-Rʿ*-sanctuary.[^fn-197-4]  
+  
+Arrive at the forecourt,  
+purfy this god,  
+return.  
+  
+Turning to the portal of the Red Lake,  
+staying within this temple,  
+while his head is to the north.  
+
+</div>
+
+[^fn-197-3]: @sauneron-5, p. 333, n. b, read *s.t ỉr sšš*, "place du jouer du sistre", but noted it could also be *ỉr-sḫr.w*, which he oddly translated as "la place de faire violence." The phrase, literally "to carry out plans" often means "to exercise authority", but it can have the specific meaning of taking care of the deceased: @klotz-caesar, p. 98. Since *sḫr.w*, "condition" earlier refers to the vulnerable body of Re-Atum in North Esna ([Esna 197], 3 and 6), the present translation relies on the meaning of "care-taking".
+
+[^fn-197-4]: Literally "shadow of Re", these sunshade temples were typically solar structures linked to mortuary cults and food offerings: @williamson-re. The Children of Re are the 7 deities buried in "The Great Place", north of Esna, and south of the temple of North Esna, as described in *Esna* II, 130, 1-2, and depicted in *Esna* VII, 613.
+
+**§3**
+<div class="col2">  
+
+*ỉr ẖnmw p(ȝ) nḫy nfr*  
+*nfw ỉq(r) n nṯr.w rmṯ.w*  
+*ỉỉ.n=f r ỉr(.t) zȝ Rʿ*  
+*m zȝw-ẖnn*  
+*swḏȝ.n=f (ỉzy.t) Šw*  
+*m-ẖnw š pn*  
+   
+*ỉʿb ȝḫ.w (m)-bȝḥ nb* ^15^ *sḫ.t*  
+*ʿpr ʿbȝ=f *  
+*m bw nb nfr n ww*  
+*ỉr(.t) wdn qrr fȝỉ ỉḫt *  
+*r ḏsr pr r-ḏr=f*  
+*sḏfȝ ḫȝ.wt*  
+*sq(r) wdn.w n kȝ=f*  
+*šd mḏȝ.t ỉḫt ḥr ḫȝw.t*  
+*m ḫft-ḥr n nṯr pn*  
+*ỉw ḥr=f r mḥy*  
+  
+*fqȝ rmn.w=f *  
+*m ỉḫt nb nfr*  
+*m t ḥnq(.t)*  
+*ỉḥ.w ȝpd.w *  
+*ỉrṯ.t šdḥ *  
+*dqr.w nb(.w) bnr.w*  
+*m-ẖnw ỉȝ.t tn*  
+*m Rʿ nb ḫp(r)=f*  
+      
+*nn snm/tw ỉn* ^16^ *z=sn*  
+*n tȝš=f*  
+*m ỉḫt ḥr ḫȝw.t*  
+*m ḥb=f nb.w nfr*  
+  
+*ḫrp ỉḥ.wt r-ȝw=sn*  
+*r-rwty ḥw.t-nṯr=f*  
+*sẖkr=sn n=f*  
+*ỉw=w wʿb(.w)*  
+*ṯtf=sn n kȝ=f*  
+*r-ȝw*  
+  
+As for Khnum the Good Protector,  
+excellent breath for gods and people,  
+he has arrived to protect Re  
+in the sacred lake of *zȝw-ẖnn*,   
+and he protected the (crew) of Shu  
+within this lake.
+  
+Assemble excellent offerings  
+before the Lord ^15^ of the Field,  
+all good things of the agricultural area;  
+perform litanies, burnt offerings, 
+elevating food,  
+in order to sancitfy his entire temple.    
+Provision the altars,    
+perform litanies for his Ka,  
+recite the book of 'Offerings on the Altar',    
+in the forecourt of this god,  
+while his face is to the north.  
+  
+Reward his supporters  
+with all god things:  
+namely bread, beer,  
+cattle, fowl,   
+milk, fortified wine,   
+all sweet fruits  
+within this mound,  
+every day he is there.  
+  
+But none of ^16^ his men of his district  
+shall eat  
+from the offering upon the altar,  
+in any of his good festivals.  
+   
+Consecrate all of the cows  
+outside of his temple;  
+decorate them for him,  
+they being pure:  
+then pour out their blood for his Ka,  
+entirely.[^fn-197-5]
+
+</div>
+
+[^fn-197-5]: @sauneron-5, p. 339, n. i, suggested this brutal ending might relate to the Myth of the Destruction of Mankind. Since this entire festival is related to Khnum the Good Protector as "Chief of the Herdsmen", one might also compare the detailed lists of cows and bulls listed in *Esna* II, 156, 190, and 191. Perhaps all of those animals, each dedicated to various divinities, were sacrificed en masse on Epiphi 19?
+
+**§4 - Ritual Purity**
+
+NB: The following rules concerning access to the temple are discussed often in Egyptological literature. Note however that these specific rules apply to the festival of Epiphi 19, and the visit of Khnum the Good Protector to the "Upper Place", the sacred necropolis of Re-Atum and the Children of Re. It is unclear how many of the same rules applied to the main temples of Esna and North Esna.
+
+<div class="col2">  
+
+*ỉr z nb*  
+*twr.tw r z.t*  
+*m wʿb nty hrw 1*  
+*twr=sn ỉwḥ=sn ḥbs=sn*  
+   
+*m rdỉ(.t) ʿq rmṯ nb r=s*  
+*sw m ẖry bȝw ḥmw.t-zȝw*  
+^17^ *s.t-rd.wy=sn pw*  
+*nty m-dbn n ḥw.t-nṯr tn*  
+*ỉw=sn ḥr wp hbn(.t)*  
+*tpy nwy pn*  
+*ḥr wnmy ỉȝbty *  
+*n ḫft-ḥr*  
+   
+*ỉn z nb*  
+*nty twr.tw m z.t*  
+*m wʿb nty hrw 9*  
+*nty ḥr wp hbn(.t)*  
+*m-ẖnw mw*  
+*nty m-rwty ḥw.t-nṯr=f*  
+*ḥms=sn ḥr wnmy ỉȝbty*  
+*nn rdỉ.tw sḏr=sn*  
+*ỉr ȝy hy m-dbn=s*  
+*ỉn bw nb*  
+  
+As for any man  
+he is to abstain from a woman  
+for a purification of 1 day,  
+they purify, anoint, and dress.  
+  
+Do not allow any person to enter it  
+while he is possessed or leprous[^fn-197-6].  
+^17^ Their place to stand   
+is on the perimeter of this temple.  
+They may open jars[^fn-197-7]   
+on this flood water,   
+to the right and left   
+of the temple dromos.   
+  
+It is every man  
+who has abstained from a woman     
+for a purification of 9 days   
+who may open jars     
+within the waters   
+which surround his temple:  
+they may sit to the right and left,  
+but they are not allowed to lie down or sleep;    
+indeed jubilation is performed all around it  
+by everybody.  
+  
+</div>
+
+[^fn-197-6]: @sauneron-5, p. 341, with n. c, thought both terms were roughly synonymous. The *bȝw*-power of a god was believed to possess people until they admitted guilt or performed penance. *ḥmw.t-zȝw*, meanwhile, has since been identified as leprosy, manifesting as a skin disease: @klotz-caesar, p. 40, n. m (with references to other literature).   
+[^fn-197-7]: The precise significance of this action is mysterious, see @sauneron-5, pp. 341-342, n. e. For the reading, see @leitz-quellen, p. 80. The same phrase occurs elsewhere in [Esna 241], 6 (41) and [Esna 347], 25.
+
+<div class="col2">
+
+*nỉ ʿq nb ỉm*  
+*šnw n sr ḥr=f*  
+*nỉ ʿq ḥmww pʿ.t m-ḫnt=f*  
+^18^ *s.t-rd.wy nt nỉwty.w*  
+*sbty n ḥw.t-nṯr*  
+*nỉ ʿq=sn ḥr ḏȝḏȝ.t*  
+   
+*ỉr(.t) ỉḫt ḥr ḫȝw.t*  
+*n nṯr pn šps*  
+*ỉn ḥm.w-nṯr.w wʿb.w*  
+*wnwty.w nb.w nw ḥw.t-nṯr*  
+   
+*nn ʿq snm m-ẖnw ḥw.t-nṯr tn*  
+*ẖʿq sš ʿn.w mšd*  
+*p(ȝ) nty ʿq r=s*  
+   
+Nobody may enter therein,  
+wearing a ram's skin.[^fn-197-8]  
+Human artisans may not enter inside:  
+^18^ the station for normal citizens  
+is the enclosure wall of the temple,  
+they may not enter beyond the tribune.  
+  
+Perform the ritual Offerings upon the Altar  
+for this august god,  
+by the prophets, priests,   
+and all hourly priests of the temple.  
+  
+No mourner shall enter this temple:  
+shaved, nails clipped, and trimmed  
+shall be all who enter inside.[^fn-197-9]
+
+</div> 
+
+[^fn-197-8]: It should go without saying that Khnum would not appreciate seeing people dressed in ram skins.  
+[^fn-197-9]: Egyptian men refrained from shaving during periods of mourning: @desroches-beard.
+
+<div class="col2">
+
+*ḥbs n wnḫ*  
+*p(ȝ) nt(y) šm ḥr=s*  
+*mw n ḥsmn*  
+*p(ȝ) nt(y) ḫn ỉm=s*  
+   
+*ỉr ʿq nb r=s*  
+*twr.tw r z.t*  
+*m wʿb* ^19^ *nt hrw 9*  
+*ḥnʿ tm wnm bwt nb*  
+*n wʿb n hrw 5*  
+   
+*ỉr z nb*  
+*nt(y) mr ʿq r ḥw.t-nṯr tn*  
+*ḥr ỉr(.t) kȝ.t=sn r'-pw*  
+*ḫrs tp-ḥʿ.w sš ʿn.w*  
+   
+*rdỉ dwȝ=f nṯr*  
+*r ḫft-ḥr*  
+*m s.t-rd.wy nty nỉwty.w*  
+*ỉw wnwty.w ḥw.t-nṯr*  
+*(ḥr) ʿḥʿ ḥr=f m ḏd*  
+*wʿb.tw r z.t*  
+*m wʿb nt hrw 9*  
+*ḥnʿ bwt nb *  
+*n wʿb n hrw 5*  
+   
+*ỉr ỉr=f mỉt.t*  
+*rdỉ* ^20^ *ʿq=f r ḥw.t-nṯr*  
+*m sbȝ nty r-gs bḫn.t*  
+*ḥr-sȝ wʿb=f m š*  
+*ḥnʿ ḥbs=f*  
+    
+Clothing securely fastened    
+(for) whomever walks on it,  
+water of natron  
+(for) whomever rests in it.  
+  
+As for anybody who enter it,  
+must abstain from a woman  
+for a purification ^19^ of 9 days,   
+and not eat any abomination  
+for a purification of 5 days.  
+  
+As for any man  
+who wants to enter this temple,  
+even if for doing their work,  
+being exfoliated with clipped nails:  
+  
+Let him praise god  
+at the dromos,  
+in the station of regular citizens,  
+while the hourly priests of the temple  
+attend on him, saying:  
+'You shall abstain from a woman  
+for a purification of 9 days;  
+and from all abomination  
+for a purification of 5 days.'  
+  
+If he acts accordingly,  
+let ^20^ him enter to the temple,  
+through the portal beside the pylon,  
+after he purifies himself in the lake,  
+and clothes himself.
+
+</div>
+
+<div class="col2">
+
+*m rdỉ ʿq ʿm nb r ḥw.t-nṯr*  
+*m wr m nḫn*  
+*m rdỉ spr z.t m swȝ.w=s nb*  
+*m-ẖnw zȝṯw 200 sṯȝ.t*  
+*ḥr wȝ.t=s nb*  
+*bw ỉr=w thỉ *  
+*r ḫ.t nn nṯry*  
+*15 n rsy mḥy*  
+*15 ỉmnty ỉȝbty*  
+*s.t-rd.wy=sn dnỉ.t*  
+   
+*nỉ snỉ.tw=f r mḥy.t*  
+*r Nb.t-ʿȝy*  
+*r rsy.t ỉmnty ỉȝbty*  
+^21^ *n nȝ ḫny.t*  
+   
+*ḥr.tw r=s wr zp-snw*  
+*zȝ.tw r=s*  
+   
+*ỉw nsw.t m bȝq=f*  
+*wḏȝ tȝ r-ḏr=f r ḫry(.t)*  
+*ỉw ḏr ỉm r ȝḫ*  
+*wȝw n thỉ s(w)*  
+    
+Don't allow any Asiatic to enter the temple,  
+whether old or young;  
+don't allow a women to approach its area,   
+within an area of 200 arurae  
+on all its paths;  
+they shall not transgress  
+this divine stick:[^fn-197-9b]    
+15 to the south and morth,  
+and 15 to the west and east;  
+they may stand in the liminal area.  
+   
+One may not go to the north   
+by (the mound) of the Great Gold (Tefnut),[^fn-197-10]  
+or to the south, west, or east  
+^21^ to the Khenit canal.  
+  
+Avoid this greatly!  
+Guard against this!  
+  
+If the king is in accordance with it,  
+the entire earth shall be safe from calamity.  
+Whoever holds to this shall be excellent!  
+Woe to whomever violates it.  
+
+</div>
+
+[^fn-197-9b]: @sauneron-5, p. 348, n. s, assumed this was the word *ḫ.t-(n)-nwḥ* = "1,000 cubits," followed by subsequent translators. However, this would not account for the *nṯry*-sign (@leitz-quellen, p. 81, suggested reading that sign as *ḥ* < *ḥw.t-nṯr* < *nṯry*, which seems unlikely). Instead, this seems to be the same phrase used later in [Esna 197], 26, where it is also to be avoided, and which Sauneron translated as "bois sacré." This could be a sacred wood, but it might also be a reference to the divine *ʿwn*-staff given to Khnum during this specific festival.  
+[^fn-197-10]: This secondary mound is described in the monography [Esna II, 130](https://bookdown.org/shemanefer/Esna2/intercolumnar-wall-a-and-north-east-door-127-133.html?q=130#esna-130), 4.
+
+**§5**
+<div class="col2">
+
+*ỉr ḫp(r) tr n ȝḫ.t*  
+*ỉw Nb.t-ww (ḥr) ʿq r sḫ.t*  
+*ʿḥʿ.n ḥzy.w ḥr dnỉ.t pn *  
+*nty m wbȝ n tȝ s.t n pȝ Rʿ*  
+*ḥr gs rsy n Pr-nṯr*  
+*ḥr nhm ḥr ỉr(.t) ȝbw m bȝḥ=s*  
+    
+Now during the season of Akhet,   
+Nebtu enters the field.  
+The singers stand on this border area  
+(which is across from the Place of Re,  
+which is south of Per-netjer),  
+making music and dancing before her.
+
+</div>
+
+**§6**
+<div class="col2">
+
+*wn wʿb (ḥr) ʿq m Pr-ẖnmw*  
+^22^ *ḥr ỉr(.t) ỉḫt-nṯr*  
+*pr.t-ḫrw m t ḥnq.t*  
+*snṯr qbḥw ỉrp ỉrṯ.t*  
+*ỉḫt nb nfr m ẖr.t-hrw*  
+*m dwȝw m ʿḥʿy*  
+
+*nn ỉr.tw m mšrw*  
+*nn ʿq z nb r s.t tn*  
+*wp r wʿb*   
+*m wʿb n ḫʿỉ*  
+   
+*ỉr ʿq z nb r=s*  
+*r ỉr(.t) kȝ.t ỉm=s*  
+*ʿq=sn m wʿb n ḥw.t-nṯr Pr-nṯr*  
+    
+A wab-priest enters in to Per-Khnum,  
+^22^ performing the divine ritual:  
+a voice offering of bread, beer,   
+incense, cool water, wine, milk,  
+all good things daily,  
+in the morning and at noon.  
+  
+This is not performed in the evening:  
+no man may enter this place  
+except for a wab-priest,   
+in a purification of a procession.  
+  
+As for any man who enters there,  
+in order to carry out work inside,  
+they must enter in the purification (rules)  
+of the temple of Per-netjer.
+
+</div>
+
+<div class="col2">
+
+*ỉr mḥ wnw.t 8.t nt hrw*  
+*nỉ pẖr=s ỉn z nb*  
+*ḥr.tw ḥr=s wr zp-snw*  
+   
+^23^ *wn mw m-dbn=s*  
+*wʿb=s mỉ nty r-ḥȝ.t*  
+*mỉ pr-nṯr*  
+   
+*ỉr bwȝ.t nty r-gs rsy*  
+*nty ỉm*  
+*ḏd.tw n=s Tȝ-ʿbȝ-wnḫ.t*  
+*nn ʿr bw nb r=s*  
+   
+Once the 8th hour of the day is complete,  
+no man shall walk around it  
+avoid doing this, very greatly!  
+   
+^23^ There is water surrounding it,    
+it should remain pure, as just mentioned,  
+like at Per-netjer.  
+  
+As for the high zone which is to the south,  
+over in that place,  
+it is called *Tȝ-ʿbȝ-wnḫ.t*,  
+nobody may go up to it.
+
+</div>
+
+**§7**
+<div class="col2">
+
+*ỉr mḥ wnw.t 9.t m hrw*  
+*sḫʿ n nṯr.t tn*  
+*ḥnʿ psḏ.t=s*  
+*r Pr-ẖnmw*  
+*ḥtp ḥr s.t=sn*  
+   
+*nn spr z nb *  
+*ḥr mḥy ỉmnty n pr=f*  
+*m-ḫt ḥtp Rʿ m ʿnḫ.t*  
+*ḥr nty* ^24^ *wȝ(.t)-nṯr pw*  
+*nty nṯr pn*  
+*m ʿq m Mȝnw*  
+*r ẖȝ.wt ỉdḥw*  
+  
+When the 9th hour of the day is complete,  
+procession of this goddess (Nebtu)  
+along with her Ennead  
+to Per-Khnum,  
+and stop at this place.  
+  
+No man shall approach  
+to the north west of his temple  
+after Re sets in the West,  
+because ^24^ this is the divine path  
+of this god (Khnum Lord of the Field)  
+while entering Manu  
+(headed) toward the lagoons of the Delta.[^fn-197-11]
+
+</div>
+
+[^fn-197-11]: This is another allusion to the nocturnal journeys of Khnum Lord of the Field between North Esna and the Delta, which apparently took place every night: @sauneron-1, pp. 71-72; for example [*Esna* II, 190](https://bookdown.org/shemanefer/Esna2/column-f-187-193.html?q=chemmis#esna-190), 1-2; [Esna 194], B; [Esna 202], B; [Esna 249], §22, 4. Since Per-Khnum (North Esna) is on the West bank of the Nile, Khnum's road can only go to the north and northwest, not to the east.
+
+<div class="col2">
+
+*ỉr dwȝ.t nty ỉm*  
+*dwȝ.t štȝ.t pw*  
+*n.t Km-ȝ.t=f ḥnʿ Šw Tfn.t*  
+*Wsỉr nty ḥts(.w) ḥnʿ=sn*  
+   
+*ỉmḥ.t pw n.t ḥtpty.w*  
+*ḏȝỉs.w 7 nw Mḥ.t-wr.t*  
+*m ỉrw=sn n bỉk*  
+*nṯr.w pȝwty.w ḫr.tw r=sn*  
+*ḏd.tw t(ȝ) ḥw.t-bȝw ḥr=s*  
+   
+*ʿbȝ pw nty Wsỉr*  
+*ḏr ỉʿb.tw ḥʿw=f* ^25^ *ỉm*  
+*r-gs ỉt=f m nb-ʿnḫ*  
+   
+*wr.wy ỉȝ.t tn r ỉȝ.t nb.w*  
+*nn wn mỉt.t=s m tȝ pn *  
+*ḥr ḏd pw tr s(w)*  
+   
+As for the Duat which is there,  
+it is the mysterious Duat  
+of Kematef, with Shu and Tefnut,   
+and of Osiris who is mummified with them.  
+  
+It is the grott of the blessed dead,  
+the Seven Djaisu of Mehet-weret,  
+in their physical forms of falcons.  
+They are called the Primeval Gods,  
+that's why it is called The Temple of the Bas.[^fn-197-12]  
+    
+It is the sanctuary Aba (abA) of Osiris,  
+because his body was reassembled ^25^ there,  
+beside his father in Neb-Ankh (the West).    
+    
+How much greater is this mound than all mounds,  
+it has no like in the earth,   
+that is one would say: 'What is this?'  
+
+</div>
+
+[^fn-197-12]: That is, the birds in the local Temple of the Bas are here interpreted as the falcon manifestations of the Seven Djaisu.  
+
+<div class="col2">  
+
+*ỉr ḥr-sȝ ḥnw rwhȝ*  
+*sḫʿ ẖnmw p(ȝ) nḫy nfr*  
+*ḥtp ḥr s.t=f wr.t*  
+*sṯỉ tqȝ*  
+*m-ẖnw pr pn*  
+*r-tp mšrw r sȝ-ʿỉ*  
+*n ḥb ṯȝỉ ʿwn*  
+   
+*nn sṯỉ bs m-rwty pr=f*  
+*m bw nb ẖr* ^26^ *ỉȝ.t tn*  
+*wp-r ʿḫ*   
+*nty ḫ.t m rwty*  
+   
+*nn tkn.tw r ḫ.t nṯry*  
+*ḥr.tw r=s wr zp-snw*  
+   
+*ỉr(.t) ʿȝb.t ʿȝ.t*  
+*m ỉḫt nb nfr*  
+*ḥz(.t) ỉn ḥzy.w ṯȝy.w*  
+*nw pr pn*  
+*r ḫft-ḥr n nṯr pn*  
+*r pẖr dwȝ.t 4.t n grḥ*  
+   
+*nn wn ḥz.tw m bỉn(.t)*  
+*nỉ sḫ qmqm*  
+*nỉ sr.tw bỉȝ m šnb(.t)*  
+*m-ẖnw ỉȝ.t=f*  
+  
+Now after the evening service,  
+procession of Khnum the Good Protector,  
+to rest upon his great throne.  
+Light torches  
+within this temple,  
+from the evening until after breakfast  
+of the festival of Seizing the Staff.  
+  
+No lighting other fires around his temple,  
+in any place below ^26^ this mound,  
+except for a small brazier   
+of wood from an outside area.  
+  
+The divine wood should not be approached:  
+avoid doing this, very greatly!  
+  
+Perform the great composite offering,  
+of all good things.  
+Chanting by the male chorus  
+of this temple,  
+at the dromos of this god,  
+until the 4th hour of the night.  
+  
+There shall be no signing with harps,  
+no striking drums,   
+and no announcing marvels with trumpets  
+within this mound.[^fn-197-13]
+
+</div>
+
+[^fn-197-13]: Only singing, no loud musical accompaniment, is permitted at nighttime within the sacred Duat. For similar proscriptions, see @emerit-music.

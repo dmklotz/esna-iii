@@ -1,0 +1,178 @@
+## Esna 201 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 1
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=65){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/915)
+
+#### Formula {-}
+
+<div class="col2">  
+
+^1^ *[...] n wry.wt*  
+*bnr *  
+^2^ *[...] wnm ỉm=sn *  
+*sʿm=k* ^3^ *[...]*  
+*[...] n kȝ=k*  
+*ḥwỉ=k tȝ *  
+*m ṯb.ty=k*  
+  
+^1^ [...] of *wr.t*-cows,  
+sweet milk   
+^2^ [...] eat of them,  
+and swallow[^fn-201-0] ^3^ [...]  
+[...] for your Ka.  
+May you wander the earth   
+in your sandals.  
+ 
+</div>
+
+[^fn-201-0]: Emending *sʿr* to *sʿm*; cf. *Esna* VII, 610, 2.
+
+#### The King {-}
+
+<div class="col2">  
+
+^4^ *nsw.t-bỉty*  
+*nb-tȝ.wy*  
+*(ȝwtwkrtwr kysrs)|*  
+^5^ *zȝ-Rʿ nb-ḫʿ.w*  
+*(twmṯyns nty-ḫwỉ)|*   
+  
+^6^ *mhr nfr*  
+^7^ *ʿšȝ šzp.w*  
+*sẖr[d] ỉt=f*  
+*m ʿnḫ-wȝs*  
+   
+^8^ *nṯr nfr [...]*  
+   
+^4^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^5^ Son of Re, Lord of Appearances,  
+(Domitian Augustus)|   
+    
+^6^ Good dairy farmer,  
+^7^ plentiful of bright-milk,  
+who rejuvena[tes] his father[^fn-201-1]  
+with *ʿnḫ-wȝs*-milk.  
+  
+^8^ The good god [...]  
+
+</div>
+
+[^fn-201-1]: For the restorations noted by @sauneron-3, p. 20, n. b, compare the partial parallel in *Esna* VII, 579, 6.
+
+#### Khnum-Re Lord of the Field {-}
+
+<div class="col2">
+
+^9^ *ḏd-mdw n ẖnmw-Rʿ nb sḫ.t*   
+*nṯr nʿš ỉmỉ.tw psḏ.t*  
+^10^ *nr mnḫ ḥzȝ-ḥr*  
+*mdw=f (ḥr) ỉr(.t) zȝw*  
+*n Bȝq.t r-ȝw=s*   
+  
+^11^ *ỉṯ gs.t m-ẖnw sḫ.t=f*  
+*mdw=f ḥr-tp n ḫfty.w=f*  
+^12^ *[...] sṯỉ r mḏd*  
+*ṯmȝ-ʿ*  
+*smȝ ḫfty.w=f*  
+   
+^13^ *dỉ=ỉ n=k ỉd.wt*  
+*ḥnʿ ỉrṯ.t=sn*  
+*bʿḥ ḥm=k ỉm=sn*  
+*[...]*  
+*dỉ=ỉ zȝ=k r sbỉ.w r=k*  
+*zȝ=ỉ ḥȝ=k n [...]*  
+    
+^9^ Words spoken by Khnum-Re Lord of the Field,  
+mighty god within the Ennead;  
+^10^ beneficent shepherd, fierce of face,  
+his staff protects performs protection  
+for all of Egypt.  
+^11^ He who strides within his field,  
+with his staff over his enemies;   
+^12^ [...] who shoots to kill,  
+valiant of arm,   
+who slays his enemies.  
+   
+^13^ I give you the cows  
+along with their milk,  
+so your majesty drinks his fill from them  
+[...]  
+I protect you from whomever rebels against you,  
+my protection surrounds you in [...]
+
+</div>
+
+#### Heka {-}
+
+<div class="col2">
+
+^14^ *ḏd-mdw n Ḥkȝ pȝ ẖrd*  
+*ʿȝ wr tpy n ẖnmw*  
+*ḥwnw nfr*  
+*mrỉ sʿm*  
+^15^ *rr s(w) mw.t=f*  
+*r ḥqȝ tȝ.wy*  
+*qn ḥm=f *  
+*r* ^16^ *sbỉ.w r=f*  
+*ḫp(r).n=f m nb pḥty*  
+*nḫt ḫpš.wy=f*  
+    
+^14^ Words spoken by Heka the Child,  
+the very great, first born of Khnum,  
+good youth,  
+who loves drinking[^fn-201-2],  
+^15^ his mother nurtured him  
+to rule the Two Lands.  
+His majesty is victorious  
+over ^16^ whomever rebels against him;  
+he became the Lord of Strength,  
+whose arms are strong.
+
+</div> 
+
+[^fn-201-2]: For the restoration, see *LGG* III, 242b, citing a parallel in *Esna* VI, 542, 6.
+
+#### Behind the Divinities {-}
+
+<div class="col2">
+
+^17^ *nsw.t-bỉty*  
+*ṯȝy n Rʿ*  
+*ḫp(r) m zp tpy*  
+*ḥry sȝ.t*  
+*ʿšȝ mnmn.wt*  
+*ỉmy-r' ỉḥw nfr*  
+*nb wry.wt*  
+*nb ms.wt*  
+*ʿšȝ bnr.w*  
+*sʿnḫ nṯr.w m [...]*  
+  
+^17^ The King of Upper and Lower Egypt,  
+child of Re,  
+who came about in the first moment,  
+Chief of the Stable,    
+numerous of livestock,    
+good cattle herd,    
+lord of *wr.t*-cows,  
+lord of *ms.t*-cows,  
+numerous of sweet milk,  
+who enlivens the gods with [...]
+
+</div>

@@ -1,0 +1,617 @@
+## Esna 217 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 3
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=83){target="_blank"}  
+- Bibliography: @sauneron-8, pp. 40-41, 76-78; @leitz-osiris; @leitz-osiris-2.
+
+<div class="col2">  
+   
+^19^ *pȝ wdn n Wsỉr*  
+*m hrw pn *  
+*mỉ rʿ nb*  
+*ḏd-mdw*  
+   
+*wdn n Wsỉr (wn-nfr mȝʿ-ḫrw)|*  
+*nsw.t nṯr.w*  
+*m rn=f nb*  
+*ḥr-tp ʿnḫ-wḏȝ-snb*  
+*n nsw.t-bỉty*  
+*(tmtyns ḫwỉ)|*  
+  
+^18^ The litany of Osiris  
+on this day,  
+just like every day.  
+Words spoken:  
+  
+Litany for Osiris (Wennefer justified)|  
+King of the Gods,  
+in all his names,  
+as well as life, dominion, and health  
+for the King of Upper and Lower Egypt  
+(Domitian Augustus)|  
+  
+</div>
+
+**1**  
+<div class="col2">
+
+*n Wsỉr (wn-nfr mȝʿ-ḫrw)|*  
+*nsw.t nṯr.w*  
+*nṯr ʿȝ ḥry-ỉb tȝ-sn.t*  
+  
+For Osiris (Wennefer justified)|  
+King of the Gods,  
+great god within Esna.  
+  
+</div>
+
+**2**  
+<div class="col2">
+
+*n Skr-Wsỉr*  
+*ḥry-ỉb tȝ-sn.t*  
+  
+For Sokar-Osiris,  
+within Esna.  
+  
+</div>
+
+**3**  
+<div class="col2">
+
+*n Wsỉr-^20^-Skr*  
+*ḥry-ỉb šty.t*  
+    
+For Osiris-^20^-Sokar     
+within the Shetayet-shrine.  
+
+</div>
+
+**4**  
+<div class="col2">
+
+*n Wsỉr*  
+*Ỉwn wr m Ỉwny.t *  
+   
+For Osiris,    
+great Iun in Iunyt.  
+
+</div>
+
+**5**  
+<div class="col2">
+
+*n Wsỉr*  
+*wn(.w) n=f wȝ.t *  
+*n rw.ty*   
+    
+For Osiris,  
+for whom the path is opened  
+of the Ruty (Shu and Tefnut).  
+
+</div>
+
+**6**  
+<div class="col2">
+
+*n Wsỉr nb ḫnt-tȝ*  
+*m ỉȝ.t-ṯȝ.wy*  
+   
+For Osiris, Lord of Khent-ta  
+in District of the Chicks.  
+  
+</div>
+
+**7**  
+<div class="col2">
+
+*n Wsỉr nb ʿbȝ*  
+*nṯr ʿȝ ḫnt Pr-nṯr*  
+    
+For Osiris, Lord of Aba,  
+great god within Per-netjer.  
+  
+</div>
+
+**8**  
+<div class="col2">
+
+*n Wsỉr* ^21^ *nb Pr-ẖnmw*  
+*ẖnm ḫnty sḫ.t=f*  
+   
+For Osiris ^21^ Lord of Per-Khnum,  
+who unites with Foremost of his Field (Khnum).[^fn-217-1]  
+
+</div>
+
+[^fn-217-1]: Previous translators understood this as "Khnum Foremost of his Field", but this presupposes an identification of Osiris with the junior Khnum Lord of the Field, who otherwise performs the roles of Shu and Horus. Since the ram-headed determinative only occurs after the word "field", I interpret *ẖnm* here as a verb, just as in verse 13 below.
+
+**9**  
+<div class="col2">
+
+*n Wsỉr*  
+*bs štȝ m ḥw.t-ṯȝ.wy*  
+  
+For Osiris,  
+mysterious image in Temple of the Chicks.  
+  
+</div>
+
+**10**  
+<div class="col2">
+
+*n Wsỉr*  
+*ʿq=f Pt-nṯr tp sw 10*  
+   
+For Osiris    
+he enters Per-netjer every 10 days.
+  
+</div>
+
+**11**  
+<div class="col2">
+
+*n Wsỉr nb sḫ.t *  
+*ḫnty ww*  
+  
+For Osiris, Lord of the Field,   
+foremost of the agricultural district.
+
+</div>
+
+**12**  
+<div class="col2">
+
+*n Wsỉr ỉw m ḥʿpỉ*  
+*ỉwḥ ȝḫ.t*  
+  
+For Osiris who comes as Hapi  
+and floods the land.
+
+</div>
+
+**13**  
+<div class="col2">
+
+^22^ *n Wsỉr *  
+*ẖnm sn.t=f Ỉs.t*  
+  
+^22^ For Osiris   
+who joins his sister, Isis.
+
+</div>
+
+**14**  
+<div class="col2">
+
+*n Wsỉr srwḏ tȝ *  
+*m rḏw=f*   
+  
+For Osiris who makes the earth grow   
+with his efflux.
+
+</div>
+
+**15**  
+<div class="col2">
+
+*n Wsỉr wtṯ bȝ*  
+*ḥry-ỉb ʿ.t-bȝ*   
+ 
+For Osiris, who begat the Ba,  
+within the Chamber of the Ba.[^fn-217-2]
+
+</div>
+
+[^fn-217-2]: Previous translators understood the first epithet as "bélier copulateur" (@sauneron-8, p. 40) or "le procréateur, le *Ba*" (@leitz-osiris, p. 247). Yet as @leitz-osiris, p. 248 noted, Khnum is called the "Ba within the Chamber of the Ba" in [Esna 232] (102). Again, this suggests Osiris is the one who begat Khnum, rather than assuming an equivalence between the two gods.
+
+**16**  
+<div class="col2">
+
+*n Wsỉr ḥry-ỉb ḥw.t-bȝ.w*  
+  
+For Osiris within Temple of the Bas.
+
+</div>
+
+**17**  
+<div class="col2">
+
+*n Wsỉr nb ʿnḫ*  
+*ḫnty nb-ʿnḫ*  
+   
+For Osiris, Lord of Life,  
+Foremost of Neb-ankh.
+
+</div>
+
+**18**  
+<div class="col2">
+
+*n Wsỉr *  
+*nb* ^23^ *dwȝ.t štȝ.t*  
+*ḫnty tȝ-ḏsr*  
+   
+For Osiris   
+Lord ^23^ of the mysterious Duat,  
+foremost of the Sacred Land. 
+
+</div>
+
+**19**  
+<div class="col2">
+
+*n Wsỉr*  
+*nb ỉmḥ.t*  
+*ḫnty Mȝnw*  
+   
+For Osiris,  
+Lord of the grotto,  
+foremost of Manu. 
+
+</div>
+
+**20**  
+<div class="col2">
+
+*n Wsỉr nb s.t-ḥr.t*  
+*ḫnty ḥw.t-Ỉtm*   
+   
+For Osiris, Lord of the Upper Place, 
+foremost of the Temple of Atum.[^fn-217-3]
+
+</div>
+
+[^fn-217-3]: @leitz-osiris, p. 254, questioned the translation "la Place-Haute", and noted it is not possible to determine which temple of Atum this alludes to. Nonetheless, other references to the "upper place (*s.t-ḥr.t*)" (also called *gs-ḥry*) indicate this was a spot west of North Esna, where Shu met with his father Re-Atum, having slaughtered his enemies: *Esna* II, 77, 14-15 (Payni 9), 16-17 (Epiphi 20);  129, 1-2; [Esna 196], 3-5, 8, 11. In this location, Atum is also called "guard of the 9th day," who also appears in *Esna* II, 163, 26-27; VI, 508, 9. See already @sauneron-5, p. 329, n. b.
+
+**21**  
+<div class="col2">
+
+*n Wsỉr nb ḥw.t-ḏfȝw*  
+*ḫnty sḫ.t*  
+  
+For Osiris, Lord of Hut-Djefau,   
+foremost of the Field.  
+
+</div>
+
+**22**  
+<div class="col2">
+
+*n Wsỉr *  
+*nb š nṯry*  
+*ḫnty zȝw-ẖnn*  
+  
+For Osiris,  
+Lord of the sacred lake,  
+foremost of *zȝw-ẖnn*.[^fn-217-4]   
+
+</div>
+
+[^fn-217-4]: For this sacred lake of Esna, cf. @sauneron-5, p. 325-326, n. c.
+
+**23**  
+<div class="col2">
+
+*n Wsỉr *  
+*nb š* ^24^ *dšr*  
+*ḫnty ỉȝ.t-kȝkȝ*  
+  
+For Osiris,  
+Lord of the red ^24^ lake,  
+foremost of the Mound of the *kȝkȝ*-plant.[^fn-217-5]  
+
+</div>
+
+[^fn-217-5]: For this toponym near Herakleopolis and its link to Osiris see further @leitz-osiris, pp. 258-259; @leitz-ichneumon.
+
+**24**  
+<div class="col2">
+
+*n Wsỉr ḥry-ỉb ḥw.t-bȝ.w*  
+   
+For Osiris within Temple of the Bas.
+
+</div>
+
+**25**  
+<div class="col2">
+
+*n Wsỉr nb pr-sȝḥw-Rʿ*  
+  
+For Osiris Lord of Per-Sahure.
+
+</div>
+
+**26**  
+<div class="col2">
+
+*n Wsỉr *  
+*nb rs-nt *  
+*ḫnty mḥ-nt*  
+   
+For Osiris,  
+Lord of the *Rs-nt*,  
+foremost of *Mḥ-nt*.  
+
+</div>
+
+**27**  
+<div class="col2">
+
+*n Wsỉr (wn-nfr mȝʿ-ḫrw)|*  
+*nsw.t nṯr.w*  
+*nṯr ʿȝ ḥqȝ ḏ.t*  
+   
+For Osiris (Wennefer justified)|  
+King of the Gods,  
+Great god, Ruler of eternity.
+</div>
+
+**28**  
+<div class="col2">
+
+*n Wsỉr ḫnty-Ỉmnty.w*  
+*nṯr ʿȝ nb ȝbḏw*  
+  
+For Osiri-Khentiamentiu,  
+Great god,  Lord of Abydos. 
+
+</div>
+
+**29**  
+<div class="col2">
+
+*n Wsỉr*  
+*nb* ^25^ *ṯȝ-wr*  
+*ḫnty tȝ-ḏsr*  
+  
+For Osiris,  
+Lord of ^25^ the Thinite nome,  
+foremost of the Sacred Land.  
+
+</div>
+
+**30**  
+<div class="col2">
+
+*n Wsỉr nb Ḏdw*  
+*ḫnty ʿnḏty*  
+
+For Osiris Lord of Busiris,   
+foremost of the Busirite nome.  
+
+</div>
+
+**31**  
+<div class="col2">
+
+*n Wsỉr nb zȝw*  
+*ḫnty ḥw.t-bỉty*  
+   
+For Osiris Lord of Sais,  
+foremost of the *ḥw.t-bỉty*.
+
+</div>
+
+**32**  
+<div class="col2">
+
+*n Wsỉr m ḥw.t-sr*  
+*sr m Ỉwnw*  
+  
+For Osiris in the *ḥw.t-sr*,  
+Prince in Heliopolis.
+
+</div>
+
+**33**  
+<div class="col2">
+
+*n Wsỉr*  
+*spȝ šps m* ^26^ *Ỉwnw*  
+   
+For Osiris   
+august Sepa in ^26^ Heliopolis.
+</div>
+
+**34**  
+<div class="col2"> 
+
+*n Wsỉr-ḥmȝg*  
+*ḫnty ḥw.t-Skr*  
+
+For Osiris-Hemag,  
+foremost of the Temple of Sokar.  
+
+</div>
+
+**35**  
+<div class="col2">
+
+*n Wsỉr *  
+*Ptḥ šps m ỉnb-ḥḏ*  
+  
+For Osiris,  
+august Ptah in Memphis.  
+
+</div>
+
+**36**  
+<div class="col2">
+
+*n Wsỉr *  
+*ḏd šps m ḥw.t-kȝ-Ptḥ*  
+  
+For Osiris,    
+august djed-pillar in Memphis.  
+
+</div>
+
+**37**  
+<div class="col2">
+
+*n Wsỉr *  
+*nsw.t m p.t*  
+*ḥqȝ m tȝ*  
+*ỉty ʿȝ m dwȝ.t*  
+   
+For Osiris,  
+king in heaven,  
+ruler on earth,  
+great sovereign in the Duat.  
+
+</div>
+
+**38**  
+<div class="col2">
+
+*n Wsỉr*  
+*nsw šmʿ*  
+^27^ *bỉty mḥw*  
+*ḥqȝ ʿȝ m tȝ (r)-ḏr=f*  
+   
+For Osiris,  
+*nsw*-King of Upper Egypt,  
+*bỉty*-King of Lower Egypt,  
+great ruler of the entire earth. 
+
+</div>
+
+**39**  
+<div class="col2">
+
+*n Wsỉr ḥry-ỉb Ỉp.t-s.wt*  
+     
+For Osiris within Karnak.
+
+</div>
+
+**40**  
+<div class="col2">
+
+*n Wsỉr *  
+*sr wr m Wȝs.t*  
+  
+For Osiris,  
+great prince in Thebes.
+
+</div>
+
+**41**  
+<div class="col2">
+
+*n Wsỉr *  
+*ḫy šps m Ỉp.t-wr.t*  
+  
+For Osiris,  
+august child in the Great Opet Temple.  
+
+</div>
+
+**42**  
+<div class="col2">
+
+*n Wsỉr *  
+*nsw.t ḥry nṯr.w *  
+   
+For Osiris,  
+King, chief of the gods.  
+
+</div>
+
+**43**  
+<div class="col2">
+
+*n Wsỉr *  
+*nb-ḏr nṯr.w*  
+  
+For Osiris,  
+All-Lord of the gods.  
+
+</div>
+
+**44**  
+<div class="col2">
+
+*n Wsỉr*  
+*ỉwʿʿ n Šw*  
+*smsw n Gbb*  
+  
+For Osiris,  
+heir of Shu,  
+eldest of Geb. 
+
+</div>
+
+**45**  
+<div class="col2">
+
+*n Wsỉr ḥwnw nfr*  
+*pr m Nw.t*  
+  
+For Osiris, good youth,  
+who came forth from Nut.
+
+</div>
+
+**46**  
+<div class="col2">
+
+*n Wsỉr *  
+*ḫʿỉ m ḥḏ.t*  
+*nb wrr.t*  
+  
+For Osiris,   
+who appears in the white crown,  
+lord of the double crown.
+
+</div>
+
+**47**  
+<div class="col2">
+
+*n Wsỉr nb ỉʿrr.wt*  
+*sṯỉ ḥr.w *  
+*m nbỉ.t=f*  
+   
+For Osiris, lord of uraei,  
+who illumines faces   
+with his fiery light. 
+
+</div>
+
+**48**  
+<div class="col2">
+
+*n Wsỉr*   
+*pr m ẖ.t*   
+*r nb*  
+
+*mȝȝ m-sȝ=f *  
+*r pȝ wḫȝ n mḥy.t*  
+   
+For Osiris,  
+who emerged from the womb  
+in order to be lord.  
+  
+(After this, look  
+to the column to the north).  
+
+</div>
+
+The litany continues in [Esna 208].

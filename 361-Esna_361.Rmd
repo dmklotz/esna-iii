@@ -1,0 +1,239 @@
+## Esna 361 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 15
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=361){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1275){target="_blank"} 
+
+#### Formula {-}
+
+<div class="col2">
+
+^1^ *mn n=k wsḫ nfr*  
+*ʿpr(.w) m ỉrw=f*  
+*psḏ.t=f m nh(.t) ḥȝ=k*  
+  
+*wȝḥ n [ỉt=k Ỉtm]*  
+^2^ *r ḫḫ=k*  
+*mḥ n Ḫprỉ *  
+*r šnb.t=k*  
+*ȝw-ỉb=k ỉm=f*  
+*ḫw=f ḥʿw=k *  
+*r ḏw [nb]*  
+  
+^1^ Receive the good *wsḫ*-collar,  
+equipped in its visible form;  
+its Ennead surrounds you in protection.  
+  
+The garland of [your father Atum][^fn-361-1]  
+^2^ is at your neck;  
+the wreath of Khepri  
+is on your chest.  
+May you be happy from it,  
+may it protect your body  
+from [all] evil.  
+
+</div>
+
+[^fn-361-1]: Restored after parallels in *Esna* II, 8, 3; 36, 1-2; *Esna* VI, 482, 6; 495, 1. Other parallels for what follows in *Esna* VII, 556, 5.
+  
+
+#### The King {-}
+
+<div class="col2">
+
+^3^ *nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtwgrtwr kysrs)|*  
+^4^ *zȝ Rʿ*  
+*nb ḫʿ.w*  
+*(twmtyns nty-ḫwỉ)|*  
+   
+^5^ *wʿb ḥʿw*  
+*sẖkr šnb.t n ỉt=f*  
+
+^6^ *nṯr nfr*  
+*nsw.t n Km.t*  
+*ḥqȝ n ḫȝs.wt nb.w*  
+*ḫbỉ ỉnw *  
+*m tȝ [r-ḏr]=f*  
+  
+*Rʿ n rmṯ.w*  
+*Ḫprỉ n pʿ.t*  
+*Ỉtm n ḥnmm.t*  
+
+*sẖkr ḥȝw n ỉt=f*  
+*m wsḫ nfr*  
+*ẖnm nṯr n nṯr*  
+*nb mȝʿ-ḫrw *   
+*(twm(t)y[ns...])|*  
+   
+^3^ The King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Autokrator Caesar)|  
+^4^ Son of Re,  
+Lord of Appearances,  
+(Domitian Augustus)|  
+  
+^5^ Pure of body,  
+who adorns the chest of his father.  
+  
+^6^ The good god,  
+king of Egypt,  
+ruler of all foreign lands,  
+who collects tribute  
+from [the entire] earth.  
+  
+Re for the *rmṯ*-people,   
+Khepri for the *pʿ.t*-people,  
+Atum for the sunfolk.[^fn-361-2]  
+  
+He who adorns the chest of his father,  
+so that god unites with god,  
+lord of justification,  
+(Domi(t)ia[n...])|
+  
+</div>
+  
+[^fn-361-2]: This passage is slightly unusual, as humanity is usually broken into *pʿ.t*, "elites",  *rḫy.t*, "commoners",  and *ḥnmm.t*, "the sunfolk."
+
+#### Khnum {-}
+
+<div class="col2">
+
+^7^ *ḏd-mdw n ẖnmw-Rʿ*  
+*nb tȝ-sn.t*  
+*Šw wr smsw n nb-ḏr*  
+^8^ *nṯr mnḫ*  
+*sȝẖ mnw.w*  
+*nb zḫn*  
+*snsn sn.t=f*  
+*m ḥḏ=f rʿ nb*  
+   
+^9^ *dỉ=ỉ ḫnd=k ḥr sȝ*  
+*n ḫfty.w=k*  
+*mỉ zš ṯȝw *   
+*ḫnt mnw=sn *  
+  
+^7^ Words spoken by Khnum-Re,  
+Lord of Esna,  
+Great Shu, eldest of the All-Lord,  
+^8^ Beneficent god,  
+who makes monuments excellent;  
+Lord of unions,  
+who embraces his sister  
+in his shrine, every day.  
+    
+^9^ I allow you to tread   
+upon the back of your enemies,  
+just like the wind travels  
+through their trees.[^fn-361-3]  
+
+</div>
+
+[^fn-361-3]: Compare the very close parallel in *Esna* II, 8, 13; @recklinghausen-derchain, p. 21, with n. 59.
+
+#### Nebtu {-} 
+
+<div class="col2">
+
+^10^ *ḏd-mdw n Nb.t-ww*  
+*nb(.t) tȝ-sn.t*  
+*sḏ.t wr.t *  
+*bs(.t)* ^11^ *m hrw*  
+*nb(.t) ỉhy*  
+*ʿšȝ ḥb.w*  
+*bwt=s ḥqr ỉbw*  
+  
+^12^ *sn.t n sn=s*  
+*dmḏ(.t) r-ḥnʿ=f*  
+*nỉ ḥr=s r=f rʿ nb*  
+   
+^13^ *dỉ=ỉ n=k [...]*  
+  
+^10^ Words spoken by Nebtu,  
+Lady of Esna,  
+great child,  
+who comes forth in the day.  
+Lady of rejoicing,  
+numerous of festivals,  
+who hates hunger and thirst.  
+  
+^12^ A sister to her brother,  
+who unites together with him,  
+never leaving him, every day.  
+  
+^13^ I give to you [...]  
+
+</div>
+
+#### Heka {-}  
+ 
+<div class="col2">  
+  
+^14^ *ḏd-mdw n Ḥkȝ pȝ-ẖrd*    
+*wr ḥkȝw [zȝ] sḫm.t*    
+*[...] *  
+^15^ *nb nḥp*  
+*ỉry-pʿ.t wr m-m nṯr.w*  
+    
+^14^ Words spoken by Heka the Child,  
+Greatest of magic, [son] of Sakhmet,  
+[... firstborn child of]    
+^15^ Lord of the Potter's wheel (Khnum),  
+great nobleman among the gods.  
+
+</div>
+
+#### Behind the divinities {-}
+
+<div class="col2">
+
+^16^ *nsw.t-bỉty*  
+*bȝ m ỉtr.ty*  
+*s.wt štȝ.wt mn.tw*  
+*ẖr sštȝ=f*  
+   
+*ỉss ỉt=f *  
+*ḏr zp tpy*  
+*šȝʿ.n=f msw.t=f *  
+*ḥnʿ sn.t=f*  
+*m ḥb nfr*  
+*tpy šmw III*  
+*zȝ=f mỉt.t m ḥrw pn*  
+*sw m wr rn m-m nṯr.w*  
+*ẖnmw Nb.t-ww Ḥkȝ*  
+*nb.w [wr].w [nw] Ỉwny.t*  
+  
+^16^ The King of Upper and Lower Egypt,  
+the Ba in the Dual Chapels;  
+all secret places are established  
+bearing his mysterious image.  
+  
+Spat out by his father,  
+since the first moment,  
+he began his birth  
+together with his sister,   
+on this good festival,  
+III Shomu 1 (= [Pakhons 1](https://bookdown.org/shemanefer/Esna2/calendar-ii-77.html#pakhons-1));   
+likewise his son on this day,    
+they are great of name among the gods:  
+Khnum, Nebtu, and Heka,   
+the [great] lords [of] Iunyt.[^fn-361-4]  
+ 
+</div>
+
+[^fn-361-4]: A very similar description given in *Esna* II, 8, 14 (cf. @recklinghausen-derchain, p. 23, with n. 61); 73, 5-9.

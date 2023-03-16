@@ -1,4 +1,4 @@
-z <- list.files(pattern = "Esna_[0-9]+.Rmd")
+z <- list.files(pattern = "Esna_[0-9]+.*.Rmd")
 
 
 library(tidyverse)
@@ -66,7 +66,7 @@ read_file("073-Esna_073.Rmd") %>%
   arrange(first, second, third)
   count(first)
 
-trans_levels = c("ȝ", "ỉ", "ʿ", "w", "b", "p", "f", "m", "n", "r", "h", "ḥ", "ḫ","ẖ","z","s","š", "q", "k","g", "t", "ṯ", "d","ḏ", ".t", ".w", "-" )
+trans_levels = c("ȝ", "Ỉ", "ỉ", "ʿ", "w", "b", "p", "f", "m", "n", "r", "h", "ḥ", "ḫ","ẖ","z","s","š", "q", "k","g", "t", "ṯ", "d","ḏ", ".t", ".w", "-" )
 
 
 out_text <- read_file(z) %>% 
@@ -128,12 +128,14 @@ for(files in z){
 
 ### Naive glossary
 
-final_tbl %>% mutate_at(vars(word, first, second, third), ~str_replace_all(., "i", "ỉ") %>% str_replace_all("j", "ỉ")) %>% 
+final_tbl %>% 
+  mutate_at(vars(word, first, second, third), ~str_replace_all(., "i", "ỉ") %>%
+              str_replace_all("j", "ỉ")) %>% 
      
      mutate_at(vars(first, second, third), 
                            ~factor(., levels = trans_levels)) %>% 
      arrange(first, second, third, word, text, row) %>% mutate(row = as.integer(row)) %>% filter(!is.na(row)) %>% 
-  mutate(out_text = paste0("[Esna ", text, "], ", row)) %>% 
+  mutate(out_text = paste0("Esna III, ", text, ", ", row)) %>% 
   rowid_to_column("word_order") %>% 
   group_by(word) %>% 
   summarize(out_text = paste0(out_text, collapse = "; "), word_order = min(word_order)) %>% 

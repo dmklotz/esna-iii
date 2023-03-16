@@ -1,0 +1,153 @@
+## Esna 367 {-}  
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 16
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=375){target="_blank"}  
+- Bibliography: @sauneron-5, pp. 176-177; @quack-monumental (extensive commentary); @leitz-loeffler, p. 58.
+
+NB: This hymn is a continuation of [Esna 356].
+
+<div class="col2">
+
+^9^ *ỉ pȝ nty ỉw fkȝ=f*  
+*qd-sʿnḫ*  
+   
+^10^ *ỉ pȝ mnḫ-ỉb*  
+*nty ỉw bwt=f whn*  
+   
+^11^ *ỉ pȝ nty ỉw sšm=f*  
+*ḥr qd ḫnt ḥw.t-nmỉ.t*  
+   
+^12^ *ỉ pȝ nb šȝy rnn.t*  
+*nwḏ ḥr msḫn.t*  
+   
+^13^ *ỉ tȝ-ṯnn*  
+*nty ỉw kȝ 4 r-ʿ=f*  
+   
+^14^ *ỉ pȝ ẖnmw*  
+*ỉr ẖnm.w 7*  
+   
+^15^ *ỉ qmȝ ḥmw.wt*  
+*qd ỉqd.w*  
+   
+^16^ *ỉ pȝ nty m-ḫnty ỉtr.ty šmʿ*  
+*ḫnty ỉtr.ty mḥw*  
+   
+^17^ *ỉ pȝ ỉwn*  
+*nty šm ẖr p.t ḥr tȝ*  
+*rʿ nb*  
+   
+^18^ *ỉ pȝ ỉr twȝ Nw.t*  
+*m ḫprw=f n Ḥḥ*  
+   
+^19^ *ỉ pȝ nty ỉw tȝ grg.w*  
+*m kȝ.t=f*  
+   
+^9^ O he whose reward  
+is building and enlivening.  
+  
+^10^ O beneficent of heart,  
+whose abomination is destruction.    
+    
+^11^ O he whose sacred image  
+molds pottery within the mammisi.  
+  
+^12^ O lord of Shay and Renenet,  
+who assembles on the birth-brick.   
+  
+^13^ O Tatenen,  
+who has the Four Kas at his disposal.  
+  
+^14^ O Khnum  
+who made the Seven Khnums.  
+  
+^15^ O he who created the artisans,  
+builder of builders.  
+  
+^16^ O he who is foremost of the chapels  
+of Upper and Lower Egypt.  
+  
+^17^ O pillar of air  
+who travels under the sky and above earth  
+every day.  
+  
+^18^ O he who lifts up Nut  
+in his manifestation of Heh.  
+  
+^19^ O he through whose work  
+the entire earth is populated.  
+
+</div>
+
+<div class="col2"> 
+
+^20^ *ỉ pȝ bȝ šfy.t-ḥȝ.t*  
+*ḥȝ.t n psḏ.t*  
+   
+^21^ *ỉ pȝ ỉw dwȝ n=f *  
+*pr(.w) nb.w ḥr nḥp=f *  
+* *  
+^22^ *ỉ pȝ ỉr n=f ms.w=f*  
+*ỉȝw m ḥr=f nfr*  
+   
+^23^ *ỉ pȝ mnỉw mnḫ*  
+*n tȝ ḥr-ȝw=f*  
+   
+^24^ *ỉ pȝ nfy ỉqr*  
+*(n) nȝ nty m Nwn*  
+   
+^25^ *ỉ pȝ ỉr zȝw Rʿ*  
+*m n.t*  
+   
+^26^ *ỉ pȝ ỉr nḏ Ỉtm*  
+*[ḥr pȝ] tȝ*  
+   
+^27^ *ỉ pȝ nb sḫn*  
+*mrỉ snsn*  
+   
+^28^ *ỉ pȝ nty ỉw sn.t=f ḥnʿ=f*  
+*m-ẖnw Ỉwny.t*  
+  
+^20^ O Ba, prestigious of face,  
+beginning of the Ennead.  
+  
+^21^ O he whom worship  
+all who came forth on his potter's wheel.  
+  
+^22^ O for whom his children  
+make praise before him.  
+  
+^23^ O beneficent herdsman  
+for the entire earth.  
+  
+^24^ O excellent breath of air  
+for those who are in Nun.  
+  
+^25^ O he who guards Re  
+in the waves.  
+  
+^26^ O he who protects Atum  
+[upon the] earth.  
+  
+^27^ O lord of union,  
+who loves embraces. 
+  
+^28^ O he whose sister is with him  
+inside of Iunyt.  
+
+</div>  
+
+This hymn continues in [Esna 368].

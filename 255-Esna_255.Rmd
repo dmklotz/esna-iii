@@ -1,0 +1,100 @@
+## Esna 255 {-}  
+  
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Column 7
+- Date: Probably Hadrian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=190){target="_blank"}  
+- Bibliography: @leitz-loeffler, pp. 91, 95-96 (255, B); see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1047)
+
+<div class="col2">  
+
+^ȝ^ *nṯr nfr*  
+*štȝ.t ʿȝ.t*  
+*[šȝʿ.t] ḫpr m ḥȝ.t*  
+*tmȝ.t*  
+*bs(.t) sy ḏs=s*  
+*Km-ȝ.t=f*  
+*2/3=s m ṯȝy*  
+*1/3=s m ḥmw.t*  
+*nṯr wʿ*  
+*ḫp(r) m snw*  
+*tȝ-ṯnn mw.t-nṯr*  
+*ṯz(.t) tȝ m pr.t [...]*  
+
+*p.t tȝ dwȝ.t *  
+*ẖr wḏ=s*  
+*nḏ.t n ḫnty-wȝr=f*  
+*m-ʿb mȝỉ wr *  
+*m sḫ.t ḫnty Ḫm*  
+*N.t wr.t*  
+  
+^A^ The good god,  
+the great, mysterious one,  
+[who began] creation in the beginning,  
+the primeval mother,  
+who made herself come forth;  
+Kematef:   
+2/3 of her is male,  
+1/3 of her is female;  
+the sole god  
+who transformed into two;[^fn-255-1]  
+Tatenen, mother of god,  
+who bound the earth with [...] seed.  
+  
+Heaven, earth, and Duat,  
+are under her command;  
+the guardian of Khenti-waref (Khnum)  
+along with the Great Lion (Haroeris),  
+in the field within Letopolis:[^fn-255-2]  
+Neith the great.  
+
+</div>
+
+[^fn-255-1]: For the meaning of these numerical epithets, see @klotz-caesar, pp. 173-174. The first creator is Kematef (Atum, Amun, or Neith), who is thus seen as masculine. He then creates twin serpents: the demiurge (Tatenen-Irita, Amun, Khnum, Shu), and a fiery counterpart (Sakhmet, Mut, Menhyt, Tefnut). Thus a single masculine god, who transforms into male and female successors. 
+[^fn-255-2]: These are the two gods of Letopolis in the Delta, who assist in the ritual of trapping birds depicted in *Esna* VI, 531, a scene on the north interior wall immediately opposite the present column. 
+
+<div class="col2">  
+
+^B^ *nṯr nfr*   
+*nb hȝy.ty*  
+*sḫt-šzp=f*  
+*wbȝ nḥp*  
+*qmȝ msḫn.t *  
+*šȝy Rnn.t (ḥr) ỉr(.t) wḏ[=f]*  
+*grg [tȝ] m r'-ʿ.wy=f*  
+*rdỉ zȝ zȝ.t*  
+*n nḥỉ sn*  
+*ỉr mrr bw nb*  
+*m ms.w=sn*  
+*ẖnmw-tȝ-ṯnn wr*  
+  
+^B^ The good god,  
+Lord of the firmaments,[^fn-255-2b]   
+He who weaves his light (Khnum),  
+who opens the potter's wheel,  
+and creates the birth-brick,  
+Shai and Renenet perform [his] command.  
+He who populates [the earth]  
+through his handiwork;  
+who gives a son and daughter,  
+to whomever requests them.  
+Who makes everybody happy  
+by means of their children:[^fn-255-3]  
+Khnum-Tatenen the great.  
+
+</div>
+
+[^fn-255-2b]: @leitz-loeffler, p. 95, n. cc, proposed reading this group as "lord of the potter's wheel (*nb nḥp*)." Yet most sportive writings of *nḥp* include a determinative, and the plural strokes here would make little sense. Instead, this could simply be a common epithet "Ba, lord of the firmaments": *LGG* II, 682b-683a.
+[^fn-255-3]: A close parallel to this phrase occurs in *Esna* II, 16, 1, whence the reading *ỉmȝ* instead of *mr*. For similar phrases see also @klotz-baboons, pp. 38-39, n. c. The plural suffix pronoun (*=sn*) can be explained by the two city signs writing *snw*, "two", just as the sun and moon write "two" above in the symmetric text [Esna 255], A. 

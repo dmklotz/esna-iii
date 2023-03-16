@@ -15,7 +15,7 @@
 
 - Location: Column 14
 - Date: Hadrian
-- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=341){target="_blank"}  
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna003.pdf#page=340){target="_blank"}  
 - Bibliography: @sauneron-5, p. 66; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/1256){target="_blank"} 
 
 <div class="col2">  
